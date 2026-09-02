@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T17:25:29.289606+00:00",
+  "updated_at": "2026-09-02T19:58:15.953337+00:00",
   "signals": [
     {
       "id": "news_SCIENCE_Nonprofitwantstolaunch80000yearmissionto",
@@ -66,6 +66,28 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339079251
+    },
+    {
+      "id": "news_celebrity crypto token_Trumpmemecoingivesgreenlightforcryptoind",
+      "title": "Trump meme coin gives greenlight for crypto industry to return to days of new tokens and NFT bubble - CNBC",
+      "cat": "macro",
+      "heat": 9,
+      "desc": "Actu détectée (celebrity crypto token). figure tier-10 (trump) mentionnée; référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmJlQUYtMy1GajROTHc3bWV6ZjZaVk43ZmhFWGFUaWVXUk5HZVpqT2o4VXFxaXJqWVRwNTVlUEJxc0dqNTBvM0lDN21oR0xYam1OTU1lQVllMGJwWnZCQWtuUWxDdnh0MHB6U3ZvbDF6Q0Nsc1JaX1E2SUtjWmNzcVQwQi1xaXVSd1Z1OUU2cUl4TDh5bmMxdUUxR3o4RFdONERlU21wZmZuOE5S?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379069197
+    },
+    {
+      "id": "news_memecoin launch_Trumpscryptotokenbuyersaredown38billionb",
+      "title": "Trump's crypto token buyers are down $3.8 billion, blockchain data shows - CoinDesk",
+      "cat": "macro",
+      "heat": 9,
+      "desc": "Actu détectée (memecoin launch). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée; référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPalN5dUM4c3hYRm41bG84LVA0VExnSEM2cERsSlJGa0syLV9fS1VfS2xEOFFyaFhkc3VUcHpLaU1wWjhWOXVaeWFMTFVLamFKTng4REdCLVZlTlBWMUxpdHB3QVNJT2tmUDhYMmRMeG9UVHI5MG9Zd2lGS1FKSVBzMXlUS0VPWWFtWnJFSUJPNmxEWGppdFh0d1cwZmNKcEZJS3diUjVXa3RqOFRIYWtyQ0t2ZVBySkxpT3c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379065789
     },
     {
       "id": "news_memecoin launch_CardanoPricePredictionADAPullsBack3asTru",
@@ -209,6 +231,215 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_viral scandal internet_ThisPicOfDonaldTrumpsSituationRoomAtMarA",
+      "title": "This Pic Of Donald Trump's Situation Room At Mar-A-Lago Is Going MASSIVELY Viral - BuzzFeed",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (viral scandal internet). figure tier-10 (trump) mentionnée; mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcVBjYzVRUV85M0l6c19lZFRTRjNuMWVVTXdXUE4zQmZUNHBwOWNNNFRSdlZjbVRXY19jSzQzTGQwb0oycThRcEtjR3lzQzFfQnlfcEdhTGFuc1ZoYTN5SXZZa1NLNjNpa0kwN2lQS1ZPaEJNMWJ1ZlhYRjVjWWhPSm4wdm1RUUI5YTVWeQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379072604
+    },
+    {
+      "id": "news_rug pull crypto_SCATMANRugPullNets125KAfterSpaceXAndStar",
+      "title": "SCATMAN Rug Pull Nets $125K After SpaceX And Starlink X Breach Claim - Yellow.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (rug pull crypto). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00NE1XaDNsS2tMak53UzZ3WUNUdGhJUFJGbElwZWhDdmI3a1o1eHcxZXhtRl83Smlvdlh4amh4WDUxa2lsRHVyVm96Qk04SEJzWTBRYThndFJTZWdFZW9pVmN0d1gyaTA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379071472
+    },
+    {
+      "id": "news_own cryptocurrency launch_InsidetheTrumpfamilysglobalcryptocashmac",
+      "title": "Inside the Trump family’s global crypto cash machine - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWmlSZFg3ZEJ0dUVCQXFaNmotclFOODZ0dnNqM1k3ZGJFVjRnVWpzZXlUQjB4V2laVXR0TFpJLVRmaEJObW44SXlGQWEyWVlGZ3daOGdHbnB1eG1lTjJXM1dFbFpEQnFfcGZVY3pOR0c3ejJGeHFvWS1Jak5TVTY4RTdEXzUxcU0xQXJSUUdmS0p6dVlGUUo5QXpIREtFRm8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379070379
+    },
+    {
+      "id": "news_own cryptocurrency launch_EricTrumpsAmericanBitcoinInsidethenewest",
+      "title": "Eric Trump’s American Bitcoin: Inside the newest arm of the Trump crypto empire - Fortune",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUxRQ3I4c2NacV9rNl9JcFZ5S2RqcEoyaXhfbnJUaENpOUNYOUxlRnU4MU9iMld1dVNTb3hHeXZNNUhKVXdnNzRIN2NwNkxOVDF1RjJLQmZ5bmtibENBMWp1Vk1fUG9yUFFIcEd1T0tRMEFtUG1kbEpFR0JfV2xuWWdIaUVMTDJVR2I0UlRrWF90ODAzNVBmMXQteEx1ZDAyMlE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379070379
+    },
+    {
+      "id": "news_HEALTH_TrumpsnewCDCdirectorordereddelayincounti",
+      "title": "Trump’s new CDC director ordered delay in counting 2 measles-related deaths - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Bc1VOTkNXa2kyMHFzTFVWVzRwenNoN01HQjJVYktKclNqTzNHclNOYzdZaFZGY0w0RnZ4VlF3MlhKUFdwMFVhQmtCN29EbF9URVk3S0FpMUxQNThhaFpIX2hMOUJrSEk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379064656
+    },
+    {
+      "id": "news_SPORTS_Fantasyfootballrankings2026Topsleepersbu",
+      "title": "Fantasy football rankings 2026: Top sleepers, busts, breakouts by model that called Daniel Jones' big year - CBS Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWFo4ZldILUVBYlRrRWx2b3lhR1Yta2dULVJrUTF4akw2ZzVrY3JycXpDQlpLQ2VqdWNXZDh5MGNud1NpeDFkeldBV2Zqb3VBVGVJUUViNUZKMjhQQnJ2WmV5cldUTEdZZWVldWJCazlSS3Z6ODNvOFFMYWcyS0JsLWt6YWh0MDhPUnZsSFozeDc2bXE2cWNrbXdmMktyUmFiTzRacW1hMFRMWExXOEU1Y0dzanMtbkk4UENqUmN6V3hsZWtHUldrRFNqVjFqUTY2RDhrVWJ3dk9VSGRGX2lOMW9lWHgxZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379063077
+    },
+    {
+      "id": "news_ENTERTAINMENT_ElonMuskUnmaskedinAlexGibneyDocumentaryI",
+      "title": "Elon Musk Unmasked in Alex Gibney Documentary: “Insane a Person This Chaotic Has So Much Power” - The Hollywood Reporter",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeHRhS3o0S19qbzlReDlmTlBXc3hWSHdiVEYtd3JpZDNZVlh6emdpQ2ZTbHNRU1liLUhjeXJGTUpISzMwemp1VlVJaWNObUx5eG13MDBabWVmQUZOUklKWm5oVnplVGxOTVA2NG5wMFFOWWMzek9ubzRxUTFlZS1zVGNqUlFMZnBpTlRqY1NSTnpXdHVSaU0zVzNGeGpSd19DeFpJ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379062184
+    },
+    {
+      "id": "news_ENTERTAINMENT_TrumpturnsuppressureonCongressforHollywo",
+      "title": "Trump turns up pressure on Congress for Hollywood tax credit - politico.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGVCWGVuUTAwWFV0a3RNamliLVlGXzhZV0Q5Sm11c0xDMVAxOER2OU5LZHpjTFN1eFhnMWJOYXhKaFkzX3FCMXV3UjZUeWl4bW9Rd2NzLXFINE43Um40MnFKajlNNXE5cXp3a2QySGM0Y2xYZlJKbjJCRVBwMjBwbUlteWJvd1B1ZUZKbVVR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379062184
+    },
+    {
+      "id": "news_TECHNOLOGY_AceCombat8revealsliveserviceonlinemultip",
+      "title": "Ace Combat 8 reveals live service online multiplayer modes that include PvE, PvP, PvPvE battles, and a hangout space - Eurogamer.net",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16eWZNVVdmZ2xQbFIwUlJaNjQ3c1dCZWFfR3VBdjZvQUtHSS1YZDFMQi1VUm1JeTY4bjJHX0loeGg5VXl2VUx0dHN0U1JWQ1ZhTFVzRUpXY2NwSzYwQXpqZjVIaV85d1I4X3FOUU93N2ZFX09JeUtPSGhWS0tKdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379061385
+    },
+    {
+      "id": "news_BUSINESS_FordsproductionofhighlyprofitableSuperDu",
+      "title": "Ford's production of highly profitable Super Duty trucks hits 20-year high as it recovers from supplier fires - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNS2k5UWJJU0cyaS1CSWljYng5S1ZuWlFEN29YTWZJeDRBWThSckdxNl9sRFZ0N2x6WTBmQzJuUC13UFBROE5zSlU0UzU0eEwteWdNWFQzRk51LTRudjM5TXBGRVAwMTVQZ2t0Skd0N195QdIBd0FVX3lxTE5fLUtLbFIxX2lVLVVNR29fRnpzLXhsbkducGFQeWNnaUFwX21lWk1UNEtKajRCbkNmMEZqd2x1eHVnYUtpYlNCbnVpUUZwWlBIMTJ6WU90a2ZQTnJhOHRldmNUVEwyeXI1elRDeGxZRjRXbHZvTGRJ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379060594
+    },
+    {
+      "id": "news_BUSINESS_OpenAIdelayeditsnewmodelsdevelopmentafte",
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack - The Verge",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée; figure/entité tier-8 (openai) mentionnée; mots-clés viraux: hack.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbEpkTGpqUE9xaGJkdFdpbk9hdXlfbm1XelZseDlnOThuQkpLbTY4X2ZXckNaLWIzMHY0UDhEVXM3V3p5ZzAzMEo3ZkxxSko0TUZzX252VEJjTUMyUFl4emF2bjVxMEQ5bGJYX0FwSFYyZzlmZGRtdFBRa1loWExqbkJFbG5xb2JKTEVwYVV4ZzhKOUdjM0huajdRNEZSSU12THhIdzR2NlZoT3FI?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379060594
+    },
+    {
+      "id": "news_NATION_TylerRobinsondefenseattorneyshouldbeemba",
+      "title": "Tyler Robinson defense attorney should be ‘embarrassed’ for attacking Charlie Kirk as full of hate: lawyer - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3czZzNyanB4YjNTOEh2OWRpSnJybFY1WlpxeXFLRFhEa091Q01oX00xc2QyMHpaOEJqdUFmRHhoQy1WdlY5Y1FTa080dDJXWlhtZUZyVnI2NXRUMjlzR3Q4TlozSmEwdzlZS0hhblpaZFVaZDdRM1gtN3oyek9jTHNiNGx6dmFvRUNlZWhTcko4UHdLdmlGejB5dmZGU1VRS2lhcVYxSTZoOEZOQV9j0gG0AUFVX3lxTE5OclhWcVNGT2U3VmhmazQ4ZllQb25PemZOd2FrY0tCMExiTzd1aHV5dmhWZ1VINVM5ejVncHhtRXQ3ZW40UDdvUndDRkNodEIzREUteExtbnRBdDZITHZQYWd4eHFKX2FlZUhYbGdGNzdmaU5hUm9oUEo0cDZfekItZ05ELWwxVkM2Z2ZxYTgwWkdkS3hVV2pVcm4wbVlEX0VGaHNzNmJkWHdsVlF0Z2U0VGJ2LQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379059790
+    },
+    {
+      "id": "news_NATION_USMintputsgolden1coinwithTrumpsimageinto",
+      "title": "U.S. Mint puts golden $1 coin with Trump’s image into circulation - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0JFSEE5QW52SUpCWmJNT1l2aThPeDgzeUZ1cWlDOW0weVhSZVdpNTcyLTBnaFB0LVpzU0xPckgtak1aREI2bm1lcFI2M0pxc251OU5fcTdtYjM4RDNzTldMWHJLeXJtbEl6YktRMk1QRDcydnlqczlIVzJxV3ppbVg2c1QtMHVqeTVtaEM2SDQxN21LVjdsLTB5V3FPYkc5SWVyUmF3OFVNOWczOGxhb3FJZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379059790
+    },
+    {
+      "id": "news_NATION_ShouldTrumpbuildaWhiteHouseballroomAmeri",
+      "title": "Should Trump build a White House ballroom? Americans weigh in - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc3p0R0VMYk5RdUNWLWEtQ0F2YVg1eFd6aFJwMUcxRC10ZzJaOURkRXV3Qi1TT1F6dlFYNnRmQWRoSUVFSmlCSnlHTW1kMHQ3SUxzWDVQTzF6MXFYeWpsVW1ZN1JnYTRSWmhpNU9kQ09PMS1pTy1aNkZoWUVLTDVteWZiSnBnd0lfbnZyOHF2cWZNZ9IBlwFBVV95cUxOSVdkaTVLMW9VSmpkSm5XZ0d4Snc3Z3hJTDBtbXcwMUVHdjlJeHNPbXA5X2VrZXB0SE5nYlNMb1VLQWdYMkJpSUc1UUV2TUxVbWcyUFU5VGczd3ZWQW5VRFpmUDhwUGFabVVheXJFUEFrb25hUlAtS1B1cDNYSlhKdW9sRklTYlF6d3ItZjAtdHVGZ1lXeHcw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379059790
+    },
+    {
+      "id": "news_NATION_WhistleblowerslawyerwarnsUSPSplanforTrum",
+      "title": "Whistleblower's lawyer warns USPS plan for Trump's order could keep ballots from voters - NPR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVVE3WnJuZUhqMjlJMEhOVDhlcmVROUJ1dHBsVWNNZDVyNlhmSnpjMnY5R3FndEUyaWI5Y1BST1NkMFpRWHB3Vkd4UFRyMXMyVmdyOE1aYWJWem8tYUN1eXN4cW9Rb19XYnlJUUJmQkFxVkJuMUFoTnpIcTdwbUtldU5Qb2FfUVY1NU5DUEZTSDkzRFlEVWxj?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379059790
+    },
+    {
+      "id": "news_NATION_Investigatorsfind23yearoldwantedinshooti",
+      "title": "Investigators find 23-year-old wanted in shooting death of Georgia police officer - ABC News - Breaking News, Latest News and Videos",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ1VMMlhOdUloQjhCbkQtb29aSW56VG5UVWVRWkxwaFBwNkF1Tm9SenEtQ2xtWENteFV0TnAtdVZ3Q0dpN1I4NWktSlplUjdqTXJRc3V0NmZUR1Q0YmJfNmtzTklSTzk0SFY2Wk1uNXNBLVVwU01Eb1BCQlhTYzFaZVRUZnc5TTdnZF9zb3VabTBRY0pScUdSZTNB0gGfAUFVX3lxTE9GU1ZVNjUtb2JDenE1aHJNbWJ5Yy1EX1JwRjJkaUNHU09ya1F1M3MweC11T3ZFWVJFUm4yNVByUl83dTIxclphWFFRX095b3pJU3U2U0xIQnUybFd4TnkzdE5iRENEdzk5T2Z4cWxlcHhCcGxQYjI3WDdhTEtEd2dESnNHUXpDVnk0VWNROGo2RndYN0pscmd4SmZVNjcwVQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379059790
+    },
+    {
+      "id": "news_WORLD_KingCharlesMacronandBurnhamtogetpreviewo",
+      "title": "King Charles, Macron and Burnham to get preview of Bayeux Tapestry at British Museum - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fb0ZzYWNnLWtCSVYyaGpZaTBQTXZjY2JmcUI1S0dMbEpjT1RJQmtjNlV5blducUNWNXAzX0pSQzNYS3pNUmdpTWdzcTBWVkhkWXdUOWtQcUYwZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379058805
+    },
+    {
+      "id": "news_WORLD_TrumpsGreenlandthreatfailstoprovedecisiv",
+      "title": "Trump’s Greenland threat fails to prove decisive in Iceland EU vote - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNFo0Qmh6bm1nZUNTdmxFMEpzaUd3d241S2ViRlFjU3ZYM0t1cGVNMGplU091SDZ4V3poZDhPd2Rqa2ZzOTk3MGw4TEhGQ25FNW5rVXV5dmFoVG1pMWVqZHhqUmlYMkFtZmN3OHV0M3MyNDdweWd2ejRJYllHY0tSVDdWZHpONEtoRG53ak9naDlqcjZBMkU2QVdR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379058805
+    },
+    {
+      "id": "news_WORLD_SyriaeyeingroleasMiddleEasthuboffersopti",
+      "title": "Syria, eyeing role as Middle East hub, offers options to bypass Hormuz - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQnlCQW0tQmpoYzJ0OUYyekVCUklNQUZmZzdtUndZSFlmVVpHUHEyRDhHdUl1WlBsNFd4VldlQXl3cER4VmNFeW5RUUY0cy1NUHQ3TEdDNGppdnlGLVJITkxHRENjWVQ2bXhnYnlDRDBJMEV2RXl3T0dZdUQ5RjQtdklpZV9IZnQ5OUZPREZMdWRkdFF4N0dibWRLQ29pbXJiVUpVVE85SklIeVVqZFhuUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379058805
     },
     {
       "id": "news_billionaire announcement_TrumpsBigAIAnnouncementCollapsedUnderPre",
@@ -1300,6 +1531,39 @@
       "ts": 1788339077026
     },
     {
+      "id": "news_gaming leak_RockstarGamespullsbackthecurtainonGrandT",
+      "title": "Rockstar Games pulls back the curtain on ‘Grand Theft Auto VI’ after leak - NBC News",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (gaming leak). figure/entité tier-8 (rockstar games) mentionnée; mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZmR0QmYzM2JvWFlNMjZnZGpET2dPeXl3eG4tYTRjdk9BYXF6RDJmR2NIMWs5aGhnSVQxUzNYeUJqQ1RfUmU4c3hJWUFGekdoNGFoNEFMMlY5MGxPZ3gwRmpiS1RoVDlhbUtTNC02YTV1aXRidGJNNC1LVjJPMVBCdDJZQU8yUXpKaDRLdmdNT2psVkdrZlplNXJQZFdsRDd6LXlOcllNZC1scWxXcVhBdzh5MGRscDBQYmxnck9jN3RobUFtd0ZaZFVpZzNSTlE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379081616
+    },
+    {
+      "id": "news_gaming leak_ANintendoDirectCouldHappenonSeptember10W",
+      "title": "A Nintendo Direct Could Happen on September 10 With Zelda: Ocarina of Time Remake - VICE",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (gaming leak). figure/entité tier-8 (nintendo) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcUR4RHdKSHJFa0R3WFFIQ2NnQmZHLThuNU55TFJpa05iOUhab0EwMWhWMktsYUMwVHdHR0syYldYSkViZG5jUE9ZbFljVXRjMkRuUHphd2R6OXVYV01FbGhaWTliM0lWX1ppeG5SbWNKYTJtWF93YzJBZkhnYlZvRXVmMy1DSFBaTXprcTVOU0VHUmJx?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379081616
+    },
+    {
+      "id": "news_ENTERTAINMENT_MeetTaylorSwiftandTravisKelcesnewdogShes",
+      "title": "Meet Taylor Swift and Travis Kelce's new dog. She's already a model. - Yahoo",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (ENTERTAINMENT). figure/entité tier-8 (taylor swift) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRV9aZkZJRmJsUDh1dExLSFI0SVVtNnRraWdRQlBFOEtvRmxHOWFmbXpRV0dUNGhNVmV3NkY0aGZ5QWQzYXFaNWxMdllncFBtczh1bHR1a05OclVkVFFHNGVpekRhQTZRLThidXpibEltX1pIYW0yY2RiODZPQzRiSWl6QWV2MzdFN2I3Y2hLWThfdF9OcEZRLWs4VlBpR3dFV0FWdlppUG82M1pfcUxPWUU4Z2p4THJTNmxWdTN5N1RXYzBiVDFTY09zemo1QQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379062184
+    },
+    {
       "id": "news_celebrity crypto token_FromKimKardashiantoNigelFarage5celebriti",
       "title": "From Kim Kardashian to Nigel Farage – 5 celebrities who have promoted crypto - Yahoo Finance UK",
       "cat": "macro",
@@ -1551,6 +1815,28 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339078528
+    },
+    {
+      "id": "news_gaming leak_Thesearethe32suitsfromMarvelsWolverinele",
+      "title": "These are the 32 suits from Marvel's Wolverine, leaked ahead of launch - Notebookcheck",
+      "cat": "macro",
+      "heat": 6,
+      "desc": "Actu détectée (gaming leak). mots-clés viraux: leak, leaked.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZnFQS3JnT1E2b1phTXJjSzYxTm5MM2Joaks1Nnl1bW15Yk1xYW94YmUydUYzNjFPaXM2Wm1oSS1PNXh2Q1FHWVg0V1R0X0tnelU1aVJiTUtmSnBDTjdkazNHeWNqQk43ek5FNV9Od21TY2pBc1lDWGZIc2tuLUlMZjUxbThwM0l3LXVnTFdYNzVWRVB1NDk1UDd6SnJ3V0hMSUk2cW9CTGFuUDNUdnhZTUYtV1c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379081615
+    },
+    {
+      "id": "news_memecoin launch_SolanamemecoinplatformCatapultTraderaise",
+      "title": "Solana memecoin platform Catapult Trade raises $6.6M to fund leveraged trading and token launch - Cryptonews.net",
+      "cat": "macro",
+      "heat": 6,
+      "desc": "Actu détectée (memecoin launch). mots-clés viraux: rage; référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lOEVqTkdrVHljRkE1WHFFNTFBbVZMWmxZWWZEX0xIUzZodnk4WFBsRmdXZ1hiQ1dDSlRRRUd6cWVOMnJxRmt0TGZpbWp5QjA2TjJ5Y1ZHUW0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379065789
     },
     {
       "id": "news_gaming leak_12TBofSteamFilesLeakasaDecadesWorthofFir",
@@ -2123,6 +2409,171 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_gaming leak_NewDetailsLeakAboutAll5FableDifficultyLe",
+      "title": "New Details Leak About All 5 Fable Difficulty Levels - VICE",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (gaming leak). mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEJKSkJmcEZGaGxTQlJDaldNY3AyaGR0RFJoUVBja3dwQkF5UmlmWmhoejd0eGVrM3NpU24yRXBCcGEtRGhEOFNKbGcyMVZNUU9vZmZ0QmNhYmNLY3lzNzVfVWVYYXlSNTNFU0QtYkdTdk9iU2lPX3N6akl5Yng4dTBDSHc3b2J3TUFOT3VR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379081616
+    },
+    {
+      "id": "news_gaming leak_ABunchOfOldGTA6LeaksTurnedOutToBeTrueKot",
+      "title": "A Bunch Of Old GTA 6 Leaks Turned Out To Be True - Kotaku",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (gaming leak). mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObDAybmN0LWRuNmRZaFFtQXN1SUd5em5RN3hLYkthNGdfMHo0eVRJRWVaN3h2ZzgycWlzbHVYWjVodWRfekk1WWJiMDV6SHFsMC1zSkhyRk15RWg1elVFem15OFlHWEFyUzZGTllIV0JpSHQ3eXFoVEg0c2M1RHNCaTY3eU8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379081615
+    },
+    {
+      "id": "news_election crypto_Faragewarnedhecouldfacestifferpenaltyaft",
+      "title": "Farage warned he could face ‘stiffer penalty’ after attack on £5m donation inquiry - independent.co.uk",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (election crypto). mots-clés viraux: rage.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0NVZjF2QUJ4Q0pxR0dYa05rWUJxNEVaUFBpb18ycVhJekdGNDZaM09NZmxBTDBaUUlLUlFkQXFra2x0bTZoZlp0ZnNLNWlMZl9PMS0yZEpkZS0ycUE4N1c4aTMzZ2J6U01GUk51S3NYWEhiX2M5THRaeFZjVnlhZnVCUXJqNDBxb25qaDVOY1N1eFR6aTNWaDFDX0tSUGd1X3d3VmJGTkhVV2xHeENobHJ6dDFJMDg1?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379075954
+    },
+    {
+      "id": "news_viral scandal internet_ColdplaygateIsaReminderThatTheresNoEscap",
+      "title": "Coldplaygate Is a Reminder That There’s No Escaping Going Viral - The New Yorker",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (viral scandal internet). mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVQ0RkExMjJLWGJkRW1xUmd2Q3l4X29nVWdWVk95bFBRNXhnUnJPMjZ3U3pqNFo4eWpmejJMLTc1SC1vejBpLXNEaWNCOUQ1ckEtYnpUXzU1RE1tS0tOamN0VFBjTEx4NXFYS1g0NnE3MkQ5dFE1S19SMzU5Z2RiZUpvalJEandlMUhlUDdYQ29QRFA4dmthZWpKOXozajFtbGZZR0Z6cjFzNWpmOHlnYk1R?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379072604
+    },
+    {
+      "id": "news_leaked footage internet_GTA6LeaksByCyberLeekLoseTheirAuraAfterBe",
+      "title": "GTA 6 Leaks By CyberLeek Lose Their Aura After Being Dubbed 'Nothing Burger'? - Esquire India",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYjByUElFamtuZXZoVzdJVlpjQng1bzQzYTBpNVUtaG9rRzVEUjJhMWZEVkg2dkJVcHFOLWdoTmF5Q0tWR2FRY0dhRnF2MEljSEdVUkZ6WGlaTlpBcUpMYmptMndfTnBkNWJRR19LSWl0RExMNUctQjFzaVlVbXVWcUNqekd2RUh6UWRiZlNISFgxTnh6SUVtZWljTkRjN0F5MnBIUlExVDJaeXdxc2JXYkRISXIxQUdQYnBrM1h4ZWNJNVFYY2JkZDRKX2UyTkl0VWFmcGZKMU9GTDN6bk45cHRtS0rSAfIBQVVfeXFMTnc1VUxJR3YtdmVVaVVIbGFPdE5OaG1uc2dNenlZUEY0OEdkQVI1ZGxZeU52b0NiZVp6YmpWdTBQNHBjUDJmbkwxSkI4RkxXdVlyeUVEaUIzcFVnd0JNNVRwUUZaR2Z2dERSZE5IMEMxbXFpR21xUWlVN2hKN0pfZHZSNlpKeVo4dVhUWGtJZW85Q1l5OEFvMWZMcEpad2NTRVZWMVF6a0h1VmFIb2ZCM1ZydktocEZONEFDVldQQUFDdmRVWW5SMGMzdm1BdzVQeEVKa3d6ci1OZEhibUdEc1NqNWJhUzFfMWRLcXJvUklHQ2c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379068102
+    },
+    {
+      "id": "news_leaked footage internet_InternetExplodesAfterMassiveAvengersDoom",
+      "title": "Internet Explodes After Massive ‘Avengers: Doomsday’ Footage Leaks Online - IMDb",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54dFdwT1lYYW9NbVBlQzhWaVgzLXh3bDhZNzFud1ZpWVpCN083bEZ2STFZRjk2dTBJN0thLXJFSlB3bVVmNXd0dXRkb3VYdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379068102
+    },
+    {
+      "id": "news_leaked footage internet_GTA6Leaks2026GameplayRevealedInVideoClip",
+      "title": "GTA 6 Leaks 2026: Gameplay Revealed In Video Clip As Extended Look Date On Netflix Looms Large? Fact Or Fiction? - Esquire India",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPd3F6NGhXLW1lelhFQkNXRkJRU3RFRXRzYjE0c2VlNVhDVnNTYzlHbVZTaTZGNGRfalRydkFleWtzZm5PdmFySHZmelJrY195TERjUFo2YmZINVMxSUFNSUt0NHlBZzNSVjRUN3FHb3k0eFBhSTZYRnJhRnU3akp1UlNnbUVMRW9fSFlkR1VnNHZneUVtN3JDaXRrT1ZCYi10ZWtHYjZreU1UM3pKR09nc3N1OUdDTzlLNkNiMGI2WE9mUWJLcldMMVFHaElGX1g2UDRnUHh6bjJWdTk4ZnNxOGZ3UkVBTTdIUnVmYlRwcW9lSUXSAYACQVVfeXFMTnZvZVI5d2luTUh6QUNSaFlIR3BZQVR2NVBfUmwwMXdZaWRVb0didnMwX3E5SHJUUkt6ZVRNbkl2bnd2UHJQa1lvZ2hHRm1OUW5lbXBFeVE4NDk3TTk4bnBBYU5UQ0N6UXhlYWNFd1B3QURKUFAxQ1JfYVdkcGZ3U1NaQ0pFV3VpdE9Dd3hYenRuXzE1ZkJCUFpLckpPWVliMlhyODlkQXJRcjBYVU1QVk44R1lyTmhxRmJHSHY5RG9IcWZUX2N3ZEM1S1JkdXdXc21rTUVhdG9NT2tINkNPaHQxek10VHJmU3c1TG9LeFdzV0JlMEZsbVRCM05NYkVVTw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379068102
+    },
+    {
+      "id": "news_leaked footage internet_GTA6LeaksContinueAsNewFootageTeasesStory",
+      "title": "GTA 6 Leaks Continue As New Footage Teases Story Spoilers - TwistedVoxel",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrRkhmU3FYRlgxS1RTSktTNHZtcklUQm1UQjhMbzJ5d05VOHllUFhDelo2c0hSQmYwaUlLamZGM1NodEVlTGhsUEZ0LTZSQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379068102
+    },
+    {
+      "id": "news_crypto coin viral_WhatisaMemeCoinUnderstandingviralcryptor",
+      "title": "What is a Meme Coin? Understanding viral crypto - revolut.com",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (crypto coin viral). mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUbFdHT1M3LXpuaGxBbmhBUTZKTEtORFBfQkpTU0FUOGNGVERQMVNkSXhHZzRsMnhkODNPX1JzRXduWUdJa3NxOGV1ci03SFgtZWM2UUhudUk4U1d6d211Snh1WQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379066949
+    },
+    {
+      "id": "news_crypto coin viral_Bitcointo1Mby20274AIModelsStressTestVira",
+      "title": "Bitcoin to $1M by 2027? 4 AI Models Stress-Test Viral Forecasts — The Results May Surprise You - Yahoo Finance",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (crypto coin viral). mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXRIcndLeENxdl9ydEo4Q2dMZnJxZ2tSRHlXeWY2R014cTQwNmp0QXV1SUY1cVNNQXRMRXA5RjYwOGYyTG4wa254SEsxd2gzMDk0dUppOXNPS0lheTlBSEtSMWl2Y1RBdlMwRnYxRjVhNTFHeGNSalhXMWp5X2pxellGUXVjX0VHeFM0VmpB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379066949
+    },
+    {
+      "id": "news_HEALTH_Thebiggesthealthyagingblindspotsanddocto",
+      "title": "The biggest healthy aging ‘blind spots’ — and doctors’ favorite biohacking tools for longevity - New York Post",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (HEALTH). mots-clés viraux: hack.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUnpUU3VxZjBiQV90dnR5Q2hMT19HZ1U1TjlGVnRXc3JoV0pxM25BdnFtMi1qQnVseExVSkRmX05lbFlKSVRuV05mZWNpMnNkaUl3SUhGdTd4VVVvWmFFU2pZNmRVcUdzdDkxTWUxMFRaSDRxUXhlTEJ0dGd1OWdVcFAzcmRwN2RJRlRIc0lrejBaWHBrYy1wQnhKcnU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379064656
+    },
+    {
+      "id": "news_ENTERTAINMENT_TheTragedyofPerezHiltonTheHollywoodRepor",
+      "title": "The Tragedy of Perez Hilton - The Hollywood Reporter",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (ENTERTAINMENT). mots-clés viraux: rage.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXBZc3VVckxWaEJ5c3JVdnA5WHd3MFVEeERTY19MLUJ4SzNVcXRKWndGbVBzaFdVUmVXeUhEZXBHS3l3SG0yVW1VbHV1a0lEWDRkSURXeU1UTWhVX01xcEJobEt0cHdENE15WGFHeWVuVUkxQWwzZVdUaVAtd1d6aG1fVW9ZWjlScEZEUjF1YjZvSXFmT3NXcEE5Q0ZPVEx3SEp0ZExuZ2VleS04dHJXcldZRkJEZU5yb2JjRGlrYw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379062184
+    },
+    {
+      "id": "news_ENTERTAINMENT_ABQuintanillaConfirmsLawsuitAgainstSiste",
+      "title": "A.B. Quintanilla Confirms Lawsuit Against Sister Suzette as Reported $48 Million Selena Estate Dispute Rocks Quintanilla Family - Tejano Nation",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (ENTERTAINMENT). mots-clés viraux: lawsuit.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWlpscWpQSWl5VU5pUnlVVmxOLXVoTkNnZ0RoQWxkOW53NmNQaTR3QXRSVlRERmRSRWJ2MHR2bmxud29iMGE2a0h1RXM1UjJOSVo0bE1jZzBCSzhoVkJINllCWWRnSXNfS3JaaTQ3OU15SXNmMVhOSTNfRklkX0s0SkdUaXVzbGpwdVVMRnRpZzhfdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379062184
+    },
+    {
+      "id": "news_ENTERTAINMENT_JasonIsbellLeadsNewClassActionLawsuitAga",
+      "title": "Jason Isbell Leads New Class Action Lawsuit Against Suno AI - savingcountrymusic.com",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (ENTERTAINMENT). mots-clés viraux: lawsuit.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWlVIT0QwUmNXMGVuUlo1VEVielM5aENuX0lRc2dlT3ZiN2lyRmlKYm1sU0ZNeW1OSjY4LTRoQktIanJFZFJvdXhSWmJNZkNadDAzNnZxM3NST0JGQm1zaEh0SzZyRU8wVjNCRGc4MG5rMzlnaEZEZDRHWFQyTzNqX3VkdTRIR1FvNDdoODdJNWV2d0pNYXc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379062184
+    },
+    {
+      "id": "news_WORLD_GlobalwarmingwillexceedlimitUNsaysinarep",
+      "title": "Global warming will exceed limit, UN says in a report that maps path to get back below danger zone - ABC News - Breaking News, Latest News and Videos",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (WORLD). mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0w3OXhtSUEwZWl4REd5OEo2V0J2c0RJSEEtVmNnRTljSWR5Nk16Ymw4QkZnZHJNd3hSbFcyMUdpME1DRVBTeDRianpGOFc5TXR2dWNMeHE1YzJIMVFYNE5EN0ROVjZ2RlhQYzNBUGUtVm1vZ1c0MkMzY1gxU2c3dkVfVTlqc294TGZYVnhFMDUtdjg1ZEJWTE96eEJvU1HSAaQBQVVfeXFMT0RfZmhQV0I2dl91Wk90QTFLT05Zemh3U1JPSl9Ed1YwSXdTM2g4MmI4NTVMM0hFd3R4aDc5WDFleVhoemtlSllpdlU0VmVkZlVtRF9YNjZlcXVFdXNPeHY0QmIzWVFaRHN4WjdUcktSNG5VUmVsbEtfRnpmLUY3MGF2N19DU0hsa21uZEtSZmRRQjlSVjhNOC1hQ1ZPTTlQZjRvSko?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379058804
     },
     {
       "id": "news_gaming leak_NewLEGOLeakTeasesAnotherRetroConsoleBuil",
@@ -3520,6 +3971,39 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339077026
+    },
+    {
+      "id": "news_celebrity crypto token_Solanascelebritytokentrendgainsmomentuma",
+      "title": "Solana's celebrity token trend gains momentum as new coins hit $13M and $8M market caps - Crypto Briefing",
+      "cat": "macro",
+      "heat": 3,
+      "desc": "Actu détectée (celebrity crypto token). référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04Y0EycjNreEV1NEZ0TUN0ZGp0Y0VidmVIS1E3NS1ZR2dUNEtrX3lnSkZWc3R4WVhLQXI2UVM1YlBScWNIaWpqS09XLV9sMTRLazlrTWJIdi1qbk1tYmJjX1pwRE1RSy1SdXU4TEJxcnVCQnVE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379069196
+    },
+    {
+      "id": "news_memecoin launch_WhyDoesaBNBChainMemecoinNeedWalletLimits",
+      "title": "Why Does a BNB Chain Memecoin Need Wallet Limits and Anti-Bot Protection? - Cryptonews.net",
+      "cat": "macro",
+      "heat": 3,
+      "desc": "Actu détectée (memecoin launch). référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83dU9mLUtwYWxLNXNqeUNKNE9STWE3RG9NeHZZaW9Rd01BOUZkRnRvYzZadllIUGFfYW9DRHZhSjVKRXVCamkwRFpDUzN3TDEyY3B4UGlDZDBhQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379065789
+    },
+    {
+      "id": "news_memecoin launch_PumpfunvsNoxafiWhichMemecoinLaunchpadIsB",
+      "title": "Pump.fun vs Noxa.fi: Which Memecoin Launchpad Is Better for Creators in 2026? - Bitcoin Foundation",
+      "cat": "macro",
+      "heat": 3,
+      "desc": "Actu détectée (memecoin launch). référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcm9JZTZLVkJ2cC1uaFFxQl9EQ1JFNlJYdC1BLWdxRWhxbU0wa1RFX2d6R25lb2pqNk9FWFN4N0w5UEFvN1ZveVNNOVRRM2NiV0RmLW1qNXZIakgzYmNGRnRLejBNQUQ3emVwWFQ0ZkJZRVNxUFV6SU41WXRDcGprQVMxOUtkTEtXbXkwTXJoS0hzclNyOGFwZ1hxYTRwcG9hb1hxTHlWSTZ4MTNvemlSRldn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788379065789
     },
     {
       "id": "news_memecoin launch_MemeToroShipsEndtoEndAIMemecoinPipelinea",

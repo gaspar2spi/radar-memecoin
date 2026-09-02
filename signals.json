@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-02T13:44:48.535573+00:00",
+  "updated_at": "2026-09-02T17:25:29.289606+00:00",
   "signals": [
+    {
+      "id": "news_SCIENCE_Nonprofitwantstolaunch80000yearmissionto",
+      "title": "Nonprofit wants to launch 80,000-year mission to Alpha Centauri in 2029 (video) - Space",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHljeFpQVjVHUm51SVdIMHJQWDdTOXJvSlQzTWMwM3pIWGI0RWZQUWtITm5DYjZFUFJIaGZJVzBoTkF2Z0NPOVlXU1dWeGdrNUJrSmNKMWF5ZFNBbHFxbm9kdmNFUVFFOEVXbHY1ck8ya3hnclRmRF9GSk1BcmdleUVaZzAtRG5wVTZlZHJJRGVrTDZUcEZnV0pyOXA5elRKWEZ2aTZpNFBRV1VxM2tzNEYwR25ValFx?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369897265
+    },
     {
       "id": "news_own cryptocurrency launch_TrumpFamilysCryptoBusinessGetsSignofftoL",
       "title": "Trump Family’s Crypto Business Gets Signoff to Launch Its Own Bank - People.com",
@@ -55,6 +66,17 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339079251
+    },
+    {
+      "id": "news_memecoin launch_CardanoPricePredictionADAPullsBack3asTru",
+      "title": "Cardano Price Prediction: ADA Pulls Back 3% as Trump Memecoin Rumor Gets Debunked - CryptoRank",
+      "cat": "macro",
+      "heat": 9,
+      "desc": "Actu détectée (memecoin launch). figure tier-10 (trump) mentionnée; référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnVBVldMQ1NEWHNsbGc0dEktbDBkaS1pblNZelFvRTdkMlpVWnlXSG9pMGlRU1Z0WjBQdGN0NVFfbjNBLVU3REY1RXFvWnVxQkk0enJTbWltMjJjTEM4Vm05cXlwMDhYbTNULURkSm51RVFwOFFZZUdILXRKcDdySlU4SWl4SUs0Nl9QSGk2SzREWUxEREdxZjJCMmpWc25EcWhPLTgwbEFRTEhvTzJvZnRnaWxDT1BF?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369899405
     },
     {
       "id": "news_rug pull crypto_TrumpThemedMemecoinGOLDRugPullScammersDu",
@@ -187,6 +209,204 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_TrumpsBigAIAnnouncementCollapsedUnderPre",
+      "title": "Trump’s Big AI Announcement Collapsed Under Pressure From These Billionaires - Forbes",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV2lsdjhnalktS3doNzhKbFhzZzNQVkNQakx2dmtoc2pYTWVaZVVtYW1NQ0hCSjNhakUzLS1lYWRiaGIyVlk4ZVdLTGJCUWM2MXFwVmdWbGo4cEkxcTlteFpNUm5MT1loQ1VWamRjVjIwZWViWnBIMlpDVldFem5DNFYzZ3RJeUVPQTdDSk5wc2ZNV3dmdUZ6QngwM0VQeTZvRkxwZThBOXNxWHBIRDJ6N0wwQVpNYVMydGZVU1JFSkV5amRwTndPSGNybFZVdGdOaEpN?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369914344
+    },
+    {
+      "id": "news_billionaire announcement_TrumpsArgentinabailoutenrichesonewellcon",
+      "title": "Trump’s Argentina bailout enriches one well-connected billionaire - Popular Information | Judd Legum",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5heDlXTDVVR0t1WHhDcWNaMEJHM203bGFsQ0JjZVdsTUZmbkszR3ZqV3BFam1FUDdwcWtmSXl6SjNtZUNlZnFVWXJRWjNuUlZneGpjNHZQMENaU0lTaFFOdVhQaGM5eFk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369914344
+    },
+    {
+      "id": "news_HEALTH_BigchangeforthisyearsflushotWhenisthebes",
+      "title": "Big change for this year’s flu shot: When is the best time to get vaccinated? - PennLive.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVExhc280cmpISmpteDRndEdrOGxGdDllOWRHV0diMGN5ZHNSMmhnRUpCZjVkSGcwZ09CazZGeWFmeHhsQmhkcEktTFViNlVYR05LZjR1Tl91czBxQW4wQ21ZelpReG8xbnhnVmd1QmpSbmF6b1F5SEtmeDVqcG90VWxwZzhGRTFadmMxZ0VVN2hKUHV6UTZCNFdvcEtzZVJiS0pmR2taYUNocVpYb0hHemhjbDQ5MkRh0gHMAUFVX3lxTE9UUkZiTEVISlFoQnJTdFRRRFlDQmVoVkV4U2NXZHBobmZOM3ZGWUZ5MTJvc29IZXA0WjhNck1HSklOX1k2czJwSkFkZ2hDYVMwV3dkNzloekhZbzZGajZhbHkyUHg1c2JPZWFzdkF6WnZlY1VBWVRBanM3eGpDZXlfeEd1VlltOVRCZWFpX01zVE10SVRpQVVOZnE3dGwwY1NUM3BwMzNvLWtMeTNLbWpXczNLNEZFbWdDSnFtSUJuUV9KMGcxQ0FDSlRWVg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369898208
+    },
+    {
+      "id": "news_HEALTH_COVIDHotspotsSurgeasNewSchoolYearBeginsN",
+      "title": "COVID Hotspots Surge as New School Year Begins - Newsweek",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVppTjVXSDZ3YmE1ZFFOUnVlbWxEWE5qc3dBQU5hNEFQMWwwLXJIeEV1MF9XdWd6eWY1WlRNaUlKYUdqWFBWcTd5RGc2MndZQTFGWVhMbkRtTXBrSGQ2UC02ZEFrdVlCWHliNVJVRXNHdktqT0hYUDBfcU5oeGZ6RWdYZkM1cFE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369898208
+    },
+    {
+      "id": "news_HEALTH_Michiganschoolssee12yearhighvaccinewaive",
+      "title": "Michigan schools see 12-year-high vaccine waiver rate. How covered is your kid’s school? - MLive.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcTYyWUgwQnd2M2NlY2duc3hSUFhXTkltSFhDQXBmTzMyeDVsZEx6c2hSVnVtSVVFWFI2MEdCdW91TUVzNFVscUNqX213TUFpMFBJQlJmVjhuWmlMZkFZNXFUVnpReEg5amIzS2d2ejNfUllXNUlxV3VWTmVGR3Bqb2VIT2NHcnUwUWdaQTE0SlpoV0tHdFdfaXFpR0x6cHlWblVTZS10TFo2eW9TWEpYbVNWejVtdjlLaU9rNjlCdVpCMmfSAdcBQVVfeXFMUExydm9PVU5XemVndENub1doQkx0X3dDVzYwdk40cUxudTh4TUVPdUxOOV9RV2ZBOVlGZEpvUndYS1JKaGdqWHBFYjVRUS03anM1SlU1eEtfUktYLTF3TjdIZEtNbUhSNFB3a2JRMnZENkoyQm5peDkzM0lXZmxRLVhTLTVnNHdTZy10czRWVlFmSmo4OEhNWUNGSUs0TEk3TVZWV1RVSHh2aE5jU1ZhWW0zbzhZWjFVMWlBLUJMdV9Rb1RUNE40d2wwMlIzcTRtSHBndlJPRnM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369898208
+    },
+    {
+      "id": "news_SPORTS_TigerWoodsstrikespleadealhasdriverslicen",
+      "title": "Tiger Woods strikes plea deal, has driver's license suspended 5 years - ESPN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObUZ3OGV6b18zSnVZNUdFdDdFT3Z3NEZGeTM2cl9YSlRxcGFfT0xtTUVrZTN3Rm5GMXJ2aDRlUHdUbHBrcnlvQVdMeWtISzNLcnRVekthYVBKTHFOLTZDMThydWtmSXdCcXYyT1hwTDM2NTFhQi1sazFJVXVNcDhrdzhxcDlQbGdTSzBVTmo5N1MweWs5TzVoN2d6cVJIVW9LTE1LZFAyb3N0Nmhz?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369896160
+    },
+    {
+      "id": "news_SPORTS_Patriotsadd10newplayersMikeVrabelusingbr",
+      "title": "Patriots add 10 new players: Mike Vrabel using breakfast to help get them up to speed - Boston Herald",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEZVQkhRbnM0NXNqb0I2VmxCajJvdHdxMEdadVdrOVdQdTlreWhubGxsczM0d3pPbDVzUEJFbWxMR0VGOGVRSUxpbVlPaW8yTjVsdGNqWnEySzlVWkNZcDMyYXdBWml4cm5aNC03aE1oNHpXVDlBWUdmbEV4R2JXTnRaZFUtU0NPYzlwNzBiZXlZUVAtbmk2d2VEaUV4TzFnWWxaOXRxajRwMG9HVGxOelk5M21lY084Q3RwM0lKai16c1U?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369896160
+    },
+    {
+      "id": "news_SPORTS_LIVGolfHopesScrewingItsOwnPlayersInBankr",
+      "title": "LIV Golf Hopes Screwing Its Own Players In Bankruptcy Will Secure Its Future - Defector",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVGxpamhMYzZMQVRaa25UX0JFY3lwY1RpVWZnQkhmcklTLTZQN3dfMVVNVXZ0R3dBWS1lX2VJZ01FRjJrai1lcEFsTXphMmhLQ05SYVIxYTRPWU5Xbm5qTFljMlZWOHJ4SnNmRGdkOFJIRDFKRE1HYXJuRVlWTmt5RHo0ZUUyQVU1TXdxQ05WX3dwQlVIZnVxV0ZSWFlkdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369896160
+    },
+    {
+      "id": "news_ENTERTAINMENT_ProducerUrgedTrumptoBackUSFilmIncentiveC",
+      "title": "Producer Urged Trump to Back U.S. Film Incentive Citing Prospect of Shooting Richard Nixon Biopic Overseas - variety.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdms1TzdHUV9LZXExUHQ3VGMtMm8tb3plOEZXOVJMNEhEWkN4VjZXYkw0OWMwRDBJb0RlWWd2R2I1MUpDc081VXVrelJKUWZfYVZCLVNUMmgzaEh2S2wtNjRpZ2QtR2hVUWFaMDVHS1dWeVg2VjVrVFItLXVPSU1kNUh5endZZ0F2cXZTT09Oa0NwSUlXX3BsTFkwbVlkM1g4VnI3SzZaUnc4dWhmLVpLMXdkOTlrdlBuUEFlSg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369894716
+    },
+    {
+      "id": "news_TECHNOLOGY_TheGrandTheftAutorunbuttonhaschangedafte",
+      "title": "The Grand Theft Auto run button has changed after 25 years - GTA 6 no longer requires you to tap a face button to peg it - Eurogamer.net",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkRVdmTktsRW9KWXNrYWJFNHdURWtkNTNObHBwMjNDbTh2VUxwWUs0SERSbHcxTFdpdHotMkFfanVqcHVQZTNTTFMxSTljTlB4UEZ1Sk1iSzZmNnNELUJCQXBTbzl5RDd2aERYcE9abTc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369893355
+    },
+    {
+      "id": "news_TECHNOLOGY_EightPlayerSplitscreenAddedtoMarioKart8D",
+      "title": "Eight-Player Splitscreen Added to Mario Kart 8 Deluxe - ign.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaF9pM0N6ZnNEMmxxd3NqWG9xNkNoVDMxcUdBcnA0b2szbml4ZHZUS3B3UV9DTzlYSlFlLU5nbi1zRWppNkNRb1Z0YXRiMmlQdVlBVG9UcG1qTEtfM1RTUm9OYmFMRnZfSkZwY0FaUUJyMGJpRDQ1MVBFdDY2UnJiOTNUSXZaVE1Dd3c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369893355
+    },
+    {
+      "id": "news_BUSINESS_Uberislayingoff10ofitsstaffasitseekstocu",
+      "title": "Uber is laying off 10% of its staff as it seeks to cut management layers - Business Insider",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzdvb1l1emtXU3pLdlZRcWNjMTdIZW9qTnBoaDJrTFhvMTF0Rkc3RElFX2s1VmpxYmZxcFBnSlE0bGpfSVYtR0txMFZYV0dyMnlyTmlRRDJWaXNqcVNTVThOb1BJQXNxU1NhMVBuQWRmTjJHU1JzZnB5Y2VHRzlZbF9JQ3h2OV9iYmFhU0p1SU9EbWcw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369892270
+    },
+    {
+      "id": "news_BUSINESS_EmployerHealthCostsAreExpectedtoSpikein2",
+      "title": "Employer Health Costs Are Expected to Spike in 2027 - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbG9jNDl0b1RuMkZ0cGlTMWpBQlM5SGRGMlhMemowbUFIV1BpRXB3VjZTUGhQbzdHWnROMDJ0c0djdE9iMTZPaFh4Q2lGeU4zV1B3aF9PeWoyS0x4Q2V4VFhWSmMwVXEyY0wxckVodDVhUHN1clVSVk52TTE3SDJfcA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369892270
+    },
+    {
+      "id": "news_BUSINESS_BankofCanadamullsTrumptariffshockasithol",
+      "title": "Bank of Canada mulls Trump tariff shock as it holds interest rates - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUVpKX0ZmbTl0RWZkOVRqbHRaYWNZYWE3aXZTZm9rTEhTUUxmdVh5cTh5UFRCaUNQaGVHM1VRZ04tTzRpcVFyQUdGZXFnZllXTzRuMkNOVzF4c0VUOWhDanp6TVkwTmdUWC1zdm9qaS1pS3ZVcnBFV0hTSjZxeF8ybmpn0gGHAUFVX3lxTE1hSU1oQ1UyaVljekQ1dFpmRmtyOWdmOGJzaWRMU3FNdEU4ZUdBeEhiMERIYmVwZEJWbXdqSnJUZnU1Q2VOLTYyQTNJb1BGNm84dGRfM0hlZzlPUlpPYnRmejd6eGctajU0X1ZEeWhERFlZRDU5d2RUOGplbDhLYmpvV0RwLVdwNA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369892270
+    },
+    {
+      "id": "news_NATION_Trump1coinsgoonsalefromUSMintpricedfrom1",
+      "title": "Trump $1 coins go on sale from U.S. Mint, priced from $1.55 to over $2 each - cbsnews.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kd05QNHVxR2FpWldHZjlEX0N1bzlSNllSVWItX2t1d1Bza1NCNDJuTWNsanB1RGJlaTk0VjBLUlV0U3FsLUtadDY5aFlZM1QwWGVFaE5kb2kxWG1QQXhVclMzSkduRGQ2RkF1dWVfVkI?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369891232
+    },
+    {
+      "id": "news_NATION_ChevronexpandsVenezuelapresencewith7bill",
+      "title": "Chevron expands Venezuela presence with $7 billion plan to double oil output in five years - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0xfNHNSeU9ZOWlXYzMtTzV0MzRrOGtvZkV3MVl3T0pBV2NfamZZVHhDSmh1a0w1X0RrLUluaEFfYUxuRE9DRTg1VmkyMVY0b0JoVkdHMkhuY1hsSk9rZU12X0xJZG5IdDFaWFNnNjlWXzRnaFNlSldHSW96YmFUdW5FQ0M3RlJRcUQ0OGgwa3AxNDYxaXJ6Ukg5eWY5YTBQRzk4NW5GRFY3MjY2eE9Xc2ZnUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369891232
+    },
+    {
+      "id": "news_NATION_CanadianPMtellsTrumptostoptryingtobetoug",
+      "title": "Canadian PM tells Trump to 'stop trying to be tough' in trade fight - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSXJZeXdlZUpBdWhuWDYzRHVRUUd4aDNOUEhUTFVUamJ3aE5EMFMxbkJlTjVFYmx3Q09qQWRvb0pUT2EwTVNmdjBiLUxMYjJ5R0VyM2h1TkpEMkZjUHYzSGlocTBVNU43SzV4c0czTHNZalZsU09uTmROMmRYeUY4LTUyb3U0cHJBeDlFbS1nZndxcjTSAZgBQVVfeXFMTktNNWo0eWVoNTBrb3F2enNaOWVkbDBabVJGWUNOTHBQUlg2cV85amNkcnZfQUw2N3MyZmVmUWhsa1FUdEpLWW9FX3hPelE0Rk9uZVdSQ2R5MnJic1daZEZ6US1LLWFNTjFBVmFzam9MNG1hbmMyNUxlRlNDT1ZZSFBGNGVIekFfTS1OdHRUcVJxMXJfTEI0Nk8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369891232
+    },
+    {
+      "id": "news_WORLD_XiJinpingvisitsEgyptinrareforeigntravelf",
+      "title": "Xi Jinping visits Egypt in rare foreign travel flurry ahead of Donald Trump summit - Financial Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée; figure tier-10 (xi jinping) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkxJQnVLalprZUkzUWpZaTRkOGpCWXp0WUlUYmUyUnBxeEtqUzRvcFM5TXZXYURlaFE0MlBZcDFCSE1UYTVTdGZXRENlWmVadDRndUFyZ1E2VXM2b1o3cnNqN3RYMHlDTlVyNWs2dW05UExnMElCTGp1dkR6LW9Ya3JSdzc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369890225
     },
     {
       "id": "news_gaming leak_28YearsLatertheBestVideoGameofAllTimeIsC",
@@ -1080,6 +1300,61 @@
       "ts": 1788339077026
     },
     {
+      "id": "news_celebrity crypto token_FromKimKardashiantoNigelFarage5celebriti",
+      "title": "From Kim Kardashian to Nigel Farage – 5 celebrities who have promoted crypto - Yahoo Finance UK",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (celebrity crypto token). figure/entité tier-8 (kim kardashian) mentionnée; mots-clés viraux: rage.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFpSSW5TNTl1VlJ2S0RQUE9ranZmckRxQThpWWlISm5nVTlyLTVfNEpKWjhTNms5R2lmeWx3d2xmRnFrMW50UzFpU2Eyd0F1cUsxOEZnTHdhX2dNcWtXNXhFT0pLclN0NlpDdHpKRzVhWVpBdzZlQnBpTGF2RjhBcm5qQ3BWNGowdkE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369903248
+    },
+    {
+      "id": "news_ENTERTAINMENT_TravisKelcedishesonmagicalTaylorSwiftwed",
+      "title": "Travis Kelce dishes on 'magical' Taylor Swift wedding, Adam Sandler support - USA Today",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (ENTERTAINMENT). figure/entité tier-8 (taylor swift) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGE2ZmFnQ1IzY0xrTGFhRUQzMVNoQVBQemZESjU3UV9TU1R6b2lxZ0gtWmVhVlNWUUxhN3pubnhRM1pxOTFqNVJkTW1jTkhKVWZ5b1RaZFVpVFdlQ2pzcks1NFBYOVV2UklkQmtLazUxbWxtSHBrWHYxWWFpRnQtajJUZXdwdnFhNTF0c05yTWxXOVpSVnIwVXRhSXVrdGxHa2phc0VqcG9qMWx2aGFkNkFfYzZoUGRnNlVLWW5aRU14S09Falp3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369894716
+    },
+    {
+      "id": "news_ENTERTAINMENT_TravisKelcestarsinadwithhisandTaylorSwif",
+      "title": "Travis Kelce stars in ad with his and Taylor Swift's dog: 'Very special cameo' - ABC News - Breaking News, Latest News and Videos",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (ENTERTAINMENT). figure/entité tier-8 (taylor swift) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckFhZmxPcnFhTThCS3YwQ3cwRzVwcFhPcFFCazlRUTk4QzRkNTY5MUFnekl5SDdockxZckM0RDBIaVRUTWVkNnA2NTZKWHZwOWg4WWNTRDdIdnlYcTQzbTdIblBKalhyelpSRkYxbDFWSVo1d0thY0lwNWM4Y2pkcGxuWHYxaHlFekJubWRXZExQLTNyNnFoWEpIcmZ0UUXSAaQBQVVfeXFMTlA0WmpBSlpBbENBdnVHNWhjVjJlM0VKR2NyLXpCSk1oNXNOZWlZeDRVUnFOX2tBQmQtNUtRMGJyT2tyNWxTejA4RDR6aVpoQi0tUHpheUU1a09MLW5UTzAxcXF2NW1BSWtiaS01S0RVcHprQ2h5Q3VyMTBzVFVnWlJ1TnVLa3RnZUVpZ3JlZVhFNDUzMGpqWjlIOVhQNGxkbE40bjg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369894716
+    },
+    {
+      "id": "news_TECHNOLOGY_NintendoaddsthreemoreNESgamestoSwitchOnl",
+      "title": "Nintendo adds three more NES games to Switch Online, bringing the total to 87 in the West - Video Games Chronicle",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeUFUVVVkUXVnckc2WUd1dnNBYW1kRnRGNzBVbTFra19MVzdJTWNCWkduZ282UjdUMVBvMzR3SFVJcmhhU0F6OEhuTWlqWjFjelBRRElGMkYzeXNRVXprTjMtT19zQkxqM1duNDV5RmxqWlBmNW5zR1dSaXRub2Y2YkpqN0tUTnpUNWJkU0p1NEY3aFhwck1lTkRtdzhSYW9UOWlNdEdFVkJwWkZPclMyT2VWci1NMjIzYndPOVE5R1hUZnktY2l1aGh3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369893355
+    },
+    {
+      "id": "news_BUSINESS_G20liveupdatesOpenAIsAltmansaystheuseofA",
+      "title": "G20 live updates: OpenAI's Altman says the use of AI is 'non-negotiable' - CNBC",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRjdicFJvZkg2TG1Dd1R1Sk16QlVYNnhPOHVRcDY3Q0NLdEY2VUZrMjZxeVBFRkp0WWZKRDFGLWwydnNGZU1qbTAxZmlOZW5jci1xUEdyVTVlWHZtU1ZrTmxQM2lBMkZ1MDRMVlhSLWoteWlCVmlzRi0yZ3FHVURxX3JB0gGHAUFVX3lxTE96QUluc0tGNmduOFF5OUtmc1BxZm5HejliM1RreFF5dFpUclo2ZmhUUllTQW03TGs4VjZKUzVpSFAyc2tLOW5mZ1JSTWRCYldRMlFiYTR6VWNfUEtaZjFDZzZKNGRpeldkdEJTUldrR2cwR1loSEFTVHRBUG4xQmxXMTJIOVpVUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369892270
+    },
+    {
       "id": "news_ENTERTAINMENT_TravisKelcebreaksdownwhyMSGwasperfectven",
       "title": "Travis Kelce breaks down why MSG was perfect venue for ‘magical’ Taylor Swift wedding - Page Six",
       "cat": "macro",
@@ -1276,6 +1551,61 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339078528
+    },
+    {
+      "id": "news_gaming leak_12TBofSteamFilesLeakasaDecadesWorthofFir",
+      "title": "12TB of Steam Files Leak as a Decade’s Worth of First- and Third-Party Game Data Is Exposed - ign.com",
+      "cat": "macro",
+      "heat": 6,
+      "desc": "Actu détectée (gaming leak). mots-clés viraux: leak, exposed.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNczZPQTQ5M19MeEZqSTBnQTNkSjN6SG1oX1JsaUhxQXFlSHl2bzNQM19obTFPMER0c2N0Q1hfeEEwZmdIdm1aLWRfbVpFOXg3OTJrbkF2UUluNE1DWjM5QVY1czNFYU9kMEdMMlpuRUgtaEMycVotY3FNdkxOMmd5ZjRrT2hNeWFUZHp6X2JCTTZrX2xpeTBDV3hNQ0MxcGpLOTJjYUVqS0duYUJjeEZFWE5YS0MxdV9HbEE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369916805
+    },
+    {
+      "id": "news_AI controversy viral_AIGeneratedDeceptionHowaViralRedditFoodD",
+      "title": "AI-Generated Deception: How a Viral Reddit Food Delivery Fraud Post Exposed Our Digital Trust Crisis - CryptoRank",
+      "cat": "macro",
+      "heat": 6,
+      "desc": "Actu détectée (AI controversy viral). mots-clés viraux: viral, exposed.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13N3AxSnZaU052NmJiOFJld0tLUXRpNXBKSEpKbTVYVUtVaGlTZ0JLOWZzYlFvcE00UU9VZU03Vl9tWE9vQks3WXR5XzV2clBPRzZJcU1tRzJzaWdXbE9nOFFzcGtSS3ZuekRtRmhtUFVkV1AyQXNfUGFVVHg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369908187
+    },
+    {
+      "id": "news_leaked footage internet_NotSoNewAvengersDoomsdayandBeyondtheSpid",
+      "title": "Not-So New ‘Avengers: Doomsday’ and ‘Beyond the Spider-Verse’ Footage Has Leaked - Gizmodo",
+      "cat": "macro",
+      "heat": 6,
+      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak, leaked.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZk5rRjBtUUxCbUJpSTJBbURJUERSaTZTb0NYd0RJY1hMMUhPZFdYbEk0NGszdU1CNTcwMHdQVVVGRVpkZlhZcEo4YlhwWjhibkl5akVuaHhIT3JzVmk5b3p4NmxwUWtIalo1RUI2cGxlVVFFTXJWeDIzRlUwRnBaazFKdWJFcHk5TWVabE5wM3FsS3d5MW9kV0hvbHQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369901997
+    },
+    {
+      "id": "news_leaked footage internet_GTA6LeakedAGAINUnlockedClipsigncom",
+      "title": "GTA 6 Leaked AGAIN - Unlocked Clips - ign.com",
+      "cat": "macro",
+      "heat": 6,
+      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak, leaked.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kV2ZXNE4tRHkxVlR6TjVsMWFtQzFJZk5iUjZ2UGhfZjF3bk10cm9OZ3pJSmhjb2VLd2F6UUFZcjRoekNKeHVqSjdDR3RscTdyWXdkQ3I1czRqRmFDaFROZ00wam5sNTU1em0wVg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369901997
+    },
+    {
+      "id": "news_leaked footage internet_GrandTheftAuto6GameplayAndTheMapHaveSeem",
+      "title": "Grand Theft Auto 6 Gameplay And The Map Have Seemingly Leaked Online - Press Start Australia",
+      "cat": "macro",
+      "heat": 6,
+      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak, leaked.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM2ltaVVOaTBsOVpxZTdIb0Jsc1pud0hvNnJnUldoTmhfaWJXWUNkbm5FRERCRzNhOXlacFd2aGs1dFNlOFh3QktDek1DOTVuZUU0c1JFWmFjUDNDQlVKZ1dQWUJtSGNzb1QxY3psRk1FRks0c0JIcGJLYWk1WTRqOG1WNGRhTE00eXR5R0ZBUTBpaE1zV3FoN3RMcXpYdU5KdWNGUjk0cEljcC1ZR01ZVzhhUGhOWEpMenVvMzVkZDZkQdIBxwFBVV95cUxQVTlBNnRPRUExQWlUNTJYYXNDQ3U3Z2d6ZzlZQ293N0FfVnNodVRrbjZuaFExa2FSQ3dzUXVjeU5xXzJTZGRqR2NQVGp0c25iX25iVjdoQnVQb0JCLWpNelN4ZVRERTc5MjZnSEdBVFBLc0tOZ2NrZFF3S3BzZ0FESGtGamF6dUIyNnZxLXQzUGkzNHRDdGRmWVprTmQtX1dlRVdlSWpfYTVYT0dQSjlJeVRhOGl2cGIweFJJVmY1SUh6TERMd1NJ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369901997
     },
     {
       "id": "news_gaming leak_Report13TBofSteamdataleakedafterusersacc",
@@ -1793,6 +2123,149 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_gaming leak_NewLEGOLeakTeasesAnotherRetroConsoleBuil",
+      "title": "New LEGO Leak Teases Another Retro Console Build - VICE",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (gaming leak). mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0JDNWVGNEZxcW9FUEI4S2ljemlqSEdHNFBYd3YyWmVLUTdDQmVZNEg0VDgxR0FBWDV3OVpDOUJqdnJuS0s4Z1Y2Ni1LM1pyelhEMm1jWWJTdEo2RTVQazlxWmxrTnQ3V3BiYm9YcGFlN05lWVNrTkdWdmdkc0F4aG9ncTYwQUV6?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369916805
+    },
+    {
+      "id": "news_gaming leak_Steam12TBLeakDumpsaDecadeofGameFilesTech",
+      "title": "Steam 12TB Leak Dumps a Decade of Game Files - Tech My Money",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (gaming leak). mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSUkxWldfTjg1eEQ3Y3JwcG9XSUJQSWhkOGZodzJDdzgyWDlUa3A3Y0ZtZnZDQUZfQWktQkd1MmFkNFBaZ19GRFhhTnh4MV9iMmVNWWtfdDJ4djhLZUxLaFZ4VHRRQ0ExWG0tUnhiNE1SQzJhMV9iRURxV2htZFpVeEZVd3NFQlXSAYcBQVVfeXFMTUlJMVpXX044NXhEN2NycHBvV0lCUEloZDhmaHcyQ3c4Mlg5VGtwN2NGbWZ2Q0FGX0FpLUJHdTJhZDRQWmdfRkRYYU54eDFfYjJlTVlrX3QyeHY4S2VMS2hWeFR0UUNBMVhtLVJ4YjRNUkMyYTFfYkVEcVdobWRaVXhGVXdzRUJV?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369916805
+    },
+    {
+      "id": "news_gaming leak_ADecadeOfLostValveGamesUncoveredInMassiv",
+      "title": "A Decade Of Lost Valve Games Uncovered In Massive 12TB Steam Leak - HotHardware",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (gaming leak). mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnFCcFU4aUtsRXA4TmRRa1dYY19Ia0N0T0VaWFFqZFFWUUxsVFZfSTFMaUYzNkRoUXdaUnpUOVdJMExMR0FsZ1ptdGY3NzdfeXFidU1FRW8zZjhXbG82endNSEdlbXd3bi1Hd1FDNXRKREktN2FXclBaT1BjZFYteDItSUNTd3g5cjZTeUFVYWhUX1kzeXY3bA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369916805
+    },
+    {
+      "id": "news_gaming leak_DLSS5TurnsFIFA16IntoaNearPhotorealisticD",
+      "title": "DLSS 5 Turns FIFA 16 Into a Near-Photorealistic Demo After Leak - ColombiaOne.com",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (gaming leak). mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzZjRDelZMMU5zLU9lUmxlaEI0VVpNY2xQTGFsX09ONXpLRXFSZUVZQnhHVXJiajBTZEhzRGlLYWhlSzRBMlNLdGx3WVR3WGJ6NWEyTUhlb3NFSUNnVW9fTHFkS3JrZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369916805
+    },
+    {
+      "id": "news_AI controversy viral_HAVENsViralAITrackIRunIsBackonStreamingS",
+      "title": "HAVEN’s Viral AI Track “I Run” Is Back on Streaming Services With New Vocals - edm.com",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (AI controversy viral). mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVHE3eWp5VWpLVE5PU1VXUWVMZG9NdTVINDhVcU5lbEhZNmV6R0FXWW1HTWQ1MkZTdnJoN01jTzN1VEpHUVN6QWltMUtXSzk2N0YzSzlYdzJBWEVsTElGZ1Vxc2RfQ2FiemhMZk9OSElfSkVlQjF5RFZubUNaeDlOc0F5bGxIOTAxbXF1Zw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369908187
+    },
+    {
+      "id": "news_AI controversy viral_ViralKatiePorterinterviewsparksAIvideosa",
+      "title": "Viral Katie Porter interview sparks AI videos as experts warn of election fakes - ABC10",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (AI controversy viral). mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0ZqNHlVdDlpSzBxN0RTdTBkODhUY2JtbmhoVGdCcVdVNU5uei03X3ZWNHBfVHBKcUZUMFk3dEFQQzlPSEJuWVRPM0VlV0ZJckhHX0dVZm5qdE1OMmVfY3pNbU9HM09yaE1TdF9weTBiTEZEUUlNdmlHZ3JxNkZUUUZFb05Vakp3U3MtSWdCeXdJY1ZjdFdDQ1FfcmNkWmhPYXJucXd1cy1GYU1JdDFqVk14bWl2UVZRU3RzRnpWNlA4Mzl0aTMyMGRUb3J1MkNPeHEzRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369908187
+    },
+    {
+      "id": "news_leaked footage internet_AllegedGTA6GameplayFootageLeaksOnlineIns",
+      "title": "Alleged GTA 6 Gameplay Footage Leaks Online - Insider Gaming",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fdHBUb01lOXR6N09fUFViWkExMmd6NG1WOU5HT1R2RW9tZF9lY1JUTVBKWERjbzZGUWxoUFh2bXFDSEhKNmQ5c3BrM0ZwbXQ2R251RXo3aTFpYnJuVThRRWVzVVpLQ1Q0SnpZR0IxeWp1NGVTclgtMnNWNA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369901997
+    },
+    {
+      "id": "news_leaked footage internet_GTA6GameplayFullMapLeakOnlineIGNDailyFix",
+      "title": "GTA 6 Gameplay & Full Map Leak Online - IGN Daily Fix - IGN Nordic",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbVRUaWoyaUVtT1F2OXRQeU9YRDY3ejk5SDZ0WTdaRzlPNDJyUWllcUY5QnNuNGlUbEJJU0pWc0E2YXhidkZ3LUoySnp1bzhRUUdkNjVkNzZsZGluS3FzUWQyYnNYWFloMUloQkNlclJIVmVHQXBZX1ZZenNDd2xKRkg3Q05oSnpKTU9waks0VFlmUFBBeDQ2eHRTdXM4ajJp?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369901997
+    },
+    {
+      "id": "news_SPORTS_RachaelGunnFromOlympicmemetoNetflixspotl",
+      "title": "Rachael Gunn: From Olympic meme to Netflix spotlight in ‘Untold Raygun: Breaking Badly’ - AP News",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (SPORTS). mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHhHWWYyT3VzYTY4dlNVT3dBV2ZqTXhlVXdLT1VNNHIyYmhuVHFXM0tpejYxbFFLWUF4WjZtOWp3OWFna1k5Y2pIZTNYNFROc1A1dkdadEJOU2ZBYS1PX25FQUUtTVI5dGczMHZjbll3SnItZVphd1F5NjFUZzUzNUlGZFA4R1Y1NlNnM3lQTmVVTlp4OUN1SGktNDh6UQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369896160
+    },
+    {
+      "id": "news_ENTERTAINMENT_Lizzogratefulafterjudgedismisseslawsuita",
+      "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company - BBC",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (ENTERTAINMENT). mots-clés viraux: lawsuit.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IQ2FDekF3d3dhTHBZRDJIdUttUGhxamtqbnM0MkdocHh3N2R0LXQ4d0F4TnliUWR1QlJXSF9UNkRTTmlBNmlFV3NQRFc4R1p2eUYxQUJMelA1Zw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369894716
+    },
+    {
+      "id": "news_TECHNOLOGY_TheBestDealsFromBestBuysEarlyLaborDaySal",
+      "title": "The Best Deals From Best Buy's Early Labor Day Sale 2026 - Lifehacker",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (TECHNOLOGY). mots-clés viraux: hack.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmZ0ZEtDQXIwM3Z6b2h1Z0xLWDhzbWJrbjFCLXEyQl9iUjFkZEllOGl0ZUswOU9sZmJMTEpCZF93QnU2R0tNTHJYVGh4QkFvV2hrSi1KMHBfVW1kcTZRVEF0czFHRF80eWVoMnhjOFVwU21MNUZDalE2TFJwWUZjNHNud0EzZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369893355
+    },
+    {
+      "id": "news_NATION_BreakingnewsMajorpolicepresenceatWestwoo",
+      "title": "Breaking news: Major police presence at Westwood Hills Elementary School - Augusta Free Press",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (NATION). mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXFzLUpDQU1raUVWZC1wcG9SYlV1bmlqb0szeGZINUhRTkRlS0c0UDh1S0RxdjBQYy1xVTZlX1lIOVVzQ1hDdVRtVHZ1RlZyaXhsaUxaM1Itd1VxUU1UZnNTSmY4Wmh4MlBnRlZ2VmdKcUpWQjg1eXhNZGl6T3FaamVnVElaQ2RSR1lGc0czMHJhOENjWno1czlvOHAwZDZtTG5VdHpYOUZaUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369891232
+    },
+    {
+      "id": "news_NATION_AllegedringleaderinPennStatecocainetraff",
+      "title": "Alleged ringleader in Penn State cocaine trafficking case granted bail - ABC News - Breaking News, Latest News and Videos",
+      "cat": "macro",
+      "heat": 5,
+      "desc": "Actu détectée (NATION). mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1hMNVJaSzNCZDA4UG93WENPZFl6RmdWUUhoMml3U2d2bDZ4RGxPT1RMN3dFMmRYN0ZXS21wTndGNlItZlhtYU9pczdTT2ZpRExkM0pDTnBVeWhudVl0bUMzU3lTRmNpcnUzVi1VTHJXZFZXTHd0N2tIT2F6NHpfdy1VTG90Yjg3cERJNHRYZ0o4b0s4ZHlBcVBNUmhjTnVIVV9N0gGoAUFVX3lxTE5xYzNmcmJ1NTdmQUV6eGo3Njk1UEc5R1RTemd6Rl9jV1BuTHJqZVhRbl9nYXJTOTUzZm96Uko4akRTRGN1WDBxREhIRkVMdTFpcHE1MlZjOFc5RWFJR19lTmpSMVhSZUFRRTB0LXhseTA1QjNGcm5TRFp3MXNhOWtfZzR1M1lUX1VwdExnUV9qQUV3cGRXaTQzZ1IwOXVsMFU4SXp1T2pwSQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369891232
     },
     {
       "id": "news_gaming leak_PokémonWindsandWavesReleaseDateConfirmed",
@@ -3047,6 +3520,17 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339077026
+    },
+    {
+      "id": "news_memecoin launch_MemeToroShipsEndtoEndAIMemecoinPipelinea",
+      "title": "MemeToro Ships End-to-End AI Memecoin Pipeline as Open-Source Development Advances - StreetInsider",
+      "cat": "macro",
+      "heat": 3,
+      "desc": "Actu détectée (memecoin launch). référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRFp0czNzVG82ZWZUbDJjdHBGRUxyaVVOZUl5LXdFT1NfOWJZVndzV0ZRX0pTWlBGWmlwOTFjSzd2VXpzRWhDZ3NFZDNzRWZ3N2lVSEdYN3ZpZEcwSXZ1VGw3VDFCd0VabGVvTGNJMlF5LUVGd0hQSF9fOWpnYVFkem9DRWN0R2NOS0doMDdRWi1hZzNXQkE2NUpYYmRXSWlmRVhEdk5nN3ZFR2hQV05pRUNwVExzZk1rUFNFZ3RYenIxRVpHR1lCMUVuUE5FZXFpU08tTnJHQXU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788369899405
     },
     {
       "id": "news_own cryptocurrency launch_RobinhoodAcceleratesGlobalExpansionwithR",

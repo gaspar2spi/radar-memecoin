@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T18:18:13.586274+00:00",
+  "updated_at": "2026-09-04T20:50:55.154864+00:00",
   "signals": [
     {
       "id": "news_memecoin launch_Top6CryptoExpertsReactionsToTrumpandMela",
@@ -200,6 +200,17 @@
       "ts": 1788339079251
     },
     {
+      "id": "news_memecoin launch_CanAIPredictTheNextTopMemecoinWeRanTheNu",
+      "title": "Can AI Predict The Next Top Memecoin — We Ran The Numbers - Yellow.com",
+      "cat": "macro",
+      "heat": 9,
+      "desc": "Actu détectée (memecoin launch). figure tier-10 (ye) mentionnée; référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9la0pkR2VJOTN0T094ZmtPT2FNSGVFQ0J1S0g4Vl9BVWZET21td21TVGFjMC16VGVuQldOT3NDc2tRNGJ6V1FJbGxwbDFkN1BSQ0ppcU5yWE9IQ1dJM0lVdUtlcUdCRzJNSW5Bdnh3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788555037308
+    },
+    {
       "id": "news_own cryptocurrency launch_Nearly1millioninvestorsinTrumpsmemecoinl",
       "title": "Nearly 1 million investors in Trump's memecoin lost a collective $3.8 billion as he cashed in - Fortune",
       "cat": "macro",
@@ -374,6 +385,105 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_BUSINESS_TrumpThreatenstoHaltSomeTradeUnlesstheFe",
+      "title": "Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEVicmpWNTBDUVpfTGN4dXhleDJyWklRWngwTlZycFgzTzFPSzBNakp6Z1FQakZBZzJhMklVbWZhVTUxcjNtcGxadzhRY1JSZ3ZGM2VIUG4yWlZTeDlHZUc1VEhJY05mRUxKMjdtWTJVSmlUUk1naHhna3FVU1NOb2ZhTjRDUDhza0lxUDZfQkszcE1G?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788555032843
+    },
+    {
+      "id": "news_BUSINESS_TrumpadministrationopensprobeintoTeslass",
+      "title": "Trump administration opens probe into Tesla’s self-driving Cybercab - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzh4UW1nWmE5SEZUT3NpOVJISWpBb3JVUGVJal9qbWFjamRncGViZ1VycjdCYWNhRERSWGlDNndOZVQzelFESlNKaFJHX1E4LTlEYmdjMjNBQlpxYVN3Y2xyalB0aWRPd0t6NDdMaFJlMGNRZWZqZ1owampQS3VOUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788555032843
+    },
+    {
+      "id": "news_BUSINESS_LiveUpdatesIranwarissmallpotatoesforUSTr",
+      "title": "Live Updates: Iran war is \"small potatoes\" for U.S., Trump says - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTB4cXFwcGVMMDdGdWZaNExNcDRBUGVSZURNUHdKcWxIWjNLREUyQlpjaGdQQWZzMGh3cVZxcThKT1JtS0V1SlV5cWxUYU1Ra0I4OUJEYnoxa1RJOFlFWkxsNHpOR2d4R01Mc3prOERtdUx6MzF6RV9jRWEzM0l5Qi1mYkt1SUxULWJF?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788555032843
+    },
+    {
+      "id": "news_NATION_TheTrumpWhiteHousesfetishforgamerculture",
+      "title": "The Trump White House’s fetish for gamer culture has moved up a level with new arcade - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmdyWU91aENQa2tnSjJNOUp3RnRKQVNHcEc1NGRKb09hS2lxQWxnaFlZSlJlVXY0UGlnWF9ONF9yalVIMFZERmN5NTZWNDQ2R2U5S2QxUi01Y0FkdndGN21XdzVjUmNJWkdwNU9kX0hrWkIyNzFERGtCZ1N5c01ZNFJjcWZtZDRXcURNcg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788555032111
+    },
+    {
+      "id": "news_NATION_ThefamilyofaUSMarineCorpsveterankilledin",
+      "title": "The family of a U.S. Marine Corps veteran killed in the Shoreline Plaza shooting speaks out - 5 EYEWITNESS NEWS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMjkxZ0hUemJ3dXBaaHhKMVF2Y2lqRURLS1JDc3M5MjNvVmpvcjhqT1pBVHBxaGdqQXBUNHVLRXBfTU1nN0t3bHY2eEg5enBSTWpxcXRLaXYxcWdtRUxJeEQxeVhoZ3BsVEE4WWJoekdGQTQ0bWQ4bExEengyRHVVUk9VMUFST0lWMjlCSTJjd0I2N0ZmWGVNUUNOeElBSVBGLXlYX1ExQTQtUzFBVjFCUFBVLUJFWTZRSE9Zai1Rck04bkF4Mmc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788555032110
+    },
+    {
+      "id": "news_NATION_Trumpsignsorderstoallowrancherstoprotect",
+      "title": "Trump signs orders to allow ranchers to protect herds from wolves, expand meat processing - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeXhrY2ozbmJESDk5NTdOcHhuSXY1aDZZcWZTdHAzZDFoc2M1WFl3OEdIR3hzRUlVSEpTMm5wNkp2MGI3N1dMQ0tDcEp0ZmJuOEVmcHRvcVEza0V1MlhCR3JCQkRhUnMwZHBxM3JYTFdza1dwU2tSczM2bS1pYzZGenFhRDVldE5GNVBuMnhWT1UyYldQeng1SWN6dUhYcFBNbWUxUGxZZ0VFQ3BaQ2NERHRR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788555032110
+    },
+    {
+      "id": "news_NATION_TrumpasksSCOTUStoOKchangestomailinballot",
+      "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high - NPR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjMwWTl2QVhWVTItZFV1d19rVzNxQ2pXUWJqZ0NBOG10ZnRIVW54MW1WM0hxdGdIaHZxOGZHZVVPR1JUSV9salNhdU5Ua0RKczV2SUhXcExzMlkwSHhnV3VuNXFqdWpCZE1sdkczVG4zUlQ4R1YtVkYyaHg5eURpUksxc0pLaHVsMWRQRlNVQmhLTnFscFR2Z0VHTXB4SjJzbGhkdGhJNlRVVzFXaEVmRA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788555032110
+    },
+    {
+      "id": "news_NATION_MelaniasettoskipTrumpsmidtermconventioni",
+      "title": "Melania set to skip Trump’s midterm convention in latest high-profile snub - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (melania) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0ZlWGpWZVljUWt4MDc3aGkwSzNnSHo1LXJIQ2p4ZG9mZl84RzhRUGhBWlNOcjBFdzZncEw3LTNCM0lVYzRlQWZMUWhuNHpXb1NWaXdidTlpUFZNbGVyQ1ZIaFc3Z0FYRVBveTQ5bmExV3NWWW5ZdUpBbTY5Z05BdUVfY2Fwcl9rVG54bHpEenB2SHd4Rl9JWkhNbXdvc1YydnZXMmZWMUMwano1TWJpcmJ4dnFGRXZkR1JPdE1GY2JLbTRyQ0diVg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788555032110
+    },
+    {
+      "id": "news_WORLD_TheDebateGermanfarrightsbreakoutmomentAf",
+      "title": "The Debate - German far right's breakout moment? AfD party eyes outright win in regional election - France 24",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSmZsS1pKdDlBQ2FfWTExUFQ1WFlyU3NFUUNHRmNDX1UzWVE2eGxkemJ1M0tNNXgxUVBNZEZNM1hOYlJjUDVGWGZfckdWdi1xdm9EUC1sWkxYcXc1VERzY19acUtoTWlKQWo1R09GRGMtYmI4N3QxdGhXM3I3bkNvcldiazNvTnhXWjFVYUM0RENET1VRSFJRTFJ4WEo0MDdQRXNPXzJRUk5HUC1KVVpjV1RMOXZ5cF9QYXR5Y21FdU1udUNySkNFSldZcmtvbncxNk1aeDNJRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788555031396
     },
     {
       "id": "news_SCIENCE_NASAsCassinispacecraftcircledSaturnfor13",
@@ -4182,6 +4292,28 @@
       "ts": 1788339077026
     },
     {
+      "id": "news_BUSINESS_OpenAIagentshijackedGermanwebsitebeforeH",
+      "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims - BBC",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée; mots-clés viraux: hack.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93WldzcWRnVVJYRkpNMDN5Y3VRLXpaalZqNUpPYzJrNGJIaVd0Q1dKQ2J4RmVyQThUTUp4S2Y3bV9MZm1VUHZiS3B5dWsyVTY3bjM0X1RlVU9sQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788555032843
+    },
+    {
+      "id": "news_WORLD_RomanianprosecutorsindictAndrewTateontra",
+      "title": "Romanian prosecutors indict Andrew Tate on trafficking minors and money laundering - NBC News",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (WORLD). figure/entité tier-8 (andrew tate) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmxoR3pPU2hLdk1kcXRiU1RtUGlfTThVNTkwSE5pdy1vYWxxUF9tM09XUkxLMXZaUEZrVkpvSkdFWEFxNGJ1VHVEdzU3TGNFN2dVNF9hUFhpc0x1WjNTX2E4Q1VWRnNsenVWMGZvMEFMMUFNTXpKcXZMV3JCX1RTempsTlliY0ZuUV8ya3Y1dUlXYkdaR3RCanQwTFprX0l6WURzMUJtUGRCSXZpcnZPR2Z6eVAwUElHeVE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788555031396
+    },
+    {
       "id": "news_TECHNOLOGY_TheLegendofZelda40thAnniversaryDirect982",
       "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026 and Nintendo Direct 9.9.2026 - Nintendo",
       "cat": "macro",
@@ -4864,6 +4996,28 @@
       "ts": 1788339078528
     },
     {
+      "id": "news_crypto coin viral_WhatIsTENDIESCryptoTheViralMemecoinFueli",
+      "title": "What Is TENDIES Crypto? The Viral Memecoin Fueling Robinhood Chain’s Latest Rally - Bitcoin Foundation",
+      "cat": "macro",
+      "heat": 6,
+      "desc": "Actu détectée (crypto coin viral). mots-clés viraux: viral; référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTTJ4a0VjSmdUQ2FQTnhCQmJUNmhWR3h3MzlVUjhfMV9xOVJxaVpQZXlLeFVPTmZyMXlrZ0luX2NPQWNXRElvSHZwbUpHOU5ERUl2WnZsREJYWlRTSlR6QTJiZTllYXhWZ3c2Q2NmTklCYWx2RFZoUEVLSGRsQ0tBUE5jbEF2RlVCREdPRXNLcy1fU2FZXzdEZHEwWlJKdFZ5ZFlwQ1NXeFp2ZVZoeWxLdGJQemJWMU91OGVJelBic0FBQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788555038422
+    },
+    {
+      "id": "news_memecoin launch_SolanamemecoinplatformCatapultTraderaise",
+      "title": "Solana memecoin platform Catapult Trade raises $6.6M to fund leveraged trading and token launch - Cryptonews.net",
+      "cat": "macro",
+      "heat": 6,
+      "desc": "Actu détectée (memecoin launch). mots-clés viraux: rage; référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lOEVqTkdrVHljRkE1WHFFNTFBbVZMWmxZWWZEX0xIUzZodnk4WFBsRmdXZ1hiQ1dDSlRRRUd6cWVOMnJxRmt0TGZpbWp5QjA2TjJ5Y1ZHUW0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788555037308
+    },
+    {
       "id": "news_gaming leak_LeakedfootageofEAMotivesIronManhassurfac",
       "title": "Leaked footage of EA Motive's 'Iron Man' has surfaced online - Mashable",
       "cat": "macro",
@@ -5346,160 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788465135088
-    },
-    {
-      "id": "news_TECHNOLOGY_LeakedGooglebookLookupappappearsonthePla",
-      "title": "Leaked Googlebook ‘Look up’ app appears on the Play Store ahead of launch - Chrome Unboxed",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (TECHNOLOGY). mots-clés viraux: leak, leaked.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3NvVndZeWJvUzB4X2FnOWxjVlJueDd1dWE3QTFINHNiRFpSNFlaczZqZ2FXZnZuVTVuUzhsMHlPODBuVm1ybHA4aTFBa3hweTMzWjhZVVZUTjJyMUhoSmRKRnFyOTFHR2JzZWxRcXVDSTdGYTdUZmV2ZkRWNThSeExrNXZlMXVGUmpmdDdNV3BOdVo3VDV6RHNySE9JVFE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788465115913
-    },
-    {
-      "id": "news_crypto coin viral_APEMARSPresaleSettoSkyrocket100xMemeCoin",
-      "title": "APEMARS Presale Set to Skyrocket: 100x Meme Coin Alert With 9 Viral Tokens in Play - Bitget",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (crypto coin viral). mots-clés viraux: viral; référence directe à un token/ticker.",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mdVlDMTFJbmdvcFJzS1FUemJFNVN4Q2lJb2hhMmNqRkJ3Tm51WlllOWVfN0M3OVJnMjNqZVVMaEh3MkM1czI4VThmaklCLTNlclNxY2tNd1ZVeW9lVmfSAWNBVV95cUxNVXJtMW5wb1dZYzZrcmNhY190MHcxWUpqbnl4elVQd25lYjVRZFVPQWdWTkRiODRlakRQVlVQY183MHk5d0pfMFZJVzF1dDhpT3NjeDhqTy0xZXBaUXVIbkpEUFU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788455712799
-    },
-    {
-      "id": "news_TECHNOLOGY_LeakedimageofiPhone18Propartsrevealsallt",
-      "title": "Leaked image of iPhone 18 Pro parts reveals all three new colors, and I know which one I’d pick - PhoneArena",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (TECHNOLOGY). mots-clés viraux: leak, leaked.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHJGZ2ZEUzNIbS1FLXV5MFZycTkxdGhhOHZSY09DN3dfWDBaamFpcmNVSjl6UW9FTmNxTk8wMWJLOFJLaERTTk1Tam9iMGd6SWtFQTdxbDlLdUxqRmROY3N1MHdoUkNuaTBVVlFSbnBjV1VZVnBiYUxxOEt4UC1KakVUMjVGdDVkanVrai1iZElXaUxzcXVYRkFHbDEtM3RpcGVpY2RlbEw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788455699062
-    },
-    {
-      "id": "news_TECHNOLOGY_ThisGooglebookappjustleakedinitsentirety",
-      "title": "This Googlebook app just leaked in its entirety, and you can already try it on your phone - Android Authority",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (TECHNOLOGY). mots-clés viraux: leak, leaked.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNi1xSEhCalpTTHNqcUhSNGJGTGhGV2JNQ3JrdHlPOE9mc3dSVV9tRHBzdzFFR0lsTk1HYU9SY3daV2plVC1wdUZldDZnWXVxcVdnYWxWZ084RkxUVXFwNExZQldLMmYxcTVsenh1QnRrT3g1dm5Tdzl1cVk5QktGQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788455699062
-    },
-    {
-      "id": "news_leaked footage internet_FourminutesofSpiderManBeyondtheSpiderVer",
-      "title": "Four minutes of Spider-Man: Beyond the Spider-Verse just leaked online - Polygon.com",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak, leaked.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQzJocE5jSW9GRld4MG5lejZPNlBlM0F4NVhObmt0UTJjZ3h5NHNwcFZGX2l2V0xSdVR3VVBzSXB5c1MxRzBkV2ZYVzZzNzhJMVhSWWpicEZrTmV6VG1ONGVkbFNwcFNOa2RucUhxSWc4UFVlVGJ0TFVxMFZrU2twSkI0cENlQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788442804014
-    },
-    {
-      "id": "news_TECHNOLOGY_NewlyleakedA20ProdieshotsuggestsmajorGPU",
-      "title": "Newly leaked A20 Pro die shot suggests major GPU boost for iPhone 18 Pro and Apple's first foldable iPhone - Notebookcheck",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (TECHNOLOGY). mots-clés viraux: leak, leaked.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ1BsdE41Skd4eEUwSFEwZDk4eWl2a2NsdjRkb3ZfdXZ2a0lUUTdiM2R0VHpGT1hWWXZPQnRyUE9oY09CeDVJWDhFbnNIb09BTlZEa2JLaUtUZEEwVW1vb3RMcnNwcVY2OW5nelBhYWxNMjBGNTJjcjBMVUEyOHpWTDJoZHVPdEx4VXU5X0FOTnFTTm00NFpkWDhtd2U3NjVnd0czaW5pYTh3YUFOc3hEQ1JiNVFrMDBXd2RGX1JuTWJsTGtoZWVfZk9LVFlWRVlCVTNCR2cxZGN3TjFUQWY3elRyM0k5QQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788442798063
-    },
-    {
-      "id": "news_tech ceo controversy_TechcompanyCEOresignsaftervideocaptureda",
-      "title": "Tech company CEO resigns after video captured at Coldplay concert goes viral - PBS",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (tech ceo controversy). mots-clés viraux: viral, resigns.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbFNmTWVkazM2SVZiTXZSTWNabEVVWnEzT1d6X3dzTFh3UkVmaHU1NEpIdnNDdXB1cHhXanQ5R0hlYjJyNXIxN09wY0JMVV81TGZTUnNrQkswR21zNmNYOW5JMlRKNG1oSExzN3dSZHhRX3o1U1JVMVRmSVotN2txYVYzYnJYTDhlMlVvcExubW1ySGZFN2Q1REFGWXQwY2Y1cGMtdHlfN3dMLS13M3lBNU5R0gG3AUFVX3lxTE1iaVpvUVBVRlVXRW1OWXYxNVIzZWRXYXgzdHlobGxlSVMwNWxhYW9COUJ5MTZFX2dncGJqbWEwX3ZaQWhTM2JVZnFDMm03NHpvRDgwbG5DZW1JWHRyckRXbVpmVFZCYjNEQXI1NGdVaVlUZ0sxdE1MQUY2cUNTT0U5d3k3d2hZdXloUTlzU1dadVRwTU9hWVdPMDNpRUFGM2U4R2h0RXd6MUswOUZjSHlVUFNyV0k0aw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788427127959
-    },
-    {
-      "id": "news_tech ceo controversy_AnthropicCEOrepeatshisAIwarningonjobstha",
-      "title": "Anthropic CEO repeats his AI warning on jobs that had created 'outrage' and sparked debate across technol - The Times of India",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (tech ceo controversy). mots-clés viraux: rage, outrage.",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNZVhqNUZtWl80S0hlVFc5Qkc4NEhSXzZkYjRXNngxOF9UV05MMThhZG9VLW81V19odHFNd204ZEV0QnZfVGRBbVQ3SEd1NElTQzJpX282NzRULXhqYVhONUo2bmhOVTFQWUtBVTdVanR3WTdNd1R0TGw2M09TU1d0NkUwRDQ0VHYtYURHOU9pRTA3V1VqdE9ILW1GRVRKVTlwYlp2bS1kNUZ3SGFUUzJGaGt2dDdtZk13c1hfVldrTUc5QTVKYXpuQk01UzNOaC1OTnRUTzVkMmhTcWE5NDEwQzhiTXdFUEh6WDZiWm8zdXB1QmE1T3NBMDR4WFZhTnlWdWhhRlR3cTJSU1JyT2RlU0lXSURmNjRSWXJ4MV95U1pBNHhW0gGqAkFVX3lxTE9QZ0ZPZXoyZE84ZEcxanZtal9GOTlHZjVUWFVqQWlMbXJWM1lNWHpPdVdpRDd5OGN5Z2pJVEZGNWl3VEt0WlVvMUg0Xy12a0NuOGlialppX1hmMWdOaThiSkQ2cWowNTc0dUVZZ1JUV2ZiM2hvTnI1Y0pHRmQ3YUU2dkQ3MDgtNjJyNDFKZzR1UTkzcHREb1YtS2NEQjB5QWVXU1k5eHpXeE9pMzlOejhTc0tlaDgtSEFlVzN5U0puQkFHaFRobVhyUmZLblZjb3pLX1ZVWGRScGJxREs5VF9zNF9FczZxYXhHOHFQSTdQV00tM0xMQXlVZ0tQZVRvdldvT2hQY3k5WTRFRWN4cmZmNlVzVDZicGhDZmd0TllURDQtWnpRS0RUaWc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788427127959
-    },
-    {
-      "id": "news_internet drama trending_Thetop2025viralmomentsthattooktheinterne",
-      "title": "The top 2025 viral moments that took the internet by storm, from 6-7 to the Coldplay 'kiss cam' scandal and Labubu - Yahoo",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (internet drama trending). mots-clés viraux: scandal, viral.",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRlhoMHdib0xUZTA1bjFBNllUclhzWjNKSEZMMnl4VWd6SlkzVlpIaUNTNk1iaThsUWhINmpnMEFWM2pIOTZNU2liRk4wdjZLamhKT0VXcXN0Q1JoTVNkeTBFZWhYTm1sb29TVlZRZlYxczNYV3BwLU1ENUpBTk9CN0V6TUR0eHRiRnMyZDZ4RnJmY2U5X0k1OGYtV1hIVmV5S3JValpjcHFOel9CY2QwSWFaaDJGV3pLU2wzWUtoa3ROMjJaSTVrOUpNcG5HcGxRMXJsOWtUVkZUbFpOVDQ3UFlNTUx2TlctQzFudkRCZmh2NzQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788427122443
-    },
-    {
-      "id": "news_viral scandal internet_TechcompanyCEOresignsaftervideocaptureda",
-      "title": "Tech company CEO resigns after video captured at Coldplay concert goes viral - PBS",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (viral scandal internet). mots-clés viraux: viral, resigns.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbFNmTWVkazM2SVZiTXZSTWNabEVVWnEzT1d6X3dzTFh3UkVmaHU1NEpIdnNDdXB1cHhXanQ5R0hlYjJyNXIxN09wY0JMVV81TGZTUnNrQkswR21zNmNYOW5JMlRKNG1oSExzN3dSZHhRX3o1U1JVMVRmSVotN2txYVYzYnJYTDhlMlVvcExubW1ySGZFN2Q1REFGWXQwY2Y1cGMtdHlfN3dMLS13M3lBNU5R0gG3AUFVX3lxTE1iaVpvUVBVRlVXRW1OWXYxNVIzZWRXYXgzdHlobGxlSVMwNWxhYW9COUJ5MTZFX2dncGJqbWEwX3ZaQWhTM2JVZnFDMm03NHpvRDgwbG5DZW1JWHRyckRXbVpmVFZCYjNEQXI1NGdVaVlUZ0sxdE1MQUY2cUNTT0U5d3k3d2hZdXloUTlzU1dadVRwTU9hWVdPMDNpRUFGM2U4R2h0RXd6MUswOUZjSHlVUFNyV0k0aw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788427120375
-    },
-    {
-      "id": "news_rug pull crypto_WORLDtokenrugpullallegationsdragJamesWyn",
-      "title": "WORLD token rug pull allegations drag James Wynn back into controversy - Crypto News",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (rug pull crypto). mots-clés viraux: controversy; référence directe à un token/ticker.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT0pIOWEzb3gwNVZvQzRDNHBXaFJLeHFtWjNFSkFqQURoQ3ZmR2FPS0VzRDZ2elFJdWQwWE1ySDl2OHhHRHVLeG9NSExzZHc3ckZ3TFJQenJlWUx3RWp2RFYwT0NyUFRtWkhVMVN3QXR1bHhrSXc4VllEWWEzS2ktUVh1Rmh4R1NqdExNNFpkcWVKM1gzeXc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788427119219
-    },
-    {
-      "id": "news_leaked footage internet_AndYouPayExtraForThisLeakedFootageShowsA",
-      "title": "“And You Pay Extra For This?”: Leaked Footage Shows Airport Luggage Being Thrown Like Trash, Internet React - News18",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak, leaked.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaXE0RkJWWjdNclpGd2pvb1pIT2ZaR0FzTlVBX18yQWY0V05kYTNOZzhsMWN0SGxtVEFBWGhheklVakNTS19vczk2NmFQSlRZdVVLNHFFSjFKMjN4Zm1lYlRwRXFNcmxzOFhBTWNJLVJZc1RjMVdKcDBmZVJRTVpLSkFfLUxDZ3pxcE1rUENuS0FXdUNmZERod1NtX2RlWXdDMmVoMTlaUFFiaExxWEEtcHRyTlZxOG5WTnZ2c1hOYmZPbEhjYmU4U0REa0FNREdmNDlxdnVBVUJHYUxxS2fSAeMBQVVfeXFMUDg1VnVGWkZSQ255XzhxU1U5TVpib1dLX1RvNTVSVWtiOXZvZ3pfd3JTN244WUkxb1Bya242bEhRVWZuS0JnaW5jRTdLMjA1REpja3MwTmVyWEdYWGx1cDk4bGE2eGQ5UkltbW9XOGUwaGFoeXNPc1Z0ZkFfZHNQazV5bDY2bGRaYUFJcWZOaGExU3R2MFFQTWNvRksxRWxHc1N6ZzZHVzFlM1dkOXAxTGJQWXZpbGhxbDNOVVowbFBPUDBoTGpPUHU1U25VRGxSc213MW13XzMxRkxTRTlmd0Y3Q2M?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788427116199
-    },
-    {
-      "id": "news_leaked footage internet_InternetsaysleakedvideosfromDhurandhar2s",
-      "title": "Internet says leaked videos from Dhurandhar 2 sets look just like real life videos of Lyari shootout which left 7 dead | Bollywood - Hindustan Times",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak, leaked.",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQWU1TbENjREVYMlZXQ1JBYkN4dTR3SkloNUtmd1gxX2hudGV3Uzk1LXFDN1ZrQjU3ejZUWXVXX1l1a1hIQnlHakdhWTJ3YUVjbHdYTFg1S1hzTWJlU1NlR3A5M0lXSmN6OUFHMjNJUkxjaUZTNC1Sd3luc2NoZ3lLbDZ6YkVhT1h5djhISE1mRUdOSmNNanBValk5TUljSzY1TnBCbHlWbmxDd3YtN1RtSXM3NnhmS3lZa0Zoamx3VDktRXFyeDBmemt4b3FxcmFmYVZWQ2tjTHJzdW9Ha3BNdm55MlNVblZ0V01LZFJoZUhiOFRsVDUzREM4b3BnR2ZFMHV6TXp6ZDFjajhCVHJfckxhZXVMVkI1LTVicGUwONIBpAJBVV95cUxOTW9sQ3QwTHJjSjJsc2kyWmlMWFhFM1FvdjM4dEZQd29jSnJSVWs5MmNoQk1NeFhzSDJ2X1NUZnR0aklWOGNjOHpWUzJaMWxWdXBhTUg0X09oeVhRUWd6WHJXcGxHakF3MDAxSHk2SkpNdUM2cWxrSGdPYlFuNUxRVHA5VWRfWU5zWGxNa25sR2pIU0JDRHlkSjRwOFoxWDRvMjdWMm5qbUR1Y3JtallidXp1TC1aMTRNSUoxNkVNQjBPaWlqVGl6Nkg2bVBsbVFfSGZVdUxhbkVQWnZiOGRwNzF5YVFEWnNEd3J6eFFlQ0g1NThpRFAwRDBMX0xqU2phTWJnMXVaQ2MyRlo1TTZqOXFrOVdDa1V0WDJveDRBVmhVZXd2?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788427116199
-    },
-    {
-      "id": "news_leaked footage internet_GameAdUsingLeakedGTA6FootageGetsPurgedFr",
-      "title": "Game Ad Using Leaked GTA 6 Footage Gets Purged From Internet By Take-Two - kotaku.com",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak, leaked.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdExuYTQ5VEo2SF9iVlM0bXRRRzV5Z2dpckxSR25fYUt3NmswZUczV1cyaFlUcllONE9vandHMFdXVWpwVTRMSWxFY2FJWnd2MWl0SnRzdUEyZENVV3lCWGNMVk1tUjVkVGVZSzI3TWM2UFdYWmJEbTFlcmxJQTJIUWt4aXBSNkd4SVpN?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788427116199
     }
   ]
 }

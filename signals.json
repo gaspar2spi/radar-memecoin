@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T01:26:06.827107+00:00",
+  "updated_at": "2026-09-04T06:14:28.086504+00:00",
   "signals": [
     {
       "id": "news_own cryptocurrency launch_TrumpAccountsOfficiallyLaunchRobinhood",
@@ -363,6 +363,127 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_BillionaireandclimateactivistTomSteyerjo",
+      "title": "Billionaire and climate activist Tom Steyer joins crowded 2026 California governor race - KCRA",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVEdZeXllSHhndjdFVDhWbEtjSGl5b0hZWDlNeWRTdExST1daYUlsT2pxaEM5SjNLUG40NDFOUGlNNm1mczYxd3hHajJPLW94R2xMUHc5c0ZKbUtrTmJaLUR4cE1aZlJsN3RyLVAxSVEwLWhkVTB4T3I3TmxVSFhEbENUeWZnVWtFQVpvRlRmSkc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788502460032
+    },
+    {
+      "id": "news_government shutdown_USHouseclearsspendingstopgapbackedbyTrum",
+      "title": "US House clears spending stopgap backed by Trump that averts government shutdown - Montrose Daily Press",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRENGVU83LW1nS1NfRmRvNGlKZEdJYjFtU242YmlUanBaUVBLbWZ6RlFwVlpVeEw2bTZMdkVWYndIZGZTbm85WEtiV0xHbDBtV09NcWJVME9PQ2wySDRFV1Q5Qzl3U0czQlNPbDdVQkJoc0ZYWXVCbjBnd29IMmc4VTg5TnVzaVZhRlFOYmtuTkpiWm56TjBlNkZSYTRLTUM4ZU9wSjJVYms3U2Q1cE5wRlNMTzY4Y3d2ZW9OaUpZcExmSmxqa2tDNGlPVFpxQlBkaU5sLWp4RjZodU9VRlJqdlRaTnNKMkw1QU01UEplYU9rRjRPU3hpUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788502457959
+    },
+    {
+      "id": "news_SPORTS_JudgegrantsinjunctionallowingLSUtosignfo",
+      "title": "Judge grants injunction allowing LSU to sign former NFL players - NBC Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcHNhWldULTFyZVhkUjV3Zzhqb2pxNTU4SmtxT212VUNxQjMwbDZDT3RLSmJ4VXlCbEwwa0I3ZkxENjA0RjVKX1FpaDZBMk1DOHVIRUFrc0Vra0N0clF6OHNoRXhDaHkzci1LWWg4Y1NiUnZNZk5UNjVQVFJrdmNkTDNKX3BoMW9RWEpNWHFxVE14dlBMYjlNM1FDRVpoaVhYNnN3X0YxdlZjQ3BXOFM2NDVmMVJiUmFzYkhTb01ZSVRzc0U?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788502445056
+    },
+    {
+      "id": "news_ENTERTAINMENT_SonofformerNFLplayerRHOAstarindictedinse",
+      "title": "Son of former NFL player, RHOA star indicted in sex assault case - FOX 5 Atlanta",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdHhKUk1xRHNSZ2x2Z2dkTkxCcUxEN0VPdmh3T0FtVWNQTlBSZW4wd19VMmRmcExVQXRMek1heTVqaE16UzRIaE5QdThEdFhtMDllN3VnekJET0lVZmt2R1cwYWdHR3NWYVF0WjlnMTNCMW9iaUxhYURqS1R0aTAxdnhPbjh4MElDTkYyX1I2X0tTUlk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788502444359
+    },
+    {
+      "id": "news_ENTERTAINMENT_Musicianpregnantwifeand3yearolddaughters",
+      "title": "Musician, pregnant wife and 3-year-old daughter shot and killed inside home - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOODFnYnV1bV81Q1VzQ0taaFFCRHZMQXNmMHNlTVhDd0NGNXZWbXZPaDE1d0cwdzNUemluR2xIbW9PeDFNcUtpS2JROE05OEZoZWVrcmtOUURKSmM2V09SeHhhSGpDeWpLRWFwRnBFRkR2LWZ3aDZvODhuOU9FamdBUk9pMXlmU3VPdGFPUFY3VTFpOFM5UDdvSkFqTWowUC1TN1ZkcW5ETdIBrAFBVV95cUxNbE54OUh3MWFGQ0xkUjhkRWMwZDlHd2dza3lrR2tqYlk5XzhlMWhkMkZqVjdMVFNnVWxvVGFDMEowSVVuWVV2aU1HQTJlb2kzZzRhdGU4VFU5VWswSDQyem96aVBPbW5iSzZvTUpjS2lOck5lMnVqQnJxRlVxUmczMVV6RTRpaGlXTkFjS3Uwb0N2eldIdTkwMFFJdDNqNDZWWndkeXVHdVVRb0RT?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788502444359
+    },
+    {
+      "id": "news_BUSINESS_DieselpriceshitalltimehighasTrumpadminis",
+      "title": "Diesel prices hit all-time high as Trump administration brandishes energy policies - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU29QTHhDNmN1d2NPYVBRRTFVTjFwUktQeFhaWDQ5dkFpSjV1UEZhdXU5ei1pQU1zVEloSEdzUlJmRmFIcTdLSlAzaC1ycElKd1ZqNlhNS012ZHRsMjFlZWREUWNsM0NaOTBQcnlrQ3hwbHNqRlJRM1h2dzhkSTBlYllHSi13X0d5QVFuWDl4Q1hTSFkwQkZGZU5EUDlrN2VZRVJEQTZfTXhuYm01ZmNXUzVoUDVRZUdtYndmOGk4TXg5Tk56bUlFS3VWbWk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788502442966
+    },
+    {
+      "id": "news_NATION_DeadlydowntownMinneapolisshootingstarted",
+      "title": "Deadly downtown Minneapolis shooting started as a custody exchange — here's what else we know - 5 EYEWITNESS NEWS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNODhSMDg3UmN4b2stLW8xV2RBR2RiM2FJVU5BRzdlcDAyLTRvdWVqdDc0ZHkxZHk4RGZvbnFCSGJqcEJrVUhyNFBuZ1JoTjhzVHpRV2pSVEJIaHU1cTJfRFNZa05Cd2pibW1HN0syLVlmYmVzZmtleVdjTlpZdmVZQkc3WEtDUGtyZGFTSzRUejJ1SVRDamhhRzNqTkducGVfYnJrNGJkNmZUWnVvcmtUQXZmY0RKSXM0MVU2ZnRBSlR3dzRkNmc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788502442220
+    },
+    {
+      "id": "news_NATION_Before5yearoldsdeathparentshadahistoryof",
+      "title": "Before 5-year-old’s death, parents had a history of child abuse charges and drugs - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjVwcFZNZUlfWEhMSlRLSmJ6SHd5WUZ6M09EYTliUWt2LTRuSGo3TlN1R2lsdXVuRTVkY095enMwaExWSzJIcUxOdXJ5dWM0YmxHSVJ0TGxEMmdiTDR6a0puMmh0MndoU2ZjUUNuZkJOMGtWaVpXQzgtUjVmMmFzWTVLTmRTX3EwRDdIUXJDeWVfdGVhQ1dCNTkyZVgydlFDWmd4cXg3YkZia0k?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788502442220
+    },
+    {
+      "id": "news_NATION_TrumpasksSupremeCourttoliftblockonUSPSpl",
+      "title": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting - npr.org",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVdrZmt1WkFBTTZqdF9tWTZzUlNoMVVRajhMY3Uzd3JqbGpuNlFIUi12WVZMTFNkR3NIekxDTGt3QXZhTzZmcUxGdUY3SFB3WXZlZHc0WXQ5ZHNuZW9RQmhhZ2ZYM2l0ak9UME0yRHF2Rl9ocG1teDcyNUUyZkVXcjF4eG10QVF4b1A0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788502442220
+    },
+    {
+      "id": "news_NATION_TrumpappointsAdamTellenewactingArmysecre",
+      "title": "Trump appoints Adam Telle new acting Army secretary - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkxySG5uUThHS3NqWDliVC1zR3VBM3NaQXMtcUhBcWpXTnVmYTBWaUhKZVdSZkthSWswaWE4LWhzNldILTBlSUd4b2FnVnB1U0cxazRkU0hDMjgzSWV0cVYyaG5VX1lDZzRTSjJXNHZEWkxXMUlsRk9INm9IaC1BSk9Kd3J2MVdPS2NqOWdaSUt1ZGt5TDhIZG0tU1VWYXlrMmhiQWtnRkZkd3VQbGpZc1pn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788502442220
+    },
+    {
+      "id": "news_NATION_WhiteHouseripsactivistBidenjudgewhoupend",
+      "title": "White House rips ‘activist’ Biden judge who upended Trump birthright citizenship order - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVHZrMzRoZzZEZktXOFQyTXRXMWtNMUJZb2RDeFNFZVdqVnJIQVB5OUpNWmZIZnBQTTRweUZDRGY5S01vTnFFMVExVWRMdGhJMU9wbTFVcGRjNVBmVDFxeWFMWVgxWW1nLUk1MlozSHR2ZXpOUm9uRzNtZjhxRk54NjhQWGdJNGV1R045NWVzUDhWcEk0a0FyU2NCNVVsMmFWT2pwa0l0c0dTejQwSUxXQWpCSdIBuAFBVV95cUxQcmRKWUpHblQxZkwyaVNGQ0NIOHVnZWF2enRtVE5NRURwVnZoU0JkeGJKT0c3aXhHSkt2QlVfSEROcmRjTndjRTl4VUdxMkluRVgtQktURVlZd093NDFnczRiclQxSHNKX2ZTNFlTWUpCS19NTVBRT0c3TzUyQjFGWDJvNDdmeVRVakxWYzJHZU5aM1lZUEdQclZFaVZHYTZjRlpaSmVhOERabUJCT2hneGVxVS1oRy1O?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788502442220
     },
     {
       "id": "news_SCIENCE_An18yearoldhighschoolseniorfromPasadenaw",
@@ -3676,6 +3797,17 @@
       "ts": 1788339077026
     },
     {
+      "id": "news_WORLD_OpenAIfaces30morelawsuitstiedtoTumblerRi",
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting - TechCrunch",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (WORLD). figure/entité tier-8 (openai) mentionnée; mots-clés viraux: lawsuit.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcFUtdHhzQlF6NUoxS0RZVUQ2akttM0E2M0l1aVpqSk5VRTB0MHkwTDVBTVJad1V1MXE3Qkc5MldmTlQydV9PWUVSdGRwV2dxb3c1UEI3ZzBFSkFzXzRlV2hXdGRFTG5YUHN5bmtwaFZaZWU5VnFpR3A3dmZBSklkOEdhaUZXcG90TmVzLUxXdUQtMXZHc2pIRmpqSQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788502441517
+    },
+    {
       "id": "news_BUSINESS_OpenAIunveilsGPT6Astrawithmajoradvancesi",
       "title": "OpenAI unveils GPT-6 Astra with major advances in AI capabilities: 'Now in the AGI era' - Fox Business",
       "cat": "macro",
@@ -4246,6 +4378,39 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339078528
+    },
+    {
+      "id": "news_tech ceo controversy_AndyByronUStechCEOresignsafterColdplayco",
+      "title": "Andy Byron: US tech CEO resigns after Coldplay concert embrace goes viral - BBC",
+      "cat": "macro",
+      "heat": 6,
+      "desc": "Actu détectée (tech ceo controversy). mots-clés viraux: viral, resigns.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1Ul9oeDRuU2E4VGJPUnZINTZ5MUIwY3JrREFERXMzT1dJdkFjYXIzd2s1Qzl2dndRRDAzZjNqM2phT2JVME40bi04b180NUhhRG5jbS1uZnI0UQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788502461041
+    },
+    {
+      "id": "news_internet drama trending_TrendingBrownMogotsiscourtdramasparksout",
+      "title": "Trending: Brown Mogotsi’s court drama sparks outrage, mockery and bail debate online - IOL",
+      "cat": "macro",
+      "heat": 6,
+      "desc": "Actu détectée (internet drama trending). mots-clés viraux: rage, outrage.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3E1eWRhTWRLZ0pTVGpnMXp4NDBxTnlhbVl0eDBCZTZTeFFHUGh4V1NOSmNWUW5XNnBCRE1WSlB3ZEZtY0t3UXl6c0laRlJtSF95YjRwb0VYdTdTTDdfeUdkb3ZQTHdfbUtMck9UbW96cFRxanFkYWp5d0xZcUpWNTd6UDJ5eFVGNWlHOWpseGdiaW9neVFXZFJjM0s0R2VkRXpIcVFOTi1aYTFtUVhXc0I3eFJxcDBmd2toZkFSUmotOVpE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788502455813
+    },
+    {
+      "id": "news_viral scandal internet_MaryKateCornettplanninglegalactionagains",
+      "title": "Mary Kate Cornett planning legal action against Pat McAfee, ESPN over viral scandal - New York Post",
+      "cat": "macro",
+      "heat": 6,
+      "desc": "Actu détectée (viral scandal internet). mots-clés viraux: scandal, viral.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTlMVV9qMHpfMlg2ZmZDMGVQcmF2LXNUb1k1TTQ1RnVEU1VoVERoMWVrYzhhNUxoR1lPR0p5WC05QVFOY1RXN00xbFBLVVBfS1FXRGsySmd2aGFBbU5wNEtGbzFCRmE3ZzcxdnVBSWJhVkphaUczUVRmRHN4dmJENGNrTzZYbW01TlljdmwyVkN2a1JfNkh1TFNwOG1wS3kxdnZqa0dkRDJhX19SVWxBMllzcDl5TnV3bGVRaA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788502453719
     },
     {
       "id": "news_viral scandal internet_WhereIsThePinayGoldMedalistNowInternetBu",
@@ -5335,171 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339085203
-    },
-    {
-      "id": "news_memecoin launch_BestMemecoinLaunchpadsin2026TopPlatforms",
-      "title": "Best Memecoin Launchpads in 2026: Top Platforms to Launch Your Token Before It Goes Viral - Bitcoin Foundation",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (memecoin launch). mots-clés viraux: viral; référence directe à un token/ticker.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBV25oRXlJamdUbjZNTEM0Y2FiX0ZZZkpFUjZDcjA0Rkd0N0c5eEFHWktwNWVpSFdVOUhIUG02cUk0RlFROVlPUDJ1eXotd2tlSU82VTI4MXAxVnhiNDU0eGFpS2FoX3g5MDZya2pBcFJzeHZ4RzBFRA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339084123
-    },
-    {
-      "id": "news_gaming leak_Huge12TBLeakExposesaDecadeofSteamsGameDa",
-      "title": "Huge 12TB Leak Exposes a Decade of Steam’s Game Data - CNET",
-      "cat": "macro",
-      "heat": 5,
-      "desc": "Actu détectée (gaming leak). mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWE12SF9sZ2tVU203emxmbXdNaFp5MW56dlgtWUZoNTRyYTRTWHJJSk90SVVOYzBjSV9NTFFJdWliWE0tMEZMM0hwaU1YMUpldkVCSVUyVkRWbFZMdmcyYjBXUHIxYzNSdWxUaFlsYnE4a005N3dEeXRCOUNvLUw3SnV0dlVoUlZ0RHpILWFn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788485160501
-    },
-    {
-      "id": "news_gaming leak_12TBSteam2TeraleakExposesValveAndThirdPa",
-      "title": "12TB Steam2 Teraleak Exposes Valve And Third-Party Game Files From 2003 To 2013: 10 outlets compared - NewsCord",
-      "cat": "macro",
-      "heat": 5,
-      "desc": "Actu détectée (gaming leak). mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYUp1X1dOYVliNEx3RlhidGRyZ3hZNllHcUx2aTVCNU55a2VKcHBCRGRscEpkRDJWanlIeTl0bmREUHo3c3oxTXVyYm1fMWd5NFBKeWEzc0RvY3FQQXVsQkNiODhoVTNQQ0t1VVd4aFNDcTYxRmxfTHd3UUFMQ1hGQktzQ0hwcUtITTk2ZjU3VVEtd2ZVcWNVVXBpZFZDM1JXNnRHa09lNnNGVlB3Q1otYWwwb0YySFZNOTNMc3V3Nzh2Rng0MU5HNW1IQzZNV0lCRjFUY0pvek1UN09jQXRjdE1rQ01HWHIy?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788485160501
-    },
-    {
-      "id": "news_gaming leak_NewDetailsLeakAboutAll5FableDifficultyLe",
-      "title": "New Details Leak About All 5 Fable Difficulty Levels - VICE",
-      "cat": "macro",
-      "heat": 5,
-      "desc": "Actu détectée (gaming leak). mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEJKSkJmcEZGaGxTQlJDaldNY3AyaGR0RFJoUVBja3dwQkF5UmlmWmhoejd0eGVrM3NpU24yRXBCcGEtRGhEOFNKbGcyMVZNUU9vZmZ0QmNhYmNLY3lzNzVfVWVYYXlSNTNFU0QtYkdTdk9iU2lPX3N6akl5Yng4dTBDSHc3b2J3TUFOT3VR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788485160501
-    },
-    {
-      "id": "news_gaming leak_Steamsuffershuge12TBleakaffectinghundred",
-      "title": "Steam suffers huge 12TB leak affecting hundreds of games, including Half-Life 3 content - GAMINGbible",
-      "cat": "macro",
-      "heat": 5,
-      "desc": "Actu détectée (gaming leak). mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmx2SFNhaDBPWFpWQ3BURWhxSFBKNGlNUTFpVXMtNzY5ek53UEN6UWMtSE5YVmNfZnZxYjh4YW1kbGJQVWdwaFJsT0JqbTJXZjdZNUtPOE1fZ1RuQktMZFZYWUlHMzMtc3c1TFd3dkt6YjFmbzByOFZnU3FsRUN2b1dpSndwdlVZb3RVQXV3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788485160501
-    },
-    {
-      "id": "news_gaming leak_NvidiasDLSS5leakismakinggamesprettierand",
-      "title": "Nvidia’s DLSS 5 leak is making games prettier and people weirder - Digital Trends",
-      "cat": "macro",
-      "heat": 5,
-      "desc": "Actu détectée (gaming leak). mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRzgyekpsbTBVLWZpaF90eVpGWG0zUkVNMWwtVGp6UTltb29tbHA3S3VGNElnZk5RbEFHNU9LOG5QN3d2LUhuOXdDbjhaMGFtNmdJVWJwMFJjTGt5N29DeUJUMVgySkdIenRTeFhZNzRPMG0xd09TZllvbzczdHdVa2o1MTM0d3VZd0FJWHY3TVUzUVMzYmo5QzRMT3lpS29zbWhn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788485160501
-    },
-    {
-      "id": "news_tech ceo controversy_FormerTechCEOPleadsGuiltyinInsiderTradin",
-      "title": "Former Tech CEO Pleads Guilty in Insider Trading Scandal Tied to High-Profile ASX Collapse & Intermedia Group - ChannelNews.com.au",
-      "cat": "macro",
-      "heat": 5,
-      "desc": "Actu détectée (tech ceo controversy). mots-clés viraux: scandal.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeXBqUFVkME5uWnRFYVh6UlFqZzE4REkzcGllVktmWjdaMGhiSFQ3MmVLWW5Pdl8xMVBmUF9tNzZjeHZiRzdBczlMOW92ZEJHU242TUlya0xvYktXY1VSSEVMNVV3T1pDLTUyaVQ3Wnd6Zjk1NmJTcjNuN0dnSE9iY3R3Qk80LU1mZmdMNjUwUy1tVHl5dGVzNnZOakE3aTNNRXVwa0Z6TlpJNGlOd1oxTlNIQjlyeDNWOVhtZmxFc0ZBSmZjWkZkczg3YnRNaVVqSzhvTkZR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788485159412
-    },
-    {
-      "id": "news_billionaire announcement_AttorneyGeneralSchwalbSecures40MillionFr",
-      "title": "Attorney General Schwalb Secures $40 Million From Billionaire Michael Saylor in Tax Fraud Lawsuit - oag.dc.gov",
-      "cat": "macro",
-      "heat": 5,
-      "desc": "Actu détectée (billionaire announcement). mots-clés viraux: lawsuit.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RdFB6bjd6TTZubkU2VHZxRTFpcUxHME9ONlA2YzhEWU9HTldZRTZuRU9KWjZBQThBbk1qdTZvbVpManJxaWFkNElJNlBQaUs4YlpJczFBUXA3MFFNZ2tpWFhRb0ZzcnREcUNDaTZWVEZ2VW5lTTNxYU13?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788485158335
-    },
-    {
-      "id": "news_internet drama trending_The10MostViralMomentsof2023TimeMagazine",
-      "title": "The 10 Most Viral Moments of 2023 - Time Magazine",
-      "cat": "macro",
-      "heat": 5,
-      "desc": "Actu détectée (internet drama trending). mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MakNGRjdGRlAzRVplalgwZkpNbkFLWUpKbFh0M2tPWkxwT1RDcEFMY0RUTTFIU1VKWXk5UHlLankwQkcwbEFNbmFtTzlETGc4YTA1VS1jV2FoQ3BWU3c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788485154013
-    },
-    {
-      "id": "news_AI controversy viral_TheresSomethingVeryDarkAboutaLotofThoseV",
-      "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos - WIRED",
-      "cat": "macro",
-      "heat": 5,
-      "desc": "Actu détectée (AI controversy viral). mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGoyejdPbmZkU1Q2b2FlUHg1YlZaTFhjdzVOYVB2X3pKQWRzRTZoSzktQXFLd1dGUXJCcFVEVURlM2VvUzFLUkhvcXY2ODZTdGNyeE1yNFYxTDV2emoxRXVsT2ppRE5OUDJCdlMzMFlDVjBFX184UXZMRGRCdUZOeURQUFJkN3d1RjBZRDlwNDRrSlJDZzhRRWxGV2xNOU0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788485152989
-    },
-    {
-      "id": "news_AI controversy viral_MarinersbroadcasterAngieMentinkrecoverin",
-      "title": "Mariners broadcaster Angie Mentink, recovering from recent stroke, criticized for AI usage in misleading viral video - Awful Announcing",
-      "cat": "macro",
-      "heat": 5,
-      "desc": "Actu détectée (AI controversy viral). mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUm9zdW54cC10NXQ0M2RMeVlRdXJzRDA1dHpFSnJ0aWZWNFhKTmZQUk9MWjA2R01DaW9UYWpRcnhGZ0lERG1FRWtHQUV4WFJDN3N3azhrXzBXaTRObTZqUEU4ZjRtdmM4a25wT29jSzJNdzBwN1otZURXcThnWTZfMEh5MFRIT2kyZ0JaWk5VYzlHLWRQZ0k2S3ozcUxoSUJ4MkNsNF9KZHI3cmdLQ0E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788485152989
-    },
-    {
-      "id": "news_AI controversy viral_IsNetanyahudeadInternetclaimsrecentviral",
-      "title": "Is Netanyahu dead? Internet claims recent viral video of Israeli PM 'AI-generated' as it shows '6 fingers', sets rumour mills running amid Iran vs US-Israel war - timesofindia.indiatimes.com",
-      "cat": "macro",
-      "heat": 5,
-      "desc": "Actu détectée (AI controversy viral). mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPM2hfdmpLQTc5LWpJU3ZzVk5LQWtRX3RBeGlNN2U0dm9LM3hqOXV0OGRZU1Y5QnhsbTJaNUJaTVdmNjVSVmhSUEx0R2o5cmdYU2dhS3R1cmUyX0RkampkZGV4T2Y2Qjd0QjkyTE92eTNYb3Z0NVNLX0wtVlo3Q3M1VGhFWWwwVW9GX0R3NThEbVhaSDlYY1RTdUhBWlNCQlQzRGZqd21iTm9PQUhHS2xYNXl2MUhsQW12LWN1R24xWWtwQmMzVm5yRi1CSUIxSHplM2J1cDhTTllWbERxUFljQTFjZDhfMUh5QWVwUUZWdVQ5MjEybjY2SGhxekhMdkFfLWwySC1jYmpkSTl1QU8ySmZ5WlhsTmpmTDRkRjZNTlJqZExwbnFDRmlUYVR4LVZZS1dxbTFaUXI4TFQ5cGR0OGNIWEpvY0ZWRHd3SERFdkJZZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788485152989
-    },
-    {
-      "id": "news_AI controversy viral_SixfingersAIconspiracytheoriesNetanyahus",
-      "title": "Six fingers, AI, conspiracy theories: Netanyahu's viral video fuels online debate - firstpost.com",
-      "cat": "macro",
-      "heat": 5,
-      "desc": "Actu détectée (AI controversy viral). mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWgzU0NpWVdyTUJkcFhvamZTc3lLVE42eFJPYlIwVXp1SkFuVGxOandmQ2hKaHczX3JBdk5ETFFOVkx4TC1nMkVCUUl1ZXFjZjl6Y01YVmJhUnBKOUtWNHhpYUxiVjNUVW5NR25QeHBUWk54aksxYldvdExTU0V4dXV1R3F4NDFfQkl6aVY2MjdBQnVWTElxdmF6TFVHeDlqR2pyT045YmZCb3A0NU11RUZVUFM2dDd6eUltaWszM0vSAcYBQVVfeXFMT3dvc3RLNGNUdEJMLTlpU0hscHRJeTV2dzZzb3FUc0NTV2t5eTljVFlkelFUQjZEOEpjbi1uLWpyX2kwakFtbnF1NXZJMk5pSVZZSmNyRzljc0huVjBERzR6NVU3NTBsYlVobVdVYUJ5MzU0cy0wX0tkUFNPSy1UTmwzOVZJZlZsV29QbVg3aWdyaWhwWE5hTGNHV2tVaFNmZTM5OG91djQ0VXhDZDZpWnVoS1hqdGZZN3cwOGI4MHplUXFsOW9R?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788485152989
-    },
-    {
-      "id": "news_AI controversy viral_KushaKapilaCallsViralSelfieWithSamayRain",
-      "title": "Kusha Kapila Calls Viral Selfie With Samay Raina ‘AI-Altered’, Shuts Down Reunion Rumours - newsmobile.in",
-      "cat": "macro",
-      "heat": 5,
-      "desc": "Actu détectée (AI controversy viral). mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbG9kREJZczZhU2J1SzRhVGtHUjN2c09fR2w1Y1Q1ZVYweTFOV2QtdGdfZEc3MHVXRzN4UFhFaG5GMENBS1Rkc0dXYUtnTlRxQTZCN3NBRy1OdGQxeGhPYkRCU2xLS3ktMGlrYTg1T1FWMmk0cE5LNUVGckVFMXlYaGtzSzBLREZaX3dzTkJwV2tjV2pnTmMzUFRFcENZYVFyNVBVSVg1eDRyY0M0Zk1fbk5GSmw1YUpsMDFGV3ZVODV4YWFSeXFOag?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788485152989
-    },
-    {
-      "id": "news_AI controversy viral_HumiliationatAISummitGalgotiasUniversity",
-      "title": "'Humiliation at AI Summit': Galgotias University kicked out after viral video reveals ‘Orion’ robot is actually an import - wionews.com",
-      "cat": "macro",
-      "heat": 5,
-      "desc": "Actu détectée (AI controversy viral). mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQS1lTV2paWXI1UDl5T3pQQk5QRU83eEJMQWwtVTZ1TW1rUHAxLVZkWEJjbXliOENseWV4VVVGQ3VpcElLQWVhcmxtWmxRTWJnNTFDam5Jay12ckZfejA2NHhmaUFTTUxfRGtpSEVzaGlZNGw3R0JucF9rSlhPOUNTS0R3c3o4QWstODVqYjNnQTZkUGh0UW5FSXpybmRGbWVlelJ6ajRpOTNHdjFRWUZ6RDBvX01TZnZDQzl0Y2dFQjlNNU9uaGRieHdmTVE0aWtyOUtvOTllcUZ5WXZvd243RkVOakhMVDhTb0tJTzh5VjA4ZjVL?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788485152989
     }
   ]
 }

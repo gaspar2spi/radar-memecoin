@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-05T15:05:18.537520+00:00",
+  "updated_at": "2026-09-05T17:17:59.119771+00:00",
   "signals": [
+    {
+      "id": "news_WORLD_YemengovernmentlaunchesownairattacksonHo",
+      "title": "Yemen government launches own air attacks on Houthis: What that means - Al Jazeera",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRV9BRl9DejN6ckpPUVZabTRRbkF1S08wekVya0Y4UFV0Q3MwMnE5aGhXWTM3Q0Jta3o5SzRhX1lxSGc1T0lESEFGUzc1Y0xCcEF6SzQ2cUl5WFJLTkxMN0JCZWFUWjNvSUxFNzVvRHNFSVdWczZKVGxVZ1p0cEdfSE1KeDNLSUc3aVFvNE9VbVVHWWw1X0w3WGFrT1ZPQ1JxNmt6MTVYN2dpVHVl0gGyAUFVX3lxTE1oU2hxQ2Q3b3lwV1dESUh0R0FCNmlTR3J2Zmc5aFU4RU9zWHVBUEVoMXhYNHVROTlfaTZFQkZIeTlHdmpvbW5xdk5qa0E0Qm1BbVZGV1J6QldzY0RHRFpBQjRCeEFhWFNBMms3UVI1ZWVGaHNueWszdmJ4d3oxTzdCaGx4d0V5R0VNQkJNVGFYYXRLekFwZnpNUmZYWEwxaDd1U1NtN1k5ZDFWaXcwNE1SZVE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788628649934
+    },
     {
       "id": "news_memecoin launch_Top6CryptoExpertsReactionsToTrumpandMela",
       "title": "Top 6 Crypto Experts' Reactions To Trump and Melania Meme Coin Launch - Yellow.com",
@@ -407,6 +418,116 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SPORTS_LaneKiffinLeavingformerNFLplayersoffrost",
+      "title": "Lane Kiffin: Leaving former NFL players off roster in best interest of LSU - NBC Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWlVuZkUzZElqdDMwLTMtNnBzVTkyZTRJby1uMXltWkozZ3dwcVZ1LWxCeG5pLWNKcTZqZ1EweHNoV0dmWU1wNDQyN3hwYVNXMmFEZU5KTXFXQXVUZjhzVmVBQVhhMUFESlBXYlp6RnpkbHdZaHJWRmNTTnFQRGJwZVFrclN2bzhva2dnZ0VYcERJYjdDZzdRbkNqSjV4bHp4djBBM1dWLVdBN0ZvSU01U09YWFBqb01iclRaOFJ5Qzg5SHRXX2wyOTBkaXN2NnVo?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788628653854
+    },
+    {
+      "id": "news_SPORTS_AndyRuizJrdroppedbyDamianKnybainembarras",
+      "title": "Andy Ruiz Jr dropped by Damian Knyba in embarrassing boxing comeback defeat - bloodyelbow.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFRNUlV3TnpvdVpNWUpaSUV6aGpIaTVqNlVPWTh5MnNwWnZ2WDZkOE5JMlhFc2JuZFZjMVV4emM5OGloQ1R1WDdGbVpMWGIzREhncXRiUTlpNmJoUFc4bVFla3hiOGNoWmstVVNXMXozclcyRTUyMEwxQjBfcUUzbFJ1Q09Nb2tuaDNwOEVjdDgyU3pvVU1YazItVjJ5LW9BRExDQ3QydjJkUUJBREQ3bQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788628653854
+    },
+    {
+      "id": "news_SPORTS_NewcastlevBournemouthHowtheplayersratedB",
+      "title": "Newcastle v Bournemouth: How the players rated - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41X1JSN2RpM0tkekFQVTFZNWZCX1JweU1VcGVnUG1EN1RUSzVfazVjVEdQNFFubEE5cW1WOWlCSlFSTnI1LUd3enJvdThWV2dHZUZtQ1NMVFRVdWVvRS00QU1MVWNKcU0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788628653854
+    },
+    {
+      "id": "news_SPORTS_KhamzatChimaevweighsinsurprisinglylightf",
+      "title": "Khamzat Chimaev weighs in surprisingly light for his RAF Moscow return against heavier Tyron Woodley - bloodyelbow.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUUdlMVdvSi1HLS1sdFU0TFRHc0Flb0NtMGgzdU16UWJXVm9jeHhDbnVkOFRrZFNEXzNWa09rMUpUUThfdERZcVludTJwSDE4YVdUNGU4cEVIcUtqUnBELTlkdkFLTmc5M2NUOVgwSUJTTUNfS1FNN2xWVEVobTZXNDZNcTN5dXdPOF82NVI4RmMxZkUwLVhBZV9ZSk5uWmJQNTBWbmVNbTBHMHVsUDhhMEFGczR1REloYWFrVHZ2N3l2Rk5HQ1QwZlVpNS1GUHNFdGc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788628653854
+    },
+    {
+      "id": "news_ENTERTAINMENT_Italwayscomesaroundfansreacttoconviction",
+      "title": "‘It always comes around’: fans react to conviction in Tupac Shakur’s murder 30 years later - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT0x0UE9GTVVfdWQ3S3RjQVpycF9BaXVJZWtFNklmY093eUFKYk9JRnFaR1lHakg2bUI5cjJXRXo2SFRQT21saUl3ZmdWbktfeWNwblUxOU42LWlHM1QtcnJVOUhtbHFUV0RsSW9kWHpwb0NnY0lFeEZpRmo1YXFwdndzZTA4VlNlN3B4TV94ekswb2hKX3c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788628653115
+    },
+    {
+      "id": "news_ENTERTAINMENT_OasisDocumentaryDirectorsonFilmingtheBro",
+      "title": "Oasis Documentary Directors on Filming the Brothers’ First Reunion in 15 Years and Why There Wasn’t Much Emotion in the Room: ‘It’s the Gallaghers, It’s Not ‘Dawson’s Creek” - Variety",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTFaLXVXS0pUbG0yNVIteUtVMExmb1pHNXo0NF9iLXJUTktnZ21mZzl2cE1La1Fmc3YtbzhNMGJXQkl2RHJyWE56QkZXdkdrS0tnY2pYTXV2RzNjVVViOWozLTljMUdDMDBHNDhySDFxV1Nwam15QWpUVnhVekJwb05WRUN1NjBrRzRISzFQRnpaTUwwcDliZ1ZMRC1tQW51ejNWRVFB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788628653115
+    },
+    {
+      "id": "news_BUSINESS_Trumpkeepsheraldinganeconomicboombuteven",
+      "title": "Trump keeps heralding an economic boom, but even a solid jobs report is causing problems for him - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzkwVWZXSXRVZHc3V2lJakNMRXBMd2NqZHZ3NlBKSm9NWnh3ZEVtOXRqUzY3UE8tM1otWUNQemF0VHdhbmYwdWQ5a2Rub1ZMbmREZ25iLWZSVnhBQWVsdUlEdE55WW84b19zS2J1S2x1TTlmWkFjUWtSS1ZWRnJFU182bnl3My1rZ0xPeVBfVVZ6VlpWTDJva3NUbEY0blJOTXFaLWhfR29hdktrWERqLW1hMzAxT2xKMGpR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788628651550
+    },
+    {
+      "id": "news_NATION_CommentaryTrumpsvanityarchiscomingandits",
+      "title": "Commentary: Trump's vanity arch is coming and it's no triumph for taxpayers - Los Angeles Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVBZUGNfR2tlSzRrU25ROXBqQVlibUZfamJMTF9fc3J2ZUxMcVhUeFNVOXRFT29lVTR4eDNkc2tFZm9TR0JOVGlFNjVpLTNQcXIyOWcwbFlLYVBkLUFPMERQbTBLZlZKU3JJV1BJOHRqSkJQeFJYQVZmZUNrbERPWXE3QTFiemQ0c1RCZ2FqdzZmNWUwZEt0UUZuTTJSODNKYV9B?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788628650731
+    },
+    {
+      "id": "news_NATION_WerestuckGOPacceptsTrumpsallaboutmemidte",
+      "title": "\"We're stuck:\" GOP accepts Trump's all-about-me midterms - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TNVIwZkRRWndWU2JMSTU4SU1DZmEtcnE5RXFqZEVqY1VoM2lzS1BTZ2hMV0xRNThJMGdoaXpWS0N1ZFdXaTllNElrQjFmS0lKalVxVFFmVW52eG4xd011SFdmYU5SUDJhWXRtb0JPc1JzSzQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788628650731
+    },
+    {
+      "id": "news_NATION_Trumpsignsorderallowingrancherstokillwol",
+      "title": "Trump signs order allowing ranchers to kill wolves to protect herds - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTjdkSTNLNmFlWFU4Z3dLRU9vaXI0b0VlMElMU3M3R1FhRkJBbmIzd185WjVlNEdHX3kwdHlxUkM1ei1HTWZCS0xqaVdvU0lQZ1VCMi1UdFZaTkxudnVsblB4NlQydmF6M2RSSnc1b1M2dHlYNEdVX25MajNXeHh6ZC1SZUZDR3huVGdIMHZxdl9EdUpkYnNOekpmc2RDUdIBowFBVV95cUxQQlVYMGVDbzhCSWV6M1Q3OEI4QzhEM0ZzcFNWZWF1dWk4aDhXVjlLOVh6d3ZwS2lnQU1DYjNxOEtHRUJnelN5T29hMkZuMGhqbGRJcVJ3VEJ3Q091cF91Q1hzNWtxYjZZaWpoQkdaS0x6LV9nVWQ4V3NLcy00cHRTNF8xM0k0SmI2VEQzZ05DQ0lpZ0VlUV8zWEhwMi1iR0RsdGM4?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788628650731
     },
     {
       "id": "news_SPORTS_ScottshinesDedicstrugglesNewcastlevBourn",
@@ -4897,6 +5018,50 @@
       "ts": 1788339077026
     },
     {
+      "id": "news_tech ceo controversy_ThetragedyformertechexecKristinCabotsays",
+      "title": "The tragedy former tech exec Kristin Cabot says followed viral Coldplay kiss-cam scandal - VnExpress International",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (tech ceo controversy). mots-clés viraux: scandal, viral, rage.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZVRJZWsycHJfM3NKenFWalMyb2pVMnJJRGhBdm1YZy1MczI2cExuOElhdEc2ZlUySXBSZ0FJZmJLdHNhU2NQb3lCXzBvWGl2bXNsbldKUDdkU3EtQ042UHIwQnlfUi1aVEVCNGRrSlBKc2JkeDdnTVFoWVZ2bHN0UDIxaHVWRUlHNGZYTVQ5X1ZqQnZZTm5VekV6Y3RZWWw2UWdrWlR1R2FGNk12MGN1SHAzOEx0S1dlRVZVdWV1ajdHUllfVzVXQzhEUjVGdWEtcHBjVmF2eWFUMFdOMXQ2NWcwNA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788628670600
+    },
+    {
+      "id": "news_leaked footage internet_BREAKINGAthirdGTA6gameplayVideohasleaked",
+      "title": "BREAKING: A third GTA 6 gameplay Video has leaked onto the internet. - RockstarINTEL",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak, leaked, breaking.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXJ1Q1FpWVBpOHhuREt0NWp5ajRSX0QzeGhIc09LQTRZbGM2aFVkUnNiVmlrbDVTTTY0Skx6UmpCMmQ4Ylhia0RzM1ZTUThlbE9pcndBcG5acXBSTHdzRWMyQzBQMFc1YklZTGx4NWxmREE5YUlSNE9FQzJqMzFHOWJCMUM0RXplQjFqZ3M5Y2pCNEM2enY5aA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788628658525
+    },
+    {
+      "id": "news_BUSINESS_OpenAIacknowledgeswikiincidentandneedfor",
+      "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788628651550
+    },
+    {
+      "id": "news_BUSINESS_SeattleTimesNewsdaysueOpenAIMicrosoftall",
+      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement - Reuters",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788628651550
+    },
+    {
       "id": "news_leaked footage internet_BREAKINGASixthGTA6gameplayvideohasbeenle",
       "title": "BREAKING: A Sixth GTA 6 gameplay video has been leaked, showcasing a Hyper Car - rockstarintel.com",
       "cat": "macro",
@@ -5335,171 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788395290538
-    },
-    {
-      "id": "news_TECHNOLOGY_GoogleissendingMrBeastintothewildernessa",
-      "title": "Google is sending MrBeast into the wilderness, armed with AI - The Verge",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (mrbeast) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX2tMQzZLZkNEQy1qRDFBbkVBR1VDU2ZxYmZUZmIyX050VVBySFE0d1p1b3FoaExuR3BxRmxCTzVhNm5ILVFxY2owODNYblYzWU9Ua3JNYVM3U0VjNXU0QnZQak5rMEJBeVhURVA2LTEwazNMcUFTQ1dSQWUzVWVxUmNqUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788395289539
-    },
-    {
-      "id": "news_tech ceo controversy_AstronomerCEOAndyByronresignsafterviralC",
-      "title": "Astronomer CEO Andy Byron resigns after viral Coldplay 'kiss cam' controversy - CNBC",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (tech ceo controversy). mots-clés viraux: viral, controversy, resigns.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRk9mX2JoZG5xNVFuRDk1MHlmcm55N3h1NV9FWUtrbm5vMERDRFJEV2ZMRVdkUzhyU1U5dWo1TTNDUkVWcVdwNVlUdjVHdGhmd2dJMjVuVXBkemh2ZzBYZ0Z1Z2VfMlVrazdEM2x4ZkV1YkpJWEE1Qkd4X25JamxtZDBrbUNBcEJBellycWd4U2l3amVNYTNDbHZIQTEyNlpPNm9BbzZ4M0xraGxtVllBd1hB0gG3AUFVX3lxTE5QQVRrTXU4b0FPUDZOZ21PSjAxcXdIUXpNVlhaMXowSkQteXY2OXNQRHRkZy0wSFRuUjNJc2xiRG0tZmZ0NTRiWlB1T2dYYXU5MDA0VUV1cmJrR0pBZXhNa1lESjBtV1hwc0xNTUVaMzFLZkwyN2lwdWNUUjVZY3lRdW5Remc5VHE0ZEoxc1ExcHdzNUoyV2VFMk5kSXpYdU9MLUdoRGIyRm05SXJRdWNETklPQzZKUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788387969386
-    },
-    {
-      "id": "news_celebrity crypto token_KimKardashianothercelebspromisebigcrypto",
-      "title": "Kim Kardashian, other celebs promise big crypto gains. A new study says they mislead investors - dlnews.com",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (celebrity crypto token). figure/entité tier-8 (kim kardashian) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT1BlQ1dRSUY4Q2t4NkdqaENMOHFCanlmZ0tIYl9XZEVwU2RGSEwzeDRmVDRldldRLWxXUXNBTnlkOWh4SDcxQXNGSkxpX3FpS1AydVdhaTZwSmp1TVRXTHhVRGhsUVUxRVZUX3N0N2NzT1cwdlhkTDdsUFRoMHR0SzdsbkNNTW9uaWhBeHlJOTRTODZjRXlobG1NWQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788387956727
-    },
-    {
-      "id": "news_ENTERTAINMENT_TravisKelcepurchased535millionOhiohomemo",
-      "title": "Travis Kelce purchased $5.35 million Ohio home months before marrying Taylor Swift - espn.com",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (ENTERTAINMENT). figure/entité tier-8 (taylor swift) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSF9YM1VtT2owanhFTDdYWUFnNXN3eXB5X0JsUzZCQkdKeXVlY1pWQWk4YUQ2V0htYjBDbXVFVmRyLUxfd2JKWmQ1aFBJU3FQTXZEVFlYT1kwSXRQcFNCd2tDa3JBOVZ2cnE1TDJJOElFdWZCckh1ZjhUYzNBUHd2ejBjaHZySWdySVAxbQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788387949047
-    },
-    {
-      "id": "news_BUSINESS_OpenAIsnewreasoningtechniquealarmsAIsafe",
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts - TechCrunch",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnVrQ0VqZ1FpRW9jTDdTaG1wS3FUc0VsODlDbFlqdjdhbWlsT1B0QjNwWHVISW1renJyZFAxMUpRVkl2bHd4MnJpc2tzajM1M2lTdm5wWEs5S0RRQXU0OEd6YW8zeWlZVUZXdUFJT3lYbE9YbEJMU1Qya1ZGVWtvbVZBNUVLTnRNNjIyOUdKc2FFSXpHNlE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788387947267
-    },
-    {
-      "id": "news_gaming leak_RockstarGamespullsbackthecurtainonGrandT",
-      "title": "Rockstar Games pulls back the curtain on ‘Grand Theft Auto VI’ after leak - NBC News",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (gaming leak). figure/entité tier-8 (rockstar games) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZmR0QmYzM2JvWFlNMjZnZGpET2dPeXl3eG4tYTRjdk9BYXF6RDJmR2NIMWs5aGhnSVQxUzNYeUJqQ1RfUmU4c3hJWUFGekdoNGFoNEFMMlY5MGxPZ3gwRmpiS1RoVDlhbUtTNC02YTV1aXRidGJNNC1LVjJPMVBCdDJZQU8yUXpKaDRLdmdNT2psVkdrZlplNXJQZFdsRDd6LXlOcllNZC1scWxXcVhBdzh5MGRscDBQYmxnck9jN3RobUFtd0ZaZFVpZzNSTlE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788379081616
-    },
-    {
-      "id": "news_gaming leak_ANintendoDirectCouldHappenonSeptember10W",
-      "title": "A Nintendo Direct Could Happen on September 10 With Zelda: Ocarina of Time Remake - VICE",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (gaming leak). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcUR4RHdKSHJFa0R3WFFIQ2NnQmZHLThuNU55TFJpa05iOUhab0EwMWhWMktsYUMwVHdHR0syYldYSkViZG5jUE9ZbFljVXRjMkRuUHphd2R6OXVYV01FbGhaWTliM0lWX1ppeG5SbWNKYTJtWF93YzJBZkhnYlZvRXVmMy1DSFBaTXprcTVOU0VHUmJx?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788379081616
-    },
-    {
-      "id": "news_ENTERTAINMENT_MeetTaylorSwiftandTravisKelcesnewdogShes",
-      "title": "Meet Taylor Swift and Travis Kelce's new dog. She's already a model. - Yahoo",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (ENTERTAINMENT). figure/entité tier-8 (taylor swift) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRV9aZkZJRmJsUDh1dExLSFI0SVVtNnRraWdRQlBFOEtvRmxHOWFmbXpRV0dUNGhNVmV3NkY0aGZ5QWQzYXFaNWxMdllncFBtczh1bHR1a05OclVkVFFHNGVpekRhQTZRLThidXpibEltX1pIYW0yY2RiODZPQzRiSWl6QWV2MzdFN2I3Y2hLWThfdF9OcEZRLWs4VlBpR3dFV0FWdlppUG82M1pfcUxPWUU4Z2p4THJTNmxWdTN5N1RXYzBiVDFTY09zemo1QQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788379062184
-    },
-    {
-      "id": "news_celebrity crypto token_FromKimKardashiantoNigelFarage5celebriti",
-      "title": "From Kim Kardashian to Nigel Farage – 5 celebrities who have promoted crypto - Yahoo Finance UK",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (celebrity crypto token). figure/entité tier-8 (kim kardashian) mentionnée; mots-clés viraux: rage.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFpSSW5TNTl1VlJ2S0RQUE9ranZmckRxQThpWWlISm5nVTlyLTVfNEpKWjhTNms5R2lmeWx3d2xmRnFrMW50UzFpU2Eyd0F1cUsxOEZnTHdhX2dNcWtXNXhFT0pLclN0NlpDdHpKRzVhWVpBdzZlQnBpTGF2RjhBcm5qQ3BWNGowdkE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788369903248
-    },
-    {
-      "id": "news_ENTERTAINMENT_TravisKelcedishesonmagicalTaylorSwiftwed",
-      "title": "Travis Kelce dishes on 'magical' Taylor Swift wedding, Adam Sandler support - USA Today",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (ENTERTAINMENT). figure/entité tier-8 (taylor swift) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGE2ZmFnQ1IzY0xrTGFhRUQzMVNoQVBQemZESjU3UV9TU1R6b2lxZ0gtWmVhVlNWUUxhN3pubnhRM1pxOTFqNVJkTW1jTkhKVWZ5b1RaZFVpVFdlQ2pzcks1NFBYOVV2UklkQmtLazUxbWxtSHBrWHYxWWFpRnQtajJUZXdwdnFhNTF0c05yTWxXOVpSVnIwVXRhSXVrdGxHa2phc0VqcG9qMWx2aGFkNkFfYzZoUGRnNlVLWW5aRU14S09Falp3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788369894716
-    },
-    {
-      "id": "news_ENTERTAINMENT_TravisKelcestarsinadwithhisandTaylorSwif",
-      "title": "Travis Kelce stars in ad with his and Taylor Swift's dog: 'Very special cameo' - ABC News - Breaking News, Latest News and Videos",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (ENTERTAINMENT). figure/entité tier-8 (taylor swift) mentionnée; mots-clés viraux: breaking.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckFhZmxPcnFhTThCS3YwQ3cwRzVwcFhPcFFCazlRUTk4QzRkNTY5MUFnekl5SDdockxZckM0RDBIaVRUTWVkNnA2NTZKWHZwOWg4WWNTRDdIdnlYcTQzbTdIblBKalhyelpSRkYxbDFWSVo1d0thY0lwNWM4Y2pkcGxuWHYxaHlFekJubWRXZExQLTNyNnFoWEpIcmZ0UUXSAaQBQVVfeXFMTlA0WmpBSlpBbENBdnVHNWhjVjJlM0VKR2NyLXpCSk1oNXNOZWlZeDRVUnFOX2tBQmQtNUtRMGJyT2tyNWxTejA4RDR6aVpoQi0tUHpheUU1a09MLW5UTzAxcXF2NW1BSWtiaS01S0RVcHprQ2h5Q3VyMTBzVFVnWlJ1TnVLa3RnZUVpZ3JlZVhFNDUzMGpqWjlIOVhQNGxkbE40bjg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788369894716
-    },
-    {
-      "id": "news_TECHNOLOGY_NintendoaddsthreemoreNESgamestoSwitchOnl",
-      "title": "Nintendo adds three more NES games to Switch Online, bringing the total to 87 in the West - Video Games Chronicle",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeUFUVVVkUXVnckc2WUd1dnNBYW1kRnRGNzBVbTFra19MVzdJTWNCWkduZ282UjdUMVBvMzR3SFVJcmhhU0F6OEhuTWlqWjFjelBRRElGMkYzeXNRVXprTjMtT19zQkxqM1duNDV5RmxqWlBmNW5zR1dSaXRub2Y2YkpqN0tUTnpUNWJkU0p1NEY3aFhwck1lTkRtdzhSYW9UOWlNdEdFVkJwWkZPclMyT2VWci1NMjIzYndPOVE5R1hUZnktY2l1aGh3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788369893355
-    },
-    {
-      "id": "news_BUSINESS_G20liveupdatesOpenAIsAltmansaystheuseofA",
-      "title": "G20 live updates: OpenAI's Altman says the use of AI is 'non-negotiable' - CNBC",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRjdicFJvZkg2TG1Dd1R1Sk16QlVYNnhPOHVRcDY3Q0NLdEY2VUZrMjZxeVBFRkp0WWZKRDFGLWwydnNGZU1qbTAxZmlOZW5jci1xUEdyVTVlWHZtU1ZrTmxQM2lBMkZ1MDRMVlhSLWoteWlCVmlzRi0yZ3FHVURxX3JB0gGHAUFVX3lxTE96QUluc0tGNmduOFF5OUtmc1BxZm5HejliM1RreFF5dFpUclo2ZmhUUllTQW03TGs4VjZKUzVpSFAyc2tLOW5mZ1JSTWRCYldRMlFiYTR6VWNfUEtaZjFDZzZKNGRpeldkdEJTUldrR2cwR1loSEFTVHRBUG4xQmxXMTJIOVpVUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788369892270
-    },
-    {
-      "id": "news_ENTERTAINMENT_TravisKelcebreaksdownwhyMSGwasperfectven",
-      "title": "Travis Kelce breaks down why MSG was perfect venue for ‘magical’ Taylor Swift wedding - Page Six",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (ENTERTAINMENT). figure/entité tier-8 (taylor swift) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1NrSDF2LWFYTDlBcDVNSFJtMHdtOFVNTUtIM0p2NnpRSDdPVWZLMnFFWHpveDFoWEpjS0tIV3F3V0s3c3l0Y043VjBRb00xMkJFWkt5aWZNb0tOWUFnSWJKNm5hclFKcGFCN1VwMGZZUHRYLWQwYmZNY1owWTQyOWN2OFdpNE1Ma1BDQS0tNGRheUpwWUxhS2VlX2tpdE5pVXRQcmhDRnZBYTM3d3NKVkNWRDN2VDhMZC1OdUFudTVTUDZHVUFVQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356650950
-    },
-    {
-      "id": "news_ENTERTAINMENT_SeeTravisKelceandTaylorSwiftsdogstarinTo",
-      "title": "See Travis Kelce and Taylor Swift’s dog star in Tommy Hilfiger campaign - USA Today",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (ENTERTAINMENT). figure/entité tier-8 (taylor swift) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYll3anNaZUh0aC1nRXZqd01LV2hYOE9XeFF5RlBSdW5LX2MyR3E3VGpQd3dJRXYxV1JBdzc1YmZCQVRMZWc3aUluU1NTbnhOWWE2MzNudlJ4SWtKdjVnekM1X3dpMXA4aXJscUVCZU55eXBXbkthb3pNSGktb2U1QXVSZTU3ZF9KcnoxUGNITHRHcTlYdWJNVUFUdlJVQlY5dTRfNWwyS1JLaDg5ejNGNXFJdXZvUVNBcVA2b19meHFySFppNUNqbFhac3FTTjJ3OTFHUFJB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356650950
     }
   ]
 }

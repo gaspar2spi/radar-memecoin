@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T08:37:09.839008+00:00",
+  "updated_at": "2026-09-05T12:03:08.837848+00:00",
   "signals": [
     {
       "id": "news_memecoin launch_Top6CryptoExpertsReactionsToTrumpandMela",
@@ -407,6 +407,83 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_viral scandal internet_VideoofrumoredlawyerscaughtmakingoutinCe",
+      "title": "Video of rumored lawyers caught making out in Central Park goes viral and divides the internet - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (viral scandal internet). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR2FOX0xIM2xieE9xQVMwcWZxcTdRUUY5cFMtc2ZWVXJMc3BNZ284YU1TVTRoNWl5QWlXQmdEUGM3TDBRSlVMMlRIU0dOSTM1NFM1NWRJdlVfN3NTcUhYR1hVVTd0Wkl2dGViekZHTkF5bjRFWnZVT1J4b2ZDeEtnWldsbkFjYTBVRkFZUHhjaDMyMmx6QnM5TVgtdlJjSEpDMzNta3pFc2c2V29YTFR6c3JTSExNVDJDR3FZUEZPMDlLUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788609774221
+    },
+    {
+      "id": "news_HEALTH_A480000aYearPillReflectsaNewNormalforCan",
+      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788609767026
+    },
+    {
+      "id": "news_SCIENCE_Scientistsdetectsignalsofhydrogenfrombil",
+      "title": "Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe? - Space",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdURVM2hWdEl2S3FocG5BRVktQldHRXFPN3lvLVZFUFl1aUlzajJVc0lhakcxb1NZM1JMLWNFVUxDNnFDVWREVVpNUzBNaHdkSlV5QS1Mb3pVUm02a3Z0dWl6SkdpZU5XbTE3UzY1YzNMRE1pYlVUZ2tRVUloaTRfNXdvYmZXa2VyQVMycXFqR0lXbGZ3V213OUFMcnk5VWdTdTdwZkFDRnR3c3JGLXVQd1dESjF2Y0tvcHlHcTRkZW9fYV9Femw4ajg3cFpINF85ZUxDZlh1QXFIaUdhcUE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788609766241
+    },
+    {
+      "id": "news_ENTERTAINMENT_BruceCampbellsayshehas5yearstolivegiveor",
+      "title": "Bruce Campbell says he has 5 years to live 'give or take' amid cancer battle - USA Today",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN01hTnJhbHVBNW9HMTJjZnVwQWtneno1ZUhXeVhEdTF1MjE1Wi01NzFEYVpnMmZCYlA5UVAta3o1anhzUGQwN2R5dTBTZk1lVWpVQi1nYzBDdHpaVlowXzZBbUJwRHY1bDkzdjVRa1RTU1pDNDY4LThyWDdJbVpFTWxYNWdrMUVHdG9zR3BaT3BqWllqWkhjUEZHSXpoc09MS25aQ2tGZUtMMjZKTkh6ZlN3NU1jY2JucTBzWEZTRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788609764357
+    },
+    {
+      "id": "news_BUSINESS_StrongjobgainssignalFedhikeasTrumplevels",
+      "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOF9yZEh3LUNwbXhOOE05b01rVHlLVld4OXkwYXdOczZxZF9DUTUxVU9Ta3pCTGRla0RfMXZTR1phZEx6aVU0VmRWcGVZZzlsd3dhZF9yYjc0UHFfaUZMNEoxaElSSE1YSzY5aEExTEMzNV9oOVpSSEc1SXlsZ0R5UkF4cFFMTWVxQi1SYk43cDlhU204aklNNzhB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788609762856
+    },
+    {
+      "id": "news_NATION_WhyisTrumpthreateningtostrikeIransPickax",
+      "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now? - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZjRxTHlmNGgyN05QTE9GN2ZQb0M0RFgtVUNvREtfMTdLRWJaUkw3blotT2ZBczVqOGlxQXdmREx1YVdWQ3d2bENpajhlaE83SFhrVDJEeF9vbkd4aHFUcXZITjdNYUlLWGgzUzQwdFJ6TXUtWWJfbEJKUU4wQndsWGRMM0JpUTJkejNMTjQ0eHl6V0pXRlpEM2F6TC1HOFpCMjNPM2xldHNYcDTSAbABQVVfeXFMTUFvWUxfc20yMlhaZG1rUFFUYWVWZGRXNVV2azJ4NVV4cFJFZHhMNjVnVFNRcTVZaWZQdFpRSE5XOXJITUdZaVhnZUZvbUNMblRLTVdzakc1VDhzWkhjRVItcFc2b3Jsd21kdVVQVEx3bTNBWTBfNXV0UGx3b0hfTXVJSnB2RjlISW1HN2xCeWhYa0hRSWF0M2dsVjN4MWxmcDFraFVSc01yU1NNZ00tN3Y?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788609762077
+    },
+    {
+      "id": "news_NATION_TrumpshugeVenezueladealbeganwithacalland",
+      "title": "Trump’s huge Venezuela deal began with a call and a bet on an oilman - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVQtT2VIUGJzdlN4cEd3cElwVUY3U0VveDd6N0dVYWhuTW5sb2U4Q3JYTGZfb1VWU09IaDEwRVJ5RERMQTdKbWEzVHBOeTFXS0NkS2dQMDRhVVpHbVROUkVBSC1iSVFaREVldjZlWVNHb3c4QWxhRm1nQW9yaDJZb01URElrREVObUpaMDlhQVEzVTlhMUFiRFhudjRTQkdlc0dBUl8yYUs?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788609762077
     },
     {
       "id": "news_billionaire announcement_MayorZohranMamdaniaddressesKenGriffinthr",
@@ -4732,6 +4809,17 @@
       "ts": 1788339077026
     },
     {
+      "id": "news_BUSINESS_OpenAIagentsdiscussedwaystoescapetheirsa",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki - arstechnica.com",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXlVSkZWdHVoV181TUNMTnNpd04wQlhNdXVtNk11RWJydkROS0lqaWJ0Y1BKUURJVnh1ZmVKSVN0RUNKOHdiVU5Jc2hTUzg4QnI0SUEwWWk5Y1NJMXI0THhVaG9CaWJpRV8tZVlmUEhwUjlmLU9KTm5LQmljLXlHMUc4NUVMNG1yRzNqY3JkNWdoRDhZTFpET3RqSkFYUjBSbDVqY1F0czJHaFVaR1E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788609762856
+    },
+    {
       "id": "news_WORLD_AndrewTateindictedinRomaniafortraffickin",
       "title": "Andrew Tate indicted in Romania for trafficking minors, money laundering - aljazeera.com",
       "cat": "macro",
@@ -5412,94 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339086407
-    },
-    {
-      "id": "news_leaked footage internet_BREAKINGASixthGTA6gameplayvideohasbeenle",
-      "title": "BREAKING: A Sixth GTA 6 gameplay video has been leaked, showcasing a Hyper Car - RockstarINTEL",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak, leaked, breaking.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZXcxM2FtUUd6d1BTU3E1UGVTYTIzZHpfY0U5NzBHbmJxT2pocmVOdGJHQ3czQmNJeGFqVUpJQjhnaHYybFItamRzRG52OVVKTzFONi1pRmxoc05CaTRsYlNFY24tQ19mamFMYk5rV0JLNVZYaDJWTDJJWWJySnkzLV9ZTFBxNWlIeWtlQWE4SzRmYlhqNUtwRV8wR1hpaExVUlJLYVZB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339086407
-    },
-    {
-      "id": "news_ENTERTAINMENT_TravisKelcerevealshisandTaylorSwiftsdogt",
-      "title": "Travis Kelce reveals his and Taylor Swift's dog to the world - ESPN",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (ENTERTAINMENT). figure/entité tier-8 (taylor swift) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWhUMHRJVExrYVZSblZtSzNpUnNIaF9EMVA5Vkp2bi00VHdlaDZUR2JpaEswaTVjNTFZT2Fud2NJUDlHREg2WGw2bW1JdktsOFc4UmtrM01WbVFXVlFud1BFUnhaUjlaM3VwbmxRZEc1ZXVtU2dqZnd4QmJPRmFKOTF5Y2hkbWFMdTVNVE4ybTk4WHRsMHJOaVVEejU0YjVTOElsb1o2akFjUkZNdm9rZlZ2eFZMVHc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339080538
-    },
-    {
-      "id": "news_TECHNOLOGY_NintendoExpandsSwitchOnlinesNESLibraryWi",
-      "title": "Nintendo Expands Switch Online's NES Library With Three More Titles - Nintendo Life",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN1NiRGMzUXhlZWc0UmROZ3hTVVpTUElmWW9WVHRWZmhZcmIxWTZmQjVWcnFVeUZzRnNIVzJpYU92V1REMmNXcGhaMlV0VzdCVlJXdzRFbFp2ZnhIQ3NzaUlub1RGSVJWbjRZMG00enUwVnB3RWhTX1J2T2l1RlBpcGdRS1poSUpEY3dVYk44ckFZMmVZZzJ6NFFyZFRucGR1R3oyemxaTnFyaXZB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339079251
-    },
-    {
-      "id": "news_TECHNOLOGY_SuperSmashBrosUltimate1305updateoutnowpa",
-      "title": "Super Smash Bros. Ultimate 13.0.5 update out now, patch notes - Nintendo Everything",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd0FXdFQyUFVKSWpjUE80RFdzN2FRaWJKdTBQWnNnOFR3R3JtX29Wd3pQNXpObHRWbHplc01MT0hLd1hIN3ZNV1BjQy1wQ21QTDBoWXdtSDB3YkdjZ2MxMlFBX3d0QUNyYjU4VFNQN0puUGJnRDdOZEt3VldZOHhTMldrTWNyemFWSTdDWE1NVVkzQ2JLZkE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339079251
-    },
-    {
-      "id": "news_TECHNOLOGY_MojangannounceschangestoMinecraftMinecoi",
-      "title": "Mojang announces changes to Minecraft Minecoins for Switch and Switch 2 - gonintendo.com",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhIdnZrcTlQbUFzRkNITkxuVGxoUWFwaTVwOHJVeWtaTVctdGdYT3gycUZKRy1EQ3pCcEg3WXVFdDlnQlhId0hDMEFsV0NSa29ValQ2SFB6bEd2QldjODItNktrQ09lV1BHZTN2c1FkSVZ2VFNITzZQUEdKY2ZSZFhaLUhzajhTaTZZTWk4OG9BVDZwVkVPNEJwTG41SjBGc0Vab1EyRDNZeHZLSEE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339079251
-    },
-    {
-      "id": "news_BUSINESS_OpenAITechniqueinAstraModelSparksSecurit",
-      "title": "OpenAI Technique in ‘Astra’ Model Sparks Security Concerns - The Information",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkk4TnhJLWdVdVgzMDBFejB6dWNlLW95V3liSkJwbzI2U1hON2pIVk9XX1ZzN3dIZWR3amQ2UjBOWmEtVC13bm9qYkNfOTFTeFZzTkJXYXJya1NXNm5iTFB1Q0k5X25VUnJZSnVuSmQ1dDF4RU5xd2VwclJOUC1uU1dHaXJEQmszWTBNQ1g5VUtjWl9DTXo2NzZBNG85VjZwcGtfNm1CdGc4akJf?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339078528
-    },
-    {
-      "id": "news_gaming leak_DinoCrisisLeakedforSonyStateofPlayonSept",
-      "title": "Dino Crisis Leaked for Sony State of Play on September 3 - vice.com",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (gaming leak). mots-clés viraux: leak, leaked.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bGlXNlQ3UExTS0tfcF9Kbm1oZTkxUHBCTVo0eXl1SHlNT09Zc1Q4am9tZ25pZmFFZ2xpTk5QYWJDanhYQ2lIRl9sU2hjanNROE4wM3MtbVhPM05SMW5MbmdkSVhlMXc3LTlaeXFkOU1xZHVrYlRnRkJB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788597421926
-    },
-    {
-      "id": "news_tech ceo controversy_AndyByronUStechCEOresignsafterColdplayco",
-      "title": "Andy Byron: US tech CEO resigns after Coldplay concert embrace goes viral - bbc.com",
-      "cat": "macro",
-      "heat": 6,
-      "desc": "Actu détectée (tech ceo controversy). mots-clés viraux: viral, resigns.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1Ul9oeDRuU2E4VGJPUnZINTZ5MUIwY3JrREFERXMzT1dJdkFjYXIzd2s1Qzl2dndRRDAzZjNqM2phT2JVME40bi04b180NUhhRG5jbS1uZnI0UQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788597420531
     }
   ]
 }

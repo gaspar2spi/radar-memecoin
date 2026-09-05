@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T19:06:58.866354+00:00",
+  "updated_at": "2026-09-05T21:11:12.370276+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemengovernmentlaunchesownairattacksonHo",
@@ -418,6 +418,116 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SCIENCE_Fornearly50yearsVenusscloudshavebeenunde",
+      "title": "For nearly 50 years, Venus’s clouds have been understood as droplets of concentrated sulfuric acid—but a 2025 reinterpretation of data inadvertently collected by NASA’s Pioneer Venus Large Probe in 1978 suggests their aerosols may instead be about 60 p - Space Daily",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mZ3k3bWJsUnk5Wi1TMExzdGhIbzNjcmwzcEFXUjJJLTJtczEzczFKbmF2S3V0NmZCTXRPTzdqRTRMbUcxNjBJYjBpZGRwQkN4a3BIZEp0YlROM3JoRnJ5M0ctekVZa2hEd2V3aWhVR2ZQN2ZOdWZTVW1rUGt0dw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788642649178
+    },
+    {
+      "id": "news_SPORTS_FencedestroyedinterrifyingPorschecrashat",
+      "title": "Fence destroyed in terrifying Porsche crash at Laguna Seca corkscrew - Motorsport.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa081Um1TNkRoRjJEMWM1QndHT3ZTMjE2aEJVb1RXbjFsYVdJOG9fbGN3UGMzMVdlY0d0TUtIS2JfY21OZ1NVQ1BjemQ3RW5PYWpTUm00N1pHQi0wY0pfT0RHb1A0VGdMQnVRUnJUVndaR2dsQ0J2bWR4dXdIb1g3NHAyRFhQVUtRQldHeEZwUUhZcmNYZHZaWDNLVVRRY1ZPX1k4OFFUanNpOERTTnNRMDhsUm4?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788642648440
+    },
+    {
+      "id": "news_ENTERTAINMENT_EvilDeadstarBruceCampbellsayshehasfiveye",
+      "title": "‘Evil Dead’ star Bruce Campbell says he has five years to live after cancer diagnosis - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM0Z6alZFeXYxWlRtWjJBTGJBZWFicGY1RUFuWkNFRkhCTkNHYjVpVTJNc3JNWXJNY0JZeHRRZ0pLYW1URmg1cUFvZ3Q3VWl2MGNxbWd4SWpHSS1ZaHdxdWd2RUQ5S2pMQ1pEV0tzSmdyZ3B5b3doQS0zdGVlX3F0TVZQOS1XMnZtQVJtb0J0OHN4dmhBQ19oYlJoaEd5bE5PUWdCNWl2eVphSzlKcm96ZUVwcFE0MGZNeDFpUWh1alFESHps?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788642647632
+    },
+    {
+      "id": "news_TECHNOLOGY_ThereMayNotBeaniPhone18ThisYearWIRED",
+      "title": "There May Not Be an iPhone 18 This Year - WIRED",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBENm5IcTQ5ZUUxUUV0Ymx2UXZ2ZGJuQUVERzdheUFCWkU5RWtVaTkxdkV0Y1pHRnJjNGVHZU9GV2dKZ1pyLU8zMDJuSUVONUFEUkJxYzZQcXJTcmNDYVNDMGFKTE1wZnQ0X3pYWjZNek05VnFGX2lZ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788642646885
+    },
+    {
+      "id": "news_NATION_KennedyCenterclosesafterceilingpiecefall",
+      "title": "Kennedy Center closes after ceiling piece falls: ‘President Trump has been right’ - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaFpMSi1NWWREZWlFZHk3eXROTGdrOHpzcF83clYyendjWlh4ZVNONDBJUXVqbU5XVnMtOU1LUjhaOUp0VGhwY3hkWGVfaWZSZk01LVR1dkYtdVpEZFpRN0w4LWR2WEZuQlZRTlR1X3B6OVYzTUNFNFhxVWt3SjhGV0JTUEdEM01NSjgzYUxobERLdkZtUUhfaDU2VTjSAaIBQVVfeXFMTmdaamJKakVOU21WcGpzOTIxd1dJMVMwNDdzVmNRT21iYWRjNzVoMTdYRVk1U1MxejhPMzlhZWtyN2tQNjdrOUYxeWdIcGozSnhPUnZ4NGctdlFRQXF0OXY2NXd0WWVkWFZfQU82dzA4Q0sySzNoNTllSUJlaGlkMEx2Z2lIQjJidmhfRy1SUm9FdlZqLVZsX1l3RXZ4UzFlMWhB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788642645493
+    },
+    {
+      "id": "news_NATION_IsWorkStartingforTrumpsArchItDependsWhos",
+      "title": "Is Work Starting for Trump’s Arch? It Depends Who’s Asking. - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlFXYjhCeUFGeXZDTnBIYzBGZUNzV0QtbjRUX3ZEMTU3a2VhWndWUXltMWRaY0dkQ3lCTlBiWTRGd0pLTy10N0VVN3NUMW9uSTlRRFBjQlNUUXRLV3F4aGRPRFhxZHltd0toMHRJaVJHUlRNOEN0N1BWSi0xdzBwWGtsNW5VTmVz?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788642645493
+    },
+    {
+      "id": "news_NATION_JudgeordersTrumpadministrationtorevealwh",
+      "title": "Judge orders Trump administration to reveal who set up $1.8bn ‘anti-weaponization fund’ - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM3FDb0NoR1RsUV9kQ1AxZ1NMQTgwdFFCRVEtNGZvZlhHOWZWSXJVQ2pjNWU1TWViVmxiUHVVUEhncUtrOWZ1TUEyZC05QmxaSjBINTBaWHZ0SnRUSW9iNHJVY3A2UlVBQjc3MGg4V0J5dXZvdUp4dkZqVkt3VEt0NFlhU0VJcjRGZjl4THJTNTEyWGNDRXBlTlZTLU5JamM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788642645493
+    },
+    {
+      "id": "news_NATION_TrumpcallstheIranwarwhichhasleft18USserv",
+      "title": "Trump calls the Iran war — which has left 18 U.S. service members dead — 'small potatoes' - Fortune",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWW0zOVA0ZTVqam5Va3V1ODNfZzR1TFIybzNVVC1IQTBIWnlsSGJGWE1aeFNSV3hwX0xlSHZkbzgzZ0UweEZFLUQ4OHpKc2twUjFuOWFPYTlXMEFaSzdwNGtLbkRzU1ZQZUFmdDNVdzMyTEZiMVdxeF9FdG5adTF2alg2MXdzZ3FSWl9RUWVQVUZBV2QtTVZvZVdUZkhqZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788642645493
+    },
+    {
+      "id": "news_NATION_DemocratsseektocounterRNCsTrumpapaloozac",
+      "title": "Democrats seek to counter RNC’s ‘Trump-a-palooza’ convention in Dallas - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT1JnMlhFQ2dJOU52Sm9HVWpOUEZjMk9fMjM0R1FkREJxWURkenlKS18tMkRkQnFFdnBHS1l5Ul9VSk5VY0R0RVBmajQyaEdIMXRJY05GOVhWRXlTc1Rycm5QMUhVbzBNRC1hWENvUXVxb3Y4WnZsTGstbVo5QTFkSEJES2tuRjR3V3lLNWV6c9IBlAFBVV95cUxPeTJDYlhISUU1SWtYNTdEb3MwVU14M0dHXzhtemRkaGpwalBkN1Izajc2STdhYkg4cUMzUUdsSkdLdVEwV1VsdzN3RzQxNEkwZm1YN2dYWm96UEZnODV6TzFhWFF4Z2J6VnJOZW5IQnZFYkotMmRxVFNtaEN6RUVxdGlmVHF6cUZNbl9hTE5QS0JYMjlo?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788642645493
+    },
+    {
+      "id": "news_NATION_TrumpOfficialsDraftPlantoPayAtHomeParent",
+      "title": "Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZTdZM0RKTHAyYWd5czVaTUJfWkl3WWJnLU1YbzQ5djdaZ1gyS0VEZW9BVUQ0angyMW5aYzR1MTdleDZtaGtRQUZwNWoza1ZYZVJIT012RGp0YnJCa3VQdFd1eExsR1V1Z2FMQml3cHhlTV9tOEJUOUZGN1B6UzluSUVhdno1eHNDUGc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788642645493
     },
     {
       "id": "news_HEALTH_22yearoldKaysvillewomanwithDownsyndromeb",
@@ -5390,116 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788479268882
-    },
-    {
-      "id": "news_leaked footage internet_RockstarGamesHasntPostedAnythingOnlineIn",
-      "title": "Rockstar Games Hasn’t Posted Anything Online In 48 Hours As GTA 6 Leaks Keep Getting Worse - Kotaku",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (leaked footage internet). figure/entité tier-8 (rockstar games) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEFJdXJfTGh0akptMlZ2N041UFRzZ19zdV9nV0R0Sk9xdFJETHh5VnRFNGRpYVhPb2ZvY1RBRWpNeUFvRzRYRjZyTEdnMGdtcDkwN2FIMVlfdl9rdDViQlppTV92enJpQnQ4bXIwbDljdkZaTVBBRk1OSzNDdUdEdGlPVGZHQlBYcG1xYjBmWnpKQ251cUZaQ204YlRVMDV2ZjhadThMU3pwRjJuRU15RnBjelFtbTlMOTdj?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788479263599
-    },
-    {
-      "id": "news_WORLD_NewlawsuitsclaimOpenAIexecsputimageahead",
-      "title": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting - NPR",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (WORLD). figure/entité tier-8 (openai) mentionnée; mots-clés viraux: lawsuit.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV294TTdTbEROTGJieW1QWXhQWnkySGdpdkpSUTJCWFB6c0tPZWtaZVY0SGxMNjFXN0VrNmZuU3JlcDZ1UEc2UWw3ZkNWMWE0RzY4Z1E0c3dZQ0pueFhTWkFBQUdWSDF6UlV3TFZSZC1uUGZZQllmY0Z1NkZqMVpIeVZCX0RFdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788479255002
-    },
-    {
-      "id": "news_BUSINESS_WelcometotheAGIeraOpenAIsaysasGPT6Astrad",
-      "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts - Axios",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNSGRHUzhDZzF6VXdmOVlpWmxBQVNPOWF2Rk5OZThqM0MwQnRJeVp3QkUxdGZuaC1xNldPT0RmNFp5Mlo1amFPZzZrZk5rLVN2RXlGS2xoY1QyQXZYQW90TWZUS1FDcF9mYnVBYm9NQXZUZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788472625842
-    },
-    {
-      "id": "news_celebrity crypto token_KimKardashiansuedincryptopumpanddumpcase",
-      "title": "Kim Kardashian sued in crypto 'pump and dump' case - bbc.com",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (celebrity crypto token). figure/entité tier-8 (kim kardashian) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53VTJCZ3d0VWFSc2JkZmFTVmo3dkhWS0RkU2Q3bm40enVUcTFLR1RRaDZ1MjhzVmJHTzZ0WEZBeFQwTDU2YTlnbFZ2SHNiUExoRjRRWlZUZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788465123427
-    },
-    {
-      "id": "news_BUSINESS_OpenAIlaunchesGPT6Astraandsayswelcometot",
-      "title": "OpenAI launches GPT-6 Astra and says welcome to the \"AGI era\" - The New Stack",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTYnk2Uk9KY0N6YlhFWkw5TXIteE9QbW5kY0lVSVNSVENNMDlZRE11ZG1aMXBCbkQwblVhWUFlY0VpMXNWS0dWa3M2WkMzaURaVU9HaHJFOGVIaHRKenJnR2pB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788465115104
-    },
-    {
-      "id": "news_TECHNOLOGY_VideoDigitalFoundryDeliversItsTechReview",
-      "title": "Video: Digital Foundry Delivers Its Tech Review For Onimusha: Way Of The Sword - Nintendo Life",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdC1CSEM5QU9TM1JsOHVBVFRyNF9QVldEbTlFclVVTVJZdndoNFBOTzBPZFJKdS1PVzFsVHA5SWo0SGJIT0FKRVVFa1NYN1RvUE9KdDA2NUg5Z0RySjJwRGJKMW0zUTlJQVVQR2ZaRTFLcG1QNENMOEItUDYtSFhydGlVcmxXQkh5U1Vpak1PaUF2YVM4bURVUjgyQ0JWRjFXWHBsQU5qTGlvbGxUdXBRU3lJSVZRNlE2dFE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788455699062
-    },
-    {
-      "id": "news_TECHNOLOGY_FollowingNintendosexampleSonyandMicrosof",
-      "title": "Following Nintendo's example, Sony and Microsoft argue they have no obligation to pass tariff refunds onto customers - Eurogamer.net",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vUV9NRzJjM1d5VVd0SWxmOTM5cFZCRDRaaTZKWk43ZE0xeXBQNEtNMWFSRWJpdXI2SEVXNjdrZzlKbzZQUkVPQkdUZXRjcTdJY2Z4YllBaVFzS0hTZDhUYm8wLWxOUXVJYlFsbzJWaWdydmFLWWFMTjFB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788442798063
-    },
-    {
-      "id": "news_TECHNOLOGY_ReviewMoonlighter2TheEndlessVaultSwitch2",
-      "title": "Review: Moonlighter 2: The Endless Vault (Switch 2) - Shopkeeping Dungeon Crawler Returns With Big Changes, But The Same Addictive Loop - Nintendo Life",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRFBNanBZZFlJOVJHdjF6SEh2YnItSGZ4akNybkdaenJtU3J5c1Q5X1ZuMk5ySDZkMTdPMkFxb18xMmI3enNNamNQUVp4RndBTkFzb2EtUDRuaFJLckVUdUFXbHpXLVlpblVjQXhlLXRwZmREeHpaNlR0bTBWRWN4S0ZnYkpZZlFMeWVtMU5sdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788442798063
-    },
-    {
-      "id": "news_BUSINESS_AxiosinterviewSamAltmanssoberingsirenAxi",
-      "title": "Axios interview: Sam Altman's sobering siren - Axios",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (sam altman) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMHZBeVd5THV6ZUdVem9qbk1IZDRFbWlIWndheEFDblBQLXgxODAycEYxeHZkRGFfSmdBZF8wYWlHaVRMaUxVd2prMHk0NGhwS1ZjQU4tZWZyMVRKcy1XNnZfX2pxYlJOejBhRk5RV2hyUW12akl4bGVILThFMFliNw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788442797297
-    },
-    {
-      "id": "news_celebrity crypto token_SECchargesTronfounderJustinSuncelebritie",
-      "title": "SEC charges Tron founder Justin Sun, celebrities Lindsay Lohan, Jake Paul with crypto violations - CNBC",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (celebrity crypto token). figure/entité tier-8 (jake paul) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFBueXF1bS05YWJiVkx3bkxvTzBSdDBoM3hIa1hQQ1ZzcndfbVlYTWJSbUlpWkNzSDlXOHBWb29CYUJLUF81aGlmYjBGRUR4TGlPb2pTaUVpM054SlVQbmRzVUhsaU9FWW5XVkt1WVRiQ0ZXbzQzc3FZck5Ba1RuMG10UHBJRF9iTHRYVzQwZl9uWjNsaHc2R1dhTnRxM2VCRXB6Wk5B0gGrAUFVX3lxTFA4aEh0UG41cW5iVzU1bWJaZ0xxUGk5Q1NzZnVTdFVuRHBSTm1KazlESTRXUkE5aFA1aXJSVk14aGZhUXh5T0JGYXFKQVo2VldGal9mTDlhVldIWTl6bndkbWN4OVZMMDF4dWZWTzFGQWx5Zk5oSzk2cnhZcWk4SmJsdm1NTEhpeExBeHozT1Y4VW84Y1UxVDE3ZnVhcFZnLTloUXFPZk1VOUdmYw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788427117210
     }
   ]
 }

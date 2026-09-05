@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T12:03:08.837848+00:00",
+  "updated_at": "2026-09-05T15:05:18.537520+00:00",
   "signals": [
     {
       "id": "news_memecoin launch_Top6CryptoExpertsReactionsToTrumpandMela",
@@ -407,6 +407,94 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SPORTS_ScottshinesDedicstrugglesNewcastlevBourn",
+      "title": "Scott shines, Dedic struggles - Newcastle v Bournemouth player ratings - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41X1JSN2RpM0tkekFQVTFZNWZCX1JweU1VcGVnUG1EN1RUSzVfazVjVEdQNFFubEE5cW1WOWlCSlFSTnI1LUd3enJvdThWV2dHZUZtQ1NMVFRVdWVvRS00QU1MVWNKcU0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788620691790
+    },
+    {
+      "id": "news_ENTERTAINMENT_40yearslaterTheBabySittersClubisstillhel",
+      "title": "40 years later, 'The Baby-Sitters Club' is still helping readers see themselves - npr.org",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSVBpUUVIN3FWSnVHOXQ1Vmc4V1Fjc01XSFphLS15dW1IYi15OHZmTXNLMHRLZHlYTTN2OUY3V2J5bmVvQURHVHZGbl85clk3ZFVSV1dKTHN2eExLWVIyTllTa09IemloeURSOU9LalVTRm5UR1VrVndTekF5SzJEbg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788620690514
+    },
+    {
+      "id": "news_BUSINESS_JudgekeepsMinnesotanudificationlawineffe",
+      "title": "Judge keeps Minnesota ‘nudification’ law in effect over challenge from Elon Musk’s AI company - Star Tribune",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVW9wVkZUVXZSTVZ0RVR6ZDMwSExDVVQ0QWdPQXZVOF9WQXZpTjloMmEyeHBibUZzUzEwRy15MTFOZkc2bXNPbmh0SnZzMlRJem5zMFdOajctcWNabHVNQXVmZE41TVdRVmw0V3hhMjVvbEZlV1NRYTNWOWdZdW96S0Fmcnp0SllVbm5xNDltT2lRcE9YRnFRUHdka1d6dlRGVUxuQ1VVWE9RLWdEU0hibDRSQTM5b05wY1UzbC1SRzlCN3BVanRn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788620687875
+    },
+    {
+      "id": "news_NATION_Trumpsstatecapitalismcomestotheoilindust",
+      "title": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUnlYN3F6VEtBaVpRbU80MkVobmNzZkV1ZEl3enI0aXA1RE9pWk9wWnNvaktxLXRhMmtTckFRdjhIX1Yzal9IaXZ3VzdTRTZORUdDa2w3RjBFdUxyemtqU1dBeTFaN1liZzE5ZEljd0xrMlh2N0VFa1JCN3RBelhLVndvM0pXYkcwdzVBXzNZUXpCaEZYQk1qZDRJUEtLdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788620686940
+    },
+    {
+      "id": "news_NATION_Trumpsignsordertoremoveendangeredspecies",
+      "title": "Trump signs order to remove endangered species status for grey wolves - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVNXNEbmdQSnJqOTZGUXpNaVJmaGplQnpfUlNIWWFHZ2pKZlc2cGRCMFp0SnozN3M1c1hIN1lGV2JpelZJMFdqNzE3VThINnlUR1o5ZGVNeXVwQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788620686940
+    },
+    {
+      "id": "news_NATION_JudgeextendsblockonPostalServicesnewTrum",
+      "title": "Judge extends block on Postal Service's new Trump-backed mail-in ballot requirements - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWk00b3I0cUh0UmNtejdtdGFvVmt5a0FJVTZwUUZ4YXBKcE5DVVBoQmRTZmYwR0l2ZnFYLXZwSjRqYlp2TDhUQzR5MW93UnM1Yi1Rb1lKLWM0Q0Flcl9Ec0tucFIzb1NaWHVnd1F6dDg4eWNUOUkxMWhjV3FPLURlQ05FTHo4ZVZ6UllvejdR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788620686940
+    },
+    {
+      "id": "news_WORLD_ScoopTrumpadministrationdraftingpostwarM",
+      "title": "Scoop: Trump administration drafting post-war Middle East plan - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hdUhWdGhYZmc4VEFuZ2VPdXlVd2pnVDZabV9FcEdBQllQTjMzdUV5dXdkMlFPdGtrSklkSGxmNk9vMlVSLUx2TWxjc3h3U1NJUWhnc1RIM2ZvVzRQUjdwRVc5bVJQVDZoYThUR3EtUG82OFBOLVA3QXl1RFNMZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788620685969
+    },
+    {
+      "id": "news_WORLD_FromTrumpstakeoverthreatstoanorthernneig",
+      "title": "From Trump’s takeover threats to a ‘northern neighborhood,’ why the EU chief is going to Greenland - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEJwdUpZX0U5ZFQwSlBBWU12SXhNMlNvdV96aGJ2aUxuenZjajc2SlIwMFByZ29VWDYtR3loUDlPQkZPLW9qdFZlTFBOSTdRcXhyenBkVjVNTEt3Ml9HT0hteVlxRm5raktmVWRpQUZUOE9ncDlFemNablZrQlo4Ty1B0gGHAUFVX3lxTE91Z1pCTFpnQ0tsUmlMNUVpc1djdVlucFVDbDFqRng2WF9Idjlja0dYMHVQUk5mY0sxb19mb05lNERVT1BVeXN4bHdsQy1FaVcza3czYjJRdXIwdFIzaGo2aW5lZFpEbjdob3dadVB6U0h6R2ZaM1RpbFYxVTlvM18zc3NBN0Vocw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788620685969
     },
     {
       "id": "news_viral scandal internet_VideoofrumoredlawyerscaughtmakingoutinCe",
@@ -4809,6 +4897,28 @@
       "ts": 1788339077026
     },
     {
+      "id": "news_leaked footage internet_BREAKINGASixthGTA6gameplayvideohasbeenle",
+      "title": "BREAKING: A Sixth GTA 6 gameplay video has been leaked, showcasing a Hyper Car - rockstarintel.com",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak, leaked, breaking.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZXcxM2FtUUd6d1BTU3E1UGVTYTIzZHpfY0U5NzBHbmJxT2pocmVOdGJHQ3czQmNJeGFqVUpJQjhnaHYybFItamRzRG52OVVKTzFONi1pRmxoc05CaTRsYlNFY24tQ19mamFMYk5rV0JLNVZYaDJWTDJJWWJySnkzLV9ZTFBxNWlIeWtlQWE4SzRmYlhqNUtwRV8wR1hpaExVUlJLYVZB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788620697670
+    },
+    {
+      "id": "news_BUSINESS_ThousandsofOpenAIAgentsQuietlyTurnedanAb",
+      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel - The Hacker News",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée; mots-clés viraux: hack.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05RjMyVHJhdDZZR1dwZ1JKT2M3akdOQTh4c0w2aU8xRzR2MmR0N2tIWFpIUGVCVjFFUGFQZlJCWDVXcllQQXRWMFdOdGlzbTJXTEc3OHFJWHNuRVlkWUNqS2hza2tkUW1DcmZfNWdlVDdRM0E0eFU3cl9ObEs5UQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788620687875
+    },
+    {
       "id": "news_BUSINESS_OpenAIagentsdiscussedwaystoescapetheirsa",
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki - arstechnica.com",
       "cat": "macro",
@@ -5390,116 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788356650950
-    },
-    {
-      "id": "news_TECHNOLOGY_TheamazingUSBCgadgetsthatplayoldNintendo",
-      "title": "The amazing USB-C gadgets that play old Nintendo cartridges - The Verge",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkNGamFBOG9YUk5FejI5ZGdJZFFJRi1KOEpuaV9vWXBJT1JQZEFGa0RzZzVuZzM3c2dkbVR5c1pLUkZKTlBiaGE5OWRRNWg3RlYtZk12NVpRSGFBRU82b01zcmRCLW5fMkZJak9hRmtFZmY1VE9zRVRCVkJxSFdaRlBFUVNaanh0WnpRcE9EVnZzWUZuNGc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356650174
-    },
-    {
-      "id": "news_TECHNOLOGY_RoundUpTheReviewsForOnimushaWayOfTheSwor",
-      "title": "Round Up: The Reviews For Onimusha: Way Of The Sword Are In - Nintendo Life",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSS1hN21pV0dOcVo5RjRiZ3lTREJHZzVyaC1HbGFWVTFEQ3E0R0tialJvVXp5VHRHbXpfM0JPVFE5UXNsMmppcFVHbE4zdTJBWGJ0WVpnQm0zbnBKeTE0Z2QzRS0tclFyU0NRbktSem5sNk1zQkpkQnFnYU90dzJFYWZnTlBHRGtEYTNFZUQ3ekowRGt6blJuSVVxV2VuVzVx?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356650174
-    },
-    {
-      "id": "news_BUSINESS_OpenAIsAstramodelisonthewayandverygoodat",
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems - TechCrunch",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée; mots-clés viraux: breaking.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbFRfenVBWmZXMms3bmQtSzFWc3RqQjBCUFBjODBxcEVIOFdVUUtPd29SX1pqWVhDVzl1cGV3Y2kwNVdjNmRhbzdXdjdwRWRXU3BzOEdqTVJTa2VKb2t0QlRRUm41RVJmZXhjUTh0bVUzVEZkR0VPUGlOMzlONFRpZTZVWWgya3NxdFV2SnFTZ3BTZkhBOFdjMm12WE4wYXhMSlhMblk3Z3JiUGZZdFVVZVFBWEt1bms3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356649377
-    },
-    {
-      "id": "news_crypto coin viral_AndrewTatesMemeCoinCrashes40SinceHisArre",
-      "title": "Andrew Tate’s Meme Coin Crashes 40% Since His Arrest: Details - CryptoRank",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (crypto coin viral). figure/entité tier-8 (andrew tate) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2RSUWlGZDQ3UGt6cXdLRnBveWEzazhoYWtSTEtaQmdrTTB2bTdmZzVWUUx3YjhhVjljUmFOb1k4NkRqNVZ1eGlpQlh0TWp3R0hFMlRacDdMVnk3SV9rc3NyNEdBYkU0bWJJMDNnalNJSGRlVlRUTDlnVXNLN3lObTJjY2IyTHc0LU9CM2hqVDhUNklZLTMxUjBnSUU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788340862393
-    },
-    {
-      "id": "news_TECHNOLOGY_NESNintendoClassicsaddsNinjaGaidenIIIThe",
-      "title": "NES - Nintendo Classics adds Ninja Gaiden III: The Ancient Ship of Doom, R.C. PRO-AM II, and Ikari Warriors - Gematsu",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdk1VYU9tVjZxTXdQMlpYaDZjNm9qTFUyQ3lKQ0ZMVjl6Qm90dDNyS3hySzIyb19CYmRaMUI0T21SLTNwSXk4VGYyZE1SdmxMbDBFYzN2TDlfc0U4alhEVklZd1kwNXRsNFdYZjZMZ2wwQnktM1QyejJHeFBjbkFFZm1maEh1V1h3OFI3U24xOGRhWVJpWmpjR1QyRDVmU0F5b2RCRW9MbXF0SXg2Sk42OW9ITGRpaTdaTzlad0FWbW52cGZobTJST3QtNkhpUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788340856934
-    },
-    {
-      "id": "news_BUSINESS_OpenAIsaysupcomingmodelissocapableitrequ",
-      "title": "OpenAI says upcoming model is so capable it requires stronger guardrails - Reuters",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmFpdE5PNUc2RGxZcDJtQ09LMTZsaHNRTE5NVWg2bWtHYU1wNVBjZDlDdmN5MnlOVFNNb0QySm9xWkdtSEhBajkyZzFEbXF0ZW9PbjVBNGdRVGlXVXlqbEVNOXFLV3hGUVlBdzdHZExNR1ZrVE9xaVphTlowdFBBaU5mRzFlYVZadUd6TmdRei16aHFXc0FCdVdvbUNNUDVscVNnUmJNSTBIdWYwMll6TlBsWGxEMGg5?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788340856229
-    },
-    {
-      "id": "news_gaming leak_AmassiveValveleakjustexposed12TBofoldSte",
-      "title": "A massive Valve leak just exposed 12TB of old Steam data, no hacking required - TechSpot",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (gaming leak). mots-clés viraux: leak, hack, exposed.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVHlRNzVGWF90Z2VzTnIxRF9WalhPMEZIdzUyNVo0Y3JILVFhMGpiRWtnQk1sbVVJR2RZTzVhMXl4dzlvRE5oS1g3ZmZ1SW9qYXVKS1l3N2JDWlk1VDFTR2lFS0g1ZVI4UU5VNlFxUHNOcW8wWUZMTmNRdm1MeUJZaFRGOG1rcFdpejNVT0Rzajd4QQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339099254
-    },
-    {
-      "id": "news_tech ceo controversy_ThetragedyformertechexecKristinCabotsays",
-      "title": "The tragedy former tech exec Kristin Cabot says followed viral Coldplay kiss-cam scandal - VnExpress International",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (tech ceo controversy). mots-clés viraux: scandal, viral, rage.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZVRJZWsycHJfM3NKenFWalMyb2pVMnJJRGhBdm1YZy1MczI2cExuOElhdEc2ZlUySXBSZ0FJZmJLdHNhU2NQb3lCXzBvWGl2bXNsbldKUDdkU3EtQ042UHIwQnlfUi1aVEVCNGRrSlBKc2JkeDdnTVFoWVZ2bHN0UDIxaHVWRUlHNGZYTVQ5X1ZqQnZZTm5VekV6Y3RZWWw2UWdrWlR1R2FGNk12MGN1SHAzOEx0S1dlRVZVdWV1ajdHUllfVzVXQzhEUjVGdWEtcHBjVmF2eWFUMFdOMXQ2NWcwNA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339098030
-    },
-    {
-      "id": "news_celebrity crypto token_WhatmessageistheSECsendingaboutcelebrity",
-      "title": "What message is the SEC sending about celebrity crypto endorsements with Kim Kardashian fine? - marketplace.org",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (celebrity crypto token). figure/entité tier-8 (kim kardashian) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMjRDOTEySnBhOUZ4dDVyaGltMXZqQ2Z4cUlSNUFLV2xJZ1RFaWJTWm1CUFJRXzJsbE01dG5QY1piOEswZTk1djNYR3RzZUdSRlJhQlJKOVVsTnlkMTVPS042VHhQTDByb0VZUVQwS1ViLXVKQzJPdG91b0RHeWxkSjZycDVqU0R3LVJvRDkwZ2tLcVhuX2plRURldzM2SWx5Zy1WTF9uaG85bkU0Y3hOZmVfUEJPQ0xxNGpOdnJ2VnFTc1VDV0RQaWdwcnBTanRpMXNN?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339087573
-    },
-    {
-      "id": "news_leaked footage internet_BREAKINGAthirdGTA6gameplayVideohasleaked",
-      "title": "BREAKING: A third GTA 6 gameplay Video has leaked onto the internet. - RockstarINTEL",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak, leaked, breaking.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXJ1Q1FpWVBpOHhuREt0NWp5ajRSX0QzeGhIc09LQTRZbGM2aFVkUnNiVmlrbDVTTTY0Skx6UmpCMmQ4Ylhia0RzM1ZTUThlbE9pcndBcG5acXBSTHdzRWMyQzBQMFc1YklZTGx4NWxmREE5YUlSNE9FQzJqMzFHOWJCMUM0RXplQjFqZ3M5Y2pCNEM2enY5aA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339086407
     }
   ]
 }

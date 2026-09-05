@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T17:17:59.119771+00:00",
+  "updated_at": "2026-09-05T19:06:58.866354+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemengovernmentlaunchesownairattacksonHo",
@@ -418,6 +418,94 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_HEALTH_22yearoldKaysvillewomanwithDownsyndromeb",
+      "title": "22-year-old Kaysville woman with Down syndrome becomes certified fitness instructor - KSL.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXVHamJIaWJrcG8zbXlrMUxZLTBBSTNod0NaWFpzS2UySXJ1Nkd3bHVtemFDLUhQbVlzRXR5TWw1UnJibEZEZmY2R0pYQVd6QTFIemRtQTNwVzl3ckRUa29IWVNiZWpjNzJ0aFZ2bi1JTjdqQi1DR2JQQml6N2pVNDZaR2xHWHVidUlITE5IWDRTT0hEV0dDQ250UkxTeFhoSWZHRVFVb1R1Mms1M2x4aFo4cVQwYVplSFZqeA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788635194845
+    },
+    {
+      "id": "news_ENTERTAINMENT_EvilDeadstarBruceCampbellsayshehas5years",
+      "title": "‘Evil Dead’ star Bruce Campbell says he has 5 years left to live after cancer diagnosis - Entertainment Weekly",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmJ2SjQ5ZjVyNlYxdmlYLUVVVnJvUmpSNGJpZ0xKOWpybUw0OXhhTi1EWURValhmUXJ6NklRblJrb0QyRm4yYVpFNUVYRndjVTM3VXVzQW10RVhMZWRLVjg0bENZdVdfaHBUSmdXSnhFR056bk9YUTI5b0QwT1RpMVFFOHU0eTA2MkprVGl0RQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788635191224
+    },
+    {
+      "id": "news_ENTERTAINMENT_SteveIrwinsWidowSharesHeartbreakingTribu",
+      "title": "Steve Irwin’s Widow Shares Heartbreaking Tribute 20 Years After His Death - The Daily Beast",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNakJITHNPbUF1NVZiVzFVek5WakFCTVRTb1JLSHhzYkZsZFdfZjVnaHZ5RnJnSWFEdFI4ZFRxVjNJNmIwc2Y4ME52b1ZjZU1ZbFdsX09KbUlmSVMxdVpoV0RkWXJxVG1samVIcHJaVHozWFpLaF94N0NLaFRyOUpTM0J6ajBfc0xhakIxZXBKY0JKeWV1Z2NKTWRpMGdZdEhVVk51MTUwUVJnVjE0NDFtc1N5ZE56WENM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788635191224
+    },
+    {
+      "id": "news_BUSINESS_TrumpsaysStupiditycausesinflationandthre",
+      "title": "Trump says 'Stupidity causes inflation' and threatens to stop trade with foreign countries - Fortune",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTg3aERvS20wSlN2WDdlNXB1N3dwXzVLR2NXQXVGa3VlaDY1ZkVUS1dsN1hOWDBPSTRxVlQzMmUxQmItQnFNZjR2ZGFrYU93VnlxZFoyN2xMQVA4U1UyVEc0VGJWcHZ6ZEp5a2FjbDdVcUpVNjM1UHpTVUNGWEY0NlJvRi1TUHA4SjRJcmhyUUFjTm5OYWc5M00xbnpzRUdvdmFKSVAxRHNuTmdH?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788635188809
+    },
+    {
+      "id": "news_BUSINESS_TeslasCybercabhasbeendeployedanditsalrea",
+      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation - arstechnica.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQenZZOVY1NDlCdWh4QjBUUzQtYUYydld2cS1kUDd5YWxrenZDbkxnb1E0ZHhDMXRRZXVuZUhEUEd0YnpIcEMzZXNLY3ZsM21hc0lELS1wT0dxVlVmUmpxYWs3a0xSS0dTd0tIc182UE50amFqNlJVMkNCR255LVQtakt5VExtdk8xZ25MUVJSVkRtLVJENnlISjRsWHBHR1hsdzF4Y0loeGUwYTg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788635188809
+    },
+    {
+      "id": "news_NATION_NatalieHarpPeacocksinOvalOfficeasMelania",
+      "title": "Natalie Harp Peacocks in Oval Office as Melania Snubs Trump - The Daily Beast",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (melania) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSEVpYzZlTDFsaWZqcE9HLS0teXJqRmpHQ2lxSWlKd0QwYzVaNGZLbUlHVDVab1VRMWk2Nmt3ekg2ZjR1Z3UwR1FnSXU4MnEtQTdOXzF3MndaR2p1MXBIMXQxbm1tUjkyTnFZQ3pGdWNKblhQZ3pnVGR3dnQzWmItUnlXMVpoU3BWeUh3emtqZ1pLREI5?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788635187926
+    },
+    {
+      "id": "news_NATION_Coronerreleasesautopsyresultsfrom5yearol",
+      "title": "Coroner releases autopsy results from 5-year-old Saylor Hayes, parents extradited to Georgetown County - WCBD News 2",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbGVBOVYyVy1OSC1TUEtOMWlxZWxSSnpORFZMUFh3aDRIejFBUUVybFNlUmxXZ2JzemhuaUdhU1RWMUM3MU9HMHZZVV8tbnlEWGFMa1hQcTlFMkt3d2xBUmgzanlla2hCUzk0SzMyeVdvUHk2bF85OF9TbmdncE5XZU85cmJfUTFOVHBieGNMMWx4SjhkYlNfRzRLaWNSODVjMWVTNWZRT1gtRDhCdmRzS0RxSm9nY2tIM2hFV01za0tOWVhLeGxPWWZXN1dhRHpDTUhUaTFycTlWUFl5N1JWQ1BuaHM4VFZCVDNPUlBfT2xLNE9xVGEzQWJ30gH_AUFVX3lxTFAwdmJtZVFIQ3FOSk9YYkdoR2VUVzNEZ0NwY2VkU3dKOHM4SjBCOTNfN2pXX0tGXzh4TC1UN3BOVWktMUctUDhtVDRkVXU3dDhRVlNESGRtTnRkN1I2TVZQSFFqbHZGUElfQTh3U0p5UGxVeEZPZFVsMEhsXzdUR0U2ZVMtTEx3WHVRYnVXTXVZSHMzLU4zcFlLUFh5Sm9ycnFOSm1hSmtIZDN6MEZZVHYzZ3NqcEJhV0x5elRYd2ZDcDZzWHNBdHktaUg3YXM2RzBpZUxKR28yRmctUldVb2dvS0RIaVl0UW9jZXhjRk05bnB4WU0tQ2pXODJJcWdtYw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788635187926
+    },
+    {
+      "id": "news_WORLD_Civiliansamongatleast60killedinYemenasgr",
+      "title": "Civilians among at least 60 killed in Yemen as ground fighting escalates - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVZ6cC1GSjdxX0JEQ0VTMmhfdVpuZ3RJa0UzZWFHbEctOWVURURYQ2VuVFFYR0JZLXpaajEtUmJGSG85MlFMc010OFF2WTlROWdSYVpnR2ZXMndDNkw2RGhCUzhTbmtXQVRZM3A2NC1oZTEzbnVwVlEtSXgya0xzVnR5STlOMnpNalN4X3hjbDRHQVhPb2FyYUdIaEVYc213RUlDUWU3R2ZsZklLZFE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788635186905
     },
     {
       "id": "news_SPORTS_LaneKiffinLeavingformerNFLplayersoffrost",
@@ -5018,6 +5106,17 @@
       "ts": 1788339077026
     },
     {
+      "id": "news_crypto coin viral_AndrewTatesMemeCoinCrashes40SinceHisArre",
+      "title": "Andrew Tate’s Meme Coin Crashes 40% Since His Arrest: Details - CryptoRank",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (crypto coin viral). figure/entité tier-8 (andrew tate) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2RSUWlGZDQ3UGt6cXdLRnBveWEzazhoYWtSTEtaQmdrTTB2bTdmZzVWUUx3YjhhVjljUmFOb1k4NkRqNVZ1eGlpQlh0TWp3R0hFMlRacDdMVnk3SV9rc3NyNEdBYkU0bWJJMDNnalNJSGRlVlRUTDlnVXNLN3lObTJjY2IyTHc0LU9CM2hqVDhUNklZLTMxUjBnSUU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788635197260
+    },
+    {
       "id": "news_tech ceo controversy_ThetragedyformertechexecKristinCabotsays",
       "title": "The tragedy former tech exec Kristin Cabot says followed viral Coldplay kiss-cam scandal - VnExpress International",
       "cat": "macro",
@@ -5401,105 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788427117210
-    },
-    {
-      "id": "news_celebrity crypto token_AstarfromTheOChasslammedKimKardashianand",
-      "title": "A star from 'The O.C.' has slammed Kim Kardashian and other celebrities for shilling crypto — calling it a 'moral disaster' - markets.businessinsider.com",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (celebrity crypto token). figure/entité tier-8 (kim kardashian) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVFgzRGhZTFc3Q050cW5Ma2xqb2hkZHl3b185WGxwMGRnWXNBRkF6dUtOUzBmN2JQUEx2TFEwd2NrX1VIMDNBMWhPek5vLXZfNzM3NzZuM0dBZHMtTVBHbEpzV3pBZ3FMSXNOc2RsUVpiVm1adzZYQ1RWeVpLMVY5TFQxT3VSTEZnWGFwM0JFcGlYTHdISGVzTVg1TGw0MHJhd0FIWHBlUWV3Y1hSSDdQejdsYzdDRTFIN3NUV2piTlYwRXMxZFZz?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788427117210
-    },
-    {
-      "id": "news_leaked footage internet_RamayanamovieclipLEAKEDonlineViralvideos",
-      "title": "'Ramayana' movie clip LEAKED online? Viral video sparks buzz over Ranbir Kapoor's Lord Ram look - WATCH - The Times of India",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak, leaked, viral.",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQ1pZZnhpOUpJN0FvUW9KbDBNTklKMDlZUE1lbzg1MlUwQWZnNnVGZXNLbUlxaEt0YllmX1NaeDE2dVBIQUtXSHhjOEt4S1Z5LWxnV3J5OEVkRVFOSEZEUDd1V0h5ZGJGRXdSOG1mbThHX2VVeTNob0ZkcUtTYWhSbUZBY1NtaDRfN1NFbVBjNUNwV0RYOFhUVE1DRDRwb2NJY1BMazBqTnpiRnBJVlhFbTF6MmRJeHNrMzZZOXhXdUFJTkhTVEJ5ZW43a0ZZSXY4WlBnUGhBWWJ1eF9KNm5kdnRTenFEV1JhSUx0RVQ1SkpkSXdoWThQaHQxLWE2WXFteThjMWhSZnRFUWxfVGlDeDhhTzl4R3JfQUYyY0JKRdIBpAJBVV95cUxPOU9aOTdta25mX09CR3ZjZXBqZHpNM2NnTzVaMEp1bUE0TC1QWVlLYmdHZkJOMmpHaTJPcnY4RGY5NmZxUk1lUDNMVGZUbHBpb2otUjdXRkFaWUVzZjh3cFMxSXlqc3JVWkx5eF9EcjdlWl9XSGFzYXNoTnFwV2NNdUNsWHVLUGh1d0NwQThOSzhFemNOX3djai15Wkx4bThiVmVrT2Nkbk9acUtkNXRSV2dGdHhxd3h6MUt2bW1NRFNFVXVIXzBYa1EyX2RCa2dxdUlpTlRBb3JjdGo0MTBKdmM3VUJRZ1ZjSmZDSjN4WEQzYUZTbHhwam9hY3pXYTJjcUI5bWZNbnBsV0NKWGpwblY3Qkk5NTN6RmF3R1RNaUxsSU13?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788427116199
-    },
-    {
-      "id": "news_TECHNOLOGY_JulietIsBackLollipopChainsawsNewGameGets",
-      "title": "Juliet Is Back! Lollipop Chainsaw's New Game Gets A \"World Premiere Demo\" At TGS 2026 - Nintendo Life",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObVJNTkhRZ2tybVcwNHNuWVdaTkRtX2JvcUpna25ab2g2cmYxSWNIZHdRUjRyQ1dKZ0FEUnptZXJJQjNubkZUUTVDWmYwUmF1azRhTGFBT1JlYk9BdUJ6dXVINWZtd1dQUXd1bmVxMmRETjVkaC0tN0E3VzNnNmpnblFSdGNudWU5S0NYMWRSZGFpU3Z5MXlEY2pELUFhNWxSMnl6eTZkSHpiR3RNWklCWVY0cVptdlREeThNUUZwX3Y?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788427110072
-    },
-    {
-      "id": "news_celebrity crypto token_WhyKimKardashianwaschargedbytheSECandhow",
-      "title": "Why Kim Kardashian was charged by the SEC, and how other celebrities might avoid crypto trouble - NBC News",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (celebrity crypto token). figure/entité tier-8 (kim kardashian) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWdvVEJOaWw5czFtQVJ1RTcyOC1tbDJLNGtLd2Q5VmkwY2ZsMFNRaDFkUU9vNUxLc1drNng2Z19ETkFkcjFqVWlKRnZUS1AtbUJTTU5uY3ZCU2dCZk8zWWZjbEdpbnJoQ0RTR3FSRm1VRlk0alZqc2FDcjNRY3dXaHlUZGY5cHE5QVJDZDY5aEh3NmkxWGxVRFZqcHJsS2Zz?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788411219205
-    },
-    {
-      "id": "news_ENTERTAINMENT_TravisKelceshareslongawaitedglimpseafter",
-      "title": "Travis Kelce shares long-awaited glimpse after Taylor Swift wedding - cleveland.com",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (ENTERTAINMENT). figure/entité tier-8 (taylor swift) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDRCdWlBblo0N0ZaRmcyOG15YVZrYjdxZVR6LU1SdDBfQm9WZ0pZeldQeHhZNXdkXzNfNnlfQjUtTVNMUkxidTBxd2pfNGdNSVdHaEtMZVFqU1lzWTc3SWdsYm5XOWdRb1pyQVpWcUEzRi1uYmIyN3JQSV83cW5YMUZZOHB1ZURRdGZ5TDcxTzR6MG4yR1FfX2JrS3o0d3hlNlFJWEd4eTNKMEhaS2Q3S9IBxAFBVV95cUxQaF84eXdmV1lrWnhwUmQ2cUZGSHhRUGJEM3doNjIyT1VxZUpTazd4dVY4MXRCTUJNM0tjYmJjRHdlb0V2SHJqQk1xalFQbnF1dXZ4T1FMNXQ3MVdQR2lFX2pQTjhSTS16LXR0OWVVQ2trNmhWMGxGN0ZMRHo0MjJoQ0FPaTdSX3NhT3FHMDV5Z3l1djZjN1lsR0FXdEczTW5lLXhTY0pOUG9INmhDY3dIWUpZeWN1T3Vqak1ubGJmYXZRbTdE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788411212606
-    },
-    {
-      "id": "news_BUSINESS_NewReasoningStrategiesSweepThroughOpenAI",
-      "title": "New Reasoning Strategies Sweep Through OpenAI, Other Developers - The Information",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2taaEJZNlRxbDc5TzNKUFVDcnlvVFgtbGpUY3hOdnhzRTluQmpWSUo0UHlRenlHSW5lQ1pkbVpETVBZT3ZzamRWWFN0MVc3U3NCS2ZvTTZ0VldMNU9aWlpER0NSWlVyaW50NjVnY0g5bnQxYTRwMW1OM0Q2Z3BjdkRIVXhtZlN2YW13NHE2SUhSXzVGTTNVSU1BYk5ZR0p4SUFF?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788411211124
-    },
-    {
-      "id": "news_WORLD_TumblerRidgemassshootingvictimsfile30new",
-      "title": "Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI - The Guardian",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (WORLD). figure/entité tier-8 (openai) mentionnée; mots-clés viraux: lawsuit.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMV90YW15alhlRmlUN1lBSFN2LXhnaEpHTG9tRkVXa2tlZGN2a2xqVW9TU19ldTRZNm9NVDBRV2N5VDlnc0EzMjFldHozVVNGT3k5NkxfTWV0WjRXbndVNjNLMF9xTTNJMzMzOXBUaXhkX3YxOFB2bEY2dXZyWlJIdjR5UnFYUVppOGdjVkNLV1RRU2s?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788411209162
-    },
-    {
-      "id": "news_ENTERTAINMENT_FromProhibitionspeakeasytoTaylorSwiftThe",
-      "title": "From Prohibition speakeasy to Taylor Swift: The history of the Bratenahl home purchased by Travis Kelce - WKYC",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (ENTERTAINMENT). figure/entité tier-8 (taylor swift) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeEtwaTdibno1NS11TW56aTk3YnRGNjNlalZiZUI4S3Y0TXVPZWc2Y3Bvbk1xSWVSVVBreHliaU9xYnMzeGRISzlaeGZGSjdXaEVvcnphWS11a0RLdFptekFmVGNsZnZHVERrS1M2QWNhWDRRcXdfSVZTazluTkFKSmp4cUN1MnRiUlhyUTVQMkVzVENBeHZsUldxdy01WUlVbENuLWQ2aEllT1dvTm1jWExCdFpNZTdwNEE0TjQyNGN4WmNoT0xYWTluQ0pHMVZEZU5URHBTajlsYW85UmlzZjY1RC1LRkd0MGdueDEyNUoyR1AtVXFHcHNuNGRDVWc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788395290538
-    },
-    {
-      "id": "news_ENTERTAINMENT_TravisKelcedishesonTaylorSwiftweddingatM",
-      "title": "Travis Kelce dishes on Taylor Swift wedding at MSG, Adam Sandler support - USA Today",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (ENTERTAINMENT). figure/entité tier-8 (taylor swift) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGE2ZmFnQ1IzY0xrTGFhRUQzMVNoQVBQemZESjU3UV9TU1R6b2lxZ0gtWmVhVlNWUUxhN3pubnhRM1pxOTFqNVJkTW1jTkhKVWZ5b1RaZFVpVFdlQ2pzcks1NFBYOVV2UklkQmtLazUxbWxtSHBrWHYxWWFpRnQtajJUZXdwdnFhNTF0c05yTWxXOVpSVnIwVXRhSXVrdGxHa2phc0VqcG9qMWx2aGFkNkFfYzZoUGRnNlVLWW5aRU14S09Falp3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788395290538
     }
   ]
 }

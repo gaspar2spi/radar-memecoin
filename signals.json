@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T21:11:12.370276+00:00",
+  "updated_at": "2026-09-05T22:54:39.853994+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemengovernmentlaunchesownairattacksonHo",
@@ -211,6 +211,17 @@
       "ts": 1788339079251
     },
     {
+      "id": "news_rug pull crypto_ElonMuskwasbaitedintoa80MmemecointrapHer",
+      "title": "Elon Musk was baited into a $80M memecoin trap – Here’s how - Cryptonews.net",
+      "cat": "macro",
+      "heat": 9,
+      "desc": "Actu détectée (rug pull crypto). figure tier-10 (elon musk) mentionnée; référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKdzZnUUhaU25UMkpYa1FnRnZlSTZDekNHOTZvQlhfd05ieXQzYjVOM0c2bm5BVUtCNEZOSDZ3akZtUkJzc1BmQjlfWFJaUFFhZGxwMTUzNnh6UQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788648865911
+    },
+    {
       "id": "news_celebrity crypto token_IggyAzaleasMotherCoinSurges25asCelebrity",
       "title": "Iggy Azalea’s Mother Coin Surges 25% as Celebrity Memecoins Eye Year-End Rally - BeInCrypto",
       "cat": "macro",
@@ -418,6 +429,61 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SCIENCE_GanymedemayholdmoreliquidwaterthanallofE",
+      "title": "Ganymede may hold more liquid water than all of Earth’s oceans combined, yet this immense reservoir is buried beneath roughly 150 kilometres of ice—and scientists still do not know whether any of it has ever reached the surface. - Space Daily",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50UXBkOVpRdm9yelpFMEtueTBDRnRUTFI4YnBfaTVzZi1vNEVaU0ktWE5WVnUtbHl3VW94SVhCblBieW81c1d6R3JVd1JKeWQ2cHRURVBRX1NGa0FaX05IS3E0YXRPQnJkazRvd0htX0s2NXVmdGc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788648858663
+    },
+    {
+      "id": "news_BUSINESS_CantMessageThatAwayGOPFretsasTrumpAdmini",
+      "title": "'Can't Message That Away': GOP Frets as Trump Administration Desperately Spins Record-High Diesel Prices - Common Dreams",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YaDM2RnZ0MG4xYzdTUk1FMkl4TjFYWDUxV3JFNnVsNHd6cnMwVVBsalpzdFAyVks3ZkFVYnYzMGtSLWJZM25rZnkwcG5DLVRxemNjRnY4SFdBRmM5NHJQQW9SX2tIR1FWZ2R3VGhB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788648855528
+    },
+    {
+      "id": "news_NATION_TrumpalignedsuperPACtospend10millioninTe",
+      "title": "Trump-aligned super PAC to spend $10 million in Texas Senate race - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWdIMllTakVZY1REM29XTmoxb1c4em9aZUx3TXNBQjUtRzVDZVE1UjZFMUtnbVJWeWVMLWpzcEdiNnVLSVlLdFhRdFJEMlNnZXdnTVc0TG9jTUhZU21aU1NnNi1CZm5hTVBDOGVuOTlBZmVnOVFWdWNGdklUQ09kUmhyZUpSclZFY1JQdTZ0SkR6aVprYjRMR0NJU2hCaVB2YzJuSnYxcnU1QThkR281T2F2M04zMEhGMjRvdHFRMEJrbGpBRkE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788648854735
+    },
+    {
+      "id": "news_NATION_Judgereinforcesorderhaltingimmediatework",
+      "title": "Judge reinforces order halting immediate work on Trump’s 250-foot arch - usatoday.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0JwaEN6bVlJd0ZtWUVkX3VUMFlVc3VaaXhJUDNJd3EzNjZkY2dJeWJLMkVPYUxCcEZwUVBHZERpeWtBWVJDanVJckhJaTFLb29kMGp1RV8xZ3FVa1Y5alY5Q1g1dlNGdEdpcC1sdENGdVVQVEpHZTFzZ2t2YjhCZ1hOU3ZYZEx0MHpJSEZqU0hSUkN0Y2c2VFl3YVRtQkNiNTNSQ2JpSkVFU29CTEtTdEE4MmFvUk9ESGdOeU9wME9vYU1IUUpCdQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788648854735
+    },
+    {
+      "id": "news_NATION_JudgeagainhaltsPostalServicemailballotpl",
+      "title": "Judge again halts Postal Service mail ballot plan as Trump administration seeks Supreme Court relief - Los Angeles Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnoyUVhUT1plQW5ib1pBQ3pBVmd4Qy11VVJVcTJDaTg2X3ZUclA5bnRUUnVxcWEyWEN6ZWFFR0FWdmstUWhTS0FfclE2U2FHbG1hQm9LVnNQWVZ0eTVRdDhiY2NfZHdOZG1ZSEhiV01jSWpIQ1VoWjExbUxwc3BhRGhxNGlYa3BfZnBNdm1yUm5qYmp6c0tKWjZndlc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788648854735
     },
     {
       "id": "news_SCIENCE_Fornearly50yearsVenusscloudshavebeenunde",
@@ -5434,72 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788534088920
-    },
-    {
-      "id": "news_celebrity crypto token_CelebritycryptoendorserslikeKimKardashia",
-      "title": "Celebrity crypto endorsers like Kim Kardashian spark concern for unwary investors - Roll Call",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (celebrity crypto token). figure/entité tier-8 (kim kardashian) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjN4dXIwazhTMVN3a1pJdWIxRHNkNGJWUnpZRjFfdWpIZzcxQXN4UW9OWHh1Q3NIR3k4a3AzQXp6ODJMckNSMGM3NHNlanBUOHQ5ZDUyTzFWMGllRU5SLXhnNXctS0FHX1FIaUpyWGI5Y1JXV1dsNWVSWlJScktMUDgtb2RucFZoUGIzWnIxRWJLeEpmcTdrVVEyU3g4UVFtaUM4Vk5vS0VETnhVRkFQUnVuNmY?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788520896949
-    },
-    {
-      "id": "news_BUSINESS_EXCLUSIVEOpenAIagentshijackedGermanwebsi",
-      "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788520888197
-    },
-    {
-      "id": "news_WORLD_RomanianprosecutorsindictAndrewTatefortr",
-      "title": "Romanian prosecutors indict Andrew Tate for trafficking minors, money laundering - Reuters",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (WORLD). figure/entité tier-8 (andrew tate) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMjNVYTNqcUFyRlRtX2xINnY5VFNJVV9PTVN4V0R5TFJXZ0tUcTlSVUpTTGhRZVExZFRvZ2RDeGxOc3MtRkItdU1TMVg4SHROTEZGVnJVOXNrOE5reGRic0RCbjNrT1Nrdk1OSkd1LUczYnVSNk1DX013Q25rcEl5SDZBU0JsM2RadGZxOGh2azRsd2FiSWNreTRWd1hNYjNlTENkR2hIMkRiUHhNSlNWWjA3MU1qeGF1?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788520886668
-    },
-    {
-      "id": "news_WORLD_OpenAIfaces30morelawsuitstiedtoTumblerRi",
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting - TechCrunch",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (WORLD). figure/entité tier-8 (openai) mentionnée; mots-clés viraux: lawsuit.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcFUtdHhzQlF6NUoxS0RZVUQ2akttM0E2M0l1aVpqSk5VRTB0MHkwTDVBTVJad1V1MXE3Qkc5MldmTlQydV9PWUVSdGRwV2dxb3c1UEI3ZzBFSkFzXzRlV2hXdGRFTG5YUHN5bmtwaFZaZWU5VnFpR3A3dmZBSklkOEdhaUZXcG90TmVzLUxXdUQtMXZHc2pIRmpqSQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788502441517
-    },
-    {
-      "id": "news_BUSINESS_OpenAIunveilsGPT6Astrawithmajoradvancesi",
-      "title": "OpenAI unveils GPT-6 Astra with major advances in AI capabilities: 'Now in the AGI era' - Fox Business",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2l4c2h2R2JEUTlZSkR4QlIzR1RtN0Q0M2dzMHpGR2o0WGJ0N3hUY0tfZlBZWjk0ZnFtMVFYLUZMVnV4eXpMQkxESWd1cUgyUEFqSE5Vb1RxR2VQaDllOHUyVlpndE1PekZKYTJOMDlWOTBEc0dFMUpUWl9zekhvcUdza1lLZ21wYVNYU2JtY2JuVmljblZQUHdacS3SAaIBQVVfeXFMTlpQdmVJNXpScWN6VnoxTk1fMHctWGpzdC1Ib1FkdVNkZVE1b2RFQ1p0S1lZY18zOHJVOE1IdXVGc01nREQtZlg1R3FhaWRNVS1YRnZ2TXhMYUYxNmstTHVTOC0ySnBsQ1dHc2ZzMDJra1A1RjdmdHB1Q29Ja0tyMDNpZXRUaWR4Q0lnaDdBZlZMMGU5Y01aRzJZTmpyVE95emNn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788485140355
-    },
-    {
-      "id": "news_AI controversy viral_GwynethPaltrowRespondstoBacklashOverVira",
-      "title": "Gwyneth Paltrow Responds to Backlash Over Viral ‘Off-the-Record’ Dinner Invitation for AI Billionaire Sam Altman - People.com",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (AI controversy viral). figure/entité tier-8 (sam altman) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOE9fMU5kajY0UU1GYmNDeDVacTd5OHppZmlEcGJmbnRxVUg1SlpCWlpZLXJ3dVdHcXpzZlBiQU5QSFVxLTNaMkZ3OTFvLVZvTG5hdGV5cUxzaER4T0JhZUxHd2YyaGR6d19obGZEaFBUbnlXRnRkT1FqcGt2RWEwWGpZUkI5bjZyd1BjLW9XWDZPdkFQdVhxWWFDTXZJQ2F5YnVlSEdTUkZIWTVRUFI3NXRFalE4aF9OM0NPVWh2aGtJeWtXMmVfNkJQc1ZzTm0xN2JqOA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788479268882
     }
   ]
 }

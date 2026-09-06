@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T00:25:38.577300+00:00",
+  "updated_at": "2026-09-06T04:56:53.228578+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemengovernmentlaunchesownairattacksonHo",
@@ -429,6 +429,83 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SPORTS_HarrisonSmithreturningtoVikingsononeyear",
+      "title": "Harrison Smith returning to Vikings on one-year deal - NBC Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLXVjajdmdTJGeHJNRzdrWlpsTl9Uc2pVVjlSdnVCVE1razY3Rk5tTDkyWVNPdGl5YnpfZjVRaHFwcXFsLTdHVGVXYldfMng2Qk5NeFYxVlN4WEkzZVRfUUNMVFBUV3pnSnJqR0dLU1JsWFdKUHNoSzh3QV9oeXhNT0sxczBwQzlMZGR2WHU5MjY3U1VReGhhd1liaEFWaWtOOWgzcmozWkJBTDNEM2NubE11YWQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788670587516
+    },
+    {
+      "id": "news_SPORTS_WhyiskickoffforInterMiamivsAtlantaUnited",
+      "title": "Why is kickoff for Inter Miami vs Atlanta United delayed today, Sep. 5? Updated start time - bolavip.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaE1vdTZIUGhDRnVhUmp0M0VJLXRMcVZoSVpIcHJiNGludExROFN2T3JfbjRMRGRMS2pMWnluczVJdW5zZGl2SC1YZVBmTl95bUctYzdUMGJGVHZDYjBTSVBpT3hsZmJFSHJIWHVSck96NmtmMHFiX2cybXcyM1dWWUJXODF1dk5YQ1ZXNFZENng5VzUyeFhpN0ZGaDRQM1nSAaQBQVVfeXFMUDR4UDBCV0hRUk1DcnN2NXNNUUVNOTktazJyejZMLUhuMGdIQmZBS3dFQm1BZlhzTl9CTGtmbFlCS3pmNWJSR0hEOVZQbTBMVHBjMThuaFdjQ0IwN2RaU212QWhPM0p3Z1dxdFdqd3pRdThrOF9zakhjd041blkzQk45bWNZRXoxYVVsMDAyUVdEMVF1aDMxXzVOZTV0NXk0cjVseDc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788670587516
+    },
+    {
+      "id": "news_NATION_RussiasPutinandUSenvoysdiscussTrumppropo",
+      "title": "Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa3lfVzJ5SVRIMUFBZEZpZkx5NzQ1cHU5cFMySTVUeEZzTVNNLV9WOGpMQXh5MFd1SUhiQ2V5T0FHSUZhZ1Jiblg4XzZfZkh3SzFBZVBvSXZNRElXcndKeWM5NGROanNCd2hkem9ieWxieUp3VEp5dzVMeVI3VzdQQjd2Y1VJWFJSQlczbkF6SGotaU12T1Q0RHBhSFo1X19pMFNlY3NIV1lfNUJ5UW82dW4wNzXSAboBQVVfeXFMTlBLcWhqSU1tMmxRWDNKajgzSldXRnl1cFlNeHZLMThQT0dmZjhkbHpCaE12NXVzZGw0LTVtMTY5N1ZQMlZhRWIxSU11TVdYanVHU3hvN0hHRXpfR2JDamVMWC05bmFjNS02SFduNWtRT3Z0YVNmLTNZVEhmbEdpdG9lOGZKdEt4WUlRQXA2YXRIZG5fYmlPQmx0U1pXcVpMRGszN29tRHF1NFZ6aElVR05CU0JVMmFRYmx3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788670584443
+    },
+    {
+      "id": "news_NATION_TrumpsMAGAIncsends10MtoTexasinfirstgener",
+      "title": "Trump’s MAGA Inc. sends $10M to Texas in first general election spend of the year - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVptOE9SRTUxYlNSYUd5MjhHRXZvWUV6dlgyYnpqeDZZUExBcWFYcUFveVdmRmtKaEZJaHdUQzBuRFJXaWhZRFp1Q3lWOFlmbU85VExiVTRUdjg4cF9WVXdwRGtWOWxydWhrVmQyQXMzRm1WY0dSYWItR2lURW41YTF6OTBOelJP?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788670584443
+    },
+    {
+      "id": "news_NATION_DonaldTrumpsReflectingPoolDoOverSuffersF",
+      "title": "Donald Trump’s Reflecting Pool Do-Over Suffers Fresh Disaster - The Daily Beast",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTUFfWWtLT3dneUVQRm1oTVA3aUR2QnR5RFZZVUJpekNaNWoycEVuVW43TW9jQi1vcWNsUUZCOXlOUF9STXU3ZkI0dlZYZ1VBOFk1MVhucVFkcjJmNk5rQmlhVW1Sb3BxM2RRUERKRGwwNHlrWnBnSUtfeUx5Z2dleXRCazR0N0RHMHZFZEh3eTVPdUNoelE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788670584443
+    },
+    {
+      "id": "news_NATION_RenewedcallsforTrumpbackedKennedyCenterr",
+      "title": "Renewed calls for Trump-backed Kennedy Center repairs after part of foyer ceiling falls - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHlfRXhaQldaM3hGem9lRFpIamRaUXE2ZUxMYUF6VHM0b1dFRWFJdnVpQkFtMWpEVlhscGlXMlY0X05GeXZMUDdhbm9BM3N1NEVyNGRhLWx3SXU0YjRvbVFfcmFkOHF4Q3YtN205emQzUmFua2dnZTBnb2JBN2NvRms2eXF5Zw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788670584443
+    },
+    {
+      "id": "news_NATION_SouthCarolinamagistrateripsintoSaylorHay",
+      "title": "South Carolina magistrate rips into Saylor Hayes’ parents, denies them bond: ‘No way on Earth’ - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUhhZi1BSVRncEZQVmhfR1VoWm9YM0VKWENwc3BWSEMweHQxREx0ajVvNDN4VWZlN1NONVlEOXJZNXh2R2N4THhfY1JPaEs4M1o5OUZxUjdXY3VYcW9EUGJoMVlBOWptck1xbEo5QTJLZ0VRd0tuSFBYVkRUcFVDNHU4QXJmN1VfVGRHM1l4ZHNITzJDTjFkUTVZZmJ6TmJxc2U4TWJiUGpKXzJsaXFZRDJn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788670584443
     },
     {
       "id": "news_ENTERTAINMENT_Marchingbandtubaplayerunleashespuncheson",
@@ -5359,6 +5436,61 @@
       "ts": 1788339077026
     },
     {
+      "id": "news_gaming leak_Switch2LeakNewSmashBrosNintendogs2026sha",
+      "title": "Switch 2 Leak: New Smash Bros, Nintendogs [2026] - shattered.io",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (gaming leak). figure/entité tier-8 (nintendo) mentionnée; mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1va0EzVmxMMjVhVVZMSmk4OTBYaUlFVXEyYWVNeG9DakpYaTJwSmQ3dXlzOFJ4MTJWQU1MZm85R01WT0ZFZVZ0dEctWldMbFhxbzlVNXhBTldvYm9sOHBhbF96R2NSR29tb1lkOWZnZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788670604817
+    },
+    {
+      "id": "news_gaming leak_NewSuperSmashBrosSwitch2gameleaksbeforeS",
+      "title": "New Super Smash Bros. Switch 2 game leaks before September Nintendo Direct - Notebookcheck",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (gaming leak). figure/entité tier-8 (nintendo) mentionnée; mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcnBIeEtJbmw1c29HaDZsYjRpNng5dTBlR0JKVUN2WGdRRXo1NnZCSmY3VDg3RjZlRGZHUS12UVpoWHluNW41S1dJQVc5MjV6ZkpHZDdOZUNPX2JwRU9mVURSUFhxTWV6M1ROYjA5MzlaMFQ5ckQ1WFUxYzNtOXZpcVpJU3hHWDB3d3BmWWJheXJpWWt6QUtUcXhFX0IyRzc1eXEtZ09ZaWhzYzFVd0ZaOG9OVllReUNoVUE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788670604817
+    },
+    {
+      "id": "news_TECHNOLOGY_RumorNewSmashBrosgameonthewayNintendogsr",
+      "title": "Rumor: New Smash Bros. game on the way, Nintendogs returning, more - Nintendo Everything",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb1VHeFVQVzNhVDhQMlh6dkpsa2xXc3pTbjVoTjJWZ0dUeWNfVzVLTFZyUlp2ZXJCSXhTSXVzMGREOVp1MG5mM3B0b2p4NFA2ckhJM0xURmcydWxad2NLZnlwNWtwb2FtLWdhRGhQdlRKRm82VGR1QzZONjNfSUNTbkpBZlFZTDRpUG5RZ0RFbi1uVVB5bFpvTXBn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788670585927
+    },
+    {
+      "id": "news_TECHNOLOGY_14PredictionsfortheSeptember2026Nintendo",
+      "title": "14 Predictions for the September 2026 Nintendo Direct and Zelda 40th Anniversary Direct - IGN",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVDNWTVpnNDU4MmRrZUtKLWVGWFh0RkNkZjB1SmtZUDhNTTUycm5BV1B3ck9yV1c3RjZ0T25aOGhyNHBZQTRuTXM0b0xiZ2RURS1EbVFZdnF1WXZSUHpQckwzcjRxbXVXbk8yeFdsQTc4UWFEcGo2eDhNbTh5cFhWbldPYURxdjBDR3lyREszSlVzV3MzWnpDeXJWMmR2c0xKRFlIUndTdnlfWjB2Qi1kNFhtX09pQ1k?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788670585927
+    },
+    {
+      "id": "news_BUSINESS_OpenAIsGPT6AstraSpawnsArmiesOfAgentsThat",
+      "title": "OpenAI’s GPT-6 Astra Spawns Armies Of Agents That Run On Local CPUs, Handing Intel And AMD A Demand Windfall - Wccftech",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY2RWYVB4NFlDRnZkM1dobWlBU0JIUk1pLVNucXdXVzRuX01GalhkdVdTRGE3akdWS2Z3Mkp1OTB6WVhHRDZ1SGZmY3ZGSHFsOFVzMlFGdmNWNzRlQTlkeTlEdVR3RER2TnVRME1lX29UOEJ3YktMOUw2NklZSjRXd3FnWEVqTkhyVzh3OTExZnNJYThiT2NLdmF1M3VWYVlxOXBfcExLcFdkV2VrNEwtTEZoZWZYa0ktbVphakJNeS1HTVN2aUpB0gHMAUFVX3lxTFBHRlZrczhzTi04SGFqSnNMb3hRN2MyVGxMb25jRnVZVEQxakVXQWxRSFZSNWZwY0xOWlRMWGxKUllvYV9zQ0drTUROUTBaY2VmRWQzVmZBZW9jN1k4U3BVb2x4Ni1jSDJEaVItZzRUTzdwanBod0drcHdQWVJFRHF2UUUyb3dRV2diWFJDc25tenFZMlZybENXZlZXbFFMQU1HbkNNbnNNRGZNTmV5NEdYSFVmNFpFMGlnYWR5djd6eFppbHpLQl9TemxFdA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788670585158
+    },
+    {
       "id": "news_gaming leak_NewSuperSmashBrosandNintendogsGamesLeake",
       "title": "New Super Smash Bros. and Nintendogs Games Leaked for Switch 2, Insider Claims - VICE",
       "cat": "macro",
@@ -5368,138 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788654331535
-    },
-    {
-      "id": "news_AI controversy viral_GwynethPaltrowRespondstoBacklashOverVira",
-      "title": "Gwyneth Paltrow Responds to Backlash Over Viral ‘Off-the-Record’ Dinner Invitation for AI Billionaire Sam Altman - People.com",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (AI controversy viral). figure/entité tier-8 (sam altman) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOE9fMU5kajY0UU1GYmNDeDVacTd5OHppZmlEcGJmbnRxVUg1SlpCWlpZLXJ3dVdHcXpzZlBiQU5QSFVxLTNaMkZ3OTFvLVZvTG5hdGV5cUxzaER4T0JhZUxHd2YyaGR6d19obGZEaFBUbnlXRnRkT1FqcGt2RWEwWGpZUkI5bjZyd1BjLW9XWDZPdkFQdVhxWWFDTXZJQ2F5YnVlSEdTUkZIWTVRUFI3NXRFalE4aF9OM0NPVWh2aGtJeWtXMmVfNkJQc1ZzTm0xN2JqOA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788654323947
-    },
-    {
-      "id": "news_crypto coin viral_AndrewTatesMemeCoinCrashes40SinceHisArre",
-      "title": "Andrew Tate’s Meme Coin Crashes 40% Since His Arrest: Details - CryptoRank",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (crypto coin viral). figure/entité tier-8 (andrew tate) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2RSUWlGZDQ3UGt6cXdLRnBveWEzazhoYWtSTEtaQmdrTTB2bTdmZzVWUUx3YjhhVjljUmFOb1k4NkRqNVZ1eGlpQlh0TWp3R0hFMlRacDdMVnk3SV9rc3NyNEdBYkU0bWJJMDNnalNJSGRlVlRUTDlnVXNLN3lObTJjY2IyTHc0LU9CM2hqVDhUNklZLTMxUjBnSUU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788635197260
-    },
-    {
-      "id": "news_tech ceo controversy_ThetragedyformertechexecKristinCabotsays",
-      "title": "The tragedy former tech exec Kristin Cabot says followed viral Coldplay kiss-cam scandal - VnExpress International",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (tech ceo controversy). mots-clés viraux: scandal, viral, rage.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZVRJZWsycHJfM3NKenFWalMyb2pVMnJJRGhBdm1YZy1MczI2cExuOElhdEc2ZlUySXBSZ0FJZmJLdHNhU2NQb3lCXzBvWGl2bXNsbldKUDdkU3EtQ042UHIwQnlfUi1aVEVCNGRrSlBKc2JkeDdnTVFoWVZ2bHN0UDIxaHVWRUlHNGZYTVQ5X1ZqQnZZTm5VekV6Y3RZWWw2UWdrWlR1R2FGNk12MGN1SHAzOEx0S1dlRVZVdWV1ajdHUllfVzVXQzhEUjVGdWEtcHBjVmF2eWFUMFdOMXQ2NWcwNA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788628670600
-    },
-    {
-      "id": "news_leaked footage internet_BREAKINGAthirdGTA6gameplayVideohasleaked",
-      "title": "BREAKING: A third GTA 6 gameplay Video has leaked onto the internet. - RockstarINTEL",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak, leaked, breaking.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXJ1Q1FpWVBpOHhuREt0NWp5ajRSX0QzeGhIc09LQTRZbGM2aFVkUnNiVmlrbDVTTTY0Skx6UmpCMmQ4Ylhia0RzM1ZTUThlbE9pcndBcG5acXBSTHdzRWMyQzBQMFc1YklZTGx4NWxmREE5YUlSNE9FQzJqMzFHOWJCMUM0RXplQjFqZ3M5Y2pCNEM2enY5aA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788628658525
-    },
-    {
-      "id": "news_BUSINESS_OpenAIacknowledgeswikiincidentandneedfor",
-      "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788628651550
-    },
-    {
-      "id": "news_BUSINESS_SeattleTimesNewsdaysueOpenAIMicrosoftall",
-      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement - Reuters",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788628651550
-    },
-    {
-      "id": "news_leaked footage internet_BREAKINGASixthGTA6gameplayvideohasbeenle",
-      "title": "BREAKING: A Sixth GTA 6 gameplay video has been leaked, showcasing a Hyper Car - rockstarintel.com",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (leaked footage internet). mots-clés viraux: leak, leaked, breaking.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZXcxM2FtUUd6d1BTU3E1UGVTYTIzZHpfY0U5NzBHbmJxT2pocmVOdGJHQ3czQmNJeGFqVUpJQjhnaHYybFItamRzRG52OVVKTzFONi1pRmxoc05CaTRsYlNFY24tQ19mamFMYk5rV0JLNVZYaDJWTDJJWWJySnkzLV9ZTFBxNWlIeWtlQWE4SzRmYlhqNUtwRV8wR1hpaExVUlJLYVZB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788620697670
-    },
-    {
-      "id": "news_BUSINESS_ThousandsofOpenAIAgentsQuietlyTurnedanAb",
-      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel - The Hacker News",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée; mots-clés viraux: hack.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05RjMyVHJhdDZZR1dwZ1JKT2M3akdOQTh4c0w2aU8xRzR2MmR0N2tIWFpIUGVCVjFFUGFQZlJCWDVXcllQQXRWMFdOdGlzbTJXTEc3OHFJWHNuRVlkWUNqS2hza2tkUW1DcmZfNWdlVDdRM0E0eFU3cl9ObEs5UQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788620687875
-    },
-    {
-      "id": "news_BUSINESS_OpenAIagentsdiscussedwaystoescapetheirsa",
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki - arstechnica.com",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXlVSkZWdHVoV181TUNMTnNpd04wQlhNdXVtNk11RWJydkROS0lqaWJ0Y1BKUURJVnh1ZmVKSVN0RUNKOHdiVU5Jc2hTUzg4QnI0SUEwWWk5Y1NJMXI0THhVaG9CaWJpRV8tZVlmUEhwUjlmLU9KTm5LQmljLXlHMUc4NUVMNG1yRzNqY3JkNWdoRDhZTFpET3RqSkFYUjBSbDVqY1F0czJHaFVaR1E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788609762856
-    },
-    {
-      "id": "news_WORLD_AndrewTateindictedinRomaniafortraffickin",
-      "title": "Andrew Tate indicted in Romania for trafficking minors, money laundering - aljazeera.com",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (WORLD). figure/entité tier-8 (andrew tate) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONE00MkY2VUg2cmZCMGItcTZGcFNKank0RUV4R19YYnNtVm54dHcyRG04RVhrUjlaLUhlQ0JVMEp2NWtsV3dmN1hUZVJTcHdQOFhqM2ZsZ2daRFdhWUJRVzJfeUNHQTBya1RWNC0wVEx4TDhrcUVVYkVMNWZaUFNrdFQwYlJCcmFxLWUyS1U1a21XYWwzM2ZUSENLX0NDaS1sVmg5dDFYWW1OMm96eXNLcNIBtgFBVV95cUxOaW1sQjFzakswT1djMGJlalVDMWdLbDFzQTZoWGRjUkU5d2hiMXVwdzNiS3hLVURNQVZnOTl0WjhESzdPUnlIc3ZwLXB4Q2l0c1kyTG9YbUtqWHpLMWRQQ2RLX0dUenptMWxaYjR5N0EyQXNSM1dpZW9UY09samJ6MHYybUhteGpERURXa1RHbjNqWENHam1rQ1R6ajVWdjNtWnd4QUYxQzNwY1Nhd1c0T0VGTE8wdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788597395648
-    },
-    {
-      "id": "news_gaming leak_3DMariogamemaydebutatNintendoDirectaccor",
-      "title": "3D Mario game may debut at Nintendo Direct, according to Ocarina of Time remake leak - notebookcheck.net",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (gaming leak). figure/entité tier-8 (nintendo) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTJOT3RSQ2FLWndlZDJPVzkzdldqbXIxWThNdmZjcnEyd3U2U3I4anhDbmtlb3pnRnJXY1FkeWVOWU4xdEdyWFVGUzF3aUFTM3k1VWF3SDBzY2FaUHBJNlQtME9JWU96LVdpSmJCR2thN0dCM2Vob250YU9tWllRNFozXzdnaDlFdXNmRVlVOWZweWpzX0Z3b3dlOFhTRm9KQ2lWcG5mNVo0ckRPQ0ljc1FEenZJdDd0UkREbkUwTS1maHROZ2RF?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788567752993
-    },
-    {
-      "id": "news_own cryptocurrency launch_BroAwaveofDiscordaccounttakeoversissprea",
-      "title": "Bro! A wave of Discord account takeovers is spreading a MrBeast crypto scam - Cyber Daily",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (own cryptocurrency launch). figure/entité tier-8 (mrbeast) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTC1INlRSNW1fQWcxWXVUYnVGazBTUGZtRXgzYmtwWm84eHhJdEhuelAxb3hsQUY1YkU4TVJlOWcxbE4yRnJSdDB4N0w1ZDk2ZzgzeXJzbzYyV1d6SVFIOTdiaXU4X1RvTy01TEJoNWhzVS1LRGVjRF9IVnpoaWJnVkZpeXpVbFpoa3pwMEx0UkYwLTVOUUF2dmFvaG5USFZIdWdwTEZreGZUM3RRTlQ0M1VSU1l0Zw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788561315622
     }
   ]
 }

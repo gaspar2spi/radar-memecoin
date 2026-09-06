@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T12:53:36.673628+00:00",
+  "updated_at": "2026-09-06T15:53:03.192219+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemengovernmentlaunchesownairattacksonHo",
@@ -429,6 +429,83 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_ENTERTAINMENT_KimKardashianspottedinChicagoonweekendof",
+      "title": "Kim Kardashian spotted in Chicago on weekend of North West, Ye shows - NBC 5 Chicago",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée; figure/entité tier-8 (kim kardashian) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUkhselZpeHNIRmRTUmFlQldIWmZMZmpacnBmQ3YySFNkOXFOaVA0NzVnYUlVeXg5R0RQRWRyRHl4NTVwTFBVVXp2STVtNHV6bW5tejFQYkhidmk4MVl0cEU1RjR3T0dfeHgyMnpTUmVPRnRTODdjaGFPLWIyeDZaRkJRSGdwV1QzSnFjd2c0bmdrQUphZm9EOENDQ3JienZRWW1jQWdxS1hITDVHbFI2bGdKV0nSAbwBQVVfeXFMTXMtb0ZuN3o2bFo2Um5FQkRSYndJU244QTZmaGJxUFBUdVRBQkdaRFJpR29MbjhpSlczVXZQSGtvRTY2aVEtSVl5UXEzRFp5Yk94Ull1Wmg3T204bjA2OE5lZXZ5V3dVVnI0MU94bDdxcFMzNFByQlNUYzgwM25uckkzcXJuYWViQ0lNeklDbV9mRHh6LU9tVmFCQWlFbjNQNjJGNl9wZThMZ2ptalZLSXBHdkV5SkxmYnNlUVc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788709949993
+    },
+    {
+      "id": "news_TECHNOLOGY_40YearsAgoKonamiChangedtheVideoGameIndus",
+      "title": "40 Years Ago, Konami Changed the Video Game Industry Forever - Polygon.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xYVFkX0F4dzQ1MklVN1h1RkdJWWNEVVZzdXViZHhUWFZVdEJwOGN3V3lBUW1BWUpBS29XWElTUUZUR2hDaUFTSXNGMThGZG45VE5tdUV1RkNjUnhWcUJyWEpQWWE3eXVS?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788709949052
+    },
+    {
+      "id": "news_NATION_Trumpadministrationmakesanotherappealtot",
+      "title": "Trump administration makes another appeal to the Supreme Court to allow mail ballot restrictions - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2h4QWg0bEhGZGEzdENsamhDdFR1ZzNxMU5jVlN0R19iRUkzUG13ZlYtMGFiZFFMa3ZmMXlqMm4zbUdKbXRzLXl5aVZSSlFSVHh0U3AwUkZDQzhlM3dJRmMyTFhVcXN2RE56WC1nOG9TczBBTUpNUDlNdXE2akFvYzZCS0cyelVpbEVEN0xoUkE3Um56NmZnWjFOaU9LT2lxNnNz?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788709946729
+    },
+    {
+      "id": "news_NATION_TrumpsdumbstorymakesnosenseCNN",
+      "title": "Trump’s ‘dumb’ story makes no sense - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtY3JvTHVsSkpWOE1ESEk0NnRFYmtSZTdHaldycnpzdWVLM3ZVbl9mWThJSkU4bzRLSTMyQ1hqRm5uQTVkZUlJSjZ3Yk1STUZEUGxKbUtra3VXNTBmTnhUNmNncENaLXIzalpJOV9XWW1rUDh4YzFZemNDM29KTnM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788709946729
+    },
+    {
+      "id": "news_WORLD_AtflooddestroyedborderChinateamsscourrui",
+      "title": "At flood-destroyed border, China teams scour ruins of once-busy port - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbndid2VJNko4cVpiOGlLdFlhX0JEN0trbG1oWjh0cTlsdml4SVF1TWNtTFY0Vlp2ckhTb2JOR3NaZ0hoTThOeG9JRWlTVVd3djNKRFpwWnk3eGxEYTM5bkVKSmloRm4wQnptWUlyTGE3a1FpOEpyQ1pRbFFSX2V2VE5iN2ZTN2EyRzdwaUh0R0d4cFI3NFMyWjhSNTJWOGQ2RnVsM2FZcmtIZmNzQXpCUk9vblhPOUw4WXNBd1V5LTI?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788709945772
+    },
+    {
+      "id": "news_WORLD_Yemeniforcesclaimstrategicdistrictamidin",
+      "title": "Yemeni forces claim strategic district amid intensified Houthi clashes - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQU1Ba1RwTmlVbGJLMnlkbnB1RXFON01IeEZuN1JzLXlPQndiVE9oekNyZUlZNTBBTXM2NGkzYjl6WTR5aVdRTFAzLWNGaDlUMy1VakVFRC1SbTNyVWlrdkNXU2gzQzkwQUNmQ3pWVVFIX05BaDJkX1BQYmdKZUJBV3ZIX2FzNTJwZTVGbXZ2VzZkbEtERXkwVVE0RkNyZ29kanRjaVlHb3VaWDJsZFpZ0gG0AUFVX3lxTE1LbFljOTl0Y3NNNzJfYVNsUE5BRHZ0T2hUb1RWdENMRU54SlFnQ281bTlCdWxkenhKYy12WHVQSnNWQ2tQaEJycF9NUmJfRk9sS1dsb25qMm94TXgyNGtwTkJTc19mTW9RR3F4NVVTdGgzeGRiaTEyTVl6VTJZQ2dqUXYtQW9DYWprSkQ5REcxWnM1d2FXTmY2YkVKVEx3V3BkWVM4OFUxaWk5SFkzZllucHFuSQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788709945772
+    },
+    {
+      "id": "news_WORLD_Gazateamsrecoverremainsof55peoplenearly3",
+      "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPelNKRUV4bXJwOXRZR19XYWZtc1VxcFo0ZXpsdEY5MGRLcm91YXNvOE1IX0tYNnZIck9Pb1BvOVhVWVN2LTVyM0lWTHMxaDkwMFlVLUtkcG5mNzRONHNROFhiMDE5YnJwcVBzX3VaaGlUMS1OOUNyWFVUTEdrR2FRWU5LT2JhMnBVZnBDQllkWlVjZk5BTkp1ZUhNWHZiblprM2RxejQ3Mlc5ZERxbFFZT2xmbDdFZ9IBuwFBVV95cUxOQTlJOV9EU0dNLXJXY3RaMnAzdUkwQlZmeExkREtmYTZiSnRkcTBfSXZGQUFHNUJlcXRQN3Uxbi13Z2c3Qm44WmlYczJiN2h2RDFnY2ZxMk5BeFFzS3ZKR2Z1d2taaFdDanlSSDF6a05NSmdBeEI4Z015VExaY09odnNCdC1zMWJXREgyeXhqbXc1RkR0U1pkRkpoZUlSeGFDYmZfbTNzcEgzWG5QaGVQSjNOLWhnUnVibFRv?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788709945772
     },
     {
       "id": "news_billionaire announcement_ImnotgoingbackBillionaireMarcBenioffsays",
@@ -5423,83 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339088610
-    },
-    {
-      "id": "news_own cryptocurrency launch_WallStreetgiantCMEGroupiseyeingitsownCME",
-      "title": "Wall Street giant CME Group is eyeing its own 'CME Coin,' CEO says - CoinDesk",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOUt2ZXNqdTE4N1dLaHRSREM5VzRzN1drTUlSTThoS3pVcVlPNXVFN1JwUm8yWllYYV9Ca2E5eXZ3NHlxd21ub0dWVmZELXRyUWxWVFNLT3o3eW9DVTNuVEJMOXRxWDFUTVJuanZFSDA4LVVWU2lyRFJYMkNJbDRJem5pQWF3Yy0tVEZiS25QVS1BWVpVSFdpNm5reGlSbzkzeGFyaHZvYndobWZa?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339088610
-    },
-    {
-      "id": "news_celebrity crypto token_WhycelebritiesarelovingcryptoagaininTrum",
-      "title": "Why celebrities are loving crypto again in Trump’s second term - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (celebrity crypto token). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanpVNWxoSTU2N3Qzdjk3Vy1TZDFMRURCckpBZEFINkpaZk1aRWhXTFhtakk4LUhYUEs0UHVCU1ZhdUljam1TMDVOVUo0WWhoV2tVN1RadnZCNDNZQkZsU2FYQXR3QWhTaXY5ZHB6SjItM2p4aGNpY3RRY25QdzBrTFRMbXI?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339087573
-    },
-    {
-      "id": "news_leaked footage internet_UPDATEGTA6LeaksContinueIntoFourthDayWith",
-      "title": "[UPDATE] GTA 6 Leaks Continue Into Fourth Day With Yet Another Gameplay Video Amid Radio Silence From Rockstar - IGN India",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (leaked footage internet). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ01BYmMyRGxZLWRxYUx5RFhMWUxuc0Z5WnIxOTZXbHRXYXZuY3dIdjZic3VhdWgwZjV6QnJJaGxyblZxVzVqeFgzLXVuTGpaRnZOd1FxNWc4RVRRSmF2QTJoWjcwOXk1dkJvTVNsdzhyWFZzWGdwVlQ5NnN0MjVzb0I2SEoyb1Z3ZGRqX25sT2lhMWg5b0dxbm4xREc2YjVhNEZKX0t6WVFjd181aWNUNnVteTlCMHNpV0xsZGlaOFcybmQtaTNoWDF4SG9mT25tY1l6eUlRaUMwN2VKdzhF?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339086407
-    },
-    {
-      "id": "news_crypto coin viral_WhatIsGORPCryptoWhyThisViralMemeCoinCoul",
-      "title": "What Is GORP Crypto? Why This Viral Meme Coin Could Become a Serious Market Player - Bitcoin Foundation",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (crypto coin viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdGd3N2U3cmFnNjNtU1BhZWdESmNVaC1BcnNpUDRmYkhjc1UtVUFsYmVrN3lBOFJRWTY3Y25UcVI3cVZzU3pvTzk5LUpTV0dXM1h6WE9tZENFcW51TXFCZThwa3ZXNHVUSnlfVHB2Rm5ITi1lZ1Y2U1VycFp4aTdsb2FKekpZRXktSmtJVDNhQXdUc1lxclZpWVhVdVcyUmJXMDVNRzFQTlJ5ZEx1VjZRWjZ6YTk2T0o3ZnhaR2t3T0pLWGM1?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339085203
-    },
-    {
-      "id": "news_memecoin launch_HowTrumpmademorethan1Boncryptowhenmostof",
-      "title": "How Trump made more than $1B on crypto when most of his coin's investors lost money - 6abc Philadelphia",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (memecoin launch). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWtib2liLVFhRVhsN3g5VzRnalkxV3d3WFJ4Y1BJODY0XzdZZ0ZfZFFqWW0zUE51VE56ek5UQUdONi1TQlMtQlVzZ25DMVFzQlJSc1puNFc3bElzbVBQZnh3SUg4NGN1aG1hSXIxeUstZGRxQ001WkU4X194NXRWdVFVUnZzSDBqV1JCTmpZWHk5cUpUOFRQamxBakFTNUp3RURhWXJfVkJ3dw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339084123
-    },
-    {
-      "id": "news_HEALTH_Lancastercoronerinvestigatingchildmeasle",
-      "title": "Lancaster coroner investigating child measles-related death amid Trump admin scrutiny - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS0hiUkRCbk02cXBBOHRFYkFaMmtXaktsdk1hM2wtOHBNdVZTcWRjUUZZeldKWDFka25TTUdKU3J2Mk14X2NaOHRUTDFJM3pTdTQ3SnM3bVhiQkc3d1hQMnVoamZTQlhYekFuTW1RSVBURlBJaFdteUdPOER1MnZrQnJidWl2RGdMN0dVN3hsdEnSAZYBQVVfeXFMTVg1MzI4QkRMV0U5QmdfdkU5OHhFbG5qX3hrTG5vbmRqTGc4NTlIek5oOVpub3BKdE5aV0lld1pKOVpkVkQwRVBRZ2VxZGsyRDVwc242blJUUE41NDF2ZVJULVlEYXgtUzJGUXF5cUdGQnpEb05MNnBac2VxVlRDWUc0dld1d3VEdm5SMk5iVGw1eG1pWjFR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339083071
-    },
-    {
-      "id": "news_SPORTS_2026NFLseasonpredictionsPicksforMVPDefen",
-      "title": "2026 NFL season predictions: Picks for MVP, Defensive Player of the Year and six more awards - NFL.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1BZa2ZRZUFaRHJtTWRfTXByMWtMZDFzZlRTc0N1aWxUNnE2Y1ZUdFN1WW1wZ3I2RzE0TUNvY3plM3hhWVlLemRCZHp2YlZNQVB0RG5MYzhGMGQ1NFFJd19NYnBveUdmdElKN0stS0hseDBqRXlGZXljRG92ZTBJeHF6dldWdDR3XzdQVU9oalFkUUJmdjFDNFFMaFBJZHRyY2dMaV9EOVFuNzZRTVl0Z1l4YUo4dw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339081311
     }
   ]
 }

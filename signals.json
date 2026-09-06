@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T04:56:53.228578+00:00",
+  "updated_at": "2026-09-06T09:09:42.548125+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemengovernmentlaunchesownairattacksonHo",
@@ -429,6 +429,127 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_TrumpsArgentinaBailoutEnrichesOneWellCon",
+      "title": "Trump’s Argentina Bailout Enriches One Well-Connected US Billionaire - Mother Jones",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdlBad2hZRXFWRjRFM0FFaGRRa0c4UFRlR2xReVBDNjBMYUo3djNIQU5xQWtNeUlINTVoRkJSYlEtTFVPLVpNTF9iUjhFRDdrQzZtNnNLMW5TZ2YxNUU3cjRKRVVKX0FLcFIxRS1mbTRUMlU2VHFNUDhZaXRJUUhmOTNkQTR1WV9LNVhfUV9zbWZFRXBCNnhIeVJ6bk1OSm1hbzY3MDZXZS11Q05kRWd4QWJ4SllBVm9OSUE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788685768624
+    },
+    {
+      "id": "news_billionaire announcement_TheyregoingtohatethisBillionaireTomSteye",
+      "title": "‘They’re going to hate this’: Billionaire Tom Steyer jumps into crowded governor’s race - The San Francisco Standard",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CTDk0UmVDZkE4T256R1FfRkd1bll2ZndNOF9uNXBrQVhnRDF6SVBoeW9EekNLTjRUV2RoWFB1SElsd1FDWjdFMVExU0haUWVzMjRhNUlqRjZIOVVLSUw4SHI2eUI2ZE9ldjRJTWZJTk5ZaUFuenphREJ3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788685768624
+    },
+    {
+      "id": "news_HEALTH_DryeyesarecommoninwomenHereswhyyoushould",
+      "title": "Dry eyes are common in women. Here's why you shouldn't ignore them - NPR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc1V2LWhUSTYwa2hyUHUtVGoyRzJhZkNJQ2tVQWtKenlsaXNOYnZoVDdmTVZDNTJORlRjN01GcjdRRzJrOExKVEloYnhDaHItc3hvMWd3aUpWX2VxMldiZklORS1wZWF2amlmR3ljSXg5Vy11UWR4c2t5NkNGZ1IxTEstUXNkM1NGMF8w?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788685753247
+    },
+    {
+      "id": "news_SCIENCE_Thesamescientistswhoreportedwatereruptin",
+      "title": "The same scientists who reported water erupting from Europa in 2014 have now reanalysed 14 years of Hubble data and cut their confidence from 99.9% to below 90%. The signal may have been statistical noise, leaving Europa’s famous geysers physically pl - Space Daily",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1cDRjRXlXQURpM3Vpbkt5NFdORUdlamFEa0lmX3N2VUstZzM0TVU4dTEzNUE4QlZNMGtrNGdsamhBaldVTVZ0OG1jWDIzYkRhVzJ5Z3hVaGttelZuVjFZX3I2aXlPUHlBUll4TG0zUm50S05UdEE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788685752316
+    },
+    {
+      "id": "news_SPORTS_VikingslegendHarrisonSmithreturningtoMin",
+      "title": "Vikings' legend Harrison Smith returning to Minnesota on a one-year deal, per report - CBS Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXRTMFYySlEwXzkwWjRGTnowSGpZeVJtQUhnNldyUXdWT09FdTdxZVRPXzdId0dRVnJwV2t6STVVZlBnVTRDbkFSQVEtWkttdWppRVl6bGhHLTVZWjV5b2REV0YyNmplRGgwTmd6aGZRYkxYcUtacGlEY0trQ0NtV1pMOXNUcUlHTUtad3ZvTzdVTzNJYmxSd2k5QWE4RDg3eS1JcnoxazYxSkhXQ1ptd1ZyM1ZEZWQzWnc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788685751373
+    },
+    {
+      "id": "news_ENTERTAINMENT_BurningManSeesFourthDeathInFourYearsFest",
+      "title": "Burning Man Sees Fourth Death In Four Years, Festival Gate Closed Again Due To Weather - Stereogum",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUWEzVndIcFdVWl9MeENhVzRUUkJNSW90Y1UwVkVQcG1ZRkxZZjBjSE9tT255NWJGYVNSTXNMSThEY1RRMlgxV1Ryblp3cUNlNHV3Vl9LVU5fS1pBYkhWS3dpYUJvdmVSWDZ6NVIwc0tHS2hYVkM4NWdOMVkzOW9ZSWd3UDNYVndYakpaRnd6UEl4V3BoN2Qwc2Z6bE5wd3RmSk1FRTdZcWw4aGpNaHNjaXljdXZzRUNEcWVXTg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788685750406
+    },
+    {
+      "id": "news_ENTERTAINMENT_EvilDeadStarBruceCampbellSaysHeHas5Years",
+      "title": "‘Evil Dead’ Star Bruce Campbell Says He Has 5 Years to Live After Incurable Cancer Diagnosis: I’m ‘Dying’ but ‘I’m Moving On’ - Variety",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWY5U0xYQ2JaVWUxNjRXTzJIZVM0ZXdQUlkzOEJMZlhXc3JVQWluRThkc2FNa1JjRHZ3djhQbXZjTTlXYTZIY2F3VXVuRWF2MUtrSUp5Ymp3NXE0NkQ5Nzkyd2V5VFBJdWJpZjFQZEJQV0RGZHRzZVU4aGxTT3VRNmpMZFRyQlIt?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788685750406
+    },
+    {
+      "id": "news_BUSINESS_Employerandworkerhealthplancostsexpected",
+      "title": "Employer and worker health plan costs expected to jump in 2027 - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91TG5DNVUtQU1uTHU4YVJZLUtDaXMzc0lEMkpXU01LMjJZMU9PUVRWUEs5aE90VUVsQXd1bmNvSlVXeDNtd1BRbVAxT1AtS1JCVWFVSEo4ZUVaa0pJeDBZeEhoLU5WbDZkVjhrU0ZObjloM3FRdWktV1dR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788685748276
+    },
+    {
+      "id": "news_NATION_WashingtonblocksnewTrumpmailvotingrulesk",
+      "title": "Washington blocks new Trump mail voting rules, keeping midterm election procedures intact - komonews.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOZzdGc3c1UUlBNmNyMmhVMUZaS3VxNGZueEVHY2lENEk1TjZocmFRd0ZmMGhuS2RvM1NKWTY5dmRMLXJ6ZUVhMWFIVG42cW9mVUVuOW1YRlc4TkpKR0pqaDA5RWR2R01sNWtKVzlvTGlvSUdVSktaeGJsVXhheDVDRjZWYk1Cai0yZjFqb1dKSGRtb3NrVG02M2ctZVI0ZFl5YzVPdnd1ZTVXYlpWYUQ5WG1vNXNmVXd6eV9IajNsLWVMaFF4dTBCYm1vRnQwNEZJMUhETmVpQlNNalBvNEh5d0N5WHh4T2Z3clhPcUhMMHhoMFFpcVRIYXluS254SmN5NF91SWx0S2MzMnJtTzBPazFJNTFUaWlqRkxGS0lzeHZnbExXbVRSV1cyd1oxY0VaeGVGMmQ3QjRBYUdFcW1mVXhkQ1o1UDk5RXdIYXBBVzFXdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788685747310
+    },
+    {
+      "id": "news_NATION_TrumpshakesupRNCmidtermconventionschedul",
+      "title": "Trump shakes up RNC midterm convention schedule, says he’ll speak on night one - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPZGpFSkI5c25MWEdxM2o4a05GQmQ0Q3JjeTdLZk1pNFhOZDNvYlpJbURhUWNLQmI3Y0ZIWGJMMUZIQ3pkNy1LTE5EM3o1Nm9HcXpMSUdHdGp4bTY4bWlYaEhid3RIcFpPbTJnZVlhLVY2TmRodHdkUmpKVdIBgAFBVV95cUxOLXktWFdiRU1iTWEyZjRFSkFXVXV0ZmxfWnY1TzJUWE9nbUFVNUtVU1o1ZjNrek5aanhkVWVWY09CTmxtd1VMUUh5T09GcnR6alFTdUJxbXNuSzVKNTFmU2ozVkJ2UFpYUlBTdXVNUmpwdVFhUDFsQktoVno4UEtIZA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788685747310
+    },
+    {
+      "id": "news_WORLD_GermanvotersheadtopollsasfarrightAfDpart",
+      "title": "German voters head to polls as far-right AfD party eyes historic state win - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXREUlFDZGE3YkJhSFE4ZGtBc0V1NzJlX1lmb2NpS1RldUhNUTJabjI3UGlQbVBZYkQwVG9fNW9YUGJJTGY4VGpudUQzbVdYbkpFQVA1ZW1kNjZmbXZYcjIwVk53Ymx2dkhNcC1OaWVJeS1GYjQ4X1o0YThlaEVLS18tbE9EUjZWel80UVNrUnE1dy16R0EtX0hnSEpiTDZUdWdRcHJleEgxX3V2QlZBUHRTaWbSAboBQVVfeXFMTnBhUFp4QUZoOUdjZVpFZTlUVVUxUFhNVk13ZEhmZUlYRlkyX05ucXFMck5IR19MVlNSY0JHOEk2eDl3TDJObWV3dEU0VTRzZzZCRHhGUUFzWHdWa0pZbUtxMk56bzZKdV95NU5xSVFtVzBzb1l6MXdhUnpRR1FxNjQtZmg2Sjl4MTNSNExJXzJjT1NhdEJRYVpYVGQySlBJU1BvaE0yOW1TSTJnVVRPRnhVWm1SX25Bc3pn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788685746375
     },
     {
       "id": "news_SPORTS_HarrisonSmithreturningtoVikingsononeyear",
@@ -5379,127 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339077799
-    },
-    {
-      "id": "news_NATION_WhoknowsifitwillsurviveExpertsquestionho",
-      "title": "‘Who knows if it will survive’: Experts question how long Trump’s Venezuela oil deal will last - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rdmxaR2dyejJqLUVuUlh0SnZPNEVTZWExbFB6ZWxhaVhzaWJqWTQtYUFUNkRWcnlfc0VwQUpWZGdUb05sMUtjcU9SeUFjZlB6eGVyR25lbVlTVmxMNzJJVFNWVklITE1zVjJzckJGNEx4dV83OXQ3eUJmSXJZNjg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339077799
-    },
-    {
-      "id": "news_NATION_OnTrumpsBallroomChiefJusticeFindsHimself",
-      "title": "On Trump’s Ballroom, Chief Justice Finds Himself in an Unusual Spot: In Dissent - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUnBlMnA2bE0tQnhDZVowUzUwTnpxVFFodUdMTkNSSDdDOThkWXRVVmFWVk9pb3JJeHNIV1U0YnRoU3l0TEFDcENDbDRRZ08tSnhFZUVKWnNvWUdZcjNwYVhHUlFQSmlOTmFMM3dvUUZIYVBQaWJ2U2s2MUo5M2paV3UybS1qd3Q0eW81cC1fSzVuUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339077799
-    },
-    {
-      "id": "news_WORLD_TrumpsaysUSisnotforcingIrantonegotiateaf",
-      "title": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFpkVzJhSEhqNlBNMnNDdEJKdHFoaFhaQlBPUU9lSE1WWFBxcGs4eHlXeWh6SEFmNnRkY2dvbFN5eHhLQS1fNUt2MVlONjBkNzBRQ1ZieHN5ZzVMd0ktQWUzRHNoQ0dBOEFDTmVaa1gwTG1TbUVhNzZwQnRSS3NPU0dLdDkzeXVD0gGOAUFVX3lxTE16RHFxR29aLU5LTDlSSFRadW5zejBmcWkxVXlGRGowcGpXYTA1b2xGZzREMGhEdVJrRW0wMkpxMG5oejZTaFg0c3RnLUw2c1V4Sm00TXdHNjVsSXhTVFhLZjg2c2NJWUExVGJjeWwydXZ5Tlo5M3Z3RV9VdFZyQVd6S1RaZi04YUgzSFNtTmc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339077026
-    },
-    {
-      "id": "news_WORLD_Himalayasfacesevereglacialfloodrisksinye",
-      "title": "Himalayas face severe glacial flood risks in years ahead, UN official warns - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEtQYjlTRkRTRWtUUWZaVkxvSVI2SHBEdkN3Mmt2X2NnSUFzQVV0aEIybVpJNVNyMEE1ZTNsaC1mTmFiOUp3cWh2NEdwY0UzYUhFTzByLVNfVi1EUHZBMXRCSm9PMXdUVmQ5MEZSYUtOeDY3MUZMaVBhRjEzaTZQQ0RyR3REVXVKRC1rRFFfcHpVdzBXaV9leWlfbDJzNGE2dENaUzV4RDFHMmMwQzRvXzd0cXI3aXN2S1NUVXF0T1NNSmtOak0w?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339077026
-    },
-    {
-      "id": "news_WORLD_TrumpfaceshugebacklashforinvitingRussian",
-      "title": "Trump faces huge backlash for inviting Russian finance minister to G20 talks after years of exile - The Independent",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVXU2MkxCWnVfeUNXNEQtMTNKWUNrY1VvZmlGZlR2RF95MTFVRzVjWWNHOTc3dEkwT05Ndkl1X0Y1Zl9RN3hVakQ5X1VQdHdHTW5jVWNZYzROeF9FYkxPZnNCZ0lFWm1fOWdNRG9JWXFsbEo2eXZiNC14cnRmREp0RzlreFlhanRPaldUaU9wT0FUZVpEb2pEdVdWNFJMUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788339077026
-    },
-    {
-      "id": "news_gaming leak_Switch2LeakNewSmashBrosNintendogs2026sha",
-      "title": "Switch 2 Leak: New Smash Bros, Nintendogs [2026] - shattered.io",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (gaming leak). figure/entité tier-8 (nintendo) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1va0EzVmxMMjVhVVZMSmk4OTBYaUlFVXEyYWVNeG9DakpYaTJwSmQ3dXlzOFJ4MTJWQU1MZm85R01WT0ZFZVZ0dEctWldMbFhxbzlVNXhBTldvYm9sOHBhbF96R2NSR29tb1lkOWZnZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788670604817
-    },
-    {
-      "id": "news_gaming leak_NewSuperSmashBrosSwitch2gameleaksbeforeS",
-      "title": "New Super Smash Bros. Switch 2 game leaks before September Nintendo Direct - Notebookcheck",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (gaming leak). figure/entité tier-8 (nintendo) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcnBIeEtJbmw1c29HaDZsYjRpNng5dTBlR0JKVUN2WGdRRXo1NnZCSmY3VDg3RjZlRGZHUS12UVpoWHluNW41S1dJQVc5MjV6ZkpHZDdOZUNPX2JwRU9mVURSUFhxTWV6M1ROYjA5MzlaMFQ5ckQ1WFUxYzNtOXZpcVpJU3hHWDB3d3BmWWJheXJpWWt6QUtUcXhFX0IyRzc1eXEtZ09ZaWhzYzFVd0ZaOG9OVllReUNoVUE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788670604817
-    },
-    {
-      "id": "news_TECHNOLOGY_RumorNewSmashBrosgameonthewayNintendogsr",
-      "title": "Rumor: New Smash Bros. game on the way, Nintendogs returning, more - Nintendo Everything",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb1VHeFVQVzNhVDhQMlh6dkpsa2xXc3pTbjVoTjJWZ0dUeWNfVzVLTFZyUlp2ZXJCSXhTSXVzMGREOVp1MG5mM3B0b2p4NFA2ckhJM0xURmcydWxad2NLZnlwNWtwb2FtLWdhRGhQdlRKRm82VGR1QzZONjNfSUNTbkpBZlFZTDRpUG5RZ0RFbi1uVVB5bFpvTXBn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788670585927
-    },
-    {
-      "id": "news_TECHNOLOGY_14PredictionsfortheSeptember2026Nintendo",
-      "title": "14 Predictions for the September 2026 Nintendo Direct and Zelda 40th Anniversary Direct - IGN",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVDNWTVpnNDU4MmRrZUtKLWVGWFh0RkNkZjB1SmtZUDhNTTUycm5BV1B3ck9yV1c3RjZ0T25aOGhyNHBZQTRuTXM0b0xiZ2RURS1EbVFZdnF1WXZSUHpQckwzcjRxbXVXbk8yeFdsQTc4UWFEcGo2eDhNbTh5cFhWbldPYURxdjBDR3lyREszSlVzV3MzWnpDeXJWMmR2c0xKRFlIUndTdnlfWjB2Qi1kNFhtX09pQ1k?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788670585927
-    },
-    {
-      "id": "news_BUSINESS_OpenAIsGPT6AstraSpawnsArmiesOfAgentsThat",
-      "title": "OpenAI’s GPT-6 Astra Spawns Armies Of Agents That Run On Local CPUs, Handing Intel And AMD A Demand Windfall - Wccftech",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY2RWYVB4NFlDRnZkM1dobWlBU0JIUk1pLVNucXdXVzRuX01GalhkdVdTRGE3akdWS2Z3Mkp1OTB6WVhHRDZ1SGZmY3ZGSHFsOFVzMlFGdmNWNzRlQTlkeTlEdVR3RER2TnVRME1lX29UOEJ3YktMOUw2NklZSjRXd3FnWEVqTkhyVzh3OTExZnNJYThiT2NLdmF1M3VWYVlxOXBfcExLcFdkV2VrNEwtTEZoZWZYa0ktbVphakJNeS1HTVN2aUpB0gHMAUFVX3lxTFBHRlZrczhzTi04SGFqSnNMb3hRN2MyVGxMb25jRnVZVEQxakVXQWxRSFZSNWZwY0xOWlRMWGxKUllvYV9zQ0drTUROUTBaY2VmRWQzVmZBZW9jN1k4U3BVb2x4Ni1jSDJEaVItZzRUTzdwanBod0drcHdQWVJFRHF2UUUyb3dRV2diWFJDc25tenFZMlZybENXZlZXbFFMQU1HbkNNbnNNRGZNTmV5NEdYSFVmNFpFMGlnYWR5djd6eFppbHpLQl9TemxFdA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788670585158
-    },
-    {
-      "id": "news_gaming leak_NewSuperSmashBrosandNintendogsGamesLeake",
-      "title": "New Super Smash Bros. and Nintendogs Games Leaked for Switch 2, Insider Claims - VICE",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (gaming leak). figure/entité tier-8 (nintendo) mentionnée; mots-clés viraux: leak, leaked.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZzBTN0Y2Wk9WdGtxSl9XeHBKQkZ3RkN6TUdPQm1EMUlDR3dBU0JRYmpDek1YTkd4LUhMaU15eGdQaXo2cjc1YkhURUNiSlFmZ3ZadThVQ3hWWE5yZGNRYnY5dUJTRUZpLTBSVlJHdGtVQWFaTExwVGJsU0YzSWp6c2ZsS3E0c0lrNlE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788654331535
     }
   ]
 }

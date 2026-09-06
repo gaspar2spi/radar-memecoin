@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T19:37:22.518031+00:00",
+  "updated_at": "2026-09-06T21:42:03.534421+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemengovernmentlaunchesownairattacksonHo",
@@ -429,6 +429,83 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_tech ceo controversy_Howatechbillionairephilanthropistgotcaug",
+      "title": "How a tech billionaire philanthropist got caught between Trump and San Francisco - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYlZOSFBwa1RXTXNMV3c0RVBPVWFXTTV1Q2JJMFNWVVlLSDlzVUtnNEd5RmptbHpacGRjZ2ZObTNXS3JFVFdFQUsxdmFGbkVKUFprZFNwejB1SDNBOE1nN1ZYenFoN3hMWk1ONmJGU0JlVlFQT2ttbnRybFkyem5IRGxSLXR0YUY5aUxJTDJQc21DenZPbzB3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788730909549
+    },
+    {
+      "id": "news_billionaire announcement_ArjunRampalToLeadAmazonMXPlayersBilliona",
+      "title": "Arjun Rampal To Lead Amazon MX Player's 'Billionaire' Series Backed by Hansal Mehta-Robbie Grewal - The Hollywood Reporter India",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORTV1eDJEbjZWSFpSOWFNTkx6WFc0QzlUenFnUTdvM3pzYmJtLXh4OUl5amtkOXRDbWREUm9XZHRoVG4tN2hzRVNPQ0gxYjZYb1ZSeDJndGM5cVhfYUtPR3JxR0ZRVkZjQWxlNW1NNktrTXBxMlJ4VGFGUWw5RmxMV2IxajBGUmZxVm1WSU9QMHl6RDg3ckM1c2tDekRCMHViTXVUampWV1pZcDY3UkhxS0JVMVVCYlZTblpBWmxleVQwZXVDVndLWDRzcGtkOUVFcEdKaFIyQ3NjT3JJQzdzdTAtS0PSAfIBQVVfeXFMTTVEYzdDUkxTT3ZGN0kxTDRNRTdHcmItbEthdy01YmV2ZUpjdDhaY1V0OUYxRnhaSjJPNkpESnhTQWlfR0VwN0xfVXhmSHFOU2dOUmlpcGpRSFZhbl9fSDNpUDNBMWtlWERHZXNtM3ZXT1RLM1U3RjhWcnpfQ2lDNG84YzVYNkc1cFdnRk9hQVZiVy12U1lMb3dGOTFMeG44NjZfWGhkZTczM256UDcyVFhja2pMOHlnRnNzT1pjZUJnSUN2Qk92ZGZSa2RHNHJPdVlacGd5bG43X2tDMTl3Q3gzWGhuYUh5OVRjSmNDN2FKU0E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788730908362
+    },
+    {
+      "id": "news_SCIENCE_FusionintheSunscorereleasesneutrinosandh",
+      "title": "Fusion in the Sun’s core releases neutrinos and high-energy photons together: a neutrino can reach the surface in about two seconds, while the photons’ energy may take roughly 170,000 years to escape after countless scatterings, absorptions and re-emissio - Space Daily",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qN1BMOTkxeUQ3QlRhNmlyMDYwTERVSnY2X2t1Ri10Ql9od2p3RTBzWmIwbWN3X0dPQ0lEdXlxNGc1dllnRjVRc3FfQ2ZIaHdUUE5aZ29xSFhJaFIwbndpbWZYczBDdWU4VjdwSEdhY2k1YklrZ09SMXJtOA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788730891696
+    },
+    {
+      "id": "news_SPORTS_HowEveryNebraskaPlayerWhoSawtheFieldonOf",
+      "title": "How Every Nebraska Player Who Saw the Field on Offense Against Ohio Graded Out on PFF - Sports Illustrated",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWtrak5kaGk1MkNwMk9nVExfVVdjOWdOUkk4bjkzSXlJdlpvZExyZ1NHVld6TmV6bUY2RXhVQXoySEM0Q2FOWkxJNXlNMlNwNTRpMlcxZkN4b0cxb3FVTjNWTW9KS1pmVXlHV3huU1g2Y2NNOGVXWFFFbm9zTzB6akNselJiN0NmQmc1QTZ0UXZLbjcydW91MkpPcEM2cjFaRE5GSWUyVQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788730890695
+    },
+    {
+      "id": "news_TECHNOLOGY_Onimushaisbackafter20yearsandthelovefort",
+      "title": "Onimusha is back after 20 years, and the love for the franchise is more than nostalgia - en.softonic.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWkFNSElPNVRVVDNHUkZfTWUxeVd6Q1FiUDJtR1VHck5CdjFWZi14UnpORmxVYzE1V1lCM2hjVEYxMUQzejFLRzdqc3JNdjZvZ0p5clgzRDBWbTFTTEVNTW9rSU41SVdXU0hXV0REcmhMTmdFT0k4dG5vaGtrS094bzhydE92X2VYaklXNHlxZmtaUHRTd3JMbHFBUWdKVU9reDJ1UktSajJmRlY2cmR2TWNSN0RuOHVBVEE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788730888771
+    },
+    {
+      "id": "news_BUSINESS_SocialSecuritysTrumpBumpDriven2027COLACo",
+      "title": "Social Security's Trump Bump-Driven 2027 COLA Comes With Potentially Serious Unintended Consequences - The Motley Fool",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYVVmTnY4TV9jckNraEZ3dS1YM2ZZLUM1NjBvdFBOMFA0MjBRbWdxcGJGUFI2bkx3WXJrcHgxMHljRlZPb0JOWi1XbDZLcTdEaEFXdnpFbElrS21jUldlUHNDLUtNZ0lDQllFTXNjZUlzYXJ0dTVjUWFnZjQtMmVScGhROC13QmZrZ1ZRR2ZsZDZ3ME9pcTZKVjRjR2ZVdnVSMmxQNmNTbzJzb1VjbWh1Y0NtVUpncDkzOGdhRUxOUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788730887504
+    },
+    {
+      "id": "news_NATION_HinojosaonTrump10millionPaxtonraceinvest",
+      "title": "Hinojosa on Trump $10 million Paxton race investment: ‘I welcome the attention on Texas’ - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXF2bnptVTRQYXJxS2RLX2wtTDhpaUNtbE1QVGhqUlU2Q2xaY2RHRWd3V3NaMTBvdEhsdjM0OUEwNFBIbEFTdlZjTEt2OWc1dnlQczN1SUlFTWZMcURRR2lWdnBQazk0WGVsZXpPcUdoUFMwb01LSko2LTZCcDFjSUdiUXFFVm9zdWhrRlNhYXVhenExeENJVzhRcFExSjDSAaQBQVVfeXFMTzZIU3JNYWxTVnFHUFlIUHJlNkdtQk5vSjBtOWpBUlhmbGY0QUt1TVc1SkppQUxTeHlKM3IwMWhPT2o1WWtmUG9sYlI5cjRHTV9SOUQ0clNrNzUtWWxGRUV0UFVKUGJOYmdreUt4X2tpc25Lb3NzN0VsXzMycXh4cXhqTnV2N29xekl5MVY2OTNEaUZ6T2pyajIwUmdRelhVaUJuRGw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788730886536
     },
     {
       "id": "news_billionaire announcement_Trumpaccountswebsiteisunveiledwithbillio",
@@ -5423,83 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788356651674
-    },
-    {
-      "id": "news_SPORTS_WhatGaelMonfilshasachievedattheUSOpentha",
-      "title": "What Gael Monfils has achieved at the US Open that only Jimmy Connors can match in the last 40 years - tennishead.net",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJPZElESnZMVHEzT3lJYzlsMkV2REVyWEJIYlRISkM3VEdKTmhpVXJuc21ZMHl5b0l4cUZyVXA5WmhSdzM5QnB2NEFSZFZBRmF4OEFOZUdheUlJOWRUV25ITlBCbFM3MWw5dUtsQXdvcXpweUlLQlUydll4QW5Ja0JyQy1KUWUwZElEY05MVDFRZUZteXRmNWZwcmhSQlB4VTZQR3VGdzEzSUZ2XzYyRFNLQlY0S09SX2ZtQTNRZkJaUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356651674
-    },
-    {
-      "id": "news_ENTERTAINMENT_Trumpcallsforfederaltaxincentivestobenef",
-      "title": "Trump calls for federal tax incentives to benefit TV and movie industry - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXFlc2VwNzhHRkNvdk0yMl92RW1BbVNlMmZKQU5WRWJTSTZ1Nm41ZXVIMmZYT0lRS3RTVS1RaGpFN1lNMzJ2LVdHQnhZZl9QQTZQRmplLVZKNWxScU1rQXptNFZDaGtQQ2U5N3Zfd2VlZEFBaVkwSXJBQXpQRlo2MU5wamtvR1lyTzJ2dFdZQjRaSFFjbjFaUkNYZlZVSGVmcTJ1N0pid0VLcHZYNk9YOTlPeDNtLWpS?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356650950
-    },
-    {
-      "id": "news_BUSINESS_SP500futuresarelittlechangedasUS10yearyi",
-      "title": "S&P 500 futures are little changed as U.S. 10-year yield hits highest level in more than two years: Live updates - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fYmc5aklBNDFsTzFfLUh5WkxJa2NmVFJ3ZFVhWkg0ZEVGazgzMDMxVWEyd3ZXSXo4QVB1UEl2TEtGenE1d3lGRW1NbTd0aklnOUhFN3VjSzY3a1lySUM1R1dXSzY1UkFCR3lQRkFOVllMSkhDc0U00gF8QVVfeXFMTXdGR0lqMFJJMXFuWWVRR0lqbDU0aTMwYzltbTlpWVpVeHRmV1ItZUtiT0lQeDRhNzNaSy0zRVQzQmtEa094X3lkS3hBMHloOXpXNERIdkNFclJCZWotNUEtUjBBZGwyYndVb2U3Y0c1UTJrMC16VHRJYklIMQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356649377
-    },
-    {
-      "id": "news_BUSINESS_UbertoCut3300JobsinCompanyOverhaultoRedu",
-      "title": "Uber to Cut 3,300 Jobs in Company Overhaul to Reduce Management Layers - Bloomberg.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUlaOGFBMnREQlozUFVKYXBKZUh5dUxNeGlxZERxV050X1gxRUtDSDF4N0xSUnp3cjZELU5NMERBMVFRS0RTTVFoRFdCakFVc0szMWhfa0E2MUpuRUNuQTFBSjBqN2I1S0ZjNXRwS1IyaW9DdG9QZTlBUGZIM05jclRoUDJSRGEyWnV5cWlxLTlYZEczUi12UG4yMUJVam03RzFhSWxTaHJ5TjF1TzN3OF9nU1k5ZkNaYnFRNWZB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356649377
-    },
-    {
-      "id": "news_BUSINESS_SohowbigwasBessentsyenterventionFinancia",
-      "title": "So how big *was* Bessent’s yentervention? - Financial Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rdDNsQXZnZFRmLTVhM1Fwd051S18xdEZaemQyZzVDOEpGZkZsb0w5TEJWb2pWbmtKeGJRSERDeDFqWnEyNjE2alJ5dWd3QkVkM3VkenlXTnZaY0FlUUxSTk1MVDZ1bUoySHNxRDlOdXg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356649377
-    },
-    {
-      "id": "news_BUSINESS_USdieselpricessoarasDonaldTrumphaulsinre",
-      "title": "US diesel prices soar as Donald Trump hauls in refiners - Financial Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFpLZFVzQlA0eldJNE0yRjhMczJkX21DbjUzOVYxQ05YUi01eWg1SXFuWkpDaWkyUXRsREUyRmhmWHlMYWU0X1hPOER6YzdXV1M3OEh4Y29ZaFpyNm8zOElnNm9YSTVmc0xwOVJpNUk1T3RfNkJIbHd0cS03YXdoaHY0NUc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356649377
-    },
-    {
-      "id": "news_NATION_TrumpsaysVenezuelanoilcouldreplenishdepl",
-      "title": "Trump says Venezuelan oil could replenish depleted U.S. stockpiles. Will it? - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb1VSekZpLXBEeWpMX0EwdDlIQ0llVC1uWmVKTUtfZjlwU0lLdGhFSXFYN0dCcndGVHZ6LW95R3A3SERPbzdfazZjTTZqRzZ0STdKYmZzQlk2NERNeHZPbkkxRjVxdmtheDNQSlBtWExsX3lETE8tVzBPdjJ4SEVWSDBOZjNrenl1QUtNeDFidE8?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356648656
     }
   ]
 }

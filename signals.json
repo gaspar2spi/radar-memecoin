@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T22:54:39.853994+00:00",
+  "updated_at": "2026-09-06T00:25:38.577300+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemengovernmentlaunchesownairattacksonHo",
@@ -429,6 +429,83 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_ENTERTAINMENT_Marchingbandtubaplayerunleashespuncheson",
+      "title": "Marching band tuba player unleashes punches on man at college football game without missing a beat - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVm96YVpKYktyTVZPclN3TWc3Nk1RR3VSUXcxdWM3OU1qZGRUUkNhUWhrenFDSTQza0NNbkJERDd1MXNiSy1ZUEtEcFA2eUdxMXRsOV9lMmhwRjBVXzBMM3ducGtFeE93UU9RLUhObFNUbHQzVzkySTBYWmlvWnZkQTJWTlNMUE91ZlBBRS0tN25qRmQ5cVdoa0ZDSlBXUFM1Q2NGWUlOVk5DaU5haF8zLWNxQXVBTllIdEU3Q003Qkt5MnFFc0ZBNA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788654312915
+    },
+    {
+      "id": "news_BUSINESS_TrumpturnsuptheheatonWarshasFedratehikel",
+      "title": "Trump turns up the heat on Warsh as Fed rate hike looms - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DYTJSa3ZaZFdjOVppNUhHcUgwZUkzNzNkQ2dQbkxfZTV2czZOREZKemRxUDhtSlgyLVQ1eEQyRlVxRWFZNXVQSVdFUTVfc0FqMzFBSXE4Qkl1VWtzdmdQWllkSkl5QjJqZXpSOEVYWUpEU3d1TFNQeVNqX07SAYIBQVVfeXFMTi1HQkxWWlgzN1hYVGt2elQwUUVzcWJIai1VclJVUkNwVDI0ME9ZRjBlSzBtT0xoMTFVMWJfUkdWT0VPZmdrc0RRLXVDd0hkeFBpMEhMNzZhSTZ2SUx1QkQ2RW5UTVk2a3VPVjgwWWdoX1Q3b0I5THlCMHdJWHJGMWFidw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788654311380
+    },
+    {
+      "id": "news_BUSINESS_ThebiggestAugustjobsbeatinnearly30yearsm",
+      "title": "The biggest August jobs beat in nearly 30 years may be less impressive than it looks: Chart of the Day - finance.yahoo.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONUNOY2tWSGZheTZ5eWxZMnAxN2tzS2Q0RXc2djRTZ2RvWnlxYl9IVm56SW1ISGdQS21uUG1CY3doeEFyYmltSTVaMFBqUjZRVEYtYXE1ZUFidEdIdndSQWdiM3RacVJuTWVMVkFxYW44VHRnRm5EaFp2RENWU2lUSTBNR0kySVhkRlBSTUhlbHk3N2lFXy01R2w5dmMxVEpFVmNJbHVzbzV2WHRVYmhOYWNlQzZPVzc0NlJPOWNYdmhTOVNRMEhKYkJyWGUtcWg5QVpkR01KdDR4bHZtMXJTZDJtakVpSHRCQXpFSVBuUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788654311380
+    },
+    {
+      "id": "news_NATION_VietnamveteranssuingoverTrumpsarchseekco",
+      "title": "Vietnam veterans suing over Trump’s arch seek court block ahead of groundbreaking - thehill.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQkJyQnp5TDdETWV6bHJzMWV6NXBJQk8xeEpPY0FrVkFBR0ppTS1kMTFsN2RjMWt5V3laU0JWTGR3OU9ZRDAxNkRnb04wWldmNGJjX1pZQ2t4ZENsLURrVkE1TlNZQ1hpZjZBMC1TbEVLWDlaeTQ5Nkt4NFUtbEhzenZfdjVwS3NtOWg5d3JLUWUwaENVVDdGdGxGUWViSHR0QlRV0gGoAUFVX3lxTE8zWDNtQ3MwTWlJUWw0NjJGM3dUOVJZYWdvLTUwbXhqQWlLa0JoVnVWT19Yc3QyMjdCVTFZSWI5X25DVWdjNDJfVW9RdFdmS3ZSMFhXMFRBeUVlSVMxUDlqaTVVUlJoN0FJNUdRcXdNbEktOGdFaVQyV2ZZejhXT2VHU0l0Wk1PY1ZqQ0lsMzdpXy0tbWtrNUtEd1ZVQmhCZnNJZ0lJcmpjZA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788654310553
+    },
+    {
+      "id": "news_NATION_ExclusiveMamdanihandssymbolic911pentolaw",
+      "title": "Exclusive | Mamdani hands symbolic 9/11 pen to lawyer who once represented al-Qaeda terrorist - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDVLRTI5Z3Q4RzhfRm4zNlhwU0RrQ3JrQmhobUJGVk9TaV82MTRlWXJXd2lZNDJSbzl0d0ZIdVBSV3MxQ3gtU0xOVl9nZ00yeDNNQjZQMnEyT0hCTUVYOXloYWlNeXF5N0w3bTNVX0lwQ25xVDhDN2c3NzRvZzlrWjBOblZBUmNFb1BHZ3ozbEtoWUtLc1Exeld1a09NdDhhY3lN?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788654310553
+    },
+    {
+      "id": "news_NATION_KennedyCenterrenewscallforTrumpbackedshu",
+      "title": "Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVNOSUFHS2NWWTVHOS0tc0dmSzJNOVBMTVU0OEhxWHUyMTFCSk9zY1kxaklub0o4bXYyQzNEcEQ0eVVmTnZzZDNaOFZENmFPZmVyTV8zbGJHT2JQQXdmdWM3dk9WYWlLRFRVTHl4RHFfS0lBYlFWUHE4aWNFM0piWGo2NGpPWWtCRXQ0NndnU0laVU1jcVpuRHY4UThPb2tsVS0ta1dueUhjMXZvakE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788654310552
+    },
+    {
+      "id": "news_NATION_RussiasPutinmeetsUSenvoystodiscussTrumpp",
+      "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa3lfVzJ5SVRIMUFBZEZpZkx5NzQ1cHU5cFMySTVUeEZzTVNNLV9WOGpMQXh5MFd1SUhiQ2V5T0FHSUZhZ1Jiblg4XzZfZkh3SzFBZVBvSXZNRElXcndKeWM5NGROanNCd2hkem9ieWxieUp3VEp5dzVMeVI3VzdQQjd2Y1VJWFJSQlczbkF6SGotaU12T1Q0RHBhSFo1X19pMFNlY3NIV1lfNUJ5UW82dW4wNzXSAboBQVVfeXFMTlBLcWhqSU1tMmxRWDNKajgzSldXRnl1cFlNeHZLMThQT0dmZjhkbHpCaE12NXVzZGw0LTVtMTY5N1ZQMlZhRWIxSU11TVdYanVHU3hvN0hHRXpfR2JDamVMWC05bmFjNS02SFduNWtRT3Z0YVNmLTNZVEhmbEdpdG9lOGZKdEt4WUlRQXA2YXRIZG5fYmlPQmx0U1pXcVpMRGszN29tRHF1NFZ6aElVR05CU0JVMmFRYmx3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788654310552
     },
     {
       "id": "news_SCIENCE_GanymedemayholdmoreliquidwaterthanallofE",
@@ -5282,6 +5359,28 @@
       "ts": 1788339077026
     },
     {
+      "id": "news_gaming leak_NewSuperSmashBrosandNintendogsGamesLeake",
+      "title": "New Super Smash Bros. and Nintendogs Games Leaked for Switch 2, Insider Claims - VICE",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (gaming leak). figure/entité tier-8 (nintendo) mentionnée; mots-clés viraux: leak, leaked.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZzBTN0Y2Wk9WdGtxSl9XeHBKQkZ3RkN6TUdPQm1EMUlDR3dBU0JRYmpDek1YTkd4LUhMaU15eGdQaXo2cjc1YkhURUNiSlFmZ3ZadThVQ3hWWE5yZGNRYnY5dUJTRUZpLTBSVlJHdGtVQWFaTExwVGJsU0YzSWp6c2ZsS3E0c0lrNlE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788654331535
+    },
+    {
+      "id": "news_AI controversy viral_GwynethPaltrowRespondstoBacklashOverVira",
+      "title": "Gwyneth Paltrow Responds to Backlash Over Viral ‘Off-the-Record’ Dinner Invitation for AI Billionaire Sam Altman - People.com",
+      "cat": "macro",
+      "heat": 7,
+      "desc": "Actu détectée (AI controversy viral). figure/entité tier-8 (sam altman) mentionnée; mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOE9fMU5kajY0UU1GYmNDeDVacTd5OHppZmlEcGJmbnRxVUg1SlpCWlpZLXJ3dVdHcXpzZlBiQU5QSFVxLTNaMkZ3OTFvLVZvTG5hdGV5cUxzaER4T0JhZUxHd2YyaGR6d19obGZEaFBUbnlXRnRkT1FqcGt2RWEwWGpZUkI5bjZyd1BjLW9XWDZPdkFQdVhxWWFDTXZJQ2F5YnVlSEdTUkZIWTVRUFI3NXRFalE4aF9OM0NPVWh2aGtJeWtXMmVfNkJQc1ZzTm0xN2JqOA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788654323947
+    },
+    {
       "id": "news_crypto coin viral_AndrewTatesMemeCoinCrashes40SinceHisArre",
       "title": "Andrew Tate’s Meme Coin Crashes 40% Since His Arrest: Details - CryptoRank",
       "cat": "macro",
@@ -5401,105 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788561315622
-    },
-    {
-      "id": "news_BUSINESS_OpenAIreleasingmajorupgradetoChatGPTandC",
-      "title": "OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here - 9to5Mac",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0NKclhYelRhTmRNdUtQckJkd3FVODg0aTFocW9WLXhLcExuRDcxczU2OU9SdU9EU2ZDaDJrb3VKaVM0VDdsRkxJSjhTaWw1ZTJiUWJ3VjVRbjBVMVJpSlNMMFZVTzQ1bmJZSkpXYklBTXd6ZTQ2aGFiTFp6Z0xldV9YSzJnVGdiN3hGSkIyNm9pbEw2enBqcHJ5U3lVVFd2VWt3eXJydXJBWk5Ockh1WEM2RQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788561305802
-    },
-    {
-      "id": "news_BUSINESS_OpenAIagentshijackedGermanwebsitebeforeH",
-      "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims - BBC",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée; mots-clés viraux: hack.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93WldzcWRnVVJYRkpNMDN5Y3VRLXpaalZqNUpPYzJrNGJIaVd0Q1dKQ2J4RmVyQThUTUp4S2Y3bV9MZm1VUHZiS3B5dWsyVTY3bjM0X1RlVU9sQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788555032843
-    },
-    {
-      "id": "news_WORLD_RomanianprosecutorsindictAndrewTateontra",
-      "title": "Romanian prosecutors indict Andrew Tate on trafficking minors and money laundering - NBC News",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (WORLD). figure/entité tier-8 (andrew tate) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmxoR3pPU2hLdk1kcXRiU1RtUGlfTThVNTkwSE5pdy1vYWxxUF9tM09XUkxLMXZaUEZrVkpvSkdFWEFxNGJ1VHVEdzU3TGNFN2dVNF9hUFhpc0x1WjNTX2E4Q1VWRnNsenVWMGZvMEFMMUFNTXpKcXZMV3JCX1RTempsTlliY0ZuUV8ya3Y1dUlXYkdaR3RCanQwTFprX0l6WURzMUJtUGRCSXZpcnZPR2Z6eVAwUElHeVE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788555031396
-    },
-    {
-      "id": "news_TECHNOLOGY_TheLegendofZelda40thAnniversaryDirect982",
-      "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026 and Nintendo Direct 9.9.2026 - Nintendo",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13SEFqUzBudFF6TnhVWHFBOXJmZzVGYjNqX1BXQnNPMjhpSEM0dUZZcHhfSUNjU1h1NmhOTlNjbGM3NXBTbFJYS0lXSXlrazJReGFRX2tmVDFRaUowdGxkdURfTQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788545864084
-    },
-    {
-      "id": "news_BUSINESS_AnotherswarmofOpenAIagentsreachedtheopen",
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab's knowledge - TechCrunch",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd0xTM3loaTRKNEZQQnBwbmd1dDlNNEFkR3FCbTdjeXZZTlNPRkJVd3JrT2prUGJrTko4ZGRfNmt3eGZNTGJ6MjJYNnV0N0N3OHROWFM4cF93WVRyN283b0RjWUhvZUlUWjhLNGNrOVVaaWpkSW1vdGRwOW1lTjZKMDhPVkJyVHplQW5xTVFualNYMWtTSC1sdHhsaENibi1mV1hZQmR0S2d5R2ZLV0FHQnpMa2xuSDJCeDdVTEZScTMyaXg5dEE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788545863374
-    },
-    {
-      "id": "news_WORLD_RomaniaindictsAndrewTatefortraffickingmi",
-      "title": "Romania indicts Andrew Tate for trafficking minors - dw.com",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (WORLD). figure/entité tier-8 (andrew tate) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeDhDdlhGNndpRGl4TzdXNTlZTHZxMmtNNS1SWVNlMWVJQ0RNVWdzNDU5RjYxTmxzd25uWGxyVUhpUE9KQmxnQl85Y0Fqcm5OWHA3LTRhQ1UxRmhJTUtoX1F3LUxhWWJ3UEVaQUhxbkFwY3BrbDF5SVZTeW9WR1Rqd3NjQ01lczDSAYcBQVVfeXFMT0treERMMTFzTWhqQXF1cE1IRzBHMUpfc3lBQXNqQ0laOTJrbnRRN2MzTmUtOF93cFBTMVVEYzlGOUExX2paZ1NNQTFOS0dMZ1hSRnBWY2NXblBZdTAtZFpXLVVib2ttTHR5TzFRamR0emlRTEhjbUdDM0J6M0M3REJhWHdnVEYw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788545861411
-    },
-    {
-      "id": "news_TECHNOLOGY_NintendoConfirms2NintendoDirectBroadcast",
-      "title": "Nintendo Confirms 2 Nintendo Direct Broadcasts for Next Week, Including a Dedicated Legend of Zelda 40th Anniversary Broadcast - IGN",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (TECHNOLOGY). figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVEVOdEJpc2NXbW0xTHpCSThYc3lRTU5nX2F2dEh1Ri1XRTE3czdsOWdxOGdrb2FJaGd3RzY0ME83ampORTExNXlONlV4Yk8xZjBFZmVreE5yNFV6dDB1WEV3d1FjR2h0bWlaQU1nc1NVTGlobm9UVXJaWGlPc00wbG1EMnZRX0RReHpXa2cyay14SElDZENyUnFucVh1bVZrQklIQ0V6LUJES1BIcUo5MjVhdTVBMHRZVWh0dHNiM09aU1VIcnZlXzB3ZmR3bVZkcnU0LV9hMlljYXJsMVZZTFBYQVB1Tl80QWc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788534089750
-    },
-    {
-      "id": "news_BUSINESS_OpenAIagentshijackedGermanwebsiteinprevi",
-      "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout - NBC News",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHR0emtfNGQyMFdoRVlyRkVBT1ZiamxMekRPVmMxMzV6LWs2U2VvbHQ2Q1lOdEt3ZUstd0JfdUpZSElvOTAtdWVRSEhENXA2dFdBX2htWlkxWGxuWnRsUzVEenN0cTFLendFZXFMNktpSnNFQUYzNHVHeF93dFBUdENnM245ZUhoc19PamcyR0tjYVRVSDFPY3k3cWRzYWxQWVdZWV9sWl9LeFhSbW03TzRlUEJiS1FEVDBxTA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788534088920
-    },
-    {
-      "id": "news_BUSINESS_SamAltmanapologizesformessyGPT6Astraroll",
-      "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users - theverge.com",
-      "cat": "macro",
-      "heat": 7,
-      "desc": "Actu détectée (BUSINESS). figure/entité tier-8 (sam altman) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORW5WT1cxdllvWUtlRjR3Wnpoc2VqUnpkSWNqMEV6ekRVY09XR2dzNkh0R2dFdEJidV8xOTBBUzhrajYzWXd1cjZKdmNMRHNzUnB0TVNKOWR4Z1V5bEYxNW9WUlVxaktQaGFXYzF4blJBamIxR1F0ZE93VG5BSEI2QzFZdGNtUHZiRHVfTERUM0pEOVM2Y3BnX2EtUms?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788534088920
     }
   ]
 }

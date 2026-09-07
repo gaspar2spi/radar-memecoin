@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T23:11:31.612530+00:00",
+  "updated_at": "2026-09-07T01:01:56.604074+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemengovernmentlaunchesownairattacksonHo",
@@ -429,6 +429,50 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_own cryptocurrency launch_HowaTrumpbusinessdealwithacryptofirmexpo",
+      "title": "How a Trump business deal with a crypto firm exposes potential conflicts of interest - PBS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnR5djFTRWw1NnN3ZDRQbmhtVm5wVFdMZnFUbFNSUEFTVDRzOHBSQzBJSGgwWk5rVFlWOUhCOXdMZTI5N3FFVndXNHB3T0gwTXlWemhmd25tXzR1eGYyR3owNXJaazY5QThGa0VCRmFRXzhHQTlfLVZhNEtGLVlVSXhwVlRZdUFNcnJlWGV3c0k5SHhTNkNtYWtGOTU2WnRkR19wY21UQ1B1cDVRS0oweXdTWGJBdjBSbGxmV2drONIBxAFBVV95cUxPUEk1SklzcTJPdHIzY3ROZElPN2NJaTRJSU1ac3FhaWEyS1BveHQ2MjVpMlp4aHJqRGFPSjVRd2tJLTQ2Sl9CSUpXeDUwa0FDM19mVVZvSzEzTHRmRUw3c0VGQlBHQ1JSTEtvNjFtRVZGbmNpbHZkTllSY09PTGcxVkYxV1JIQWgwc1FJTFZ0SWdRVUR2cmJBWWd4bEZ1QU9VWXRaTUZITlZUdlVka3pUOGtkRFdZa1Zvd2pxQ3E1TnM5X2JN?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788742893351
+    },
+    {
+      "id": "news_SPORTS_CollegeFootballWeek1TeamoftheWeekPlayerA",
+      "title": "College Football Week 1: Team of the Week, Player Awards - PFF",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxeVpWTGtOWTRQTld0eDhJMVp0SzFrU05qWmZLajRkWjJuR2FhWExTdlZkTV9VN3JJdW1TNWQ3WFQzWS1aQlNjMHdkc1ZqT2cyRkJyc0RCZEJsRElFQjA0dFdlQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788742885319
+    },
+    {
+      "id": "news_ENTERTAINMENT_KidCudiDefendsPerformingWithKanyeWestInC",
+      "title": "Kid Cudi Defends Performing With Kanye West In Chicago: “I Held Him Accountable” - deadline.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (kanye) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdlRaRThCbnJBcDh0YWVpZWd5bHo4d2p0Q2tULUFtcms0RjhfekMxSmdiLXBQalVMck5ZTnNIcXNZWnE2RTNoZ2p3TUU3WGVISi1sc0wza2VnYTNBcnl5MElobnFHMXhJcGJKUi1sSzlET2V3alE2ZmJ1YTdGaHlHczRBSzBYT1IzSnE1dkJzaFk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788742884004
+    },
+    {
+      "id": "news_NATION_AfterLakeAmericaTrumpsuggestsanewnamefor",
+      "title": "After 'Lake America,' Trump suggests a new name for the state of New Mexico - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOGpDUEVzVWJCbXoyY1lEQ1RKZTE0Y2NMVXROckkyY1lZckUxQWkwdTZNNDgxeDJSVkFMcmhKWTdlTmFoenIzajFXTWlmRnI5Yy1HY3VoRmV3aE9SQ28zU01pbVNJQ0oteDBZNGJZajNMUTZVeW01OXBRM1dWNGQ4clBYZDZfRFBqbXV2eUplQdIBlAFBVV95cUxNWE5feDlWTEJ5bVFBd0Y2a0Y2RGpDMkN3d0RLUC1OTVpCdmVuYU5kUERFVmFETHJ0eUVyUWVjY19JZUk1Z3pyeF9tZUI0ZXE4YWNEVHc3dld3X1dIUHZ6ZnBtZkV0ZFNROXNjemU4MkMxN1RIUDUxNXIta1NBUHMwNFlrZUtyX0hZdGhKeFF6MUJZd1Rx?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788742880344
     },
     {
       "id": "news_AI controversy viral_LatenightdumpsterdanceDonaldTrumpsAIvide",
@@ -5456,50 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788356669331
-    },
-    {
-      "id": "news_tech ceo controversy_ExclusiveExemployeeoftechCEOAndyByroncla",
-      "title": "Exclusive | Ex-employee of tech CEO Andy Byron claims he was a 'toxic' boss before Coldplay drama - New York Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFc4djVsQ3VMeGc4UUdZY0VkRG84MkJiYVZNQkE1cW5uY01uYUZGYmJMQ1FnU0ZaVDloRFplZldYcHJXV3pKMDM4ekx2bENFckd1ZGVQUGViYW5xbUdpYlhiMWJVZ1dQM0xoZmVoV3NCd1pIYmg3UWpFTWNjdTl5dkNHTlV6MndSVGZFZVdUQ1VjWWlKSDlfRE52dS10ZXBnemY3Zzg5LXlyc2hzT3J6M19RUDNqNXVqeFRWQ3pGRnU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356668167
-    },
-    {
-      "id": "news_billionaire announcement_SFbillionaireTomSteyerannouncesrunforCal",
-      "title": "S.F. billionaire Tom Steyer announces run for California governor - San Francisco Chronicle",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmk1MDRLUUFPcDBWTjB3bU5mNEg0Z3UtSEoxclpFUUdvOXQzOUkwRTlYSkxaN3ppZGw5RnNnUUtoZXd1NGItWVh1X0tUZUlVNVFGY0RXakJNSkl0TDBuSVlqVkpVaWdQRmtnUExLeE5PVTdVWlNNS2EwTmV4Q3loeGVXQ3VMbEZWRGE1VkdIczVuZjhHOFdrUDJfV2pZZnBrNlE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356667107
-    },
-    {
-      "id": "news_election crypto_DemocracyDigestCryptoScandalReturnstoHau",
-      "title": "Democracy Digest: Crypto Scandal Returns to Haunt Poland’s Right Ahead of Election Year - Balkan Insight",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (ye) mentionnée; mots-clés viraux: scandal.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGs2R0R4cmVlX0tkQ2JSa3lzdE9XRjU4WDJXZDlWc0wyc284X0JJNnBORjJ0Vm5Bb1RlTU5EYXdiWi1WZXFHenZIbFU2R0FhYUxhc1JZeHBBUTFmWjA0WXlHRW44WnUtUG05RjlreVZjV0J0S1RQbVlBaFB3b2RuYW5RR3pDei1zWk1lb0s0VnVvbnBveDAyYVFBOWQtOTgzQ2tKSzdndTQ3eHpYZzVRNzFPLWdraVk3RFAxRmVQR0dnV3dM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356663970
-    },
-    {
-      "id": "news_election crypto_CryptopoliticalgroupdetailslistofUScongr",
-      "title": "Crypto political group details list of U.S. congressional allies its backing this year - CoinDesk",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTlpBYl85SUsxbVh3cWszZ1FwZkVwRHl1MmlWUjNQdEFxNGw3bEpKVldxR3VXYW9IRmZXQ1k0eGhTWkRZZ0xjSHY0VmZfOUtKV3dyNElEWndkckVWcEc4akdEYUdkeElpY3RMLUU4VEt4QkJseDd5bFUxMGs1Mnpaek5nSERhSlJBdTY4VXliLTlSTWhnNUlaUFFRak12ZWZpbVFZMUxlSHVUb0YwNE1kVlVldUFLdm9KQ2JkS1pzcUJqaVJCZjRR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788356663970
     }
   ]
 }

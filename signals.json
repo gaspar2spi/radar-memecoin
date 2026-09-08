@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T20:20:19.694952+00:00",
+  "updated_at": "2026-09-08T22:46:14.050309+00:00",
   "signals": [
     {
       "id": "news_memecoin launch_HunterBidenlaunchesLAPTOPmemecointrollsT",
@@ -682,6 +682,149 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_election crypto_Reformgivenanother4mfromcryptobillionair",
+      "title": "Reform given another £4m from crypto billionaire pardoned by Donald Trump - Yahoo News New Zealand",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jdlpBTkFHaEFLNHpVdzVMUTVROEZyOVJDZkdGYkRKZzA3MVlGWmQ4ZlNmVVl6OXFFS3ZucjdQd0xfWHJyV19tV0pveDFlbGJHODYzd0ppTHM1NmNCRnNXempxa1YwbWNKQjI1Z1hsNHhhT0QtSmxUblNYQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788907551620
+    },
+    {
+      "id": "news_AI controversy viral_Metalayoffscontroversygrowsafterexemploy",
+      "title": "Meta layoffs controversy grows after ex-employee’s anti-AI video goes viral - thenews.com.pk",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (AI controversy viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral, controversy.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDBkSlNSUE5rRGQ2VzZnSDdnU1hXLVpyMnRnX1pJZlBYSVNNdmRLaDdhS180VnJuWFZDMUJ3V2JueUprcnBiQUlJMElnTEJsY0ZrdHVMM3BYUl85bmcyOFlBczYwM1llR0VVRHdHRWZEbkZQazNNbjNkZHRlWFdJSXFuc2dLLWpXZEZkR2lzV2JOUWRuOG5uRUg1Rl9sbkhiSGxuSVBQWjBtUDQwMlFiRlhwU05HWWfSAbMBQVVfeXFMT3J4bGlxNzBxckp1OEttNXJ3QXBUdGZjclpvWmlObGpHc2lzd3VYOUNFYjJXSUxvWmdTMjd2X1hOYkh4NFpXQ0dBaXZEMVlucWt1UFVsT2lrVHN6TG5zTVFpOFpUVzdHY2hvdDZOVTB4NjFfUDI5NWcxOFBHV0NzOVdXd2lSQVpkLUp6WHpDSUIzd29ldVhFR2pvbVBzc1lzNGVSU3cyZHRUbVJWdGY4X1pQSGc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788907549355
+    },
+    {
+      "id": "news_SCIENCE_Ashippingcontainerfallingoffacargoshipin",
+      "title": "A shipping container falling off a cargo ship in 1992 spilled 28,000 rubber ducks and other bath toys into the Pacific, and oceanographers spent the next 20 years tracking where they washed ashore to map the world's ocean currents. - Space Daily",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQVWlJYXlhQkp2eEQzRldhV3VRMVVVTnlkbnJHME9yd3lRT3BqM1dORG5GcUY0NERBRDBIUE1Za2o3d1A1akNLN1VqMXBYLWRTQXh2Ti1Xc0ZYdUtQRko2LUFRVzllR3Fsa2lndFNEMGVpdEFnS1JjbHlzcUUtenUyY0thZFFJenl1cVlYZW5sczVfam9sTF9IX2JabzdMdGlvekFkcFVBMjJ1VlAyU2x6TVRQTlZEZVFFSDBFOU5qdm9GWHd4R29rT3YxanlyWlR4ZEx0dUd4U2ttUkFjRUZoMy03UndWZm1YWjUwT3ZySzBzOVY5N2txc1NEUWE3QmhweHBzd1h1eV95RlFRclFyeFU1MGtBcV9FaExGcDhwSUdFX1BfLTJ6ZUYxUk1WN3BFTkNDS0h4VG1HcU45RDlTalplZU12QQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788907538720
+    },
+    {
+      "id": "news_SPORTS_BakerMayfieldagreestothreeyearextensionw",
+      "title": "Baker Mayfield agrees to three-year extension with Buccaneers - nbcsports.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0ItT0Fwc25rdG5HN2J4TVB3aVFvaUpJQmxwT0UwMkFXN0VFRUtURXRtLU1DUDdhS2p6OHBTMWJLRWdDV0JqWTc3dXZGaHJqTVVjZVBFMmlRUkJxblU1OEdScmtsSVZXWHdTamFTWWEyQXZSVzhyU2lZOHg0LWJDaklDeldtSFpZQ2lQM3dfdjRFWmkzdk1rVFRUNkwzM0VmUF93ak12dGF1Vk13dGFQNTFyNFYtQ1BKRU82SDBPa1g?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788907537578
+    },
+    {
+      "id": "news_SPORTS_BREAKINGHawkeyeMarchingBandmemberdiesaft",
+      "title": "BREAKING: Hawkeye Marching Band member dies after game-day heat stroke - thegazette.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOczl0S1VLcjNQR2I3cF9ZcUp3T3JVZEJrZUx1eTNSV0tySVhkY1RraUpmVmFySkFjbl9PSUN0QXI5QlhBZ19jMXVNQ2ctc2VBOG9zQTdQa0dwN1dBLU93SmJJME8yR2VsbFY4Mlc4WV9hN2E3eGhCWHJsLUgwM3hkR0lBV0RjRkNyZlVQZFRsNWZTMUJvTzJWalhtOEpCUi1CSkQtMFNSaGlqT3IzX1pLT19TZ2V4Z2RWZG04bUQxeFdnUkVSazdUWm5taUtaOWx0aC1zWGRuT2lmN2twQnZGUExjME1yUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788907537578
+    },
+    {
+      "id": "news_SPORTS_Philadelphia76ersFlyersgivefirstlookatne",
+      "title": "Philadelphia 76ers, Flyers give first look at new arena coming in 2030 - NBC10 Philadelphia",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbXJhbGJDX3RIR0M0TWV3b04yeHdldjVueS1tRjlVSTNveXRKS1UtQ0ZhNi1aMmZwSjA0STA1T0NNZlBzVDlnNTBEVTdfX3Z3WncwR21NallQV01hb3FlQVZiaVVlTTF1b3g1ZUY4UGdSb3ZHd09ucTlDbkQydHZKRUs4UmdYSHRsOTJHREREdV94eEJRcTR1aFVUMnJ0UksyMU9TQW9EeUlhWHZjUzVjWU9UVnVOT25kX3lPV2NB0gHGAUFVX3lxTFAyclVXQ2JzTi1tTXRjQVZGOW55WFZNRU45UjhKOGZUb0Q5b3ppNnE0aV9GSWwxa3Z0RGlKYXJvSjhrQ3BndHoyMkNPVTlKVllBN3dqV2VFMVBCcGgwYmRMeXBwZk1WSklXeXFpdWFpSW9tVlVqUGpiYl8zM3BKaDMtY3U2ZTdDU1BjaVNCeVhMTzlzN1BkM1Nma3BQOW9kUEVkT1RGcnhoZXhZdHc1SkR2RllHa0hrenp1T211YVE1RndsSGx4QQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788907537578
+    },
+    {
+      "id": "news_ENTERTAINMENT_LoriLoughlinfilesfordivorcefromMossimoGi",
+      "title": "Lori Loughlin files for divorce from Mossimo Giannulli after nearly 30 years - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXkyNWJqOW82Q3NhRXJEcHNXMzBrYkxzN251QXRZbGM3TkdUcWZ5TU5jTTJjZGZuVE9vZU9pbGpMM1FFM013amtvcTlsOHRhR3ljMnFQWk83MGc3bUc1VS1VbVVLUGRSVUhhbDRTbk1FY0o3RE9PUzJqbm5Qd08zM3pmN3VYRlVJUkoxRmlWS0dpbEtfWHVienVGaU15ZDZESzNqdkcxdzMtWnUwZGNRb3VsY3ZZMTFrVlUyM3E0NUNqQzA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788907536271
+    },
+    {
+      "id": "news_ENTERTAINMENT_ExclusiveJimmyKimmelslatenightshowsettoe",
+      "title": "Exclusive | Jimmy Kimmel’s late night show set to end after next season after 24 years - Page Six",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR0NkX1RQdEZZU2pfd0VtQ2hLNFNBTDZ6Ml9sT2gyY1JBUm84eFVqN2JNRGx6X25QUXk3YWU2SmFsaXp3aWpuNnRUV1ZOUzB1WGNBb3FaeE5oTTV0X2FGRGxLN2daanNlMHozOGlQc0w3ck55ZVhaUGViZncwQzZlZjRBUl9STFh2YlJFMlNvRVVmcmx4WWtzN3NoMWVQNE9ZdzQ2OFVOSE82Ujc4RkxPWGRzdjdMcVp2WVBr?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788907536271
+    },
+    {
+      "id": "news_ENTERTAINMENT_TomJonesAllegesTheVoiceUKFiredHimat86Yea",
+      "title": "Tom Jones Alleges ‘The Voice U.K.’ Fired Him at 86 Years Old Due to ‘Financial Difficulty With Insurance’ - Variety",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée; mots-clés viraux: fired.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZTNoR0dfekRjcW5rVVRDVWZVd3E4alRGNmxZcVl5cEpVNmdOS2x4R0RFQ1ppVTZaNDdTWTd5LXM4MkdsZjFoRkhDWVFoaDJtWWZUZ2QwZmZSZXl1a25CUzJ3NGtnamU3T2JaYURQWnZNSUpDYUpGY25vbHljOUs0NzNUNjc2SG9HMWxHN1JRT29FOFI3d0E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788907536271
+    },
+    {
+      "id": "news_ENTERTAINMENT_SouthParkIsChangingItsNametoSouthAmerica",
+      "title": "‘South Park’ Is “Changing Its Name” to ‘South America’ for Season 29 to Mock Trump - The Hollywood Reporter",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUxRTHVNQ0htVFF2VUxZcHZBSWowSE1NTzExODdPT2VQYVVCN3IydTlHSmlWMFVpZGtGSFhtWGczeUQwQllONkN4cC1JRjl0U3h3RW9fUVRoYjVDYUNCLVRfNWNXalNvOXhEVG1fSXFUMWFEcjRRTm1XSUZyeURLdXFQa2FqbldFOGZPa2RVNlR3SmlQSC1Xbk40Y3FhLUd0cUE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788907536271
+    },
+    {
+      "id": "news_ENTERTAINMENT_SalmaHayekGoesSkinnyDippinginSultryPhoto",
+      "title": "Salma Hayek Goes Skinny Dipping in Sultry Photos for 60th Birthday - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUzRCd2wtUGNrUmwzWFZ3M0tHUHd5WEhhYzRBWHJ2VWZlNUV5UjA0RkEwQ3lPMHRUT3g2eUhNaVMwWmwzemtWTHZmc3FJNEg2ZS1uXzhOdnJWVmRjVXloenh6a1JkWlZzNlBNYjNtUWxERV9WMmpIWjFpMWFyNVRLRHNfemlXanc1VzZLamxTNm5vOEE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788907536271
+    },
+    {
+      "id": "news_NATION_TrumpAwardsMedalofFreedomtoWellesCrowthe",
+      "title": "Trump Awards Medal of Freedom to Welles Crowther, the ‘Man in the Red Bandanna’ - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMFRxcnYxYjVndVVpN0JaakQtUE5LejVwQmpsRWlrMnZ4NF9aU216Y0l0R2hCOTNGOEFORG5MZy13ZExQLWprYmN5X1JmZVpFU3oyRWQxWm1peXpZa0dNNlRwaXJ3MmRYOThHQm5aMHFGSVdHUzVYYXlybXdFOW8yczBUMWExWDNzVlN4M09iVkJ4WnpCVmd4c2Fn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788907532944
+    },
+    {
+      "id": "news_NATION_FactcheckingTrumpsstoriesabouthisown911r",
+      "title": "Fact-checking Trump's stories about his own 9/11 response - PBS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdkQ3TFoxelVBaWgtamtNQUpjZEh5WFNpWUotSUJqVjdiUnpyX3RmazJiYlYtWkd6RjdCNXJLTlFsM1JPUi05eFRUcUROb0NaYlJKN05nUFpLQjBxNHBkN1c4SnROWGZmUnItYk9pajZCZFU5Y3BwNlBmRTVZVkNLUzFVOGR2UkJ4cndJQUM2UzdMeDctcXhKMnNR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788907532944
     },
     {
       "id": "news_government shutdown_TrumpProposesFederalPayFreezeFor2ndYearR",
@@ -5357,149 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788472632725
-    },
-    {
-      "id": "news_SCIENCE_2spacecraftwillsoonreachMercuryafter8yea",
-      "title": "2 spacecraft will soon reach Mercury after 8 years in space. Here's what BepiColombo can do - Space",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDAzQkViT2l6c3RmX0MzRjdIMW0xUzRQazBJemNHRnVUOV93Y3JqdjJISkx3MzhZT3JGaUlsb2I3cDVlei16YTBVTGFUbG5FMWRRVk9fckh6dFVEY1JFMWVIUlMzVEMydVZpLTFtbTR6bThYYzZOR20zSUNYWWdSRDlmRW02Ql83djlKdTMyRzlRLVg5RDBEM2lXbmhOMjBpTm5Zb25yM0xBNFpHalcxR2VtczVaOTIzQjdtYmczRkdUbkoxY01hVw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788472628927
-    },
-    {
-      "id": "news_SCIENCE_Almost500yearsafteritslasteruptionItalys",
-      "title": "Almost 500 years after its last eruption, Italy’s supervolcano is growing restless - thebrighterside.news",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVFFPSE8wVEZlc19XMjdsbHREcDFFRy1SUTFNSDlpemF1Vmd6ZElINjZ6YzkyQnRfaHBfOVJTX2hFMU9zbWhvSlRYZHFRMUhhRm9jdG5yRmdFR3F1NVQ0SHhGWTU2aVQ5LUd6dU90SHdlMUpDYUZkRTNsajFFeUJ6eENVWEpyeEpPTnBSY2hhWkxKdnh1RFBGbUNRR3g1eTl6eGx5RHpmMlZ4SlhsNW02eGJCVERqcjVfcTFJ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788472628927
-    },
-    {
-      "id": "news_SCIENCE_SaltmayhavehelpedturnEarthintoafrozenwor",
-      "title": "Salt may have helped turn Earth into a frozen world 700 million years ago - Phys.org",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00dlN0STBMUnhPbTF6emNWSjFtdE95Z2lzOVk4Vy03SElxRmRsUTJhWXVpRkI1MFZlbnZvRGcwVFF1Z1JRX196OEJSaExocEtlU19YVklpUUhsQ3EyU2ljTkF3QzNvTmo4UDBMVmNtbVdad1BC?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788472628927
-    },
-    {
-      "id": "news_SPORTS_SourcesCardinalsMichaelWilsonreach3year7",
-      "title": "Sources: Cardinals, Michael Wilson reach 3-year, $75M extension - ESPN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2JvWFczTUtrSm5xTUplbS1XY1lMYld3VDFkaGszczlmVzF6dVFfTzczZExNYjl3MG14b0ZvdzRTT0hKNlZsX2VnNjBWZnY5MExPQk10dlZGUG5uV0pVbmlaMzVRY1lTZkVLWnRISjZvV1UtWlpGV1FTSjB1bUh4Mko3VE1BRktaUmpHNkRMQ1pNTU1MT2JMaEdyV1lLR3lfLXlCdzln?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788472628145
-    },
-    {
-      "id": "news_SPORTS_NFLPlayerAlphonsoSmithJrDeadat40AfterHea",
-      "title": "NFL Player Alphonso Smith Jr. Dead at 40 After Heartbreaking Final Post - E! News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée; mots-clés viraux: breaking.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT2x1TWN1TUxubGh6T25VVE8td2hha3VHNE1HcjdKWjZNWEQ3cDVXMm9ES0JMVHBxazVyV0xDSWNCcmEycnNjR3V1MDJXby1QcUlWZUVGdHFOc2pCeThzZ2hUTmZJZFJxVUNDal95el9CQ2NrSHpnZ3hES1JvbUNRRGxR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788472628145
-    },
-    {
-      "id": "news_ENTERTAINMENT_GeorgeLucasSaysLongDelayed1BillionMuseum",
-      "title": "George Lucas Says Long-Delayed $1 Billion Museum “Almost Broke My Will” - The Hollywood Reporter",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmw0OXJ4V2F0YVZqNVNudFZwazE1WllublA4VTBRbnY5eUwzTk9Yc0NCb2dzQVEtaXM0MnRhQXVVa3VvcmZ3djd6RFkzUk5EUGlZcWtiU19iQnNTRm15c2RDSXF2VzhITmNNQWpxWElMSHdrQ2ltOVhyckFJVDk3MHh1b3d1bjNCZFU5ZE5faDY5OHdtWkN5U0FR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788472627341
-    },
-    {
-      "id": "news_ENTERTAINMENT_Upandcomingcountrystarisunrecognizablein",
-      "title": "Up-and-coming country star is unrecognizable in viral throwback video 3 years before fame - pagesix.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWkRpWXR5SFB3em9yQkFtWk9FblVDWVJldXZteG5YZU41Q19KNWZ4azNNbmIydVBYb3RnbzRSMHBJRXpHRzNkVmYwVXFpVVMwNnhhUkxRcFJ0Z0NKUlpZbUJrV0k1eXpqOS1UcWlXdHlMYTNoam5hbUpIUk1MOV80d3Z6dUdMVXFEN0hZYTVFc2FhX3BEMlRtQUVwbEgzU2JyX0Y5aExEcjQ4LS1ocFBnOF85MjAxSThjRUFLTHNhQVNBS3BwaWNoWUp0TTl2M2VG?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788472627341
-    },
-    {
-      "id": "news_BUSINESS_ZuckerbergopposedWhiteHouseAIproposalinp",
-      "title": "Zuckerberg opposed White House AI proposal in private call with Trump - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX05ZdHdWOW1wVXU1My11RHBMX3Z1Q19STWRjVkpRemFrQmhqRkI3UnlXQVRscnA0SjRTSTdWOVhKQ3ZKUzkwX2J4Z0YwVW9yNXZpRnRwZGFNREpoUW1KeG11OF82c3VOeEg3QjAweWp5WHlGclRFVU9lSl9JZ19QWWM1OEtkOHptTTR3N1hENmZsam9oaGFYaC1aSE53SHpDTF8xcEpDdHFGWmhwdzdqU0hLSTUzaWFBYTNhQ0haMU1CSnRBMzVTV3diQ3RDWUJ4eEs0Wmg2SkM4eWk5enBFRFdsYkc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788472625842
-    },
-    {
-      "id": "news_BUSINESS_Trumps100tariffondroneswillbedisasterfor",
-      "title": "Trump’s 100% tariff on drones will be disaster for the US, critics warn - arstechnica.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlBhLXIwbjNqSHdycDQ0ZG9talpwRUZFR2VEV0xRQVJORFRXZzE4Y3I3a1k3blY0Nk5YdUZYdnRhNFp0QlowQS1JUzVwbHBabVJyRzBxWmpmYzJrX1FGTHJiTjdpZVJaMzdJTHZtb056NERjZ3IyWElaNGRwNl9GMkdlNWN3MFByOFlYdGtzQkEzeWhOWFBFUzdRcTNuNzllaERXQ2wyRQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788472625842
-    },
-    {
-      "id": "news_NATION_TrumpasksSupremeCourttoOKsweepingchanges",
-      "title": "Trump asks Supreme Court to OK sweeping changes for mail ballots - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXZhWHdMMEZuZFg5NWEtN1hBaHV2amRnMGRIR2lqWkRtanVNZlRtbFVaRDUzQll1blFXNTJsajJLaTEwSXFHSFRUSEtLVW9VYjloTWxUNXlZcWR1WkNJTzZ1cVo0TDZnY1VHMW02cEMyYkFYWHgwS1JFX09NeE9KRzFoQkctMVZVV3hnb3RMVVpCMHFFcGp5elZFRzlPNUhKaGhJOEpzTQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788472624956
-    },
-    {
-      "id": "news_NATION_BillionaireBackedBeefTrumpLiftsTariffson",
-      "title": "Billionaire-Backed Beef: Trump Lifts Tariffs on Brazilian Meat Banned by Europe - Forbes",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: banned.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSldnd1ZLZDk5Tm1jcU43ZnFqdmRGWWViZDdBVzNldDdPbDdIM2xFRE1pcW9ERmpLSXFmeWhhbUFvQ2dRUGRveDlxYzNLbjFNQUlkM2JpMFhLcld6Wm5DNF9OdTlGQXVxelZPWUpYVi1GNDhwTXJjODhXakh2c3g5bW0yZ2NPai0yYW5YTjFQbGY3ck1UdU84bVdmeXBuWDY2UTdRWDRHVl9Wc3p1Z1o0bjdwQ2lndHJfdXdESmljTmZxRzcyajROSmpWODY?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788472624956
-    },
-    {
-      "id": "news_NATION_TrumpAdministrationLiveUpdatesVanceSaysI",
-      "title": "Trump Administration Live Updates: Vance Says ‘I Don’t Know’ if Iran War Will Be Over by Midterms - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CYmZlT3B0akpuUHViOXdkT2t3M29uX01vTzJZREJ1SGVoaEloWk1Rc2NzaGFScFZJeFdXQ3p1NE5ubVBMMHN3bkRsSXRwNVk5djZJQVFpajJGd3dKU2p6Yk4ydw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788472624956
-    },
-    {
-      "id": "news_billionaire announcement_DemocraticmegadonorTomSteyerannouncesrun",
-      "title": "Democratic megadonor Tom Steyer announces run for California governor - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYVRiYi1jcEhoUUtoQVNVQTZRYmpQdENkT3A1QXNYWUFRRFBLRHJWSmFsbkx5Z1ZRYzlkUFBBSEYzLW5Ta2VDZ1pDeFJXWjEtcU5RZDBKNjJEVHFCS25tdlhEWjBuaFNEOVR6STI4dW1hNkplekxlektMUkk4Q2ZHNkcwckRGQUF1Zmc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788465133005
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T22:50:03.800131+00:00",
+  "updated_at": "2026-09-08T00:45:40.899644+00:00",
   "signals": [
     {
       "id": "news_memecoin launch_HunterBidenPlansLAPTOPMemeCoinLaunchTarg",
@@ -550,6 +550,116 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_gaming leak_NewSmashBrosLeakEnds8YearUltimateWait202",
+      "title": "New Smash Bros Leak Ends 8-Year Ultimate Wait [2026] - shattered.io",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (gaming leak). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DeG9CZDNia2h5UjY4SzdFbm1aTDdyTUJoQWtHb0VFMTU3OTJCbnNMdFBma1A3bGNhTnUySExJWWxISmZfb0hXZXRSR2xjZ0JMTk5kTUtyQVhhTU91YWVPWUNYc1A0bDBONl90Zzl2VmZfRGpLNGoyVFhucDI?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788828327680
+    },
+    {
+      "id": "news_SCIENCE_200millionevenlyspacedtermitemoundscover",
+      "title": "200 million evenly spaced termite mounds cover a region of northeastern Brazil roughly the size of Great Britain — some are 4,000 years old, and they aren't nests at all but dirt excavated from a vast network of tunnels hidden underneath - Space Daily",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOS1h1WlpuaXJGNlROY0pwcHVOQlpkMFAwTzA0ZzJfWVdfTVdJdTE5U0xYUGZ0cndONmNTbWVmeWR6ZUlKQ0E1NEhxLUlDRFhsQVVOV19aTUhQZUJXblRId2F5cTJwZ0xSVE5PRF8weFdRN3FNVjdTZnRwMTdYTHRxM3lGRUlhaUphMUZVc08zc1hQdUFSYTJYS2IzcW1zZnNDWTNDQjBzc01jZFR4b0o0NGYydlNxUU5NcHhSc0lZZ0J5SDZnQWZsYzBKQ21WVXVuT3RRMGdrejNQQjFBTzZudnlCZVRqNVlGOUwtd1U2ZDluYnNUTC1VdU5CQ1ZmcFRkR2xKOVJFcXpiUHlPSW42aG1kSm1hVC1iQ1lidWZTOTRjZVFRQjRBTEJPU1dfUFpEelVpV1FKVm8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788828308888
+    },
+    {
+      "id": "news_SPORTS_GiantsreleaseWRDariusSlaytonteamslongest",
+      "title": "Giants release WR Darius Slayton, team's longest-tenured player - ESPN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRkNtZDBad2xXMHdUcjNETU1NeWswVE9TcWNWUHRTeHZYdWZUVHpKOUw1aXpDV3p6THBYRHN5blFvRHk1bGFza2FXV2dMSE5pelJwSWR2ZzFVNk9hamNxTEU4N3Q4QzZXaEppMWl3R1NWU3ZETlZ1YWF2V0MzV3p4c3IwanN0SnFhUlAzbTc1NEtwOEVpOGZsanpUYmxyVzJMUDZiTGZsbEQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788828307819
+    },
+    {
+      "id": "news_BUSINESS_Yensurgestosixmonthhighastradersstayaler",
+      "title": "Yen surges to six-month high as traders stay alert for signs of intervention - ft.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTW1iQURkTWNpamRkUkE4dnJITl9LMXgta1A3a0ZZR0paWHV2MU5yLWRPdThCUkhsRGZjWXVPVzRfclpkX1Frd1hxdEVma1k2OWNueGVGVUFRRmdXM0V3Uzk5ck1VUXNaenBMbVNHUXdWME00RThQNGE2Qi1PbG5OT2NrMTc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788828304619
+    },
+    {
+      "id": "news_NATION_TrumpsuggestsrenamingNewMexicoamidtorren",
+      "title": "Trump suggests renaming New Mexico amid torrent of online memes and taunts - washingtonpost.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOXVEVHFpTktUbXU3ZE4tT0FtVjlkU2NUM3A4TllDNk9IelJqdExmUmRkM0FnVlI1S19xeDl3VWpYQXRqOG5YOUpRMTBvS1NVbmI3eURiaXBvZGUtcDhnRVhlWVROZy1RV2I0dVdncmpXTTlWbEhMdHpPMVZEcnREVVhOZmxfakNHYnJQZkRpc1ZoanNXZmtrZml2ZnlRZ29OTUZRbjNiUUNqLWVleUxjZ0pHUkJlWW9LOTBJ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788828303629
+    },
+    {
+      "id": "news_NATION_OneattackmanyAmericasWhy911anditsmanygri",
+      "title": "One attack, many Americas: Why 9/11 and its many griefs land differently 25 years later - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdUZyaGhReXk2bmlDcjBJSU1sQjB1TGtqbmNWOHVQOGlLZmxsZUdrdlJNQXM3WkE0MzY3SXlfSW1aQjgxRkQyeHlVX0hWWWVsZTkxQnh0QXZNTUN0MEFVN1FsR0Zrb253Zy1KSHdyOHBKV2tvYWV1MUg2RUw1WW1nNnctY0pFcUc4NWZDNEltTUxwU0RWT294V2Vka3U?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788828303629
+    },
+    {
+      "id": "news_NATION_ErikaKirkreflectsonfirstyearofgriefafter",
+      "title": "Erika Kirk reflects on first year of grief after Charlie Kirk's assassination in NYT essay - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSHRHSkZFOWRPTE53ZGZuMThvU0VraFV3TGxDN1hEd0trZ25fTFB1bnB4SXFPY19KcVF5TWlGWjJlV200T01keXVNMHhXZ0VoUG9YZlo1b1ZQVTVUZHRuZGluSHRocWVsUWk4WFlGQS12eFo1eE9iaVVvOU5nd2k1LXVKQ09NYVl6SWVldmxkWW56VGpNd1BDZkljbWdia3ZKVVAwN3d30gGrAUFVX3lxTE5nQUQxOGJMd09QcXhnMGpnS2R6Z3J4ckRlcGc0NkhCaTZPdEhSanZranNHdExYLVlWTmhtUmRyWkxuMWw1T0lPR2J1VEVlVmJnZHUyR1EwOHlES2pHR1pIdm9DTjQ0X2ZReElDaW51MTliYmhSa2p0c0N2b3BFMnBjeTVzTVhUbTZ3SVFoUWE5cG9pRjA2SXdsbHc1Q29VZUNLQnpQQTlHcHFXYw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788828303629
+    },
+    {
+      "id": "news_WORLD_KentPoliceyettospeaktoDoverprotestorgani",
+      "title": "Kent Police yet to speak to Dover protest organisers - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fQUVDcy1hbGJVM195d3ZicnlBZjlMUktrWWNXMmtzcHJtRnZOQXJxd05zYnVGekYzanFFQTlNcUFJVVkyeEQwVmF5SVlBbFhTeFJ4dlpFTk1kZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788828302652
+    },
+    {
+      "id": "news_WORLD_LongtimeMSNOWAnchorAlexWittSignsOffAfter",
+      "title": "Longtime MS NOW Anchor Alex Witt Signs Off After 27 Years - HuffPost",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVHkteWVNYVYtSmtEZERRMkJkeklMTXljdFpVZmdzTExHbUs3UzdfbkpJajFTUl80RDFacUhtYTFZTTFFaFFUMS12NE1lQjVwZEk0bi16MU92LWJGaGJyWlp4WmZ0Wk5UeWhaWFlLRTJETkphdzJxTWFPTVFET3J1ZkVXTHhvX3FLN2fSAY8BQVVfeXFMTmFyX1d6b2NnX0VlWmtId3UzeE5WbjJGM3ZfZF9iY28ya255NklzR2RjUTk5cTVKWUVWZkNZVGNOZVlEbDAyQVZVQlJ6dlo0Zk5sWFh4S2syNGNXUkwycVBEOE1lajJqNlQ2SThTazZKWl9OSFBfQTl1U0NVdk81SjI2THdfWmx5RFhlNmNoUXM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788828302652
+    },
+    {
+      "id": "news_WORLD_EUseekstoreassureaTrumprattledGreenlandw",
+      "title": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlhneGFtOUZTMmRuYTJSRi04bG85SHpoTkRCZjVNN2ZpYUIxbW4zV0lCd2xkV2FnRWFKc0tBZkVyd1AxeUlXUkFjU1JFaFUzS0F5aDZESTh0MjV4T2ZLRGdCZU5OT08xNXRTek9QYUVXQjJMRUh4RmNZQzlvVFNiRm9DcVl6YmdUOW9RT0hvMnNRZVFMR2I4Mg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1788828302646
     },
     {
       "id": "news_rug pull crypto_WHITEWHALEClimbs180DespiteRugPullAccusat",
@@ -5390,116 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788411218159
-    },
-    {
-      "id": "news_leaked footage internet_LeakedAvengersDoomsdaycliphintsatMCUsbig",
-      "title": "Leaked Avengers: Doomsday clip hints at MCU's biggest crossover battle yet - India Today",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (leaked footage internet). figure tier-10 (ye) mentionnée; mots-clés viraux: leak, leaked.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTnNHTTVVcTRKZlhQeUk4WHlzdWpFdngtcjdyVURLbnVsa1EwVmxGelgtbU1HSmpQNFE5XzJ5Z2NGV293SjExb2FoLWFXSVdLOGttTkFHYzJycjJmWUpyU19yRk1ock51NVp2ekV6bkQxc3BEMnp3SWNUbE9YcE5uY2x0ajR5SEIxOGRvdTRYU3NScmFYdDNGRGFLengwTU4wNFlnVkJlMGlTS0d2LXZ6MjBnbWZQdmVXVDU5WURTa3hRMXFBWVdFU3ByMmlSRU5Xamh4M2U5Z9IB3AFBVV95cUxQMGwxQnV0YzAxLVAxS0VGY0dHT0swMml1eFo3bGV2VHNJZjZnVGltTXRGRXhNSVNZbG1CZkVYX1ZNQnViSkp1VGdTck9aTDdXdHZpSkYxSDN2VDlZZDZTWS1xMFphd2lfZ2ZfaEtDTi1wZzVwVFc4Xzl4T1haMkpGdDF1d29CTGdCeGF6MmlvSW9RZ3dFd0N5RGVsRHJMMWxSRm1pVWw3ZDIwYmJlZHRqa2FMRHhRQ0RFTkRla1p4OVVxOU9qd04tcGNyUnVPeFNsSGpDWk84cHRWSTVL?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788411218159
-    },
-    {
-      "id": "news_SPORTS_GeorgiaAGurgesSECtotakesignificantaction",
-      "title": "Georgia A.G. urges SEC to take significant action against LSU, if it uses former NFL players - NBC Sports",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRjJ6OV9lOW9kYkRjS1pxN2llNFRMRGpudVhxYUw4OGJCYlJRcE9BRDlfZXc1S1c3WnBfc01oWnF1UjhNT3ZOb3BrRWNQZW5Hb1hrQzlKUmVGUkgwZDVyRTk1MUF1ZzhvVDBQNENHOVRTQlI4bDlkcVVNYmQyWlBxeGRtOG5hRmpjVHFPTG95NERiYWJaQXdDaEVOZEJ4bEtTU3JjZ3N6ZDBNM29heXFBYlNLNDJXUjJGSVpTRk9lYnRuejFXbjZkSWhGOVhHVVJCdTRhM0hFa2Z4VWdwRnk5Q1NaaUhZT00?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788411213373
-    },
-    {
-      "id": "news_TECHNOLOGY_AftertwoyearsofturmoilSonosattemptsatriu",
-      "title": "After two years of turmoil, Sonos attempts a triumphant return. - The Verge",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSmJSVi1SWVhEVlBvUFdpZHZGZ0VtV2QxOXV6aHJjcGkxMEpKUG1TTG0yYTFTVkpwaVhqVDRuYkxSMWZyZVo2ZTU3R3VHQ1Ztak95TlZoTTg4ZlF4NnFqODJkWDBpdnNuZ0gyYTk1WTdTdmh0YWZlWEF6TkkwRUlvMFBVc2RHQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788411211846
-    },
-    {
-      "id": "news_TECHNOLOGY_RuneScapeArrivesonXBOXfortheFirstTimein2",
-      "title": "RuneScape Arrives on XBOX for the First Time in 25 Years with Survival Adventure RuneScape: Dragonwilds! - XBOX Wire",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwR1h4VHJhSnZPWkhwN05rRV9Td2VhVUVIamc0UTBQRmhpdllLYUZDOUYtemRhWVB3LVB0alYtT0pBNWstRVpLRkhrVktvdnZ0bllJSVdNdWUwQWhXM0tzN25WTUt3SmdwOHlVeWFkQUd4eEdOdUM1MWJYQ0hYblHSAYQBQVVfeXFMTVBsbDRZM1pMd3BQX3ZPd2dDWkRBUVBXR1JBRVJlQTJ4S2xvSWF3TU5oNzVCbFowNTRuV25wa2hNdnJ5MzdncFp0T0xhRkxQdlljLVZFRzRxd29Td1pva3lGby0zSE5uZ0NpaEpLRlVNZWdPNUhsU1ktOGlMRUYtX0FuUkxl?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788411211846
-    },
-    {
-      "id": "news_BUSINESS_ApplesTimCooksharesthe4ammorningritualhe",
-      "title": "Apple's Tim Cook shares the 4 a.m. morning ritual he stuck by for 15 years in the top job - Fortune",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0NVTWNqLVgzaHRDY3lTdmNkWlpzSWY4TGhLRUZRbmxmRWtZNTFMOGtIRnhuTU5uVTdYTE1BM0hTQjVuUTNGUWpTb3NvWjNRX2M0U193dzhqaklpcF9zcXBDUFVZcFdHV2p3SEFrTFBvMEQ0MV9qOFlFdVJWd1JuN3VjVVVVa0hBVnNEM1poTGxlT3dBQzVuWkZPSEZTdV9TTHUtMVY0TWd4ZTdxemw5VzdVZ1ZzUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788411211124
-    },
-    {
-      "id": "news_NATION_TrumpencouragedArmysecretarytostayinjobw",
-      "title": "Trump encouraged Army secretary to stay in job - washingtonpost.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: rage.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWgxRGlNVC1BQUNiS1ZjS3ZPUlV3ZWdGM2FrNUtKbGlCWExpUnhjWUFOUVJiclctU2lRaUJVSXJ5bGVRbDQwZ19LNkFBUDJtRFo5X0FoRS1ZYkZ1by1nUlNLZW9QVlRXbnlmbktqc0JGR1A3djNlSjNsMGxWSjRZc3BkVHJvWFREY2Y4Rm9DSEh3akhjeVlLVkRvN0lwcHJsbWpZ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788411210400
-    },
-    {
-      "id": "news_NATION_TrumpReturnstoaFamiliarPlaybookastheWarW",
-      "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbjdQZlZlaGNQQklWMGdlakY0aFhSTTdKYVFJcnk4dHZRM3J4NGJzVjN2emxDUURfcUlhZ0JUNlZoa3JqT3d0cDJ5ZDdZWEQ5RVlLOUFDckhvd0c4bnQ4RTVVelVDTlJmN18td0NWdXFPQ2VVTU9lSUpmd0dUZU5EeWdpeGZEQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788411210400
-    },
-    {
-      "id": "news_NATION_USjudgeblocksTrumpsnewestorderlimitingbi",
-      "title": "US judge blocks Trump's newest order limiting birthright citizenship - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnM5d1FtVlVHTFpHa3FkZ28xNFRMaS11LVZmekt1Nlh3ZXNkbkdEY2tLcWNQWVp5cmZjYVd0SFNWN3M2dXI3LWdKelFoMzJ0dV96c0dHaTl0TlVET1hvaTBJMlp0TXliQlp1N3JISmNLTDh4YmhENk02ZHhuXzlKUTVVRTYxdnRBdTdVb3BaOGFxQndWSHd2VTZPT0VqZ0FoMWJwTlU0cld0NzVJa2c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788411210400
-    },
-    {
-      "id": "news_NATION_ElonMuskunleashesfirstwaveofspendingonke",
-      "title": "Elon Musk unleashes first wave of spending on key races in the midterms - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODFvR0Z1ektiT0FtdVMtRXNYVzhDWWgyalllNW95c0dlV2w3cXhPeWo4bTZtWEJiOUlOMl93MHNBeGkwRU1hZ2xXYk12Rk9fQVlTUUY4SGFKU21jZ2FIZnB5MzhvWUVzU1phMld0S3BrRDZxdnU2Yk1vZnpnUm9Hc2RLcE9paGUtY25UMk0tbEQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788411210400
-    },
-    {
-      "id": "news_NATION_TrumptotravelforembattledRepublicansinla",
-      "title": "Trump to travel for embattled Republicans in last 30 days of midterms - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMURZcTROMzV3UnNjaXRBWm1hR0o4U2VzNDVyMERyYzU1UjdfZlRvQU9yOFhnVE5Md1NfVnVESkRmOW9fN2ZybnF6bUJvOHZxS2xjeGh0Y0VIQmZWWm1oVnFyVk1RSGk2dHFSRnZUQ3g2WEg1T2FndEg3TXB5ZnZQcUpQekxPY3J2c0Z0MUZPbUtaVXRJUjZtTEhhTVFINEVzb25Sbks3VUE4RWRvNk42Wnl6UHQ1NnlHODJr?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788411210400
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T05:04:37.636293+00:00",
+  "updated_at": "2026-09-10T09:37:35.820634+00:00",
   "signals": [
     {
       "id": "news_memecoin launch_HunterBidendefendsLAPTOPaheadofWednesday",
@@ -770,6 +770,138 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SCIENCE_10billionkmin3minutesEpicvideocapturesas",
+      "title": "10 billion km in 3 minutes! Epic video captures a spacecraft's 8-year odyssey to planet Mercury - BBC Sky at Night Magazine",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVndCWWhYVnBBV295NjVtZEZQeDJOY2lad3R2X1ZtU1NuQWt1UDlXcHc4R1hpY0d0VjFBNWNKUGc1SGxKbGgyOHBVOUlxdDVVdnYya1lVMHJCTnJkS3p2U1RJQVRVMXlfZVhXQ3ZnRUZCemgyUjM0bFBTRmZMVnRDRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789033022889
+    },
+    {
+      "id": "news_SCIENCE_WatchScientistshaverevealedthemostdetail",
+      "title": "Watch: Scientists have revealed the most detailed video of a black hole jet ever taken after 27 years of observations - Live Science",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRUpfVGVnMGE4RmdQVVk1Ti16M2NPYjBaVlNrTU96QW5aRTFxOElrNy1yNDlNRVZLM3ZEamcyNnZ0YS1kRVZiVERjOVN5MFhjUGdlZnhtVl96TkRVT2Z2XzZ4TWxpeDgwS2ZRSFRHVFlLOEpQZHdvTVdfWUZGZXZ1OGpPMkF3MkdCU08tdDBMOVZaRDlOVm1lcWdYZ1U4WkpmZkFJd054dnV4WHFuYkVqbWo0NTVNYUljNFh0Wlc5ZjRvcHNyelZ1dlpZVHJIYTlpYTIxWFdaME5yUHM1WFJlME5Sc3c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789033022889
+    },
+    {
+      "id": "news_SPORTS_PatriotsElevateTwoPlayersfromthePractice",
+      "title": "Patriots Elevate Two Players from the Practice Squad - New England Patriots",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUNYOWdQeEZhQkNmRENaZkZETXMzNGtLUHhiQXVxZ3hYYnhpUy1TMFg2MHJPZUZWQ2NXR1VxUlotWUNTZS10Qlh2aHBUN0k0WUE0VEtDWkFCMjZfT0NrMmNZRTVvSVMtNmdPTktVdkJQSlJWLXpDVndYaHN3T2U2WmxkVnZReWVueHZYWGttV2ZQZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789033021930
+    },
+    {
+      "id": "news_ENTERTAINMENT_JimmyKimmelSaysJamesTalaricoInterviewWon",
+      "title": "Jimmy Kimmel Says James Talarico Interview Won't Air on TV After Trump's FCC Threatened His Show - rollingstone.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakdteFR1Y3lDZ1VKZFFkSlNLWDhoWlZYSk5LSWM3MENTdWJJa0MyUXpHMDF3Q0pLTzQ1am10azh5RDZON09hRGxHQW1nczNnMHRWYU40ZGZLaUlncEF2SlVDR2NYdHlSeGVULXBXWHo2Ml90ZkNoV2twdUtsczVxR05TNG84VDdHMFVNOEluUHpPTk1maVlfWXNOR0F5SDJPUzlpY05ISUxDd1pVY014aGRra0xYXzVHOEg5aU9XbGg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789033020938
+    },
+    {
+      "id": "news_ENTERTAINMENT_ElonMuskBlastsMuskDocumentaryasaHitPiece",
+      "title": "Elon Musk Blasts ‘Musk’ Documentary as a ‘Hit Piece’ and Director Alex Gibney as a ‘Horrible Human’: ‘Dogs— Is Worth More Respect’ - Variety",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUlHc1dwTm1jRHlONnNld0hteUR4emR4dVRyZGZsMEY1U1JwVlhmXy0xU2FIM0VTemhkR0sxdEd3WGw3TlBaV3NoeG54YTRXLTRNNzBub1FWY0UyRUNEZThXNVdLUU4xM0s0M3pmWEFDNHU4SG5FczkyamN5UWpTZUJqc1g5SjFzRDVpTVcxQTZyWnZCY3lpQ3VRQmFYX2lVM0NWVVN3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789033020938
+    },
+    {
+      "id": "news_BUSINESS_FordunderfirefromGOPTrumpadministrationo",
+      "title": "Ford under fire from GOP, Trump administration over China ties - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkV1MTdDd0VTcm83Q2d3VnplTWVPaDhkVE5wX29WcjFZd3M4a1BVOU9wcUc4UWpCZkNSQlZVajBuQ01mUEY3dTRDUHhFNG41THFISUtGMkI0b201cG5WTFFuZms0ZU5oUV9Qd1BXZ2g2cTRVU3NxT0ExWGR2SDRJM2VyZ3pOZlB0RTFsRnJvWUpaVDlKTy1tUW5yc1MzZTBNTUgw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789033019037
+    },
+    {
+      "id": "news_NATION_TrumpFloats5000CheckstoAmericansifRepubl",
+      "title": "Trump Floats $5,000 Checks to Americans if Republicans Win Midterms - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONU14Yk9udVo3NE9fYVYzUmZxenVId2JSXzl2VjgzT3VuWS1aUERlUWI2NGJiU3ZFXzVpbGVVNjVFUzJiUWwwcUZwS1dPZnc2ZlZjYlhub1RIX2pjUHIxaW9zbDZ3bXhMc0xKWWd0VjRrM1M4UEIwTGs5bVVQcXBTOTNyb09TZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789033018081
+    },
+    {
+      "id": "news_NATION_TrumpsaysthewarinIranwillendafterElectio",
+      "title": "Trump says the war in Iran will end after Election Day - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTZ4TVZZQUlsdGpxaUs5V3dCUXZacHhRZEo0UHRmVEo2RTdTUWcxeG00SmNDTllmVHlJcmNsQzlRSW9USkxaRFBYZ1lNcVdGaWFKMlNNRVRRaUljWnUwNWZFLWJqemRzMGJhWEVLaXRsRTZvXzJZeWs5Nk9CS0k1QzZOajFSWmFuWE8yMnJ1bFg3MUM0ZmpIeTh2Y3FJVklBdnBYMmVWenU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789033018081
+    },
+    {
+      "id": "news_NATION_NewsWrapWhiteHousedefendsTrumps45000gift",
+      "title": "News Wrap: White House defends Trump's $45,000 gifts to Natalie Harp and other aides - PBS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWI4cWg2YUpmWEs5TldrSXo3T1RXLUkyUnhJcGxpZG5KTk5yY0tnbEM3ZVMta3daeGxIYmZYTXlaWlgxbkhZbTVodDBLWWNZSE5meEVXUHhkaEY5aFY3a01GaFZmSEVGZVlvdGc3Smg1Yi13TDV0VUlZQjBLNF9xNm4yQXNGclp6TUc5RDd6UEFDY0NLVW9oQnQ3elJrNkF2Q1doMEs2SFhhd1AwZHBaTWUwU3Y?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789033018081
+    },
+    {
+      "id": "news_NATION_StatesSueOverTrumpsCutstoEndangeredSpeci",
+      "title": "States Sue Over Trump’s Cuts to Endangered Species Rules - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1F6dWRzUkw2TW5GQnFpT2syQmVLLVZGYVNSQ3k2WWFJYW53b2pLc2kxRUJVTmZmWUZlNlhnTHd4eVNDcExEYXJ2QS11LVBrRUNmOUJFZ3Y3VXFNdEl3WGNWVkF0SGhWQWJjZVNvbU1jNHEtWGN2cTBQXy0zMVdIaHI5MkFITVdsbEpqLQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789033018081
+    },
+    {
+      "id": "news_WORLD_HuaweiFacesUSCriminalTrialWeeksBeforeTru",
+      "title": "Huawei Faces U.S. Criminal Trial Weeks Before Trump-Xi Meeting - WSJ",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGpRMnFXcXZoQkNZSVhJcUxIMjkxMFV5UGtaUEktUVpYbXdGS0JmeXl5Z3pwUVBlYzY4aXBLNHBIaWJBYU9HR0NxMUNWQU53MXV5bThfaVViN3gxTzlSb21NRTNOTTU5YXBlRzlUN0E2MFByVmZWcGN1T2x5MnV0UGx0Z2RDUmF6elJzTjJYaU56aEo3VHBoWnFjMUo5QXdSc0djdlUtRVlwRlY1UWRzanZGaG1oaEtV?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789033016752
+    },
+    {
+      "id": "news_WORLD_YemensHouthiscloseinonstrangleholdoverst",
+      "title": "Yemen's Houthis close in on stranglehold over strategic Bab el-Mandeb Strait - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUNHSEc4V2xmVVpPcmx6cE1GaF85MVB3Tnl5ZzdyWVBlYy0zcnNzOTQ1R2ZyNFdzbmp6c2xodVlOallDQTAyeUFodEUwa0dkOFFCN3ZIcmg0V3Iyc0NiUGczTklDSzhUOGNkUUd5ZWlRME5LRGhBdHFvSDdVUm9WdjZacC0zcFdkM0xZY09LUHFDR3lua1ZXMW1GN0NxT21CTFRYNkFOVGRNMzFsTjJXS1hnejFfVTdUZHBvMEJoMmJGU2xLQnc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789033016752
     },
     {
       "id": "news_HEALTH_ShemetthewrongmosquitoFamilysays80yearol",
@@ -5368,138 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788642649178
-    },
-    {
-      "id": "news_SPORTS_FencedestroyedinterrifyingPorschecrashat",
-      "title": "Fence destroyed in terrifying Porsche crash at Laguna Seca corkscrew - Motorsport.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa081Um1TNkRoRjJEMWM1QndHT3ZTMjE2aEJVb1RXbjFsYVdJOG9fbGN3UGMzMVdlY0d0TUtIS2JfY21OZ1NVQ1BjemQ3RW5PYWpTUm00N1pHQi0wY0pfT0RHb1A0VGdMQnVRUnJUVndaR2dsQ0J2bWR4dXdIb1g3NHAyRFhQVUtRQldHeEZwUUhZcmNYZHZaWDNLVVRRY1ZPX1k4OFFUanNpOERTTnNRMDhsUm4?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788642648440
-    },
-    {
-      "id": "news_ENTERTAINMENT_EvilDeadstarBruceCampbellsayshehasfiveye",
-      "title": "‘Evil Dead’ star Bruce Campbell says he has five years to live after cancer diagnosis - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM0Z6alZFeXYxWlRtWjJBTGJBZWFicGY1RUFuWkNFRkhCTkNHYjVpVTJNc3JNWXJNY0JZeHRRZ0pLYW1URmg1cUFvZ3Q3VWl2MGNxbWd4SWpHSS1ZaHdxdWd2RUQ5S2pMQ1pEV0tzSmdyZ3B5b3doQS0zdGVlX3F0TVZQOS1XMnZtQVJtb0J0OHN4dmhBQ19oYlJoaEd5bE5PUWdCNWl2eVphSzlKcm96ZUVwcFE0MGZNeDFpUWh1alFESHps?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788642647632
-    },
-    {
-      "id": "news_TECHNOLOGY_ThereMayNotBeaniPhone18ThisYearWIRED",
-      "title": "There May Not Be an iPhone 18 This Year - WIRED",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBENm5IcTQ5ZUUxUUV0Ymx2UXZ2ZGJuQUVERzdheUFCWkU5RWtVaTkxdkV0Y1pHRnJjNGVHZU9GV2dKZ1pyLU8zMDJuSUVONUFEUkJxYzZQcXJTcmNDYVNDMGFKTE1wZnQ0X3pYWjZNek05VnFGX2lZ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788642646885
-    },
-    {
-      "id": "news_NATION_KennedyCenterclosesafterceilingpiecefall",
-      "title": "Kennedy Center closes after ceiling piece falls: ‘President Trump has been right’ - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaFpMSi1NWWREZWlFZHk3eXROTGdrOHpzcF83clYyendjWlh4ZVNONDBJUXVqbU5XVnMtOU1LUjhaOUp0VGhwY3hkWGVfaWZSZk01LVR1dkYtdVpEZFpRN0w4LWR2WEZuQlZRTlR1X3B6OVYzTUNFNFhxVWt3SjhGV0JTUEdEM01NSjgzYUxobERLdkZtUUhfaDU2VTjSAaIBQVVfeXFMTmdaamJKakVOU21WcGpzOTIxd1dJMVMwNDdzVmNRT21iYWRjNzVoMTdYRVk1U1MxejhPMzlhZWtyN2tQNjdrOUYxeWdIcGozSnhPUnZ4NGctdlFRQXF0OXY2NXd0WWVkWFZfQU82dzA4Q0sySzNoNTllSUJlaGlkMEx2Z2lIQjJidmhfRy1SUm9FdlZqLVZsX1l3RXZ4UzFlMWhB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788642645493
-    },
-    {
-      "id": "news_NATION_IsWorkStartingforTrumpsArchItDependsWhos",
-      "title": "Is Work Starting for Trump’s Arch? It Depends Who’s Asking. - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlFXYjhCeUFGeXZDTnBIYzBGZUNzV0QtbjRUX3ZEMTU3a2VhWndWUXltMWRaY0dkQ3lCTlBiWTRGd0pLTy10N0VVN3NUMW9uSTlRRFBjQlNUUXRLV3F4aGRPRFhxZHltd0toMHRJaVJHUlRNOEN0N1BWSi0xdzBwWGtsNW5VTmVz?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788642645493
-    },
-    {
-      "id": "news_NATION_JudgeordersTrumpadministrationtorevealwh",
-      "title": "Judge orders Trump administration to reveal who set up $1.8bn ‘anti-weaponization fund’ - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM3FDb0NoR1RsUV9kQ1AxZ1NMQTgwdFFCRVEtNGZvZlhHOWZWSXJVQ2pjNWU1TWViVmxiUHVVUEhncUtrOWZ1TUEyZC05QmxaSjBINTBaWHZ0SnRUSW9iNHJVY3A2UlVBQjc3MGg4V0J5dXZvdUp4dkZqVkt3VEt0NFlhU0VJcjRGZjl4THJTNTEyWGNDRXBlTlZTLU5JamM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788642645493
-    },
-    {
-      "id": "news_NATION_TrumpcallstheIranwarwhichhasleft18USserv",
-      "title": "Trump calls the Iran war — which has left 18 U.S. service members dead — 'small potatoes' - Fortune",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWW0zOVA0ZTVqam5Va3V1ODNfZzR1TFIybzNVVC1IQTBIWnlsSGJGWE1aeFNSV3hwX0xlSHZkbzgzZ0UweEZFLUQ4OHpKc2twUjFuOWFPYTlXMEFaSzdwNGtLbkRzU1ZQZUFmdDNVdzMyTEZiMVdxeF9FdG5adTF2alg2MXdzZ3FSWl9RUWVQVUZBV2QtTVZvZVdUZkhqZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788642645493
-    },
-    {
-      "id": "news_NATION_DemocratsseektocounterRNCsTrumpapaloozac",
-      "title": "Democrats seek to counter RNC’s ‘Trump-a-palooza’ convention in Dallas - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT1JnMlhFQ2dJOU52Sm9HVWpOUEZjMk9fMjM0R1FkREJxWURkenlKS18tMkRkQnFFdnBHS1l5Ul9VSk5VY0R0RVBmajQyaEdIMXRJY05GOVhWRXlTc1Rycm5QMUhVbzBNRC1hWENvUXVxb3Y4WnZsTGstbVo5QTFkSEJES2tuRjR3V3lLNWV6c9IBlAFBVV95cUxPeTJDYlhISUU1SWtYNTdEb3MwVU14M0dHXzhtemRkaGpwalBkN1Izajc2STdhYkg4cUMzUUdsSkdLdVEwV1VsdzN3RzQxNEkwZm1YN2dYWm96UEZnODV6TzFhWFF4Z2J6VnJOZW5IQnZFYkotMmRxVFNtaEN6RUVxdGlmVHF6cUZNbl9hTE5QS0JYMjlo?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788642645493
-    },
-    {
-      "id": "news_NATION_TrumpOfficialsDraftPlantoPayAtHomeParent",
-      "title": "Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZTdZM0RKTHAyYWd5czVaTUJfWkl3WWJnLU1YbzQ5djdaZ1gyS0VEZW9BVUQ0angyMW5aYzR1MTdleDZtaGtRQUZwNWoza1ZYZVJIT012RGp0YnJCa3VQdFd1eExsR1V1Z2FMQml3cHhlTV9tOEJUOUZGN1B6UzluSUVhdno1eHNDUGc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788642645493
-    },
-    {
-      "id": "news_HEALTH_22yearoldKaysvillewomanwithDownsyndromeb",
-      "title": "22-year-old Kaysville woman with Down syndrome becomes certified fitness instructor - KSL.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXVHamJIaWJrcG8zbXlrMUxZLTBBSTNod0NaWFpzS2UySXJ1Nkd3bHVtemFDLUhQbVlzRXR5TWw1UnJibEZEZmY2R0pYQVd6QTFIemRtQTNwVzl3ckRUa29IWVNiZWpjNzJ0aFZ2bi1JTjdqQi1DR2JQQml6N2pVNDZaR2xHWHVidUlITE5IWDRTT0hEV0dDQ250UkxTeFhoSWZHRVFVb1R1Mms1M2x4aFo4cVQwYVplSFZqeA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788635194845
-    },
-    {
-      "id": "news_ENTERTAINMENT_EvilDeadstarBruceCampbellsayshehas5years",
-      "title": "‘Evil Dead’ star Bruce Campbell says he has 5 years left to live after cancer diagnosis - Entertainment Weekly",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmJ2SjQ5ZjVyNlYxdmlYLUVVVnJvUmpSNGJpZ0xKOWpybUw0OXhhTi1EWURValhmUXJ6NklRblJrb0QyRm4yYVpFNUVYRndjVTM3VXVzQW10RVhMZWRLVjg0bENZdVdfaHBUSmdXSnhFR056bk9YUTI5b0QwT1RpMVFFOHU0eTA2MkprVGl0RQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788635191224
-    },
-    {
-      "id": "news_ENTERTAINMENT_SteveIrwinsWidowSharesHeartbreakingTribu",
-      "title": "Steve Irwin’s Widow Shares Heartbreaking Tribute 20 Years After His Death - The Daily Beast",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée; mots-clés viraux: breaking.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNakJITHNPbUF1NVZiVzFVek5WakFCTVRTb1JLSHhzYkZsZFdfZjVnaHZ5RnJnSWFEdFI4ZFRxVjNJNmIwc2Y4ME52b1ZjZU1ZbFdsX09KbUlmSVMxdVpoV0RkWXJxVG1samVIcHJaVHozWFpLaF94N0NLaFRyOUpTM0J6ajBfc0xhakIxZXBKY0JKeWV1Z2NKTWRpMGdZdEhVVk51MTUwUVJnVjE0NDFtc1N5ZE56WENM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788635191224
     }
   ]
 }

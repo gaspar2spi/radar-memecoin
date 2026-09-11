@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T23:51:46.071291+00:00",
+  "updated_at": "2026-09-11T01:32:26.047521+00:00",
   "signals": [
     {
       "id": "news_TECHNOLOGY_WardogsIsAlreadyaHugeHitAsItSellsaMillio",
@@ -781,6 +781,105 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_election crypto_DonaldTrumpOpensthePurseStringsHeMadeaHu",
+      "title": "Donald Trump Opens the Purse Strings: He Made a Huge $5,000 Promise! How Will Bitcoin and Altcoins Be Affected? - Cryptonews.net",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HbVlOZDVpN0lEdVFOVzdWQVdtSTdKd2YwSm9LX0dUMW1Vczh5V24zYlRGVDFIckNNV25JQnp4cHBuZXRQenRsUVFJSGFYeXItcE9ZTmpYZ2g?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789090330864
+    },
+    {
+      "id": "news_SCIENCE_800millionyearsoldScientistsdiscoverfing",
+      "title": "800 million years old - Scientists discover 'fingerprints' of supercontinent Gondwana in ancient rocks - WION",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHJQM1VPVkh5OEM0b1dQQU5DeXV5T0ZpZHh3ZnlfYk40SC1xTnFlSXVTR2Z4THJSTmhzcERXNDRGblNxeDVoclpzRm9MRC1rTEtGTVJHRWs5LTdRWlJlMTRBLWFSYkJHUTJFUm8tUkFsd05hU1FfOGxpUndMeko2M21NRXV3VjRlNVo5QkxfcFpHVm5mSUpTWVh1SXhpRHVZb2xYTFNYUnI3SS1NdEM1OHNXZ2JCczZmT21vNXpXWWTSAcYBQVVfeXFMUHpRSG5yN1NOcWx4cVB0bGZGakh2VkphX3ZyMExpZVNCb0lSbDBVcHVfTUFHdjBHZ2NwWGd4S25jR1Q4djUtYjFxMm4xMW9xZjRyNFNwdzVoOFF5MXQ3dWxtTHhxM0piMzkzSXFMU1M1LWx4UkMyVTZSQWxUcWJmeG1nbE1iLW5CTWxCa21QMVFfU2tWM0pHSDRZSDRsZWROVkZqelVQbkM0UE5hT2VDUzVabmM2S0FNNzhRdVZ2YVdBYWVNSnJB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789090317576
+    },
+    {
+      "id": "news_SPORTS_SECsaysconferenceisworkingtowardanapprop",
+      "title": "SEC says conference is working 'toward an appropriate resolution' after fight surrounding LSU's pursuit of ex-NFL players - Yahoo Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNMXF4RWpoLU9WS0hfSW1TaUNfaHVGb2RqcGZYMGt6ZDNWSzQ0MTAxWkpMUGZleFFHV1AxTDRhSkMtLW1obzBGLXRVdkFzNzlVeDZjX21Sb3c2enlXOENvV01CVjdvdWoxUEJZUG9DME5PT05GT1A1cWk3ZXhVYWZUNjlTTXJHODViYURxaURPaXMyN3Y4X3c4UXBfQnVXZldJQ0NiQVNCTklXNDR6UjdXaUZadjFvMU1nOEtodnYxZjNYMUVvbHNlTXVmUzZJUGxDeDQxNDNTWWdSalZPVVJFMXdNQldtdm9RWlBHU1dLTU5wYmQtRVJSM0hZaWdqSkphZTRhOTF2SlNDUFd4Zms5YkpWTGM5a0wxcVh4bFVlS1dwd0U?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789090316695
+    },
+    {
+      "id": "news_NATION_NicolleWallaceDamnsTrumpAndNatalieHarpRe",
+      "title": "Nicolle Wallace Damns Trump And Natalie Harp Revelation With A Story About George W. Bush And A Spoon - HuffPost",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMC0wWWJIS2ZIT1o1c1A3emloTjdHa2JtNnJLNXphbzY3dGZjRnd2M3pTMlVORlBHRjdJci1vRmZyRHNLRzB4LTFWNVJTTjB3RDhWNlJaYWNUMDlvTWZIdUxjRzVKbVQ2bzJuUkdzenJqWFRHdnpKeTIyajU3YkY5UHBNNjVLLVM2QjhqclA4Tnh4WXVxUFZaRWY1dmRqMVpN0gGmAUFVX3lxTE1HRGFOalp4UFB4QzJWQ3NXeDRyV0ZoY0tRU0diNDFpNUNKc1k2elUzQWNjS0tDNDRkWDEyTkFjN3h3NmVqRkdGTXVqWWUxRG01N2ZVem50VWN1XzVRMU56S2F4SFI4VFFIelFPUEpkUEZTOTdyTGQxaWN3RmpkdzlubEN2Vm85WGZxV3NjNF9zVUR3bDFreFR6R2FGczIxdExpbnRlLUE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789090312939
+    },
+    {
+      "id": "news_NATION_DeSantisrebukesTrumps5KchecksMoredebtand",
+      "title": "DeSantis rebukes Trump’s $5K checks: ‘More debt and more inflation’ - politico.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmVLZDFTa3NCTTFISXlrWWVSenpOOEpkNWZOTVZ5S2R4bDhBTktWMEQxRVJDWldTUk9WV1VYM3dmYllGcjVVaVlpeWMyS2N2VDFiNG1iWlZKNUFITzhDRTBKckFZZGhEdUVNY1JHMlZwQVZGODZIbFRNN3E0REZzc3FPXzJ3Sm16c3lmQ1g4ZE82OTFuWEJ1N3lmNkhrbjg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789090312938
+    },
+    {
+      "id": "news_NATION_TrumponIranwarregretsYoucanalwaysquestio",
+      "title": "Trump on Iran war regrets: \"You can always question yourself a little bit\" - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pc19CZFZSSS1aYjAyZUhWb0RaQzIyVE9tUTFseEtBZllmdC1yOW5vQzZDVkZ1Rnp5NVhqMF92SXFwUU1ub1N1WkFlbF9YT0laTXBDbFhDVHQwcjkya0FXa2NSb1ZJeC14SmJfYjNJSjRuNHNtQ0c5NXpKdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789090312938
+    },
+    {
+      "id": "news_NATION_Trumpannouncesrebatechecksareonthewayfor",
+      "title": "Trump announces rebate checks are on the way for people overcharged by ACA - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLVNUMkhhMVVyaVdLTkEwa3hxVm1XLWstX1NkYTE3d3k3bFpkS2xqS3lHa1VxRzdzSkdEVXI3UndJSmZxbXBZem9nUE1RV2dFMEllZGdoaDJGVkl6TFptNnctbEM5MTdKcEY2ei1rUm1KMnNsUVR4Wk9CRXBheXdxc0pOQXZGSmtORkoySzhGVHNkYkNXQW5FWmxNTnVUeklwTFhYeEtaTkxCVmsyajM5RDhIQVdsanhDV3c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789090312938
+    },
+    {
+      "id": "news_NATION_USappealscourtrejectsTrumpmailinballotre",
+      "title": "US appeals court rejects Trump mail-in ballot restrictions as Supreme Court considers rule - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObnRQdGRqODAtTDJmNTd2bW9FOTY0TkhGZ1dYZHRyTmdROWFVWmwzS1NoQ2kxRG0xVXF5MVVEX3k3MldTU2s1SDNPV0NrWVZkLUlvSEs5S3d2MVZ6Zmw4VVlXbjFaWkpmV3A3bXl1blZJSXdJOUZjdmdna3Z5bnBMeThhSWt3b1kzT05mR3NaU2p3c2Fsc05lZV9BNC1aQ2ZjSjhFcjNueWZKQldPMFBQUGk1Mmg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789090312938
+    },
+    {
+      "id": "news_WORLD_IranbackedHouthirebelstakestrategicportc",
+      "title": "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWRYSVQ3NTI0em1SZDNNMlFJS1YtZnNsUHFQdWhuVkM3ajdsdXVubnlmQk1QUllqZm9VUEctOThDRkVOSjNtOGtWNEJzY0xJOVhHeWxVSUU3ZGVZeUVUSGI0NzJhd1lUSTBudzJ5U21WY0RDM3ZUWGZEMVNnTTcwMHlXTGltdldkejBUdU1iNk1XamFTV1ZBblVzeC10VVU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789090312057
     },
     {
       "id": "news_gaming leak_ProjectDreamRaresSNESprototypewhichevolv",
@@ -5401,105 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788723407915
-    },
-    {
-      "id": "news_NATION_Trumpofficialsaystheremaynotbeanuclearag",
-      "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran - Al Jazeera",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHhKc1NXcE9lZkMxZFVjQjJvZDc3TER6MnNiM1o0X05YVE44TW40TkVTZmo1RVdLZDQxdHpVUmlMRGZWVlhXZlBFMmpvQXJBNUotWE84d3NETlpENUVycnlMSHE0dzNIVnp5TUc5UVE5MzlLTk1Mal8yZ2dObHhlUVBWRzFtX2Vhak5TcFdtanZ3N0hkZDhZMkJWWi1QSnplbW1nRzVjaTNqZ9IBrwFBVV95cUxNMmVOZjFjeVpXUEQ4MmNMeVBRQVFrbENiOXFVXzRXek95V1g1cGo2czVSWW1Nd2RnU2ZLSHRsNTJEd2pRclFzT0RCbWIyd1pERHF6RS11TDc2ejF6UkMyMHgxT2Z4NE5VclV5VXozanFaMUwyd1VuNDdpVWlkOVpjNlRSZWZxaC1Wb0FGOGd0RGlSQzc0QnFZTDhpTXViNG9EY2pDRWRmblFNVXZ6VzdB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788723407915
-    },
-    {
-      "id": "news_NATION_Trumpsenergybosswaversongasolinepricepat",
-      "title": "Trump's energy boss wavers on gasoline price path - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sWi1KOTY5cXNueHN3UVdTMWdBT1RzcTlERHBCRXlyYTEyeUpGLURlVVQwQmVoaHBMaUd5aHVveXhWeV85Z1pxU1VaZkdZcF85elZ0WXFpdjdIbjBSNmhGQ3EwbFFmTzNmYTR6LWViNlpPVWZs?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788723407915
-    },
-    {
-      "id": "news_NATION_PresidentTrumpdebutsnewbrownhairdoandpeo",
-      "title": "President Trump debuts new brown hairdo — and people are shocked - New York Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjBQX2Jya1JsOTdYNFRDb3FYQ1hMSDNhWlQ4T1ZCR05HQ3NoWkFFVFBzZllsMnB6VDZ0cmhCNENRZFpmbGdjOTlGOFlrelZPNEMzenhic016OFJnYUliX0d0cHFFSWRHUVJZVWIycC1DdnBGelR3VlZCakh1WXBUekNJRF9pb2hkcGg2TTNyQ0NRek96WU1aeFdRX1YzNVlhQTE4?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788723407915
-    },
-    {
-      "id": "news_viral scandal internet_KeyConsiderationsforEmployersWhenWorkpla",
-      "title": "Key Considerations for Employers When Workplace Issues Go Viral: Lessons Learned From the Try Guys Scandal - Ogletree",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (viral scandal internet). figure tier-10 (ye) mentionnée; mots-clés viraux: scandal, viral.",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNzdvSEpiN25fU1FXdXpwMnA0Y0t3b1hHYWJ0SFhBa2FIbXlHNTI5bzA3VjBqSUdWazJfc3AzUnFVRGZ0TEJna0paX25BTFFaY3pQYTRKSjlzOTZzTWZtS3hxSF82eUY4TDdna2hNaFdJYlRvdi1aZENCWEFpTGhGRE5MS0ZzYnl2WXhEMVJDN0tsbVMzekx0TzdDcFROY2QwOHRDOTU0OVRoN1ZOVFNqUUdnbXpOTzVORldMVllLdEl4RzJVNWVTT2ZRWXBkd1Fva3Rwb213V1laMEh4V2tHWTVTeDFoUnhSSXpyaUdn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788716904421
-    },
-    {
-      "id": "news_celebrity crypto token_WhycelebritiesarelovingcryptoagaininTrum",
-      "title": "Why celebrities are loving crypto again in Trump’s second term - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (celebrity crypto token). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanpVNWxoSTU2N3Qzdjk3Vy1TZDFMRURCckpBZEFINkpaZk1aRWhXTFhtakk4LUhYUEs0UHVCU1ZhdUljam1TMDVOVUo0WWhoV2tVN1RadnZCNDNZQkZsU2FYQXR3QWhTaXY5ZHB6SjItM2p4aGNpY3RRY25QdzBrTFRMbXI?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788716900819
-    },
-    {
-      "id": "news_leaked footage internet_UPDATEGTA6LeaksContinueIntoFourthDayWith",
-      "title": "[UPDATE] GTA 6 Leaks Continue Into Fourth Day With Yet Another Gameplay Video Amid Radio Silence From Rockstar - IGN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (leaked footage internet). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ2pPdVNfZlNRX3gxdmx6X0NGNzM2a3N6WGFfYzE3dVNIMjlsMTBOSEZsTXJKbElGQkc3U0pHc0xHblBTVDlUT1VxV2hYYnQzQ2FMMy1UTmxWQUpqMl9zSXBNTDQ5TmhIM1NGYWtvU0RkanE5aE00S09QZFc2bkQ2Q3lZeGxUV2YzU1BlTzFEX3JrMlVOTTRzY1VhcElrOC1sNUhCRjZWVDVJazRqQlVDeVBlZEh6RThSSkNMbEpCOWdOMHFvczFEelo4dzNFSVJsNDh2a2pFdUN0N0xjYXc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788716899614
-    },
-    {
-      "id": "news_crypto coin viral_WhatIsGORPCryptoWhyThisViralMemeCoinCoul",
-      "title": "What Is GORP Crypto? Why This Viral Meme Coin Could Become a Serious Market Player - bitcoinfoundation.org",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (crypto coin viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdGd3N2U3cmFnNjNtU1BhZWdESmNVaC1BcnNpUDRmYkhjc1UtVUFsYmVrN3lBOFJRWTY3Y25UcVI3cVZzU3pvTzk5LUpTV0dXM1h6WE9tZENFcW51TXFCZThwa3ZXNHVUSnlfVHB2Rm5ITi1lZ1Y2U1VycFp4aTdsb2FKekpZRXktSmtJVDNhQXdUc1lxclZpWVhVdVcyUmJXMDVNRzFQTlJ5ZEx1VjZRWjZ6YTk2T0o3ZnhaR2t3T0pLWGM1?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788716898250
-    },
-    {
-      "id": "news_memecoin launch_HowTrumpmademorethan1Boncryptowhenmostof",
-      "title": "How Trump made more than $1B on crypto when most of his coin's investors lost money - ABC7 Eyewitness News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (memecoin launch). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmNRamtUY2NCSExkU0NTTU0ybHlURUlZb051OUFGRXp1dmEwWnl5ZU80UEhSQTBmODJKOGE3NXhya196aHl3TF90aGY1Wk1XYjgyY0F3LWJ0ZjlPbHdneG52cnNZMDZpMUhQYmd6bWxUU1RJNVNrcDhOcWVQcFBfTnlQX0luYTR0Z2J4SmZTTTFEZFFrenhIeFVfZGpFT0QzUXhkbm0zdlN4RVVO?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788716897128
-    },
-    {
-      "id": "news_SPORTS_ADeepDiveIntoEverythingtheClippersLostfo",
-      "title": "A Deep Dive Into Everything the Clippers Lost for Seven Years of Kawhi Leonard - Sports Illustrated",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNanVSRk1kaXVGWDYtMTJOU3pfbjVDa1VMYWtZTWJ4aVk3LW5WVTFDM29fUks1a0M5OGFtVUNvaVNqbXp0ZDdsV0l2WlVnSWJVT0R1cXNMSllqSU9MU3hjQ1VRQURBLU53OFdBVFlKSUhqWHBQbUhtTWNYa0JVb2RiYzdHYzNlZUQtU2xHcnZvYVJHVFNIbldjcEJmWEdQdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788716893926
     }
   ]
 }

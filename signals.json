@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T21:17:52.483604+00:00",
+  "updated_at": "2026-09-11T23:20:43.555905+00:00",
   "signals": [
     {
       "id": "news_TECHNOLOGY_WardogsIsAlreadyaHugeHitAsItSellsaMillio",
@@ -781,6 +781,94 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_AmazonMXPlayerunveilsBillionaireropesinA",
+      "title": "Amazon MX Player unveils ‘Billionaire’, ropes in Arjun Rampal for upcoming original series - MediaNews4U",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHZjY3libjVMaC1RV3hYTGljbndyRldtcGlaQkRLb2p5NjFUczdaMVc2a2FIamtUdTdqY3VDUTJtdUxibXg5OF9aVjc2NmJUY3puZ0VVUHl3SzNYZE5jZndzSi03TzU0am5zUGxiVHdvY1VNRWRNNmRucDFXSy1NRTdEb3dHb2c5LTFZcXJ2OEV6RnlSR0NtVk9yV0JFb2dzNHJRUzFfLW9zNDF3aU5CQkE4dVhPNnc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789168834388
+    },
+    {
+      "id": "news_SPORTS_Report49ersgiveHCKyleShanahanmultiyearco",
+      "title": "Report: 49ers give HC Kyle Shanahan multiyear contract extension - NFL.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2d6dUJPRDEwQ3JrNTdNVlR3XzV6LWNqeGgtRXpCRC0tVzAwT1dOS3BUbTNJbG9HMXdKb1dHTWVtNThseTZoTU9LamZub3NIaXVJSE5iaGFzQXB5cTd5ZzNuc0F1bDAzSWRmamxNamFCZXhabDRYeGtPYXE2VlRqclZpOFo5c2Jy?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789168818164
+    },
+    {
+      "id": "news_NATION_CourtStrikesDownTrumpOrdertoKeepanAgingC",
+      "title": "Court Strikes Down Trump Order to Keep an Aging Coal-Burning Plant Running - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85LUNOdUc5MEJldnRERU01N3NLYy00VkVOQ183MnBuRVVLQ3NXOUlRZzNhMXlreXR3MDVrRDJ6MTVVN3dUSW9qejFLRmtMb09IOGl2YnJzLVNBc2RGcDhZaTVPRjR3cDMzdlg2bmhHc3JFR1dfdDQ3b2puQTBrUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789168815133
+    },
+    {
+      "id": "news_NATION_ForyearsBushwasmockedforthis911momentNow",
+      "title": "For years, Bush was mocked for this 9/11 moment. Now he’s painted it. - washingtonpost.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRTdGc29tYVhXcElsM3J2NUFiR0tta2xBcGVlRXcyb2hfQ1pCSkdaQzNxUkRobTI5alNLeWp1OEdsajlsSnhOdzBzVTJjVDFWWHlDenNITkxua3MwTTRUWk5nUVRZc29SdVVfTnlPdllfWlViOTJUNkJPbUUtMjdiam40bDQ5V1U5QXd1NlRGMUVuUDhZcDlUSFlkQXZHQkZWNE9wUWhJV0FJMW5E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789168815133
+    },
+    {
+      "id": "news_NATION_25yearsafter911survivorsfaceemergingheal",
+      "title": "25 years after 9/11, survivors face emerging health risks - WSHU",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORzlSdFRMQi0zLVFQN041VlMyRlVZcTVwb1V1VW93RldDVV9xNFNvZUpGaURoOERRWi1CU3MwVEU1MUg1WEQ5VDlUMjlZS2dVUlI2N0xTVC1hN0diUGZuR0ZVYlVsN1JjLURQU1hVbUI0SDRNYVBHeEliQ0lVS2xPUDlfU0pjQnZHdHhvdHNjRWMzQlZ3c0U0RHAwSENfZERHajVoLXJ0Wkg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789168815133
+    },
+    {
+      "id": "news_NATION_MitchAlbomAfter25yearswhathaschangedandw",
+      "title": "Mitch Albom: After 25 years, what has changed and what has not - Detroit Free Press",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXJ1WFUxeUU2SWZUVG5CZFVLX0FDR2g5cTd4eVZJNUwzbk9OemdZc0FDYnBVM0RTVnVMeFhHX1VVdHlxSEtLOU51UlRJd3FSLTVZZFVPUm05ZS1jSTljNGQxSmhoeXI4LVNwZ1Y3RVA5LUxpMGQ3aWptRW15T1MtQ1M2X3dqMmNYaTFNaWFuN0VYdjk0YmptSVB1bDFJcTBjRFpvTERfVXJqYVFiMkhPQWl4MlVrNHotQTFHV1VZRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789168815133
+    },
+    {
+      "id": "news_WORLD_TrumpadministrationallowsTPStocontinuefo",
+      "title": "Trump administration allows TPS to continue for Salvadorans – for now - NPR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqUlVDTE1kXzA4OGRZWllraXR2bUd4VmlwZkI2RlBWRVJpQW9HOWdqdF9YYV9VdGhFSHA2RUd0YjJZWm1iTWVoS21XUzd0XzB1cElqQjdyeEt4LVFnbFJpc3NHb2tmdzRNNmxPN3RfVDQzYXlzby1HOWdNZXU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789168814365
+    },
+    {
+      "id": "news_WORLD_TrumpsaysnoregretsaboutIranwarSaudiArabi",
+      "title": "Trump says no regrets about Iran war; Saudi Arabia strikes Red Sea port city airport held by Houthis - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMW85OC1JZHI4UXYyMmxIVHpLVG5QVFBCcXdzeTBfZ043VnFpZnN6STg1RUdmZURBTmRieWFZa3pJQW5mOW4zNnJSdmw3RHIxbmJmaGIzV0FSeDJRaDZtbDluTVdQZVhFS0ZNOFdEMHJZb1RfRm9fYXduN085ZDlDOHVhNzd5U1FPR09BVTBtQTcyX19DekZ1R0N3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789168814365
     },
     {
       "id": "news_HEALTH_YesYouCanGetaFluShotTooEarlyHerestheBest",
@@ -5412,94 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788811789064
-    },
-    {
-      "id": "news_SPORTS_CollegevolleyballplayerskeepWrigleyField",
-      "title": "College volleyball players keep Wrigley Field crowd entertained during delays - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaEVDM21MLTliZWhxWlJQbjZ4VHpmS0tqUlJZb0FEbUNDX1J6NzJqOGQ0eGJKZ0xSempLU192UGhpTnFEWE9YZ0NPRjZreFNQQWVvaktFOUctWkRoeWVpRnEycGpNbGtMWjc3NEZDZmdtZGRTMkJmTlExb19lOGlqZU5KUFplLUhiTDdWZU5tb0c1emxDQzB5U2s4RU1CcllEaHphMXNNMkFkTFh5c2FiNWZfSHBXdllULU5PNkt6SFdnSmd0c3c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788811788349
-    },
-    {
-      "id": "news_ENTERTAINMENT_SouthParkMocksTrumpWhileCelebratingEmmyW",
-      "title": "‘South Park’ Mocks Trump While Celebrating Emmy Win for Outstanding Animated Program - Variety",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRjc4aGlXUUhBdXlJM3plMEY1T2JBOVhpeEVudUZ2U19hY3lCXzVqakhvWUd4RDNIUlhYLXpWYnpyV0xYaHVERGZIWjlGWmtWcFRnTEU3NjRicG5iNG1TV3VoT3hJbXRERE1DalViZERnVXFuNTF5d2NVa0xXT3hpcGhpSmJhYU1reFdER25QTHFkQzl6SHhQLWthU1NKVmF6?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788811787635
-    },
-    {
-      "id": "news_BUSINESS_TrumpsaysBombardiercantsellinUSunlessCan",
-      "title": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMlpueldQaUNhSVFJc2tqWjhZZGdGVzgyWGo3WFBEdUt5c2h6aTY1YW1yTUdHaW03Q3htX3BhVWlfUVZoMU1icE9aTDd3YkJDYjdSWGQ5NE41YkNMMWZGNEZ5REhKeEY4ZHNlYzJ3T3ZlRHJ1N3BSTWpYTmIzVFBhWlg2MmRNUmpsQkpjSlBXSWlUM3BCRGlPc2h5N1kwOFpIZGZwbjBEc1YyRjI1ZmJac0530gG3AUFVX3lxTE9JTm9JNGFYaE1nb2pkdFZ3M25CcThKYUlwd1JpMExKQ0xpQmExZk1FOS16eTFUSDBSajVuRkRsVHZZQ24tbDFweS1WVDBrVEtDXzdWQjktUU82NV9ZcVRxWjMxSDRESkhRWXBCVHVXTmUzY280cU16bmdGdGI2WkVDVlVib2ZDT194ejdlMkxkbEJ4Ni0yeFQxcTVLMS1OZF9DSDg3YnBrZkhVbU42S3JBN0ozVm93TQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788811786207
-    },
-    {
-      "id": "news_BUSINESS_Yensurgestosevenmonthhighdollardriftsahe",
-      "title": "Yen surges to seven-month high; dollar drifts ahead of US inflation - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0p6Q2VESkl4T251Z2lzT0UyVXRwRW1MWHRxeHlTV3hISkZPM3R0c1J1ZVljMnRlOEdHNHFpcHdUUFllby1JbzhFWm9KdXc2ZXZuYW9URVQzSExpMGtzeExtRXVmd3IwZ2F6ZUFXZmVzZUtObkNSQy1ZQ1d5SzhqM2lhYm9nbm1vankxRk9ubXB1RHBLWTNOeVFYTlFNYnlGeVhNdEFqQXI2UQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788811786207
-    },
-    {
-      "id": "news_BUSINESS_50yearoldthemeandwaterparktocloseforever",
-      "title": "50-year-old theme and water park to close forever after summer season - thestreet.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNHkxUkFHbTQ2Zk1XMDNqTzNMeVQyal9BcHlYTjVXdjVDSmM1U0tMemVxOE1QZVhRMFJTeHN2Z0I5NzAtVVluOE5YX2dtWHZKVXFSVWVOR1cxVUM1MUVpcWlsTlJESy1MR3FhTkYwSG9XNkxieEZDbDhodzR3WjVHNnZkcEQwN3hWLUZLQXJJMEwwT28zYWphX1pqdGJfYlRBSEhr?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788811786207
-    },
-    {
-      "id": "news_NATION_TrumpadministrationrenewsSupremeCourtbid",
-      "title": "Trump administration renews Supreme Court bid to limit mail-in voting - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLV9pS2hNUzZydVVnTkVQaW9VaGpkWGE0bjZDdzBLaWVzTkZHRW5yX0loS3VGTE5EaEpXSzZGQ1BJRG9aWGxPa1NTMkN6QUhXbGROU3FpV2xMNU02ZnAyWkhveU51R3R2ZGlFRFd1U0dtWjJLNEZVeXY0aDU3TXNxMXM0SmZQaHI5N2E4OERFajBrZ3Y3bjFPOVU2Wm01TFhBLTFnNGxBMVl4QXFtSDBVckxtbnlBZkdSbFJj?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788811785489
-    },
-    {
-      "id": "news_NATION_Trumpsparksonlinefrenzyafterhedebutsnewl",
-      "title": "Trump sparks online frenzy after he debuts new look with his hair - SILive.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNThJblJqaXpvUUs0SHpVZVJ2S0xxZWU0U2N5cXctTjVhLTM2WWxLd2hqYnJBVXB6cGRJSXg2ci1FS2RLMjU0RGNzRWgxd3RnY3lyb0JJd1BTTTRFNFIzb0Z5Q2VjRTFoTGtycmtwcmg3X01JWnZSVC1rSlVfaGcxR0pCdF85cmVpQTk5djNnRHpiU0tqYmZUYkRVMVlobTJvbDZ3RlBfbWk1Sjk2bWlr0gHDAUFVX3lxTE16cnhqQnZ2RXJyQjM3NTIwazE5eDRtME9KY1FaTnBmNGdybERsaURGS2lWMWlBbXpCN2UzanF6SU5aLVBBMHdubExfS1NMZllMMWdfWFJDdmVwaW1ZV1pMNERMZkNIWUUyc3FZUjRIUEFmWEttd1pTLWxnM1VSdDNqV1V1NWdkbnpaRWZpMWVPQTZxeFRqMkU3S3doc0dSOW1OV3pPOUZPNkU0TXNHT1FjTEo5TGlHWld2NjBDTmEteGlIRQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788811785489
-    },
-    {
-      "id": "news_NATION_NewMexicoDemocratspushbackoverTrumpposts",
-      "title": "New Mexico Democrats push back over Trump posts about renaming the state ‘New America’ - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV3U1Ym5uTzJ0V2ZaX29DSXcyWFhXY3k4QkhDbW5aRktteEJwUXJVSTB0VmxsdHJCLW9JYkkzR3dLWFNrM1ZlUUJtdmlpbVM5Uk1CbUUwcmtQUmhxLWQta2ZyY0xjbklsWmRrdmxFX0pZdkFLQmltMDVWaEN1MGNfUlJvS3E4RnZnbmZWVms4aG9RVnY0SEY2YklGNnJTVG9WenF4THhycUJ4M0lVS0JWNXV2Z3N5NkZjZWpnOHY4MnFDU1Rm?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788811785488
     }
   ]
 }

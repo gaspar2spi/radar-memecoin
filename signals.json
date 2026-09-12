@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T18:29:19.469402+00:00",
+  "updated_at": "2026-09-12T20:50:12.361172+00:00",
   "signals": [
     {
       "id": "news_TECHNOLOGY_WardogsIsAlreadyaHugeHitAsItSellsaMillio",
@@ -781,6 +781,193 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_tech ceo controversy_InsidetheTechCompanyPoweringTrumpsMostCo",
+      "title": "Inside the Tech Company Powering Trump’s Most Controversial Policies - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjJXY3hTSTFTa0YzOFpvVXpIWFdnU25iT250aDNILUZHREtBM0d2UEdUMzZVWFJDd2FFeGVNekx2NlhhY0J5cEYxbFoxR1Y4S0VSdUltSUNSeC1HQVNjTVJpemdPa2ZWWTAwTnhWbURaeFBNNURULVlYLThVVFVqV2c1V0hhV29LQWVJajJLZmo?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246199250
+    },
+    {
+      "id": "news_SCIENCE_ScientistsBredSuperAthleteMicefor30Years",
+      "title": "Scientists Bred “Super-Athlete” Mice for 30 Years – What Happened Was Unexpected - SciTechDaily",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZlA3NWZHX0RzVFpUVTdSYjFSdDQyX2VIUVpfZHAwNVZVTThieC13ZGs0dGM1Z3l6dk9xd2MxX2lJOXJiV0hNc05raU80cnFwMUpTeG12bWJXTnp5cFRJSXN1Z0JfSzZfLXZFVG5sbGhxXzU5TV93X2NRNnVQVjczc3NQWDdKWUxIZU94enVNQ1Z0VEhPdWY2d1JNZHIwc1p1VEM4NQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246182595
+    },
+    {
+      "id": "news_SPORTS_OregonOklahomaStategamedelayedoveranhour",
+      "title": "Oregon-Oklahoma State game delayed over an hour due to thunder and lightning in area - 247Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQlYyazduRmZUVXlCbEVYNl9oTE0yb2ZXRl96M1BmaUJieWxFZ21wLUV5aHJjSEpMbDF3UHVzQjB4TGhYbXFld3NfTUJmNDhTcFQwa3htTVVhV1IwWVZCZTh3VzIwM1hJY2FSVEd1NkFVeTFRY2R4bHRxa2dCTHotT3Vmaktld0d5TXl1akRZOU9QbFY5VHVneVVDdE1mZnhUeG1udUlPaEh6TGZfSFdoZWduOXBXRThIV3pwdmhxYURnV211QkdGMTdhVjFxb1VhTVZOQU9LZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246181897
+    },
+    {
+      "id": "news_SPORTS_PackersTuckerKraftagreetofouryearextensi",
+      "title": "Packers, Tucker Kraft agree to four-year extension - NBC Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSElhLWFjTmk5bjFGVlJzODU5U25TUzdnb0k4ZmZoTVNob0haa2NsRjVPX01tS2syNFFNMHRGUnVYMXpHMnBOWG40V1d5dHZqVW9yS3lsZ2ZqZm5wNUpNa3k2R3FPR1BYeTNzY1c1Y25nR3JvaTl2cHdqNHBnYXh1ejNlOTUyY0xoRTN3cERVZnFnWXNib0lHOS1PY0x5RWQzRjNXZUw2V0FjTldXZGpqQg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246181897
+    },
+    {
+      "id": "news_SPORTS_Liverpoolplayerratingswinnersandlosersvs",
+      "title": "Liverpool player ratings, winners and losers vs Fulham as Jeremy Jacquet fine but 3 terrible - Liverpool.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSS1FNjZ3dUlEbk1ScTVUWnJOeGMtYlBVZmE5RHVDWElTZ19nOHl2djc4UkY1N0RVUnE1TkdzU2NDWmx5SmFsN3cwSVFnelQ1M0s5dzlaSkwxTFI2elBKYkpHMi10R00zaHk0bzAxOFR3WGs1YXpDYkZ3M0loZEZpS3FnejJnN21qWnFJ0gGQAUFVX3lxTE4yUnk0b1Z0cDc1djl5TW1GbEh3Y0g0Q1REQzBrVVBYMmR5blFZVy1PSDZQanUyczNVVlJBUlhxRlV3amQ1QW0xV3NvTjh2cjNBZFN5MGtqOEwxMFYycWhJSDA3akJPTmF6UUVPYzhMX2cwWjB2dThRb2dmTkJFNnNLbFNWZEY5dHhMWE1vS0doMQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246181897
+    },
+    {
+      "id": "news_TECHNOLOGY_Borderlands4MakesTop10SteamSellersasPlay",
+      "title": "Borderlands 4 Makes Top 10 Steam Sellers as Players Show Up for New DLC Vault Hunter and Free-to-Play Weekend - IGN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRnFIemRGNlNDTmV5S2s4WWU2eEV2SUpJXzFiU3ljejlLMElLUUduSGdqT3QxRHNfV2VTUDRlWExNMEgyQ0Z1WmxnMTBZSzRqMnNhVkpEQlQydEdqdjV1TU1IcVlvZHN1bS1hNXlBRjJYa2tVR29kaXlQdUxQc2tBV0RQcHdJS2xrRjh3eU96M3l3SE13Mm4wYUg4WVA3Ry04MEFEaDRCS2tfam5abnc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246180443
+    },
+    {
+      "id": "news_BUSINESS_SocialSecuritysTrumpBumpDriven2027COLAIs",
+      "title": "Social Security's Trump Bump-Driven 2027 COLA Is Set to Do Something That Hasn't Been Witnessed in 30 Years - The Motley Fool",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVlGekhuNGJuUGk1RjNpMm52SDdYaUN1YTVHUW5ETTg3QWVVWGVudXBjVXRsdDJYR2lBaHhxeFBEYnZWTThxTzJtT3pyRm1Yd1FnZ2wxN1BMWng4d2x0dnVKSGppLUt4UllSLWgzcW9MSkJEcWE1emlHUkVOVkNRMVJwRWx4UWJQdFBLRG9VYUk0QTdxV0hiMXpGVE9Wb0VaYy1nclVjRUdHME9vWkFUdTRCVDdzb1llV1VIa2EtRTFBSDBqTC1oME5YUmJaUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246179654
+    },
+    {
+      "id": "news_BUSINESS_SamAltmanOpenAIwontgopublicthisyearasIPO",
+      "title": "Sam Altman: OpenAI won't go public this year as IPO now would come at an 'ill-advised moment' - Fortune",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée; figure/entité tier-8 (sam altman) mentionnée; figure/entité tier-8 (openai) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMm5STnhuRG5MT1ZWUjlzeWNqVEFGTjVxaVdkX2hzdjF5VElRajFKd3B2NlkwcWxNSFgwOVczb1l1N284MVlhNTRtMFN4T1dyY1NNVmdFeDBRQVdGWmZmRjdYM0NuTTN5SXhvbi1UaE55TDhCUmdINEZ6c2VobFZQX3ptWm9sTkE3UjB0bDZzNkxlLUxzZHE3N25R?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246179654
+    },
+    {
+      "id": "news_BUSINESS_Zillowreportscrucialhousingmarketshiftfo",
+      "title": "Zillow reports crucial housing market shift for buyers - thestreet.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNGNoa0NKV2FjYmROWDBaenhfSFUzdnZWTElONjNsZmctZUpZb1BlbDFaM0JaNHZNVFpQM2NNZTRYbm5xV3hSR1k4d2NlWkRnVlVuc3puSFNrVVdpZU15akRYc2N3QVd6eHVpdmxHdUdTNjE5TnNrbXpPMVRhQkdJeEt4RlZVSHhXQ0xOb25VNHgzMFlJOWh0UUJIX1NJSURVLURRYw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246179654
+    },
+    {
+      "id": "news_NATION_TrumpwantstheSmithsonianInstitutiontoins",
+      "title": "Trump wants the Smithsonian Institution to install George Washington statues and exhibit - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSUpYUUlad1c2MWpiMUZxZjdhOVhtSEhBRVFyWG03a3Vfd2ZQRnlxLWtaT0FuVUwyWm5oT2NiMWlUM0FjRlYyUi1PZ29xbEJzZWZDLXQyZ043UG5raVJqSV9Rd25OMS1CbjJXcE1oM1FIMXd3WGNETms1bkdsQVVOSktlWU03YklGVVNDQnd6WHNaZ1JJSlFpOWs5bXkzTGExMFByRXdaN3U1QUlEV2c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246178960
+    },
+    {
+      "id": "news_NATION_TrumpsayshewouldloveaunifiedIrelandashek",
+      "title": "Trump says he would \"love\" a unified Ireland, as he kicks off visit that mixes diplomacy and golf - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LRS1EUlBWY0oyNmFQcDNueHZvR19ZYTJWSXZfNHlnSDF5MzJQOFUyTEpZdEdydWdvVlhOQVFHdlZfMkdMdU9BbWxaVmt2MWJDZDlrdi13SjlIZEt6WHNtOW5qVF9wSXJmcDdQcURUV0lFbUZYZnh4Qmhid1Y?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246178960
+    },
+    {
+      "id": "news_NATION_Taxeswouldntfund5000TrumpdividendifRepub",
+      "title": "Taxes wouldn’t fund $5,000 Trump ‘dividend’ if Republicans win midterms, says commerce secretary - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdXRadTJjVHF1Q2prUm4zZlBUdzFkY18zZGxMT1JYeWxPTk5XZmtlZXZybURyQnNoenUweGQ3aUt2RmdjWHpvUnBHclAxZXYtcENyNHl6UlFUUWZibHZOTUhxRktQLXBfa0V1bHJReDVMekJfUXpkTWJxU3otekg0YXo3MEw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246178960
+    },
+    {
+      "id": "news_NATION_InternetmocksTrumpandaccuseshimoffalling",
+      "title": "Internet mocks Trump and accuses him of falling asleep during 9/11 remembrance at the Pentagon - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLW8yRERsaEppUHlGcHVIZE9MWi03b3ZMYmZrcEVrSHJ0N1UwVFVzZ1FyTUhMVTg1dTdfclViMVVDU2wzVGtGMFpWZGsyVHI3Q0FxeXdTM0s4OE1hbGpPQWVhdDlKaV9PQjFUUGZSckFfLTAyeDF0WDcwMWlpNk9HNHNiU2xrX2lFU01aMGNsTU1oMUViNmw4S3NXalg2VDNabnFHTlhySUM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246178960
+    },
+    {
+      "id": "news_WORLD_SaudiArabiasshutdownofkeypipelinelimitso",
+      "title": "Saudi Arabia’s shutdown of key pipeline limits oil flow as Yemen hits back against Houthis - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTkhNMzZqVU5KTk1hMGJ5VFpOTTVsUU1PRjVNaU5DREtTLU9tTzlFUF9zNkRSWVIwOWpMVEhudEVYeUk4bnZtcEFSRVJDbHQ0eUlBVXdka1RWUVNyeXVYVXdGVENObE4zQXJfc2hlaDJUYUx2VkdCczIydndIQ0gxVmVSamxfZkdEWE5idHhrMXRIX2ZodXQ5Y002LXQwTDZHZjBVOVowMmpPa2xuZVJkajY5dFN0LVht?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246178184
+    },
+    {
+      "id": "news_WORLD_CloseraceinSwedenashardrighteyesroleingo",
+      "title": "Close race in Sweden as hard right eyes role in government - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14emhTcGlBZkQ1V2tVSWd0T2Jma2xPODQycEV4NVNxYmhuV3BZSU5NVEhiaktfVTJEUURhZk1ObWJmN09kWkRqMkE1LWpLcnFpaFRpODQ5MC1Vdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246178184
+    },
+    {
+      "id": "news_WORLD_ThisGeorgiauniversityhastheonlyfullsizer",
+      "title": "This Georgia university has the only full-size replica of the famous Bayeux Tapestry in the US - abcnews.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXVWd2g2aXFEV2txclBPVWNvQ2hEMFhPaWMzbDk2S183Tl9hS0xjQ1lOUkljalV2RS1rV2NPRmRTMUxyd3JiNTByNUNFeV9Oay11YmN1R1dnX0czYlRpdXRvUWNId3JMQVBISkNQamc4NTg2VzR4TkFnN3A4NXBRN1pIS0Q4bGQ5cV9WWXh2dGlrMmk4QWYzS3J4cWQ4WkdnNVJ30gGoAUFVX3lxTE1fTktQakR4Z1AxWFFwWXhvMG9ZNXJUcERRdDBBd29SOEpfZDJQeU5ZMUNLSklJUlE1dXhHOG5aSXJUOHpjckZUSmF5N2VKdlVZaW9udkxLRmZ6UFM3d1JPdTYxZmlzNGhUa2RFdUFaM0x6d09QMXZPMDNjQnZyVnp0QVFzS29leU1Oa2ZyREZMdTdxUXNVY2VXaG5taWhWckV5S1QtZ1RlSQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246178184
+    },
+    {
+      "id": "news_WORLD_HouthiadvanceinYemenputsUSinanewbindReut",
+      "title": "Houthi advance in Yemen puts U.S. in a new bind - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkd2T3JFYkQtX1BpRFMwdUY5V0tXY0xuX1JpY3cwa2hEZmxKRWVSdGtNQkR5dFBIT2JPanlxM0N3WjA5YVVpZExUOFJIWG1MZTNLUXNrTXZaZDRLRnFac2Vkclp3eWhkaTFUNEZrdGk4RzBYTmVVV1kwMHRJWHdXbGs3Z3U5VlZ1eldGOGJXLTU5d3B2NUE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789246178183
     },
     {
       "id": "news_internet drama trending_Chinadramaqueenlambgoesviralforplayingde",
@@ -5313,193 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788907532944
-    },
-    {
-      "id": "news_government shutdown_TrumpProposesFederalPayFreezeFor2ndYearR",
-      "title": "Trump Proposes Federal Pay Freeze For 2nd Year Running as Congress Bails on Budget Bills - afge.org",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYW9sNWtUbWpVYklwbi15dHk3bWJ6S2lwV2JtM09ucEh1cXdOS1NUa2k2RlZNYkV3eVkxY0xYV24zTGI3WGkyNUNOYzgtSk5lVk05WDVzRVZpeFNwYXlnUzN6MWFYdnp3Wkc1SjVkQ25QWWxIRGFvN196c3A0RGJhRzlqVW9XZ0pHQmhKdTMxNFNpV3U3OWhyaHVNMkk2MUQwUXBPWFhXSGx0b1FsYWJHdjdjTjNaSjh0Vmc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788898794305
-    },
-    {
-      "id": "news_SCIENCE_Beagle2wentsilentonChristmasDay2003andwa",
-      "title": "Beagle 2 went silent on Christmas Day 2003 and was identified 11 years later in Mars-orbit images on Isidis Planitia, having apparently landed successfully and begun deploying its solar panels. The images suggested that one or more panels remained closed - Space Daily",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CR0trZjEzU3ItWkhmNktvUXRpeVU5RTZVNFBFckJCeFF6aUZDRzJqck1uX3dORG54ZTEyTmNPaFZ6LUVrcGVzaC1mMFI1TzhMaXh0bUJBQVBTa0I5QTJJejhSOWE1alZaVnA1cUpGdl9Nd1UtQmc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788898780179
-    },
-    {
-      "id": "news_SPORTS_SoutheasternConferenceleaderstodiscussex",
-      "title": "Southeastern Conference leaders to discuss expelling LSU over player eligibility dispute - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFBkeExTRXJmUjhhUGVUZXFWa3FuSXJLc3FpQ05DWkpWMXZwUy1mY0puUF80cHQ3dWVRTlQ3dlR5aV9haDVqMzlxY3FEU0lXOGdxR2VpX2FycjByQmRGTVVPcU5ZcGw5VGxEbmZWWFhRTXVHSHhialoyaTBGTmhmdW42ZWVsd2JqV3E5dlc0QzREdkE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788898779197
-    },
-    {
-      "id": "news_SPORTS_Ramsusedplayerguineapigstohelpcrafttheir",
-      "title": "Rams used player ‘guinea pigs’ to help craft their Australia travel plan - latimes.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSE8zYmRVRlFfQ0tTWTh6aWp3V0hDVF84QzdnWms5d3VKMnpPTjR3eGhNYllMMm5kSlpKZjBQclFKM1pxVFBIUjZYVXZ0Vno2TTBNUm14RTNjSnZEaGUxdVQyb1JNT25TUGdldGJCM251bnp1QVBlYllyY0MwWWVWQ1BPcWd1dl9qaHFSQ3FsNGhEWGNfWUhmczV1YmJidw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788898779197
-    },
-    {
-      "id": "news_SPORTS_SixersandFlyersreleasefirstlooksofneware",
-      "title": "Sixers and Flyers release first looks of new arena in South Philly - Inquirer.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTklEWTNwaFA5eG4zcXUzUTNJVEJjUmVFTnJGbFItVlVHTTd4SFBhYW5BUmg3TEg4bjNzMTNQNHNWaXZDTktKaUF1dWJ6N1NuRWIxdmFVMjIwRWtwbDBTVXlOcmI3Nk9zSkpZV3p1dGNSc1F4ZjlUOGxLQU5yV0R5czlfdDNBVlFIS3pOWGlCLWRaTjRTV0xFWnFOUnVhbVRncHlPMGtR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788898779197
-    },
-    {
-      "id": "news_ENTERTAINMENT_AlexGibneysBoldElonMuskDocumentaryUnsett",
-      "title": "Alex Gibney’s Bold Elon Musk Documentary Unsettles Venice at Well-Received World Premiere - hollywoodreporter.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTTd3Z0JPT2YtWU1Fb00xaVBuanR0eXZlWEl2MnR3MGU4azZfVEhyT2c4OU5xWXFGRURZOEZvMm5VSTZIQ2F6VEtFbkdKaVVEMnd5emZydW84RlFxX2MtdC1mZ2NSekljZGNWbHJ5alhxTlp2OENYRlJMVF9aUUdQbzhfVVFPaUhsWThQZ1FuSDU0UXgzWUFtMHQyLWtGLXRTbDFQSF9DRlR5SnpraW5TM3J4RmpZRUN0VFJ3NFluaw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788898778212
-    },
-    {
-      "id": "news_ENTERTAINMENT_SouthParkSkewersTrumpAndParamountWithNam",
-      "title": "‘South Park’ Skewers Trump — And Paramount — With Name Change To ‘South America’ - Deadline",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxOGxGWDNlcEhHUkpEOE1hUnJ0Q1FKMWp6c1V6UnBnUktLS2lsMTAyZ04yMk5tRmRuWkpPVkhmcm5sZ3h1OGFYZzlncHNxQ002bGNKT2JqS210NkF6ZHJrRmNYT1BwSXd2SGRNSDlNckJaaXZGZjFYWg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788898778212
-    },
-    {
-      "id": "news_TECHNOLOGY_ApplesiPhoneUltrawillhelpthefoldablemark",
-      "title": "Apple's iPhone Ultra will help the foldable market hit a big milestone this year - PhoneArena",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPajVyeDZtUHJCNkpMWWt5VWdfZGtiOWx5YjFmZXRPdlN3amxhRVE0VXY2Z2wtZXVhaHdWcVFZWHFEOFRwRHMxS3JkR0tCekVWZk13YWtXQzE2YzdOajFJZGtWUmxudnFWOFNYYkc2cEFMT3ZKSGR4N0NiOVEwMHNrN3d6b2N4NmlpT216WXBGY05kdWluSmhyM3diSl9sYXdFNXQ4WFpzOEJlWWtjb3E0VlpPemI1R29F?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788898777254
-    },
-    {
-      "id": "news_NATION_CanadastariffstakeeffectasitseekscloserE",
-      "title": "Canada’s tariffs take effect as it seeks closer EU ties and awaits Trump response - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1BOQjh6RzR3NkhUTWNocHc3U2RzckMzVGdyMFVwR0JqS3JocTgtbFFwTkwtUU1pTURKNGNma3VpZmYtUExvaHZuYU8wZTlDSEFqemRLc0U0NzhyWUxtaDVxUUp1TW45TFU2MnY5WGhqNFVWd0RPWG1sV1J0N2x3LUFweTlPb0pjcm9YcW9oSS1uTk14cWVIWUJ2Z202Zw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788898775368
-    },
-    {
-      "id": "news_NATION_IcelandSummonsUSAmbassadorOverProvocativ",
-      "title": "Iceland Summons U.S. Ambassador Over Provocative Trump Map - nytimes.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmMxcWJWaWp3VkY4NHJSZGJWOWJMb3JOZzZ1eERBVlpsNE5vOGc0WUhXREhtcWdpZU41Z2xWZEFPelRwTWd6UFBKcUVfVGQ2RmR1S0pCMlo5dWZmMzB5LVN2ellCNkR0SUx3SDdLcy1Qd2JaVU9HNzJEOXBhdU9aYnFRZEViY0JkMkdmcTN4R0tvdGI1ZFFrN1l2c29tMDA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788898775368
-    },
-    {
-      "id": "news_NATION_TrumpasksSupremeCourttorestorestatesacce",
-      "title": "Trump asks Supreme Court to restore states’ access to citizenship database before election - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWmdTUmlYc2NER2hGS3E3aWVXc1pTRm1LSkw1dzI2VVBzemNzSHBrS0JQcFpVX3pUci1MY3JQX1FvNVZYcFZ6Zmo2dmtFallsV2hXV3p6cVctcm5WWUFBWU92UlZXZm5wVzRxQkQ2R2VpVzdRMml4aFNDclVMTG9IS04yVmc4UFg3Yjg4bEZ1UXNXWGtFUG5kU3I1clAzM291bzhMMkpQamc3bHRNZG9kWFdITnRlcE5kTXp4dF93YlBBZ0VVUU5sZHhn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788898775368
-    },
-    {
-      "id": "news_NATION_WhyTrumpcantrenameNewMexicoasNewAmericaA",
-      "title": "Why Trump can't rename New Mexico as \"New America\" - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44c0ZjVEpiTmpNLU1CY090dUljRjRSNUNOeHpUemV4cW9xbm5wT0xRb0M4dE5QR0FjX0NOUnNlRDZCSFhQbUFYcDYzcFNtbzUtMWtPNHVlMjlqR2plYTg2OE1DcjJac1lST3BrOFpkS3VPQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788898775368
-    },
-    {
-      "id": "news_NATION_TrumpsMailVotingPlanIsComingtoaHeadHeres",
-      "title": "Trump’s Mail Voting Plan Is Coming to a Head. Here’s What to Know. - nytimes.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOU04Z0lSdU5rbjl2R2h5LW8xZklaUE9KY3V2UkdVWE9ZUmFMWW5yZ1BiTGpuMF9KY0o0VmpJTUVId0JQZE9WMVBQX3NLX1hTa2htckNBclBlbTN0SUNtZ213TmNPbWwyOWY5TG00SnF0YzZHOGtMYjluY2tzT0cwX3h3TEFYYXE0cEk5dlJaLUtIb3F5QlRBUEVYb1o?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788898775368
-    },
-    {
-      "id": "news_NATION_TrumpPutinholdfrankphonecallasUSrestarts",
-      "title": "Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts - Al Jazeera",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnI5ZEtHbXVISUxJMlNURGV4dW5fcTI0Z1FVSVg4SjBHOF91SDdCT19DTHZqV2h5b0RKTzM2eUlSaHJkcU5WLXBqN0c1dG9VVWkzZnFwUjNMX2tyanVRVlpxU05JZXhSTUZRSldSQ1NGTnkyQkd1enRMRmtURVdpODR5NXloTFdRZVV0cFNqZTJXTGg2bFotdU9nM2dGVXAzSzBVZ0drVzlwWWI5OHfSAbMBQVVfeXFMTmtsbnBLanNudWh1NENlYk5YZ3BzaFVQaC1qS0hoN3VURXJ5cUMxZzFKRUstaDBwZ3JhQWgtSjJnZnYtSG1fVGFQYTRWa0xmV05XU0ZNWEJld29fcFZ6UWJGUEFibGJ0Y3lsdE1hX1JVd2tFcTJaYWRHQkpOcWxQcFlxNkt3NDVfNHp6UjcwYlFneGQxbFR1NVNQaWhzeWQ3RFp2UF9nVUo1c1l2OGM2Ql9ZRm8?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788898775368
-    },
-    {
-      "id": "news_SPORTS_SixersandFlyersreleasefirstrenderingsofn",
-      "title": "Sixers and Flyers release first renderings of new arena in South Philly - Inquirer.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTklEWTNwaFA5eG4zcXUzUTNJVEJjUmVFTnJGbFItVlVHTTd4SFBhYW5BUmg3TEg4bjNzMTNQNHNWaXZDTktKaUF1dWJ6N1NuRWIxdmFVMjIwRWtwbDBTVXlOcmI3Nk9zSkpZV3p1dGNSc1F4ZjlUOGxLQU5yV0R5czlfdDNBVlFIS3pOWGlCLWRaTjRTV0xFWnFOUnVhbVRncHlPMGtR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788889425578
-    },
-    {
-      "id": "news_SPORTS_TheRamsPlayInAustraliaInTwoDaysAndTheyHa",
-      "title": "The Rams Play In Australia In Two Days And They Haven’t Left Yet - Defector",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORmk4WkFtbnpDVFc0cnFFZmlydGlSY0czVDY3T2RYY3ZjSFpzdnVRekZfMTBZMHNFWWlkSnN3UXM4ZFFiQW1haGREQTZxMDNRWUszTjNuZnhTbFBlTnp4UXcxSDUtX1BhdzJUaXRBalphazAxazlXcFY0anRTaDJvdTZ4VHhKNUpqT3NGTQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788889425578
-    },
-    {
-      "id": "news_SPORTS_PelicansGrizzliesAgreeToFourPlayerTradeH",
-      "title": "Pelicans, Grizzlies Agree To Four-Player Trade - Hoops Rumors",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMm5VcU9IQ2pKQlpaSFJDSThvOGJFWXp5NUJwYnhmajU2SWpxaldrWGhXRVg5Z2tGaTlkRmdIZGozOVlsRXdhVWlSNHZaY3VzWUgzaHFtOHNxOFUyV0RkbEJEMWN4ejJwRmV4cEtxdkdOdHRfdl9RUnlsZlNKWlE0U0N0SmtFTWctc2NhUlZRSQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788889425578
     }
   ]
 }

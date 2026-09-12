@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T20:50:12.361172+00:00",
+  "updated_at": "2026-09-12T22:40:04.945292+00:00",
   "signals": [
     {
       "id": "news_TECHNOLOGY_WardogsIsAlreadyaHugeHitAsItSellsaMillio",
@@ -781,6 +781,105 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_government shutdown_TrumpProposesFederalPayFreezeFor2ndYearR",
+      "title": "Trump Proposes Federal Pay Freeze For 2nd Year Running as Congress Bails on Budget Bills - AFGE",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYW9sNWtUbWpVYklwbi15dHk3bWJ6S2lwV2JtM09ucEh1cXdOS1NUa2k2RlZNYkV3eVkxY0xYV24zTGI3WGkyNUNOYzgtSk5lVk05WDVzRVZpeFNwYXlnUzN6MWFYdnp3Wkc1SjVkQ25QWWxIRGFvN196c3A0RGJhRzlqVW9XZ0pHQmhKdTMxNFNpV3U3OWhyaHVNMkk2MUQwUXBPWFhXSGx0b1FsYWJHdjdjTjNaSjh0Vmc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789252789387
+    },
+    {
+      "id": "news_SPORTS_TuckerKraftMichaelMayerjoinhighestpaidti",
+      "title": "Tucker Kraft, Michael Mayer join highest-paid tight ends with contract extensions - CBS Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOazhacDhoRGJ4VHRnYUxrMlFuNlh2d05wTTBSWUY2WDB5REFuMm0wMGktbExCcGZKTTl4MnJKbWJZUXg3NHlZU3lQT21sNzlBMW44QlpOTHRHaUhOZ3MtR3BCNVRlUTQ1WGRhdWtuOEpXdGVSS2pMY094c2E4SXBVaGVtM1B4a3pvX3J5bXd3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789252773445
+    },
+    {
+      "id": "news_ENTERTAINMENT_PracticalMagic2LeadsBoxOfficeasSpiderMan",
+      "title": "‘Practical Magic 2’ Leads Box Office as ‘Spider-Man’ Eyes All-Time Domestic Record - The Hollywood Reporter",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdOTE0zZWE5Z2o3eENfcWJiZllZMU5iTEgyalVNVlVXT0VzUkN3cVo4Y1VBWjBkdk9SRWkwY2JKcXNkZXZHZDdsZ3BtM0RGZXNqS3pSUUhwTnRhajlkdnRqUUpwMVAyZU9MZGkwS1I5NWM1QkhwTk5iV1g5eTl4Q1ExYlBFOGR5YXFNbi1CclpPRkdFWDRMekdiWGxWc09BOHFUM1lEVy0tQTJyYWpLV1pQNDh3dy0zN2Rr?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789252772478
+    },
+    {
+      "id": "news_ENTERTAINMENT_ReacherstarAlanRitchsonannouncessplitfro",
+      "title": "‘Reacher’ star Alan Ritchson announces split from wife Catherine Ritchson after 20 years of marriage - Entertainment Weekly",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVJUaEVaVHQxNWI1cHdpbFJTV0gzb2J3dUY1c1MwbDN4RkZfUkhuUG1JUFpvNzRhc3J3bmNnTU5kRkR4LXNET3FxOTlwbVJhU1p2aHhBMzdHS0JyNlBwdXhWNWJTRU4yWkZfNlpIVmVQUEZHUjNKeVhLNGJNTW1aYThSRTU5Rm5xbmc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789252772478
+    },
+    {
+      "id": "news_NATION_TrumpendorsesIrishreunificationbreakingw",
+      "title": "Trump endorses Irish reunification, breaking with decades of U.S. policy - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdTFIZUN5UjlRRmk0MGhKVjFvQ2p3bU13U05mRFoxdFhabHZXOGFFZUFScVZjWXhSYXJ5ZExkQmpPdy14eVhTM05YYVVtZnpJbFA2bFZBcmhwRXlLNmtFR0JqbDhRZ19iRWN4QXB4MVotZEk2a2NVdExaSFFLTDdKRnpoNEs2WDlNMnhVTFhlV3E4MkNJYTBpUXhQc3Q2WXE4UDQ5aHhkUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789252769331
+    },
+    {
+      "id": "news_NATION_LiveupdatesTrumpvisitsIrelandthedebateov",
+      "title": "Live updates: Trump visits Ireland, the debate over 5K dividends heats up - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSG5iWGg2OXJZc0JLUEFFWjBnRTFVcjZLYXU1YjhLcE53d3N2amhRTXpVQzNxZk5sQ2JaYlo2MlJabzNDbEpRVElOZnFNbkVBcUJ1MU9BVVBHNHRJZVROeThkSTdYcEhha0s3aHdUT2JjWWVRZk9vR3pQTjIwYzNEbk9xNXNwVWREdTNJZVN2VWowaUNHd3djWGNRS1dWYnpKUjFrN0RQZU9COTBnZmxQWFQzay15UzJBNWJDRUNwaEtOQdIBxwFBVV95cUxQVXBQM25pSWF0Z2lsRW9HLTMwMV9yX01zcXpIQzFvZTlyZlhwemVkWlFjQzlQNUIyMllFZUgzZkpGRW5uMGVxZW41Rkx0UWhEMW5Va2dWRE9nSUFsV3U1SVQyVmczaEdWeVU4c204TjhnQ0x2MFdMRUlGMFdJUU1xYWNLMlotWGhCa2U5bm9wZlZXX1ZvdDhZM3lpNGRJN0pBTVFyTHlIZmhpT2tkOGRPVURvc0xtRTN2V2lDamY3TWR0elJvd0dR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789252769331
+    },
+    {
+      "id": "news_NATION_TrumpDemandsSmithsonianInstallColossusGe",
+      "title": "Trump Demands Smithsonian Install ‘Colossus’ George Washington Statue - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZnpqdUlpeUwtcm9sMDQzbWsxLWVpWDVFMWIxNkFDR2dreUJaclNUenk1Q0o4TnJIYjN0R25zaHNwSlZ2MktoNzM5blJvR3hXTjY1RTBoY3R0TE04Q3Fob09ma1NHVnJQNVlIZnl0eDZiSTlaaGJOVV9Jb1l0d2xiUnZGRk9wbTdGd1dNcTlPaFk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789252769331
+    },
+    {
+      "id": "news_NATION_UScourtrejectsTrumpsemergencyorderkeepin",
+      "title": "US court rejects Trump’s emergency order keeping Michigan coal plant open - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0REVGJUZENFMlBSRV9ySk5PemRjZHJTbjFuNHpVamRGZDAxdVdCOFY4RUVpSGFGQWFtd2pwR2VGS21vcnBNRXpXM0tNRjVjWWZlYkpOZXJBeE9FN2FSZzVfMWV4VXBRVW5ob2N1dE9SQ1lGeGFZVzNMU1lkOHRBcXNJT3ZGWncyUWVtZmtJMnYtMlp4bmd2TmkwTzI4cGstX3ZuYnhxTFhYcnpBeFRYQzRwVdIBuAFBVV95cUxORFE5dDhhb2lWM2lWUTFTa01wa3Nacmp4eUNWOVN3NmFqRlRkOUVWTVJYSzJvNkJSRFY2NHF0MGtsLXBrd3Z4VWo1ZFUyd1AtRkxGQ05hSXlqa3BFcHdpaXpDUTlmOGN2dUxyVHpnVEx2MkhsbkNoRXFLbGNWdWMzS3VQX01UVThIblJtTkowMHFiYzQ2bDBsU1AySUVDVVZ3SjdObks1STQ2SnJzdDNRa0lTaUpCT2V6?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789252769331
+    },
+    {
+      "id": "news_NATION_TheatricallitigationRepublicanAGsfightfo",
+      "title": "‘Theatrical’ litigation: Republican AGs fight for Trump voting rules that their election officials say they can’t implement - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcWlESnp2b2hhbmwwNkFzbXZGZk5xSEJKX3RudVZnVnhBVEtGY1dEaHBkWm5RbmVQUFR2dGlQR1NWX21CNXpFVkF4SWhlaEtVOEstajJ5SUxTS2JxNWV3dEhmRlEzdWFKeVdoVW41V0lERE1nQ25EaDctcnQ1bHZ6NUt0bkxsUlpHZWdGdGo2MA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789252769331
     },
     {
       "id": "news_tech ceo controversy_InsidetheTechCompanyPoweringTrumpsMostCo",
@@ -5401,105 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788907537578
-    },
-    {
-      "id": "news_SPORTS_BREAKINGHawkeyeMarchingBandmemberdiesaft",
-      "title": "BREAKING: Hawkeye Marching Band member dies after game-day heat stroke - thegazette.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée; mots-clés viraux: breaking.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOczl0S1VLcjNQR2I3cF9ZcUp3T3JVZEJrZUx1eTNSV0tySVhkY1RraUpmVmFySkFjbl9PSUN0QXI5QlhBZ19jMXVNQ2ctc2VBOG9zQTdQa0dwN1dBLU93SmJJME8yR2VsbFY4Mlc4WV9hN2E3eGhCWHJsLUgwM3hkR0lBV0RjRkNyZlVQZFRsNWZTMUJvTzJWalhtOEpCUi1CSkQtMFNSaGlqT3IzX1pLT19TZ2V4Z2RWZG04bUQxeFdnUkVSazdUWm5taUtaOWx0aC1zWGRuT2lmN2twQnZGUExjME1yUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788907537578
-    },
-    {
-      "id": "news_SPORTS_Philadelphia76ersFlyersgivefirstlookatne",
-      "title": "Philadelphia 76ers, Flyers give first look at new arena coming in 2030 - NBC10 Philadelphia",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbXJhbGJDX3RIR0M0TWV3b04yeHdldjVueS1tRjlVSTNveXRKS1UtQ0ZhNi1aMmZwSjA0STA1T0NNZlBzVDlnNTBEVTdfX3Z3WncwR21NallQV01hb3FlQVZiaVVlTTF1b3g1ZUY4UGdSb3ZHd09ucTlDbkQydHZKRUs4UmdYSHRsOTJHREREdV94eEJRcTR1aFVUMnJ0UksyMU9TQW9EeUlhWHZjUzVjWU9UVnVOT25kX3lPV2NB0gHGAUFVX3lxTFAyclVXQ2JzTi1tTXRjQVZGOW55WFZNRU45UjhKOGZUb0Q5b3ppNnE0aV9GSWwxa3Z0RGlKYXJvSjhrQ3BndHoyMkNPVTlKVllBN3dqV2VFMVBCcGgwYmRMeXBwZk1WSklXeXFpdWFpSW9tVlVqUGpiYl8zM3BKaDMtY3U2ZTdDU1BjaVNCeVhMTzlzN1BkM1Nma3BQOW9kUEVkT1RGcnhoZXhZdHc1SkR2RllHa0hrenp1T211YVE1RndsSGx4QQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788907537578
-    },
-    {
-      "id": "news_ENTERTAINMENT_LoriLoughlinfilesfordivorcefromMossimoGi",
-      "title": "Lori Loughlin files for divorce from Mossimo Giannulli after nearly 30 years - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXkyNWJqOW82Q3NhRXJEcHNXMzBrYkxzN251QXRZbGM3TkdUcWZ5TU5jTTJjZGZuVE9vZU9pbGpMM1FFM013amtvcTlsOHRhR3ljMnFQWk83MGc3bUc1VS1VbVVLUGRSVUhhbDRTbk1FY0o3RE9PUzJqbm5Qd08zM3pmN3VYRlVJUkoxRmlWS0dpbEtfWHVienVGaU15ZDZESzNqdkcxdzMtWnUwZGNRb3VsY3ZZMTFrVlUyM3E0NUNqQzA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788907536271
-    },
-    {
-      "id": "news_ENTERTAINMENT_ExclusiveJimmyKimmelslatenightshowsettoe",
-      "title": "Exclusive | Jimmy Kimmel’s late night show set to end after next season after 24 years - Page Six",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR0NkX1RQdEZZU2pfd0VtQ2hLNFNBTDZ6Ml9sT2gyY1JBUm84eFVqN2JNRGx6X25QUXk3YWU2SmFsaXp3aWpuNnRUV1ZOUzB1WGNBb3FaeE5oTTV0X2FGRGxLN2daanNlMHozOGlQc0w3ck55ZVhaUGViZncwQzZlZjRBUl9STFh2YlJFMlNvRVVmcmx4WWtzN3NoMWVQNE9ZdzQ2OFVOSE82Ujc4RkxPWGRzdjdMcVp2WVBr?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788907536271
-    },
-    {
-      "id": "news_ENTERTAINMENT_TomJonesAllegesTheVoiceUKFiredHimat86Yea",
-      "title": "Tom Jones Alleges ‘The Voice U.K.’ Fired Him at 86 Years Old Due to ‘Financial Difficulty With Insurance’ - Variety",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée; mots-clés viraux: fired.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZTNoR0dfekRjcW5rVVRDVWZVd3E4alRGNmxZcVl5cEpVNmdOS2x4R0RFQ1ppVTZaNDdTWTd5LXM4MkdsZjFoRkhDWVFoaDJtWWZUZ2QwZmZSZXl1a25CUzJ3NGtnamU3T2JaYURQWnZNSUpDYUpGY25vbHljOUs0NzNUNjc2SG9HMWxHN1JRT29FOFI3d0E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788907536271
-    },
-    {
-      "id": "news_ENTERTAINMENT_SouthParkIsChangingItsNametoSouthAmerica",
-      "title": "‘South Park’ Is “Changing Its Name” to ‘South America’ for Season 29 to Mock Trump - The Hollywood Reporter",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUxRTHVNQ0htVFF2VUxZcHZBSWowSE1NTzExODdPT2VQYVVCN3IydTlHSmlWMFVpZGtGSFhtWGczeUQwQllONkN4cC1JRjl0U3h3RW9fUVRoYjVDYUNCLVRfNWNXalNvOXhEVG1fSXFUMWFEcjRRTm1XSUZyeURLdXFQa2FqbldFOGZPa2RVNlR3SmlQSC1Xbk40Y3FhLUd0cUE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788907536271
-    },
-    {
-      "id": "news_ENTERTAINMENT_SalmaHayekGoesSkinnyDippinginSultryPhoto",
-      "title": "Salma Hayek Goes Skinny Dipping in Sultry Photos for 60th Birthday - Yahoo",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUzRCd2wtUGNrUmwzWFZ3M0tHUHd5WEhhYzRBWHJ2VWZlNUV5UjA0RkEwQ3lPMHRUT3g2eUhNaVMwWmwzemtWTHZmc3FJNEg2ZS1uXzhOdnJWVmRjVXloenh6a1JkWlZzNlBNYjNtUWxERV9WMmpIWjFpMWFyNVRLRHNfemlXanc1VzZLamxTNm5vOEE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788907536271
-    },
-    {
-      "id": "news_NATION_TrumpAwardsMedalofFreedomtoWellesCrowthe",
-      "title": "Trump Awards Medal of Freedom to Welles Crowther, the ‘Man in the Red Bandanna’ - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMFRxcnYxYjVndVVpN0JaakQtUE5LejVwQmpsRWlrMnZ4NF9aU216Y0l0R2hCOTNGOEFORG5MZy13ZExQLWprYmN5X1JmZVpFU3oyRWQxWm1peXpZa0dNNlRwaXJ3MmRYOThHQm5aMHFGSVdHUzVYYXlybXdFOW8yczBUMWExWDNzVlN4M09iVkJ4WnpCVmd4c2Fn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788907532944
-    },
-    {
-      "id": "news_NATION_FactcheckingTrumpsstoriesabouthisown911r",
-      "title": "Fact-checking Trump's stories about his own 9/11 response - PBS",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdkQ3TFoxelVBaWgtamtNQUpjZEh5WFNpWUotSUJqVjdiUnpyX3RmazJiYlYtWkd6RjdCNXJLTlFsM1JPUi05eFRUcUROb0NaYlJKN05nUFpLQjBxNHBkN1c4SnROWGZmUnItYk9pajZCZFU5Y3BwNlBmRTVZVkNLUzFVOGR2UkJ4cndJQUM2UzdMeDctcXhKMnNR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788907532944
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T13:09:33.187910+00:00",
+  "updated_at": "2026-09-12T16:18:14.767822+00:00",
   "signals": [
     {
       "id": "news_TECHNOLOGY_WardogsIsAlreadyaHugeHitAsItSellsaMillio",
@@ -781,6 +781,171 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_government shutdown_Trumpsignsbilltoavertgovernmentshutdownb",
+      "title": "Trump signs bill to avert government shutdown before midterm elections - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTJfTlZvbUVhMkVhSVQxSlFOdXM1Vzk4aXo3TTRwalJWVVF4bmU0cHYwRDBVaGYteDFoZy1sczEwOGNoeFlmel9GS0Y0cGlwdXRXNEFQVTR4dXhVVkRFQnBxUFhUUDMzaDh2R29VRVVpTW84TXVwcVV4TlhoY0tOdFF3TUxlbXNmbmVwNHh0ME94WlhVVHVxMTdjbkllQnFjOW9VZzFqREF2OHFUWmJOZ1E4OWFoVzYxcy1FTg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789229879137
+    },
+    {
+      "id": "news_SCIENCE_Datetheworldwillbedestroyedanduniverseen",
+      "title": "Date the world will be destroyed and universe ends calculated by scientists - AOL.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ3J5ek10QVgyZ2ptWm1JazRjZUJVdDJYMVFhOXNOc2VmOW9pYWZVdEJzMU1LYjdlYWVkUHIwbzFhTXpUVjAwQTFRZ0ZERVpibFNEaTZraFZzWXg5bWRsTXpTRVhJS2lQN1NHOFNvQ2dtZ0dvdXItX1hucWFrZW5ZUnM2XzU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789229866133
+    },
+    {
+      "id": "news_SPORTS_ZabJudahdeliversKOverdictafterwatchingRy",
+      "title": "Zab Judah delivers KO verdict after watching Ryan Garcia vs Conor Benn weigh in: \"He played us\" - boxingnewsonline.net",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OX0RURlpWdDg5YWMyRTdRSHZmc1NMbW4zLThtRlIyMFU5QUp6SmxPUTN6dGJGWlNCMFFmTVphM19JVlAyR3gtUXJPVmEyNklURmdSbGZHUFVuSU4tRUMtUkxDQjNsWFYtZ0FGaEFrb0dYVkNwWFRVQ1J3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789229865409
+    },
+    {
+      "id": "news_SPORTS_SourcesPackersTuckerKraftagreeto4yearext",
+      "title": "Sources: Packers, Tucker Kraft agree to 4-year extension - ESPN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ3JEY1FPUUtxenM4eGlCQkZkbTZFbWJmYXlIOUFoZE9CT2lBdEtuLUtvbkMtZUd0bjBsSkszWHJVVDBfSng5dFdlWE5nMmtIaVVKcUpPTUNHWDZWLTktZTQxa3d6SWJHMHFRNnpSOVplOXNuYVhBR0FsN2M4ckJrQ05iVUwxUjEyR3MxeHhETktVc00tdVdUS3RWM2k?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789229865409
+    },
+    {
+      "id": "news_SPORTS_GiardiMikesMusingsonoffensivephilosophyM",
+      "title": "Giardi: Mike's Musings on offensive philosophy, Maye's mechanics and Vera-Tucker's struggles - Boston Sports Journal",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTlFDWFc5ejBTRndPeWIzUWlDNHFFNF9DMlFvQk1tbndtUWgtbzBfdkYzbEt6aUZvVUVMVldhekVBaG1JUnZ6SmQzUUVPWTNuN2lOS19DWWpEZ09iVkhRV3lsY2hjc2dUYk1YSU1qN3ZjUGlPQmo4eHE0MWtLSnFNaTNFRFRxa3B1UHFYcGFabWgzdlktZUN4MzRZb3IxNXNvZkNnZ0tvdm9FN3FwV2Z3VUpHcWRPd25JVGVjX21XeFlnN1Izc0J6MV9QYTE0LVU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789229865409
+    },
+    {
+      "id": "news_ENTERTAINMENT_NetflixCancelsYetAnotherPopularShowAfter",
+      "title": "Netflix Cancels Yet Another Popular Show After 2 Seasons - Forbes",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUVpfbXFaN25Yekc3Wk1ONlFPUzJ6VWR1WVhDSm1jU01GWndrc1Z6M2J2aTVJU1pxUzVMY0pvTS1ZdXpJYzNkQUkyNnozU0RENFhrUXdRYVJwa1U0dDE0bVhPSmZ1Vnp4dV94QWlvN3FBU2cwMEdSMXZjb0VGVVpqXzR5Smk4djZ0bXU2dEd6czBUdEEwb0ttUE5WdGdfU2ppb3RBejJkZzMtZVU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789229864683
+    },
+    {
+      "id": "news_BUSINESS_GMplansUSbatterydevelopmentasTrumpsDOTat",
+      "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1lDTjdaSEpKV1RvSDl3LVhUMnFEN1FMcjZZSnZaMm5JdTh3N1BVSC1uYnJ1ZFlEdWEzRTdtbEhBMFZDUF9vaXdQYmxZTDdLbGRoSUtNQ0VtX3FCN1N3NnpmbEpHNUJTSnlyV2ZUOUhyZFhkajBQVXlFOXVjSk9lMjUtV3TSAYoBQVVfeXFMTTBuWjhWNTNEQXZlcVBuLWhNRjB6NmRkay12bmxESU04cEwwNWlIUHd0QjhaMjZtakNWaTFFcktWV3VNblotZXQ2SElGQkZaNkQzMDZaWS1BeEhyVWZKMHpvWXo1LVJnWFRhUVFjX0N6WjB3T0diWVNCZjlrSUlWNmNMQkVFcmxSTWdR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789229863195
+    },
+    {
+      "id": "news_BUSINESS_SocialSecurityCOLAislikelytoincreasenext",
+      "title": "Social Security COLA is likely to increase next year. So could the pressure to change it. - finance.yahoo.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNVY1Tl9RWGxXRHUyeGNiRng3VTZWM1VzRU9IaWVKTEVVVU1SOU4zdGxPS1BSdHJrQk54a3liYVM5VUdXN3VfUWRfOHN6YXNKU0N5ZHZnUjVIRnJtbFA5NzlPemFGdXpHZXhKN1lWdW13NmFhYkhaRGZaaDRSUy1DOG1fOHRIdkNuTzU3eDlVVkVPbUN3UE9jTjhqajFLNlZqZnVWUFBER28xSjVlY1JiZElJc0RMWXU5bjdTcWhETDlyRGlya25yazVzb3pPa0o2UXRaNGhVdVdSVXU4?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789229863195
+    },
+    {
+      "id": "news_BUSINESS_TheFedIsPoisedtoRaiseInterestRatesforthe",
+      "title": "The Fed Is Poised to Raise Interest Rates for the First Time in Years - WSJ",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObzNuOE1mTDcxSTB5azNwR0YzTmlSTTcyVHBoblpqXzl3QnNrQjZ1OTZIYmd1ZDYtd0lmS0ZsMTNmcG5DUVh1S0JXWG5fLUQ4VkRmWmZmMWp5V0pXOEhmalNvMml0MmdoUXlWTnRveVZEOTZlZjhnZi1VWUN4Qnp5b0xSa2hfNUlYVnNZMERJb1FmYTJOeXllMjZBZ3JkLUhoSldDZEpfUVd3eTVvZl9DVy1KOVdKQm4tUUJ6NEgwRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789229863195
+    },
+    {
+      "id": "news_NATION_TrumpSaysIrishUnificationWouldBeFantasti",
+      "title": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjJDQWswdURnNGs2YzlLME5MTEwzaVdERngxcGN1S3g0SkpOMEp2d2k5SmlVbWt4QnZLTXlaZjJsTXdpNy0xWWdzX3EyWjVLWmxhRDR3NXQ2Rkkxc2ZJbWt4UkNlRkVDVVh6bHJIcHczT1VYSHpqRGg5cW9zSy1rUUNDQ1llQ3NVMk9MMmtfWQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789229862470
+    },
+    {
+      "id": "news_NATION_FearandDelusioninDallasInsideTrumpsMidte",
+      "title": "Fear and Delusion in Dallas: Inside Trump’s Midterm Convention Flop - Rolling Stone",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdUdlNWMyTkZ3WnR4S29sUzA0RHNsbDlRN05SYXlfSElCMFNxaFp2SXVHdGJVMW9la1B0NnNBQ1lUOTJHZXNhT0JGZmZBb1JJZ29fVGN4ZmwteElRMkFzRF9BaVJJNmotc1RLcGhJSlktWmRzekxNcmhtWEFPNnNCTDY0eDcxT1hUbkk3ZE5mVVRmV1R6UDJKMEN1VXJlN01Ba0xTSEx1T3lRZ3puRmNzTXpVZ0E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789229862470
+    },
+    {
+      "id": "news_NATION_TrumpwantsSmithsoniantoreplacesculpturew",
+      "title": "Trump wants Smithsonian to replace sculpture with 30-foot George Washington - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN1dJdzNtZTdkcDQ1RUxkU2FEWnF6OWpyaDJQM2FXYTVZaTRIUFNKVFN4TEVZeWhod2lVa2lqNUZQbGREb0o4eTdvMWNLUlk0UmlLOXlFSGxXOEdrVkpfY2J2Nkl0RzdVcVY1NDNDRXlhb3hpRm5YaVJjVTJLYjJKTTJHNDdGclRkNkV5OWtPc3FmWGFhZHhmdG5RamZ3dlJnMW5PMkVBZmhLLS1feU11WWpSQ0FDaURkLWNqcHg1UmdtUkpFT1pfcA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789229862470
+    },
+    {
+      "id": "news_NATION_WhyisTrumps5000offertovoterslikeawomanAs",
+      "title": "Why is Trump’s $5,000 offer to voters ‘like a woman’? Ask Fox News | Arwa Mahdawi - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42T09Gbno1Y0pqcFRjS3U2RkZKWnpJMmxrdUxock8wbVJWVjNZR2RHM0p6ejJGM2ZUMVpkcDJXeV9mSlFOY1FMc3oyV2JXOVlMNWFGZEZxSGNvWjFVVEY5UFVGWVZjS2Nrd2FEc1JXZUNEV0tNY1hUS1pibWM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789229862470
+    },
+    {
+      "id": "news_NATION_TrumpseesIranwarendingsoonaftermidtermel",
+      "title": "Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNnNmT0R6dktjR19lNm1jYUVSaTk5dmJTTWhsZXNoeVFwT2haX0JRZFBhT3lXUTA2V3Myem1NTEEwQ2RNRGZMcVdnaTYxZzlySVJyaW82Mm1TcmRjQmRJSmc0ZXV5V3V6TE90RjlVc3JPS1hMdG95dS05R1lMNFV3OWc5bmtPQlJzTkhod3lBRnFLZklfeVlJSXpKVkMzd9IBowFBVV95cUxPU3BrdUFqUUl0UkctWHNVOXFjcUZFWkZaYlFXWlJTNGJrQWpjMTNERXdxX09Oa0IxQmVqTzZsSDdkZl9MQS1JaTlsa1prbWdxNkZ4aGhZOEZjeExHd0Vjc095QXBXaWpuRjZSZV8xaGZpUFpKSklQM3dESXVOSGtYNWs4NFQzR1doRmtzaXFjcEtqbHVkS3A3VWIyZlZsenVZTXFB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789229862470
+    },
+    {
+      "id": "news_NATION_CTARedLinedeath15yearoldgirlchargedafter",
+      "title": "CTA Red Line death: 15-year-old girl charged after Kyle Bickham, Chicago man, pushed off train near 69th Street station: CPD - ABC7 Chicago",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbmt4MzhiNm5MQ2dmU3RjYjVzODFsdUV2LVdXQU5lT3RVTGN3czRMSFZSM05PeUVSTzJvR3N0X0ZMd25sWUdLWTVvMkF5MWxHVk9iN0JHUm1vTjVqZ2RlRDlDX01Ic0ZQWm1kZUVkdmc3YTZzSkVjZDlwaHR0bm5xRk15QlBUN1V4a3ZqWUw5TXdPMmdRRG9SYkxMSzZvR0lreFo0MUZjS2tTN1UxaW9UM0x6VmdIMmFZb0swaHFaT3RDN1YxVnBOaGszclhiZ3dfMWM1U0RqN1JYSDVVNlZldTlR0gHnAUFVX3lxTE05ekdndkM0eHVzQjhoNndMSksxRzBnYmE0c2dSemRmQXlOT3FTdHpLS3B5b05wU0d3N2tldW5iME5QVzk2X3JWTXZwS3h1bkFjTVdBOWY2SE9WNWotdFFCcFl1NTB4dGpEUXZ0cjB4MENYazBlVUhnTkNzNjRuTDF2NzFPQnpaTmV4cDFxdXhlTFlOZDZDTlgtYWR4TWg3ekhfNUJKM25paWVpNnAxSDJfSnRuSnp6UVZZVnIwbDhjRzR2ZkdTeXF4eEpoTTZtcklDQ01tT0tqcjl0V0pzZGtJMDdCeEhUcw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789229862470
     },
     {
       "id": "news_gaming leak_NewSmashBrosLeakEnds8YearUltimateWait202",
@@ -5335,171 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788889422327
-    },
-    {
-      "id": "news_WORLD_SaudiHouthifightinginYemenescalatesWhath",
-      "title": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next? - Al Jazeera",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGJJcFNyd2Z6eE9wRGxCemdfZXplWVZwQk5zUUVfc0l1N2xMNjZCNWhrbnRrSkxWQ0Q0Rm1ZT2NPT0c4RE1SRnViNEp1enB5dDl0V3Q0cV9FcEhjY05FY3V5X2hZWXgwUG5Hek1kOUtUYUx0dVlEazJrSEIzT1hETUsyRTFGektfUEdSMUlhalhUamEtVXJUc1N6YldKSWZyMFNLTEJaR2dfbUNFZnfSAbMBQVVfeXFMUExvclV1S1NBeldfR21qV3JmTDJUcHpjLXhGRlczYnJoWGpndmx0UGpMbUZUNDdNVTM2R0kxRnhKQ3VKM2hMbkJxOVE4T2hJWUwwaVdzR2pkaW5RZkFwVGVPd2JKcXU2WDRXLUhBc3dxeXRUdkhZeTZiVlZIWll0MndrQWNMSmpzdFp5MFJSUXhBcnRzd1RzV2E3N0FCSDlUV283T01Ud2NGWERGSVVkb1FnOW8?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788889421013
-    },
-    {
-      "id": "news_WORLD_UrsulavonderLeyencondemnsshockingRatkoMl",
-      "title": "Ursula von der Leyen condemns ‘shocking’ Ratko Mladić funeral in Serbia - politico.eu",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWllUenpxMEpJQlhJcTRiWHZXdkhXcEJkZWNwWm5KZnNXanlpQ1haM0ZOaTNiY0pLcUVDRFFMQVkxNTlacGlobENVdDVDUDIzVFFValFRWG5LbkJRQk5rcERRQ3ZsRHNwQnhSNnJpMDZZVUoxOUNJQmlwUG1FaXFLbEVMSW40cXVyVnNQOHl3WW9iOWNURDVhajdRSW5qSDNDTHc0UWQ1UHFERHlaNkdUWXlR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788889421013
-    },
-    {
-      "id": "news_election crypto_USMidtermElectionsandTrumpPressureAreSto",
-      "title": "US Midterm Elections and Trump Pressure Are Stopping Rate Hikes, Says Wharton Professor - BeInCrypto",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tSFlMSE1SUXpzMGpYOWRJTEhIelBxQjdmNVRhWTJrMG0wdC1QNnNUOUtqanlDRERjSldKWU9nTDJvUFNZR0dDa1ZOSnhUdnE0OUQ5MUMxQ3JpZ0RnSFJsNEpNaUdkZkU3Zm1r?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788875767221
-    },
-    {
-      "id": "news_internet drama trending_Chinadramaqueenlambgoesviralforplayingde",
-      "title": "China ‘drama queen’ lamb goes viral for playing dead when buyers approach - South China Morning Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (internet drama trending). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOXzBhcE5fZnY1N2p3QnBSTlpLU3o5VmQ3dlE3eFh2ZzVqOHp5bnZSMDJEQjg0MS1pNXZyeEFqRnlST1VWM0tnX0xMU1N0RXl2TFpmS1NtTTF4Ykt4NDBnM1lNdk84a2ZwV0c2UFFRVXdPYWRPQU5pOEJ4UGJmRWo3eEh4MUtCN0E3eHp0TWl2YngteUxSVlpRVTFxOEJKS3k5SjhUT1AyYjMzNjRjSjZTNWxaRXBqZEI2LTFyZ3FPZG9tcXdQZEZGd2wxelhvUjhnRnhxaWJOSkJIdVY3Qm1pTDhxSVc4QVZNMjBr0gHrAUFVX3lxTE83Z2lkcDV3VFh2VkN2dlJYaVA5dV9YTkRodXN4amVJNlVQQzdkQ054SkY1alo2M3RXRmVjaUVXcXpwODFKb1hHNVhRdEJfWEh2M3o0Rkp5aHEycGszUXRfaFU3dGMtcjN6clNPN0tqTWNtemlybXBYTFAzSW9HQUx5T1IyUS1Vdmp6c3o0M1Z4enhsdjFIWU5EbWVmcjdFTEhobXdGX3dTQ2xqSWh6S3pLVUM0TUhqTy1udEZDM3p0SnZnZXRwZXJzd0RiUmQ1RTcySTQtYUlCN2tab3RFV2gxaHEtRFZJVlZvTVE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788875766161
-    },
-    {
-      "id": "news_SPORTS_Arenafor76ersFlyerstoopenin2030marksnewe",
-      "title": "Arena for 76ers, Flyers to open in 2030, marks 'new era' - ESPN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTWJ1cVE0Sk9UVGRRVjBkTzhjRmRHY0E2cEh1ekpZSmpiUUJrLTlacV8zS2ZLU2JZV1FWT3FHazVOcENjdlM1OHp3RllYWmEzTXpHbmJvcEI0OHdQTjQtcnpWdHZ3VTRVdnhWWk5sTUwxR216elpOTjI3NE1tTnh2SHg1N2xDTGZuMWN3Qzl4RHBhU2szYmVQcDFqaWdjZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788875754938
-    },
-    {
-      "id": "news_ENTERTAINMENT_MuskAlexGibneySharesHisTakeonElonMusksGl",
-      "title": "‘Musk’: Alex Gibney Shares His Take on Elon Musk’s “Global Right-Wing Agenda” and the “Almost Existential Fear” of Talking He Encountered: Venice - The Hollywood Reporter",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUN0Y1ozczljODd5NkY0blpHQ1c2a2d2Nlh5ZkRJR3gyUk5UNlA3bkdYanRubkJKOTgtVDQyLW5jdmpNbnd4WkR3T1pqQi1KWmNveXNOU1VuYU5OVm1udVE3RkJkVTlOU2gxM0NfbVZyOWx4YUJCUnltQTYwOWlGVEZwUUI5OGJObVlpUW5LQlBORUw3cEd5RkQ4QmtpZ01DNWVoWGFBMmxUU1BZTkJCTHBMQkN6ZllVU3pF?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788875754233
-    },
-    {
-      "id": "news_ENTERTAINMENT_60yearslaterStarTrekcontinuestolivelonga",
-      "title": "60 years later, 'Star Trek' continues to 'live long and prosper' - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PanBKaEx6RnNsTTRxdEk0WEZ1YmNQdWhMOEZnSE9aOTM0RmZsVVJocWdjX2FtR0xLVVZnUk53RmhvV0puOWlqUmVsaDlVelBxZ19wZG1oaVhtZmpJTXN0cllxR1J4Qk9hVmk0Z1Q0MDNJLVJMYV9IU0k5VGJBc0k?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788875754233
-    },
-    {
-      "id": "news_ENTERTAINMENT_ElonMusksExAshleyStClaironRejectinga40Mi",
-      "title": "Elon Musk’s Ex Ashley St. Clair on Rejecting a $40 Million NDA and Participating in ‘Musk’ Doc: ‘I Hope the Risk in Trying to Fight Back Helps a Little Bit’ - variety.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTFMSXg2MXppSWloTHh5dkttQVVDb3lTSzBXRW12S2tUMUctMEFHRy00UzhtTUhBR1Y5NTJPd0g3OTJVQy0xaFg3WWwxa2taejNOcDJ1azZWRk1MakVIWWlaOE9aMDN0bktNQ2dqbWlvODNuOWw0N2JMTEoxLXFwb3Y5eVZLTlNmNlhxUGo2eWFxRV9tTS1hdWIzTF9DVllibVh2OUdudUdiVFFDUjRMUGFld2FJSWxP?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788875754233
-    },
-    {
-      "id": "news_TECHNOLOGY_AppletoMakeFirstBigChangetoiPhonesinYear",
-      "title": "Apple to Make First Big Change to iPhones in Years - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YejZuYkdiMU5IU3RHLTNFWFd1THBiaERrSWk5NS11NW1YcGhJamNDQlIwVjNZN1NZTE9oY1ZKTjZfSFhRa2lyemVnaW9wN0txU2tUMERhLVhRLWtRdjJ6R0FReWd0OEJfRmFfUjNpUEh2Q1o5bUR0Zg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788875753532
-    },
-    {
-      "id": "news_BUSINESS_TrumpthreatensCanadianjetmakerBombardier",
-      "title": "Trump threatens Canadian jetmaker Bombardier, which has an extensive US footprint - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVmRxSDVSaGtVRFo4OG1zYjJXOVpUa2t6QTFvWTVKYmUxQ0J4UTRlRUVPSGlKRC1TVHkxaWIxSEsyZnExYmh5WUhJRW53ZDYxVWlBNjg5SVRZNmUxcVRveVdnRkRZNE9leDlTZ2ZnNXRnWTZoSG4xWmVfMkNtbV9PbEJuRldIMFNFbDliTFFjMERBeVY2aWhienpCcUhqb0FvS3lkWDBoVEo?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788875752829
-    },
-    {
-      "id": "news_BUSINESS_DonaldTrumpsOilPricePromiseWasJustStruck",
-      "title": "Donald Trump’s Oil Price Promise Was Just Struck by Houthis Defying Hegseth - Newsweek",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZHF2bEpTVnB3NkNkZ1FDeG9LNFFBOWNsUVhWMWd4QXNSMl9LZU5wSVhuYVhEU1ZBZUVsU2E0aDJaLWVCMjZyaVU2Zm5reUJOT3ZWUU9Mb0VPRTA4SC14VUQwY3pqVFVVblVUejVOdzd3eG9PQmVFUjUzRjVnUGhqYUVvT044ME1qNXAxSmY0R2w?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788875752829
-    },
-    {
-      "id": "news_NATION_CanadacountertariffstakeeffectasTrumpthr",
-      "title": "Canada countertariffs take effect as Trump threatens to ban Bombardier sales - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTAtNlVWZUNMaUtWbmtlUkxfb0pvZlk2NmJCS2RYOWk4aW1QNEZxUGRaa1hpTzEtZlRMemIxVkNNRGJscFhLMGNaejR5RTJJcW14OUJjMFlTM0JBZVlQXzdGaE5mOEpyMWd2RWx1ZXdrdHkxYjR0bkh0VnlnRW9ZM0JFbmNMRUZ4ZmJwSXlZTjZfV3kxM0tvaHdJRDBLUDFVaTVXZHgwQm41S1BlS19oRmJBTWQ5RmlMdkdnOA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788875752060
-    },
-    {
-      "id": "news_NATION_WhatsinanameTrumpsuggestsrenamingNewMexi",
-      "title": "What's in a name? Trump suggests renaming New Mexico state 'New America' - Euronews.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ09tWGpVeGtqVFAxNGpheFhMVUE1Sml0MEdKWWtZNERvaEFYZjJkTHdFV3lDRTBBNXJZcV9JeTM4S2JlQzFTS2tRTS1FWkZfNXZ3bnNaNDZyelZESUpyWDloWEQ5dFg0UVk2eWU3dDJBbjgydy1odDZUYmdQT25OSFBFS0FBY04tbk5VZEJXQ3lIeXJUYWVrUGtYLUxwV1dwWWZWZjBUbw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788875752060
-    },
-    {
-      "id": "news_NATION_LindsayClancysattorneyKevinReddingtonask",
-      "title": "Lindsay Clancy's attorney Kevin Reddington asks Trump for pardon after mistrial - ABC News - Breaking News, Latest News and Videos",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcHhUaXJidlJnYm5FMXFwdDd6Z0tEZEhTVG13OGlEODIwS0xSTUMxQ2pUazVUb1Q3dElsbllZUlo0SlVkV0FJazhMV0NHdHdibkhhNlVfVDItemRkdXdidmE4TjZEelpuczNSLVAyMm1Xb3NZamNYUmFVM0Fld1F1QWtGYmxfbjZ6TWtScnJKOEFITS13N1dBRVlhMENWREpfZlFyWm5DVFNJWU3SAbABQVVfeXFMTXo5eHdBSkhCLXdLeXlySDZISnFUQUl5N1oyNnc2d1hIdnJJRi04QnVFcDJIT0dZdUx4TU5RcUFYM0IwQXpNVzVwWjREcElhQzdZOEdXVlRZZDBVUTdKQlRTR3Jud25NaF9wdWdEUWVXSlZONlVyTXMwSGs4bmE3VXhRckZFODNLUUZ0WktNdU5lWEg1ODhpdXloYm9XYm0wUVFkNzRZWjZHQUVJZmR6YV8?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788875752060
-    },
-    {
-      "id": "news_NATION_LegalveteransleadfightbackagainstTrumpsf",
-      "title": "Legal veterans lead fightback against Trump’s ‘full-out assault on democracy’ - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR096a0dLc2UzaTl3ZXd3UHhBTGFXQ0N6SlZHNWIwVWtxbWlOckJDSS1uS3lyQTlUbzRMc3EzUzctMkJacGNvdWpFTkYta25CWUphcHdRVi1pNDFMeEVxTzNmd0RnQlhIWTVBTFNvUnByODBySnNueG5SV1lXTHhkRldBMVM1M2RCWjUzZk0tTjZpSUZiZ3FtNA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788875752060
     }
   ]
 }

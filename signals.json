@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T04:59:12.716728+00:00",
+  "updated_at": "2026-09-13T10:05:07.700825+00:00",
   "signals": [
     {
       "id": "news_TECHNOLOGY_WardogsIsAlreadyaHugeHitAsItSellsaMillio",
@@ -781,6 +781,83 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_leaked footage internet_FormerRockstarGamesleadsaysGTA6leaksarea",
+      "title": "Former Rockstar Games lead says GTA 6 leaks are a \"nothing burger\" because \"90% of future players\" aren't searching for the clips online - GamesRadar+",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (leaked footage internet). figure tier-10 (ye) mentionnée; figure/entité tier-8 (rockstar games) mentionnée; mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNcGE4VFJpWncxSmhOVUNFN3lvcHBjQjliVmhIb1pnYUdoS1BVeXotYnJOeHFYUDB0YnpWa0tSelVEYXpRU1hUWXBrM3FOdW4yTlZoQm5NbXRGUUMyTGYzNTNWVnVRbVh4UzFBaWNtd1FMUFd2TFJ4T3BkTzNKc3FXTzYxWWhmN3ZYQ2JtSnQ5bzBobmNDZE5CTVJyY0hDM2pub19ITkRjREd1UzdCQ0FLSzhmbm1ZdlJrMDZTRVJpQVMzWUlNdEZLM3gyTldfZUdtUTBmRUdDRmc3djdpbXU1NGFPT2IyTXdGY3dvWmw4anBlVGllY3Y5SFhsdWEweEVBM1lOMloybFYwektkTVpnVjdXdk5KUV8t?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789293886971
+    },
+    {
+      "id": "news_ENTERTAINMENT_TrumpasksGOPcrowdtopledgeallegiancetohim",
+      "title": "Trump asks GOP crowd to pledge allegiance — to him - Salon.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcUdKSkIwUmhFemh3d1ZEWXN1WER5ZDRtam1UN2ZRX2N6LWpSZDFkUlVNLTR1SUVkMGtUdkZkS29yOFMzSWg2ZndZZXJaUWdvTG53UWljNTBrX2NJS09nWTZZUkN4bkZSWUZ6MjZmQ0dpa2tnemlwZ3hLaHhFVi00YUE2aWE1aV9SYUE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789293881239
+    },
+    {
+      "id": "news_TECHNOLOGY_NintendosnewZeldaSwitch2soldoutinhoursan",
+      "title": "Nintendo's new Zelda Switch 2 sold out in hours, and yes, scalpers already want £700+ for it - Eurogamer.net",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée; figure/entité tier-8 (nintendo) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGNzVkNUdXhSZ2czYUxXRGtiRGk5MThNNFJlS2Y5Wk5mYW5ENDdrTmNrUHp4emF0S3ZGQ0NXVzVONnBHSmFITWJWY3dJZ3AxUnNaS3F4a3hCR3BLVUljMzI0RVduY2pFYV9KOWJkODFkc2QxTXZZYlFNWG9BeFFqUWtJTkI?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789293880487
+    },
+    {
+      "id": "news_NATION_TrumpasksSmithsoniantoinstallColossussta",
+      "title": "Trump asks Smithsonian to install ‘Colossus statue’ of George Washington with exhibit - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSjBQNy1xanQ0YlNCVFNlNE15TmZIWDJiT3ZTRy1Kek02Wk83Z0xHY3M1dTYtZmM2ZUF6Q3pKd29wTnFicGhDV1VGWm9TeUhNMUJJcGd2VHhTWExMeDB5TEJhN3NFOUtCUzFvekY1YmJFcTVUdEcyMVpKOTJTZ3JGdk1rdVNjc21VdkRtVnhKUlJzaDJ4d2tWTjlRek5hb0k?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789293878948
+    },
+    {
+      "id": "news_NATION_Missing70yearoldRoyalOakhikerfoundsafeat",
+      "title": "Missing 70-year-old Royal Oak hiker found safe at Isle Royale National Park - wxyz.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2tJMjJkS1dGQUxqMVlZaWxqeExHQWhFS2dfclgxLV9lSzUyc0FPUGJTampPeHJSV3BYQXhxNjdndGpnQXE5OG5WVFZSOC1GZnd2WFNucjVYU2pOUGVMNmE2dFUxZnVGYk1sYU1NREZORFZRTXd6djlobTNtd2EwWFpJYlh6VE1md1lNb2RKMzJ5cjhhR0NyUV95SU9La09lVUdZ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789293878948
+    },
+    {
+      "id": "news_WORLD_AlQaedaregroupsinAfghanistan25yearsafter",
+      "title": "Al-Qaeda regroups in Afghanistan, 25 years after 9/11 - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbHlXYW1xNVFCaDg0d01lWHJFek1HV240RjJ3TUJHTU9rdVc3clVfZFNDTDduTUZIMGtGM1ljdXNjV3NiOFhqQVFxanBDVWlRcDlNWF9lWTYxMUhEa2VKcUZENG9BUENqNkZaN2otV3dfcmRqc3NaSWFlOFN6bGp1M1dEUTBUTGszbjJxbUNkZEZDVi1meldrYzY4VXY4Zw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789293878184
+    },
+    {
+      "id": "news_WORLD_About1400YemenisfleetoDjiboutiwithin24ho",
+      "title": "About 1,400 Yemenis flee to Djibouti within 24 hours - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRnhaM3c0LU5VOUJ0WlZmWmZGQWNZU25rbExYWldDQkx3X0UzMXRjanlqLVRQYjdMc0k4NTIxanRuVi16dnVjV3kyVG5BODBnZE54RDNUSkZIaWRsWXVVd3FMSjRGcllSNWREcUIwajV4dWpobm9yYkJzTk1NdjVrMlpRLWxwaExESmlGeHUwa9IBlAFBVV95cUxPRXQ2UnZvRFMxblNGMkNGdGE2dHE0S3QyM1NXalcwRUVUREVKc0NDbkpBRGVFTm4wQlp0Mmk5LUx3OFdmZUM0UUowSHhxM2JOMXN3RUtQd1lvSy0xbDd6aXlldWZBNzRPOWdVOG5JblcwS1pPbnhJX2tCOUdfejBNU3Q2cldDY2w1T1pQNDlOY0xOejh6?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789293878183
     },
     {
       "id": "news_government shutdown_TheSenateCRandtheShutdownThreatNationalT",
@@ -5423,83 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788931107841
-    },
-    {
-      "id": "news_NATION_TrumpasksSupremeCourttoallowvoterverific",
-      "title": "Trump asks Supreme Court to allow voter verification database that was blocked by judge - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTExTaXZtaDdUNEMxMk9kRTJpNzI5UzFXZ0dTckl0ZmM1VjV5SVBNMDRXOVR1Yy1rODZYWkdqX0FiVWxjTUJ1dERrcEZYeWprb05ReTRLbjZCQV9JVVJrZVJOMUxoVlY3UWYwTlNrbk5scFBPZjNZcU9pak9PZWh2WEF1anQ2WWpCZzhMdEpWZHhJalJ0Zi1FbFJRaUpGbEtSN3FEVVdGdEs2XzBhTVNTNTdLckoxRExJMTEyT1hHYXA5b1N6V0NB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788931107841
-    },
-    {
-      "id": "news_NATION_AnthonyDiLorenzoaTrumpBackedAutoExecutiv",
-      "title": "Anthony DiLorenzo, a Trump-Backed Auto Executive, Wins House Primary in New Hampshire - nytimes.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTdhQmJKRXpQU1ZrdDcyT3dTVGktVVF0OEh0RVZSOFlaazVjb3BRRnFRS0VzZFV3dFZvZGJIT0tzb1NpZndkV3RRSXdSYlYzdXFtd19zMVdhN2VESXhGSVR4Z0x1QWRlUEJlc3hCd0dDdzZXR0o0MXByVTgxZ0Y3Mko1WDQ1Wi1sQ1JLbTRlel84bHY3b2h5UTBn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788931107841
-    },
-    {
-      "id": "news_NATION_LindsayClancyslawyerhopesfordealwithpros",
-      "title": "Lindsay Clancy's lawyer hopes for deal with prosecutors after mistrial - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vX1hBQldqX3I0NTd1YzlDQ0dTcjZuS1dfUjRiZkV2X1JOeUY4Y0ZhS1VHYmt0QkFtVEI0bUhfZFN6aUt6UGJIcTNGTFNreXp5aUVkaTJMWEhWZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788931107841
-    },
-    {
-      "id": "news_NATION_Frankfortmotheraccusedofkilling2yearoldr",
-      "title": "Frankfort mother accused of killing 2-year-old remains detained as new details about her mental state emerge - WGN-TV",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNjlOeHN0Z0FMQ2V0OHM3WV9NUEpkVkdHTUx5MUl0d1FGejFKVTlKSVV4cXpZSGpZd3B5a3lhdmVyOGh1ejNuWEVrV1cwZmh5RVIxYkEzSkhrTllvRW45eDUxVVhUSjhVUEc2QUlkQnNHRzZQcy1MdGxYOGxZRGZqb2tvbVpFRFR2el93ZGJwWXRURWZYNEN6bVJaYllwekhVNHIwSnlVSG5jekthWE9BSnZDNm1ldkhfVjhUdXdSRFTSAcYBQVVfeXFMUFVubVBPTXRBbHpXaVNRSTVtR1RNcHFoNnRCTmVxTldiTkpOeHdxV2c1dFNONVZaellmakNFdEJwNUxjS210OGRBd2RSZ182R1VHRUl2UXZvODZFa3htTWlNU21iZmpZVVdSb2s1WXNWMkJnWUw0aVNwQy03bWp1aUJKNXExSXR0ZGNoX2lOay1lT2lrUEllSFAzN2t1NS1NR2NTbUkza1RieTMyUDdtMXE2MjNfV0xOVzgyN2ZHVy1OczN4M1lR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788931107841
-    },
-    {
-      "id": "news_NATION_IncumbentGOPgovernorrollstoprimaryvictor",
-      "title": "Incumbent GOP governor rolls to primary victory after keeping Trump at a distance - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3V1cVdpUWw4R1VpOGFTNi1SZ0JFUlM0bVExUEQ1VUdyNnYyTzF3TVJraWJwZmRKQ3Jzb0xmSE1XbmFKRDZjMzVCVlUycy1aZldtMERRV3FoYUJFZTF1NXZFaENFT1VmeVBCRjZXS3VuRm9QLUtGY2VpRFkzbVh3NXFzcUZSQkRaVVI0dXJ3LUNsaXl0UjhsU05JcER5ak9jTUHSAacBQVVfeXFMTi1XYUU3YTJ4TU9fSFJXTDE2OUlObWtDQmxpc3BaYW5JcHA5NC12cC16SEM3elhwOHJ4S2VBcERFZEV2b0dtQmhYYi1vQzF0b2otNjJPY21wVEJQRTdLVnBmbkZSaHNNdGtBa0ZCM3dWaXNZUHVlcm03MjdKTHZyVEhwbUpMWTFPZEExNURSb2V4VE5LMEFXVE5TTUYzb28wclNWdzBxM00?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788931107841
-    },
-    {
-      "id": "news_WORLD_IranretaliatesagainstUSalliesafteritsoil",
-      "title": "Iran retaliates against US allies after its oil tankers destroyed - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788931106775
-    },
-    {
-      "id": "news_WORLD_TrumpdidntopposeUKsanctionsonIsraelisett",
-      "title": "Trump didn't oppose UK sanctions on Israeli settlements - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3gxcHd1VUFCUmx1d093bGRoZ2dHYklOR1NuaUtJVE91bVF0Y1JDRV9DVDJsTmt5V2hncUpVSnJfdGM0akllR0dBWEprVW5oS1FhZkt1MzRyWnRxcXRncnFiRjBDX3RjZ0VkeUJhSjlQOW9XWDlENTF4OGdDYjN5SkFyNHgyZDdROWR1YWotWmJjQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788931106774
     }
   ]
 }

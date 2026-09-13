@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:40:04.945292+00:00",
+  "updated_at": "2026-09-13T00:20:11.996433+00:00",
   "signals": [
     {
       "id": "news_TECHNOLOGY_WardogsIsAlreadyaHugeHitAsItSellsaMillio",
@@ -781,6 +781,72 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SCIENCE_A67yearoldtoldherelevenchildrenshewasgoi",
+      "title": "A 67-year-old told her eleven children she was \"going for a hike\", then hiked the Appalachian Trail alone in canvas sneakers, sleeping under a shower curtain with a 17-pound sack over one shoulder. She reached Katahdin on September 25, 1955, 146 days o - Space Daily",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQTFXZkVJMU9GZEJUUW50VGlTT25MbHE3d3BLak9fZldQS05VS2pTdHNWanZ1TGFyLWtQMFlpdXdubENwWWRiVjY0OVZhTl9lYy02bWVMcmp0UXFzS01sOGJZV1l2TmFnTnVVREtxVTJDNTFKWmY1UUxraEFEXzNxbzlVREw4QWtOM3FIeUpaSC1aMzNyRjdMSGRXcnRfSkE3TXZKVnJEeTRWcFR2Z0xOVGIwby1GVjJBb0FwUVhzNmtuMTlPSDVoNGdWQUdPc3hpOGtrM0NEZnljZU11ZzllcnE0b3JMMGEzU2hfUFotMEJwdW45ZjBIdFd3QzE5TDFYcXhqMHRZaEppWWhuakdxMHZkNjN2b0pmUXNkMU1ib3JRMUdwTDFXOV9DNGl6dw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789258782094
+    },
+    {
+      "id": "news_SPORTS_OhioStatevsTexasliveupdatesNo1Buckeyesba",
+      "title": "Ohio State vs. Texas live updates: No. 1 Buckeyes battle No. 4 Longhorns in primetime showdown - CBS Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1RLajg4ZWpwVWc1TGxpVXlhVWpZR2Z1YzhrWnlGQVdTX3FyNHdLV042aFhBT3k4X3VpNlFuSi1oNWtuZEZhU01KM1MtUHR0a1lsTklWV2l5NkNxRmp2QmYyZ0pubHp1b093NmJHZ2pyTWlsekxFNUJWRTNkb3RJemtlTGl2UzB6QUt1bURKbkc3Y25ueUtsS3M2WTdEQURwanpkWnpIS2dSNG4tVlFRbU1mRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789258780967
+    },
+    {
+      "id": "news_SPORTS_GuimaraesandRayacrucialSunderlandvArsena",
+      "title": "Guimaraes and Raya crucial - Sunderland v Arsenal player ratings - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Pd204R29oYkdhdXBRdkpZNEdtek53LW14YmtPQ0VnWkp0S0F5X0s3d1BLTjJXN19RWnl6ZEVmS2o2QUJJQ3F2U0VOZ01pVHB2UVJESXlUR2ZSa1ducTZRYmZOcVlGb1E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789258780967
+    },
+    {
+      "id": "news_TECHNOLOGY_ChinaDeploysRareTypeofSpaceJunkThatPollu",
+      "title": "China Deploys Rare Type of Space Junk That Pollutes Orbit for Hundreds of Years - Futurism",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRENwX05mX2phOWw2aDNseEZMekFQbmU5eFRCQndVN2lrNFo1b0VORlBxZ1phN0tKQTF4Y2FvQVg1VTl1NGNUUVRLeHNpOEw2aXhUX3lkT09mYktfSUlLUG4zdVlkMUQ4QVZBZnB6TzhrSGxrcm9hNHRZUVg4b2dISnpKc0dkOU5F?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789258778655
+    },
+    {
+      "id": "news_BUSINESS_UScourtrejectsTrumpsemergencyorderkeepin",
+      "title": "US court rejects Trump’s emergency order keeping Michigan coal plant open - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0REVGJUZENFMlBSRV9ySk5PemRjZHJTbjFuNHpVamRGZDAxdVdCOFY4RUVpSGFGQWFtd2pwR2VGS21vcnBNRXpXM0tNRjVjWWZlYkpOZXJBeE9FN2FSZzVfMWV4VXBRVW5ob2N1dE9SQ1lGeGFZVzNMU1lkOHRBcXNJT3ZGWncyUWVtZmtJMnYtMlp4bmd2TmkwTzI4cGstX3ZuYnhxTFhYcnpBeFRYQzRwVdIBuAFBVV95cUxORFE5dDhhb2lWM2lWUTFTa01wa3Nacmp4eUNWOVN3NmFqRlRkOUVWTVJYSzJvNkJSRFY2NHF0MGtsLXBrd3Z4VWo1ZFUyd1AtRkxGQ05hSXlqa3BFcHdpaXpDUTlmOGN2dUxyVHpnVEx2MkhsbkNoRXFLbGNWdWMzS3VQX01UVThIblJtTkowMHFiYzQ2bDBsU1AySUVDVVZ3SjdObks1STQ2SnJzdDNRa0lTaUpCT2V6?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789258777368
+    },
+    {
+      "id": "news_NATION_TrumppredictswarwithIranwillendverysoonl",
+      "title": "Trump predicts war with Iran will end 'very soon,' likely after midterms - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0FhUm52Z2pHaFR4c3JuRDA3NUVhTUQ5X1NlYm1QbUMwcWRGMXo5TUpkOEFIcVhlR1RFT282dHhGSm42OUVsSFhMZElmUkM4ZlljU1M5QlFsSWRnaWtIQVdiOUZjeFMydkFIaFJnaFh2ZTFoNjZIcE1DRk1zaEVMNlM1TFkzLTFlWWVmOV8tbC14Szk3cVhQdm9B?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789258776244
     },
     {
       "id": "news_government shutdown_TrumpProposesFederalPayFreezeFor2ndYearR",
@@ -5434,72 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788914494259
-    },
-    {
-      "id": "news_NATION_AllegedClancyCopycatHiredCaseyAnthonysLa",
-      "title": "Alleged Clancy Copycat Hired Casey Anthony's Lawyer - Newser",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSGR1YnhzOVhFOUJwZjNHR0tTc3lwWGROR3hzZFBCbWtRcUxyRjFuaTVkVFltYTJ5WGoxRm9uU1RlQk1zVjRINnFTcHRKOV8zU3JWTzhNTHZZT3F5bEt3X055VHUtNUpuOUtkbjZNLWNEaFFHOXpMSEpxNktaVmQzM0doNEk5aUVVTEE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788914494259
-    },
-    {
-      "id": "news_NATION_Formerlabanalystsentencedto10yearsinpris",
-      "title": "Former lab analyst sentenced to 10 years in prison for manipulating DNA data - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDNnZXUzZFlKbnBNdldFdTZYalpNUFZhTVo5WWNDNnFtbkk5eG9jRXZGZGVLWWxKTHhtb3pVVnctb3hnOF8zSEIwcG1oeS02LURSR3ZMZWs3TlNzcUhSUEF2Q0pURjJ1QW9FdkpER01PS21ab2F6Mzg1amNwZVgxMzRJamhsTXBlaW5DUnRjWUtXeEdVaHdDRw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788914494259
-    },
-    {
-      "id": "news_election crypto_Reformgivenanother4mfromcryptobillionair",
-      "title": "Reform given another £4m from crypto billionaire pardoned by Donald Trump - Yahoo News New Zealand",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jdlpBTkFHaEFLNHpVdzVMUTVROEZyOVJDZkdGYkRKZzA3MVlGWmQ4ZlNmVVl6OXFFS3ZucjdQd0xfWHJyV19tV0pveDFlbGJHODYzd0ppTHM1NmNCRnNXempxa1YwbWNKQjI1Z1hsNHhhT0QtSmxUblNYQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788907551620
-    },
-    {
-      "id": "news_AI controversy viral_Metalayoffscontroversygrowsafterexemploy",
-      "title": "Meta layoffs controversy grows after ex-employee’s anti-AI video goes viral - thenews.com.pk",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (AI controversy viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral, controversy.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDBkSlNSUE5rRGQ2VzZnSDdnU1hXLVpyMnRnX1pJZlBYSVNNdmRLaDdhS180VnJuWFZDMUJ3V2JueUprcnBiQUlJMElnTEJsY0ZrdHVMM3BYUl85bmcyOFlBczYwM1llR0VVRHdHRWZEbkZQazNNbjNkZHRlWFdJSXFuc2dLLWpXZEZkR2lzV2JOUWRuOG5uRUg1Rl9sbkhiSGxuSVBQWjBtUDQwMlFiRlhwU05HWWfSAbMBQVVfeXFMT3J4bGlxNzBxckp1OEttNXJ3QXBUdGZjclpvWmlObGpHc2lzd3VYOUNFYjJXSUxvWmdTMjd2X1hOYkh4NFpXQ0dBaXZEMVlucWt1UFVsT2lrVHN6TG5zTVFpOFpUVzdHY2hvdDZOVTB4NjFfUDI5NWcxOFBHV0NzOVdXd2lSQVpkLUp6WHpDSUIzd29ldVhFR2pvbVBzc1lzNGVSU3cyZHRUbVJWdGY4X1pQSGc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788907549355
-    },
-    {
-      "id": "news_SCIENCE_Ashippingcontainerfallingoffacargoshipin",
-      "title": "A shipping container falling off a cargo ship in 1992 spilled 28,000 rubber ducks and other bath toys into the Pacific, and oceanographers spent the next 20 years tracking where they washed ashore to map the world's ocean currents. - Space Daily",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQVWlJYXlhQkp2eEQzRldhV3VRMVVVTnlkbnJHME9yd3lRT3BqM1dORG5GcUY0NERBRDBIUE1Za2o3d1A1akNLN1VqMXBYLWRTQXh2Ti1Xc0ZYdUtQRko2LUFRVzllR3Fsa2lndFNEMGVpdEFnS1JjbHlzcUUtenUyY0thZFFJenl1cVlYZW5sczVfam9sTF9IX2JabzdMdGlvekFkcFVBMjJ1VlAyU2x6TVRQTlZEZVFFSDBFOU5qdm9GWHd4R29rT3YxanlyWlR4ZEx0dUd4U2ttUkFjRUZoMy03UndWZm1YWjUwT3ZySzBzOVY5N2txc1NEUWE3QmhweHBzd1h1eV95RlFRclFyeFU1MGtBcV9FaExGcDhwSUdFX1BfLTJ6ZUYxUk1WN3BFTkNDS0h4VG1HcU45RDlTalplZU12QQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788907538720
-    },
-    {
-      "id": "news_SPORTS_BakerMayfieldagreestothreeyearextensionw",
-      "title": "Baker Mayfield agrees to three-year extension with Buccaneers - nbcsports.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0ItT0Fwc25rdG5HN2J4TVB3aVFvaUpJQmxwT0UwMkFXN0VFRUtURXRtLU1DUDdhS2p6OHBTMWJLRWdDV0JqWTc3dXZGaHJqTVVjZVBFMmlRUkJxblU1OEdScmtsSVZXWHdTamFTWWEyQXZSVzhyU2lZOHg0LWJDaklDeldtSFpZQ2lQM3dfdjRFWmkzdk1rVFRUNkwzM0VmUF93ak12dGF1Vk13dGFQNTFyNFYtQ1BKRU82SDBPa1g?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788907537578
     }
   ]
 }

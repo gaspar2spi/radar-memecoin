@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T00:20:11.996433+00:00",
+  "updated_at": "2026-09-13T04:59:12.716728+00:00",
   "signals": [
     {
       "id": "news_TECHNOLOGY_WardogsIsAlreadyaHugeHitAsItSellsaMillio",
@@ -781,6 +781,105 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_government shutdown_TheSenateCRandtheShutdownThreatNationalT",
+      "title": "The Senate CR and the Shutdown Threat - National Taxpayers Union",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWQ1WW4xZ082MXRTdm9nc2s1ZVFvcXc5YUlqdENDdzRJZlJuNXc1ZnR1QTJKcHR6blNZNzJfQXlaM1Job1ZmZTBmN3hURS1zREptQTZEVDNGZ19KRXFGTnpuQzBFWTV0Z3c2WnlQV1BpSDAyZlBRVHNSQTk4QV9oaHViRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789275536590
+    },
+    {
+      "id": "news_AI controversy viral_Metalayoffscontroversygrowsafterexemploy",
+      "title": "Meta layoffs controversy grows after ex-employee’s anti-AI video goes viral - The News International",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (AI controversy viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral, controversy.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDBkSlNSUE5rRGQ2VzZnSDdnU1hXLVpyMnRnX1pJZlBYSVNNdmRLaDdhS180VnJuWFZDMUJ3V2JueUprcnBiQUlJMElnTEJsY0ZrdHVMM3BYUl85bmcyOFlBczYwM1llR0VVRHdHRWZEbkZQazNNbjNkZHRlWFdJSXFuc2dLLWpXZEZkR2lzV2JOUWRuOG5uRUg1Rl9sbkhiSGxuSVBQWjBtUDQwMlFiRlhwU05HWWfSAbMBQVVfeXFMT3J4bGlxNzBxckp1OEttNXJ3QXBUdGZjclpvWmlObGpHc2lzd3VYOUNFYjJXSUxvWmdTMjd2X1hOYkh4NFpXQ0dBaXZEMVlucWt1UFVsT2lrVHN6TG5zTVFpOFpUVzdHY2hvdDZOVTB4NjFfUDI5NWcxOFBHV0NzOVdXd2lSQVpkLUp6WHpDSUIzd29ldVhFR2pvbVBzc1lzNGVSU3cyZHRUbVJWdGY4X1pQSGc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789275533439
+    },
+    {
+      "id": "news_SPORTS_ChrisKreiderCanadiensagreetooneyear215mi",
+      "title": "Chris Kreider, Canadiens agree to one-year, $2.15 million contract: Sources - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTk9DY0xyeFhzOU9xNTJLd21FTmo0TW9icElVZVdHTWpKa0xLYndTbHVDNUV5V1BHM1VBdDRDUkROV05PUmJFYk9vaUliVm4waVhvOVhOSlU4Q05ucmdrN2pVYjYyZDBxRzVOUVhabFBZd3Z5bWtVVkdvaXhZa284TEhpbDVZckhEakllVjdR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789275522232
+    },
+    {
+      "id": "news_TECHNOLOGY_These16SignsFromThisWeekAreSoFunnyTheyDe",
+      "title": "These 16 Signs From This Week Are So Funny They Destroyed Me, Especially The Toilet One - BuzzFeed",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vRGE3Ukc0VEhHbHprSjhCSG1tcGZPa3gtenJHZl95TU80ejBiNktqZno3X3cxWVd5UFZLelIzX1RueXJlNXV4NklWSktjZ0xzOUVHVnNrZjQ1NnFXMU5zYjFMOHpnOVBKVlhXUFQxc3UzSXVMenc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789275520656
+    },
+    {
+      "id": "news_NATION_InphotosRememberingtheSept11attacks25yea",
+      "title": "In photos: Remembering the Sept. 11 attacks, 25 years later : The Picture Show - NPR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmVtR2o1dzl5RzRrTzJTYUgtZXRKQjJDVXBuMHlHeUJSZVVxYldYMTRkT1FtLVBqV0dzYm1SUTF2dkdNVmNyX1Z0M0o5VHVNLXJyNzVoMy0tSUNxQ0RnaG4wZGctXzg0Ul9BOWREQkd0TXl2b0k2M0Zjc1RVLVBGRUV3QjZUNmw4bWZPNWpCZTNpY0ZYY1NDRDU3UWZfV3VYZkxXc3lqSkp4ZTVMbHJwTS15WTVUWnZSUmVSanRhNXhkQnc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789275519092
+    },
+    {
+      "id": "news_NATION_FederaljudgerulesTrumpplantocutFEMAby50p",
+      "title": "Federal judge rules Trump plan to cut FEMA by 50 percent was unlawful - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHMzNkh5R2gxSHQ0cjIzVnphX052UEl1SzJHNFVhMFNvQ29wU3hpYVI4T0JGc2tyTkpkdUlXUERscEZKblJaSV9SdDVtWXY0b1BXbHVxS1JralNBQU5kbXpYbl9wZ2tiTjN0WjVKNUdqVXNkRERSWUNPSlQ3bFpQZFNOa0Via21oWXJ5SmdxWG1mWndwc2V2ZDZGZlpHNW1MQWI5blRKa0dmeXJiRlJrdW0zQ01lZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789275519092
+    },
+    {
+      "id": "news_NATION_Marshallbacktracksonsupportfor5000Trumpd",
+      "title": "Marshall backtracks on support for $5,000 Trump dividend in Kansas Senate debate - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZl9wOV9jTGo5YnhoV1p1MWlteG1MR3VlbTdmLVRfSEdYT0hCMlVsclEzSnJSbFFLWDNVQXNxTzhZTVJwY3JXWU1pd3JCWlB1S084eHQxRjJwTXJfZ1AtRGpaVzdrcjgtbXVPb0FZQnVRSDkzVVQtTzFjMjNDdXZsYnVB0gGHAUFVX3lxTE5wU1ZLcGFyWEszQnF6VVExcjNEZWZiRldNTEEtX29uSXJwWlFNTXdVRGROQktfM2dCbnFfclBNSjdrV2RKMHBsX2FXMUFHZG4waU8zQ3c4bXV2eHF1QXpIY0FaeU1RTGh5dnNDSjZoclVBekNzNm5xal82cFUxVE9vYzhRdmx3Zw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789275519092
+    },
+    {
+      "id": "news_WORLD_HouthisclaimattackonSaudibaseasfightingf",
+      "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces - theguardian.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPanB0ZWRqNU81bm9tTmp6UmxUSWVFZWY0OTFaZE1FdnRNWU11ZnlTUkNyUWtuRUliYjJXVFBvR1VLSzhqZ3k4N2NqVHZhTW14U2pzWG05T1JuNk1xM3dyblhlQkZLS3N6SW9fTDhqSjVvNm40ZDVGMU9ST2tQUi12Rm9rYk1KSUN0cldRbUNadUNYWFNfaHF4eW5aQl9qeWJOLTZVTzh2NWdTaUVMQVhndEZSdmYzcE54Y3c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789275518201
+    },
+    {
+      "id": "news_WORLD_PeoplefleeingIranbackedrebelsadvanceinYe",
+      "title": "People fleeing Iran-backed rebels’ advance in Yemen describe a ‘hysterical panic’ - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0hKblZsWDdXODVsQUN2V2V6c3dSODhwQm9pVHlwTmxpX3dQRnEyM3BLNTdBYy1OV2ZqNTE3M2pfQ1pKLWI2ZEdxZXE5QU1vWUR5WnI5bkdDalpxeVRtU3l6Zmp3UnVCUFFMbVdLQUR3RlFqQThBOUQ0UWZDYWozV1RSLWhWWUdTcEgyV2g5dUs3QQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789275518200
     },
     {
       "id": "news_SCIENCE_A67yearoldtoldherelevenchildrenshewasgoi",
@@ -5401,105 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788931106774
-    },
-    {
-      "id": "news_SPORTS_HawkeyeMarchingBandmemberdiesaftercollap",
-      "title": "Hawkeye Marching Band member dies after collapsing during Iowa football game - KCCI",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYVREcUxXdEh6S0M4X2pBOW9rVHAwYkx5ZkpmNTVySG9HWktwYlFUd1d3SlNkOVpwYlZuZ1paYVpyekN0YkhMYnN3Vm40NVpIWXNNaXNlcXh1a1h3S2lJNXVfblhBVmJnZmt6Qk9qR1YxbzlMUlJ6dExjMGNHZG5CYWNUR0RvLVlYaFVsOVhjbnFTVDJNYWRGZzJ4ZkdCMXdQZ0Vj?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788914497459
-    },
-    {
-      "id": "news_SPORTS_FordeYardDashRatingFirstYearCoachesDebut",
-      "title": "Forde-Yard Dash: Rating First-Year Coaches’ Debuts From Dream Starts to Total Disaster - Sports Illustrated",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWVNUelVIdGxRRVlhaHFaNUVURFBKRnNIWUhVODNUZXk0TWw0UWZuTlg4OXc2R0w4UVdQalh5cW42TFFQY3NuTVZTOUt1MFI1eWFoeVZaWUpUelZnSmxKaGE2aE0xNE5aaDEzVVhYSU9jdnY0WjA2cEpPSWd3U3RFamY5NHZtRVhOc2xkaktULVJxbVF4RkNXbExZNE4yam5mekZLdzl3MFRVazR5blBJbElSQ3RoN0tnYjhCdA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788914497459
-    },
-    {
-      "id": "news_SPORTS_CommentaryAnOctoberbyebyeDodgersneedbyet",
-      "title": "Commentary: An October bye-bye? Dodgers need bye to save Shohei Ohtani - Los Angeles Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlZ2bTFQaDdqQ2JmX1h4bXZiU2tvQ1Y0SUFHa0hER1BkQW1ackgtU0dmbDJMWnJ0TzF6YU1VeFAtS09yZmxXN1JNdEEwckFheFBEVDRzUE5Ia19QQzZPU1g1bTkzY191a3IwbVBfSG1xZlA4TG5LWklYcUtiV2d3Zl9BMHRJU0VPNjBZRzJYcWloZkFzbXA1NTdGSEVheFNybVkzNm9GbU5tQ2lLY1dB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788914497459
-    },
-    {
-      "id": "news_ENTERTAINMENT_ElonMusksMAGAShiftSelfDrivingCarsMythsAb",
-      "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations - Variety",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXp6OTR4dGRCTnlEbml2dWxmV3FUQXk2STd1UmhlX3dxeFpGd3hobTNCSFVaOFJfMXBweFdGekpjdVFmRV9sX1lqQ3FVMW5vQmpwblMwbjZ2enNfcy16eHlVNTFWcV9rTjdCMkpPeVB1R2I1cFhrTEhoNzlyS0pobS1RQWVQYVpqaEdNQ3dDc1BEM1ZISEQ2V0NSWm5Zd3NFT3c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788914496640
-    },
-    {
-      "id": "news_BUSINESS_AddedFuelCostsOfTrumpsWarInIranHitEstima",
-      "title": "Added Fuel Costs Of Trump's War In Iran Hit Estimated $100 Billion For U.S. Families - HuffPost",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHpyaUJaOGpmbGV6UlJEdzhGNXVtbzVSa1RLMVNHa0NVbkltdmZPbjFrU29FRDZNQkQ5U0ZZdmt5UFVJeFV0cnk3UFJuM09PSndBSjVlbll4QXZVcWlVaWpOYXdvcXNIbENtcTBhcVJzYTY1MTV6amFqZVBJY0xQSXhSSTFPckg0U2liYzZhZ3hiVDU3WVVXMHVScU5DZnljc0lVQ1pISzUtMFJyR2owZUdfVkpwZ0nSAbwBQVVfeXFMTjIwXzhTNlYtV1lDbmF3ZzlSdi1GdnJYdEM4OHZyYWJWY3VHU3hpUVFPbkJQdFVzeDR2SVdQWjk3aGF0YUJOTkFYTjNXTXh0Y2xZVm9ibGpDQ1p6YzFIOHZkRFNjXy1nTEtKS1hqazM1RGxUb205dWd2blV2WnBkTWNSM1llYjlCYUt1N1ZvVFRFMUNpRWxOQ2ltNmV4ODFsODVlUFBYSDJrVVJkQzJzWVJqUy1CaUN5YzlmWlc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788914495054
-    },
-    {
-      "id": "news_NATION_USmilitarysaysitdestroyed5moreIranianoil",
-      "title": "US military says it destroyed 5 more Iranian oil tankers after missile attacks on Navy warship - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlN5b1FuNFl6ajd5T0Z0MVppWHZ5Y2hFOHJ4dkd0X1dqMGljMHlOX0FZNE9HSXU4SmoxVUVQVEs5OUg2OG8yM1NyazNZQ1VPU1dCS3p0NmNsUk5rVjBMY0xONjRQWGRtTk1vZkNFOC1PWElwcGZmbk9SUzVRS3JCeTlhN25heDc1b0dWbA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788914494259
-    },
-    {
-      "id": "news_NATION_Trumpsunusualroleatmidtermconventionreve",
-      "title": "Trump's unusual role at midterm convention revealed as schedule goes public - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yZmo2MHZUalpxMGZmQ2ZPVkkwS3VtUWxneGtnY0FOSTMwNnIxMkw0SURaRklMTkhPUjBOMm1ibTZnSlZ6TUQxX0w0bERXVEhtUFZhQV9Kdk5INWFGbC1sU2RZN0JhYklJS3hnT25vS05Odk5uMW1aS2hQa9IBgAFBVV95cUxQSUp3ekhCaDZneWRfUVYwWlpYaWVHbEFUcEtlUWYyVElsbzZjTW95OVhESG5WcDlweXRBWE52TTk0UERhWlhYcWJNdVNoWlhZMmpNbE9MYVdxLVpjSTU2Z0tRUEYzS180SzlfaXJqelRNSEhTeWNvVW9iYkxDMXRLcQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788914494259
-    },
-    {
-      "id": "news_NATION_Honoring911heroesTrumprepeatsdisputedacc",
-      "title": "Honoring 9/11 heroes, Trump repeats disputed account of his role in recovery - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnY2QlhldkJJSDB1dW10M0lQdDlBMVNhT1Bjd2tSWTNJYXFxOU4tVjJyNFlBeDdGR2RtUmFqR0pTbEtRbndEenZDNGU4bExwUklScjhYSTZMUURhZVBUT2k0bF9OZVJVNGNQQ21Ca2VMRjZPUVRmeEZIU3FGMHA2bmlqdS1ndE9rNWs4M3JjTmJacWdMQ2VHSHl4TjJpTHlINW9IQ3BjbXNzSFczRC1NVGpQMFJBUWNyTDlUNA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788914494259
-    },
-    {
-      "id": "news_NATION_FactcheckTrumpsstoryaboutbeingcarriedawa",
-      "title": "Fact check: Trump’s story about being carried away by firefighters after the 9/11 attack - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xUzQ1aF9BbjdSM0pWeDBreTJCN00wSnU0VzBtWFBLODljZnNkT0tvTXU4ZmFBYnF3ZHhpT3dnYzE5UGhOMl9qQm1uckRrZHlOMExNeGI0TjQzdHRfWi1NVTN5REFHTnJKcEVtX21tUTlMQm56Q0hr?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788914494259
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T23:33:53.958327+00:00",
+  "updated_at": "2026-09-14T01:33:52.339165+00:00",
   "signals": [
     {
       "id": "news_WORLD_FightinginYemenintensifiesandHouthislaun",
@@ -792,6 +792,116 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_government shutdown_Trumpsignsgovernmentfundingbillavoidinga",
+      "title": "Trump signs government funding bill, avoiding a shutdown ahead of midterms - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcHNnS1BoVmlMUkRQLTBfcGxoZDRCQUlFamg2dl9oOHF4MmloNHh3cDZSQ0VCeDFaOWthb3Fvd3E0Nmo1NFJHeG5lMnl6dXpOUkhLWXBzVTktTTlMRGJSYTRzR0dSc2ZDSG1DeHFEeGszRjNzbFMxaHFRRjJ1aFY5aGJ3LUtJMXNfTDlBZ0RMejY0STNwMGlEQl9kY0F5QWFyeDdF0gGoAUFVX3lxTE9xcVNNYTJoUFI1WW1rQkU5YXc0NXFxaVk3bFBjR0ZzMHBncWdRR0Y5ODF2Y0hUTjBCeDd1eFJwd1NYU1FjQkl0TkdWVHdaTUFCLUFnaDRDdjQ3YXk5LUtSQ2VhRmZTVnllWDhWaG5IcGJoQUd6M1pycGFtWndBSk5lWjJJYVZNZU1RdkhtUFAweUllYkpDMEZLc1AwSHRKT29CMVBfamowWQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789349616181
+    },
+    {
+      "id": "news_SCIENCE_HowoneRNAnucleotideswitchactivatesfluore",
+      "title": "How one RNA nucleotide switch activates fluorescent dyes - Phys.org",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92Zmx4VjBWSEtfWmxnNVU3NUVNTUowdHBMUGM4eUNTR25qU3RXZ0Y0OVAxWG92M2tyVFlGbTV0SDBhUkc3VEFnTlhmRXNVQXdFT1lJUG9IazJYaVpOOXZRMmp1RDdsdVZvNE02UmZSNmY4RGNf?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789349599260
+    },
+    {
+      "id": "news_ENTERTAINMENT_JustinandHaileyBieberCelebrate8YearsofMa",
+      "title": "Justin and Hailey Bieber Celebrate 8 Years of Marriage and ‘New Beginnings’ - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWEJwS1Q5MmNieDByUko2Z3Bhc242YXFjb1d2UkppcjJqeklTUWFaSzE2N0VxTUdnaktwMGxEaDZDcEg3UENmMzFwdVgtNzRqTU1EbDJjU2M0WlpNeC1XUEl1U3N5SFRzN2xPVzR4Xzh6aWN4UUxnV2dTYlJHMkxRYldPQmRkdmdMYTVLTDh4RTVGZnhPaktQd05EWUxoN3RBem5ZMg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789349597046
+    },
+    {
+      "id": "news_ENTERTAINMENT_14EmmyLooksThatBrokeRedCarpetRulesThroug",
+      "title": "14 Emmy Looks That Broke Red Carpet Rules Throughout the Years - instyle.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NbjZoX01wUjdPcElkOFBRcGlTUDFXYlFQU1pHUjMtV2VFZjFrMklzUTVfb3RvNTQ3Z21rem1UNnRJY1dwMEY2T1l6aFZKRTI0eC11bHdIZVJpaThZOHJlMXlmZklrQmdlbjNNQndrRFN6N0pqUkI5cjZ0QQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789349597046
+    },
+    {
+      "id": "news_NATION_TrumpreiteratessupportforunitedIrelandsa",
+      "title": "Trump reiterates support for united Ireland, says won't talk about Scotland 'yet' - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQamdUcHJzQktXeDBYd3NSY3FjaDR6djYybkRwa3VLVU9lS0hRY1Jla1d3SC16RjNpb0gtMXpmNlJzY1d3ZGFfQVpPWXRqTGMtNC1IdUF2d2hfTlRzZWs1YnlSMERpdl9nMlJFNVhSbk81VTZ1S2VTTktfbFhJRFN6VnBnWDZVVjZyNEpTRXFkMk1QdlFnUkZTSHZaUVF2cGV6U3RfR2xYTEJKZnpfbkJfTzNFaGVwZVdSRjYtcEVvdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789349593667
+    },
+    {
+      "id": "news_NATION_USAirForceofficershotdowninIransayshepra",
+      "title": "U.S. Air Force officer shot down in Iran says he prayed while \"free-falling\" to the ground behind enemy lines - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnVwVXdmamxtTXBDdzZacHJlQ1owNnlnN0ltcXpuWWVkV2tHcHhlZzFSbUptZU1Nck9LVEJSSFktX2h1YWpPYnJPdUJyRUlOMkEwVDloS0pnT0xqSXhna3RVWWxDVFdnbXNEUVVDdGNjdlN4WDBHYllya2R4dmFYeUhWQlE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789349593667
+    },
+    {
+      "id": "news_NATION_TrumpsaysLindsayClancycaseisastatesituat",
+      "title": "Trump says Lindsay Clancy case is a ‘state situation' following attorney's pardon plea - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0l3dm9aM25EdTlCN2x2bENtdmJJZjhGOXVOc2NQNGYxOE5ELXAwSm1fY2ExZVg4WmszTE1MZHpJR3hlTGpaV2ctVXlUNlJvdk42aGRvQ3p3OVdtOWZ4X2stZDdSb3ZNb1RHNDlXWWE2dkl6MmJSeU16dnFJR05DWWRDektTUkRqQ2VsYmVzRUExc04zTjZHY2FYWlJZSl92M3JrOHZCdEhMU1BJNWhhUtIBtgFBVV95cUxORWx6U2hFbU9BQmt6bWhfcE9sWEZMRUQ4bi15WGIxMF9oQmQyNHROV1NRRmlDZDNqVlZHTlJlT25IX0gwdXl0eVRtRjNjbzI3Q04zSEFYZVFhX09TaXFLYmRpazR3YlNJbmRrQzdtbU5CQUNUZnBZd3RHWmdhV2ZrckFMOWpUWkFXYTh3bzg5QmFhOHBzYnFZbW0tSFJ2dzZFS3dKRDd4WlN0Z0pJRVV0LXlqOHVhUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789349593667
+    },
+    {
+      "id": "news_WORLD_HormuzMeetingWithIranandGulfNationsDelay",
+      "title": "Hormuz Meeting With Iran and Gulf Nations Delayed, Oman Says - Bloomberg.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWG16MGlLTHpTd3B2dWZfai1GVzJJQ2QxVHdVN3lMcl9oZ1o2eEZYNUJfeE1TTm9yVGRTZ1ZGcUJSR1BsOEhycHZUVmh6ZnU3bEdUallFRWJnUnBGY1ZqM2w3bzZFUTh0Q3d1UUJacVZVVGZYeHpIUFB4Y3UxYVJvWUlUYU5jbm1jVjBMQTBOZlVzdkNSWVBzdkdnNFJxNHZqMnh5VnlwanJRT1pOXzBzYWhR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789349592425
+    },
+    {
+      "id": "news_WORLD_TrumpdownplayscallsforAIslowdownNPR",
+      "title": "Trump downplays calls for AI slow down - NPR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVVdHY1FYd2RBVTlXQ1F4cTVobHh0X3c4VHVNTnJjTzgxdi03NzlrVlAwYV9uVXhfOF9BVkRvd20zM1MtZUlMRzlhNnhiSldhMGtqck5JV1YzWDI4RHhYem5Ub2RKdEhPek1sNE01M0Y3eTZWXzRSMU81b2tNRTRtSg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789349592425
+    },
+    {
+      "id": "news_WORLD_TrumpcallsonZelenskytostopattackingRussi",
+      "title": "Trump calls on Zelensky to stop attacking Russian energy targets - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObGI1ZFdmRHVfcTlNN1JPUXByVXhQSmx3MUxiaFEwQlA2Um9EcWczei1fLWZQQk9oQWQtR2NHblRKQ0xTUDRpbWYwV0gybFVfX3diOUpvcWt1XzZqYjBOaEVNbkRHcnVEX0p3TVZhcW1ac21fcW9UU0Y0M3dyQjZzQWhtZTZQczBPZUJIYmtEWTd0S2lTdmRMMHdSbUJFTU5meUlzblVoaGVsS1k?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789349592425
     },
     {
       "id": "news_SCIENCE_LuminescencedatingpushesageofSouthDakota",
@@ -5390,116 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1788992907935
-    },
-    {
-      "id": "news_BUSINESS_OCharleysclosingalllocationsnationwideaf",
-      "title": "O’Charley’s closing all locations nationwide after 55 years - WTVC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGJMbEJweEUtam5WQ3F5SXluQzhJQzVJenBYWmJrbm1IZFRzQXdFTWFGbXlybmV5NDZMN1dfWmlib2xFd19hR0ZQTllhcXJPb0ROWGtNMnpibG9CSEJLTk9aYjMzS0hBNWFuWENkZXZfTUFvaTlGWGIzdWV0U0hISm1OVUdoZmJDM0c5V3dVc1cwdmwxcmNkVg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788992907935
-    },
-    {
-      "id": "news_NATION_Trumpgave45000cashgiftstoNatalieHarpandt",
-      "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LU19zQzEzRWF6UFRwUmM4VFFwWEhfNEMwTkFKdmlpQnJVUXAtVWlKTTJKRmtDdWV1WDB2ZUFCallCSkl1cE9IUVFOWlI5WWlwUFE3Zmo4Ylk2dw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788992906961
-    },
-    {
-      "id": "news_NATION_SalvadoranstoKeepTemporaryProtectedStatu",
-      "title": "Salvadorans to Keep Temporary Protected Status for Now, Trump Officials Say - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdldybG5rdVdBaWlNWm9DTmpvcllxTS1OMy1aRlFXM0IyN0ZuWnIxVzl2VVptMUpuMWE0ZkdnTUptV2RnakJkQkJ2MXVVbk9wa0dTSVA1b1lHZ2lQbDV2QXREUzR2MFdTa2oxSElUdXFHSnhTTTdhRlZ6NEZEREMyYw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788992906961
-    },
-    {
-      "id": "news_NATION_Trumpadministrationproposesdramaticoverh",
-      "title": "Trump administration proposes dramatic overhaul of 2030 census that changes who counts as living in America - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTDR3X0xQYVB6eTV2NHBHRnZpYzRWOGtjaTlQTmFaTXd4TVFHWVFxTGRiVnB6dFpTaGQ0TTN5MENDQzhsc21jeFc3OVlzQ3JicU9kSkdpekd6QVloa1VRbWJHSmtFRkRjWE8xWmFVWF9vTGRwbDlQdk9IdWZrcjljVy1vdHdmTGlSSXljYVMwbHdLR2RpRFpmZ29VbjlUenN4ZFE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788992906961
-    },
-    {
-      "id": "news_NATION_WejusthadthehottestAugusthottestsummeran",
-      "title": "We just had the hottest August, hottest summer, and hottest year to date in U.S. history - Yale Climate Connections",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM2FzSmdEd3llWXZaMm5yWE5VWC1nT3ZmSjVzd0NGV2ZPQ0JPTjRKSVhmdTZBbmw5Slh1OGs1TXBhVWhjcHh4VDF0SWgzVE1OWkl2TFRHWWlFTEg0T215QlZLZk9YUG40WFhYT3o1NVhSZFRuYmEySUM0aDRkZTNUeVBSQU43aEhqZXAtS3VqRTVtVmxET0Jka2ZIYmJSQzc3dnM4U0VsUnN5VzgxUHdmYjc4OWRNTjhFbHNpZEFkMkdGYzdhNDRhSQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788992906961
-    },
-    {
-      "id": "news_NATION_TrumpIsDelayedAfterEmergencySlideDeploys",
-      "title": "Trump Is Delayed After Emergency Slide Deploys on New Air Force One - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQm1wSTAwT2tNbWZXUnF5dFppUDNoRE9YOVdYUWxNQ3lKVEhWeUhRNW05ZDVWWkcwNEFEM0FzVnp3bm90ZWNEX3hZNFhDM1piQVkxNWNUbTVHaUdvN0ctcW54TWFxaTVPWC00SGZBbVBQbkR4ZzVDTWRuSVR3ZVlXT19LQ2p1bFVHY2lyeVhPOFQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788992906960
-    },
-    {
-      "id": "news_NATION_RNC2026LiveRepublicanMidtermConventionUn",
-      "title": "RNC 2026 Live: Republican Midterm Convention Underway; Trump to Deliver Keynote Address in Dallas - WSJ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBNHBPZjhzX2xvQ0I5eWNUdHB6bVo5OUdKQm9BSXVfaEk1YzhjXy13RmlKemV1ZVc4RldOemN6T1Z5S0lKcktYcWJQdlJjV1hmaDhwNjRHd01OTGNLLXkwTFdqVGxIQkJUa2FJbExmV2x0VVZrdDFUYV9ycw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788992906960
-    },
-    {
-      "id": "news_WORLD_50YearsAfterMaosDeathChinaHasLeftHisLega",
-      "title": "50 Years After Mao’s Death, China Has Left His Legacy Behind - Jacobin",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5COWVobEh5T3kwWWt3Z3pTQkRZUTdBdExpbV9IM0M1VkFIZUM1cXQ5MUJEX1pGaWJfeDg3QlFUc0V1cTQ0Rm9TbkNmSGlYN29mbzF4Tm1iS0hIb05OUEdTZ3Ezb3ZBdkUwSlhSUmliaXN6SUpIdlh2ZFNn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788992905977
-    },
-    {
-      "id": "news_election crypto_TrumpSaysIranWarWillEndImmediatelyAfterE",
-      "title": "Trump Says Iran War Will End Immediately After Election, Leaves Door Open to Talks - en.bloomingbit.io",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96ZVJOU2JOSF9iRDN0QVpvOGNKSXEyUVRDUElyR0FVb3d6RkxBN3RHb0VtYndEcDBSYmdwNDY0cTZ0Xy16S3Nyc0s2ZF95aXo0NGwyRg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788984198193
-    },
-    {
-      "id": "news_SCIENCE_A665millionyearoldtrackwaycapturesadultT",
-      "title": "A 66.5-million-year-old trackway captures adult T. rex at walking pace - Phys.org",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrcG1XNEVWU0E2QlFiVXZ3Ql9ZMXYwSFlLR2ozMkZyYUJlUksxa0tiWHduSElNenZuSTluc1VpMTJSaTlUSERVd00wV1lSRGpPMzIyTUxLRVFZTjFEaGRsQkVITVd5QjVvdGVaSEE0c0dUbWU4VDRWNXNISQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1788984185866
     }
   ]
 }

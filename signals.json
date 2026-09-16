@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T23:47:07.421142+00:00",
+  "updated_at": "2026-09-16T01:46:01.619935+00:00",
   "signals": [
     {
       "id": "news_WORLD_ScoopTopHouseDemocratlaunchesinvestigati",
@@ -814,6 +814,149 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_government shutdown_Trumpsignsstopgapfundingbillintolawtempo",
+      "title": "Trump signs stopgap funding bill into law, temporarily avoiding shutdown - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTM3Y1Y1ekRCdU1fYnFNR0I1Rm5QWnlnSHJpLTdJY29zZ001Q0J6R3dnOF9xNmw4aEtEcHFhVm1mdUpUNFRpeUEyaUtVeHFrQVVrQjJBMUZPYktIcFNoNEFtMXQ3OXEzQ2VsSG90RkJrem5OLXlvWXkyQjg5ZDBkOUVWQVdfd1VBcVBlUVBoYWZrOU43eFV3YVhRd0szUE3SAaQBQVVfeXFMTWkyTW90OWRCWnN3V3ZhaGs4UmZsR0kwYWVyM2VVcUJ0eFAyak5tc05qc2ZCbTRPdHJCUDdVSUhqQXc3STVPekN2WTNSREhZQjlxQTB5WUhyREpVZkRqYkNSOVBVUm5GM1hXcllWZ1Joc0tyeHgzcW5UV01qU3JxLU9OZ0FFdktpaVFaMWtVVHFfM1FmS0RQcFFqVDZrUUpRTFJmd3U?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789523146132
+    },
+    {
+      "id": "news_election crypto_WATCHSenateDemocratsblockcryptocurrencyb",
+      "title": "WATCH: Senate Democrats block cryptocurrency bill, demanding more limits on Trump's investments - PBS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQjg3VWpKdHk0bDFTVTRTRkRqMTNPcGRGT2d6d01OZnA2OHh1czlhQ2NxQldzaFNHLUdCc0o2Q0hlTjNINUdLTFpxR2RSUFhQMTYzWmhGdnJMM3dQT0o1aUVxUTFXZU5feHpUWl9FakI0YzM5cjR6Z3l2TmR3OGdBLV9MRTZFOTZjVTF0U0VPOW1OWFc1V2hOTXR3OXloLUZRTDVj0gGoAUFVX3lxTE9tZGRkd3VxaVlIZW5rQnQ3am9rZW5sZnhlMXhhS1hoVTRHdkRHM0FpUTc4T1hZOWoxRWZicl9ia1BkQlJVMTBuRkNDYVpVc1BEcS1KaVRGRng0Z2hJMEh5RWg0el9SdC1pVGNVTVR5dHh4YS1JRHVZMlNRaEpGS3hJR1QzZThxSkpEeXVydEhqYmhhRGdCWUhzWFJObkF3TEZXMGRZMWt3Zw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789523145009
+    },
+    {
+      "id": "news_AI controversy viral_LatenightdumpsterdanceDonaldTrumpsAIvide",
+      "title": "Late night dumpster dance: Donald Trump's AI video celebrates Stephen Colbert's 'Late Show' exit - The Times of India",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (AI controversy viral). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSkZSam9VWVp4LTZMZU1hdWlEZ01rNFVyWTZzNGNNOGpvUjl6LWZYZE9EQVhaSjd5Q1FDN1R4QVJpaVkxUkZGbExfWTh2dWUyUFZFOHZlT1BZV1FOWlUyX3NnY21fdFd0dlhuSFVCZEhfd0YwZEQzazhqeEF0cGhaSE44QjVfbl9FZUR1dEEzRDdqTTYwTW4xQVZhazFCWFJ6VFlmX3N5Z2U3cm5reklqYU53SGkwS0lralFOemdCNFV3YkF0RUVKS2hScEFlVGJmcUozNDByZWxXX0Q2UVgxWTdYUGN5SDB1d1V1a2ZGXzNnZ2Z20gH6AUFVX3lxTFA4b2pKQ21aNUI5ZW1WdVFzb0M2anRaX3A0d1lEYnN0TS1YYTI1cE00Ml9JQS04N3JjNlpjUnB2elBEVXJWUDE3ZzRUSDJnWVpaNGtUSEUteF9JZ3hZQlNwamFFZVliYUlrdkNMNHlzaXdZUlV2MUdfb2VxWWx4OGc0ODlyNHZIR19ZU0h2RUxZZHRXUEtSbEVCOG1CQ3l2NUtTT0dCY3JSZzlfMWpDQ3JpbWVleHRQcmEtaUhPMl9falRIbTd6a0p1S1QwTGQ0NUpiMkdISkNTZVNreGEtd05jZVR3OXNKQ2dIcWpIOVJSOWJqZHpQZUxhc3c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789523142866
+    },
+    {
+      "id": "news_viral scandal internet_ThisPicOfDonaldTrumpsSituationRoomAtMarA",
+      "title": "This Pic Of Donald Trump's Situation Room At Mar-A-Lago Is Going MASSIVELY Viral - BuzzFeed",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (viral scandal internet). figure tier-10 (trump) mentionnée; mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcVBjYzVRUV85M0l6c19lZFRTRjNuMWVVTXdXUE4zQmZUNHBwOWNNNFRSdlZjbVRXY19jSzQzTGQwb0oycThRcEtjR3lzQzFfQnlfcEdhTGFuc1ZoYTN5SXZZa1NLNjNpa0kwN2lQS1ZPaEJNMWJ1ZlhYRjVjWWhPSm4wdm1RUUI5YTVWeQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789523141715
+    },
+    {
+      "id": "news_leaked footage internet_ClashOfClansKnockoffPopularInNorthKoreaW",
+      "title": "Clash Of Clans Knockoff Popular In North Korea With More Than 40,000 Players Online - Eurasia Review",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (leaked footage internet). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVzUzdk1LWTlHZGNreHJhcVRBbTQ1OFpWcWtGT3IxTmhyNmplZE9vVUdmYVQzR1E5NEsxMVpJSVFDUE1VeG1XVFE5RElHQ2hWN196VFBtWnBUS3JiLWRaSndabHNCTi1wVE5wOWtHaUpPY1pydU00Z0lITEdpTDM2b3Y2bEJ5SVBLTWp2LWpncnNBcEFNalluRHB2c3dEUEEzaE1PdEg3SGhFX0xKbFR3MkV5RFpJUXFmaTZVOEt6cw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789523137456
+    },
+    {
+      "id": "news_ENTERTAINMENT_AmandaSeyfriedandThomasSadoskibreakupaft",
+      "title": "Amanda Seyfried and Thomas Sadoski break up after 9 years of marriage - Page Six",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPXzNyNnozakVkUFg5S0pubTlVbklSU3NpUWxIV0dwbzNhQjBDZTRzZlNUcnVQQVpxYm9mdkV2U19zVnhfaU91SHRRMEloQ0hOUXp0RHhhdGlTajJIZHhOWFBpTU1TSGlZb2FWM1lneVJqNmdEalljV1dwdnJjV3JPS2dLZ0htOGpaWng3LUlranR3S0tjTHVFZERPeUdUMlE2OUxLODkyZTh4b21iTTNQT0V1OA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789523131437
+    },
+    {
+      "id": "news_TECHNOLOGY_FirstLookIWCCelebrates50YearsOfTheIngeni",
+      "title": "First Look: IWC Celebrates 50 Years Of The Ingenieur SL - Monochrome Watches",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNnd6elpGOWxZZ1ZpYTRHVWxxZHJkckVrYXZqdlZTU3VMdFVaWDJITVpLeVJ6Nmh1OHVxeDZiTURLdWc1TU9Oa3ctU25Odm01SXU3MTJ6REhuS3JwNTZVMXpUUk5OSlFRTjdTUEppOENjZ3BWSmdFVEJRT2t2RUlWZk93Z2dOaXZ1OVh2M1FtdUtqTVVza3FleERZX2JULVdBZnY4WHJPUXlNQUlNci1Pcmh5TzRfWWFaYWlNczNKaG9palFxWXVIZE00LW92ZUZYR1Jsdk9DUm5hQ3dtU3pDN1czYXBZUjA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789523130643
+    },
+    {
+      "id": "news_BUSINESS_Trumpcantblusterhiswayoutofhiscalamities",
+      "title": "Trump can’t bluster his way out of his calamities - dailykos.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakREMWQ1dUpBRU0tQndRZ1lZbmNvbjdwdmlCYVMyajlwQUFCZld2YTVXQVhyd1hyR3FRSy12QllSMWVBVWJVdTN2dTRqWDBkZi12T0VPdlgzZWJlWVVHeUtHWHVsNlJhSGZwejJTcHBnZ2RNVGxfSkVSOVcwN1VYLVNlXzRNendNY1A2RGJ6QzkwdjVyWEIxTm4xanY4WDNKNGtQcXRpSmZMR3c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789523129879
+    },
+    {
+      "id": "news_BUSINESS_TrumpAdvisersLutnickMichaelMeetWithaTopA",
+      "title": "Trump Advisers Lutnick, Michael Meet With a Top Anthropic Executive Over AI Safety - Bloomberg.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcVJCd1JzOVZOSkZWSU5pYjZnZ1NRRWt2VW9LUmlOSXNuTW52X3RVZXRoVmlVQlM1QU5yNi1BQm41cnp2YTJUZ2Y1d3p2bUt0QWRuZlVEbHRHLUFQWDZqcmtWbHZhVDZnUTdUQ1hHYXdJWHN0Nm83cnlHSkJvQXVYMkZUZjRGY0t2QldvNzlES3A2UGdlaXJPM2d0VERvMmdPaXVzU1Z0RmtnXzg4eEdPdzdQaUdHR1dTSzdZV2lfOGFvTEFm?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789523129879
+    },
+    {
+      "id": "news_NATION_AttemptedTrumpassassinThomasCrooksusedBo",
+      "title": "Attempted Trump assassin Thomas Crooks used 'Bob Dole' alias before anonymous donor paid for cremation: docs - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMlBNRk5uQzh2YmFOS1g5WTFNb2lMbmY3RjFoNThKLVRGS2lCMUJmNXFqS0hQeHN1OHZDVmd3bHRISGpUcGF5Wk9BaVhPaktfMlFBT3J4d2tzTWx5Y2JHWkdHNEFNa1c5Y2l6OFFEMnZYVTFHdjhOZHV5WFU0VUxnelUwb2tpcnJORzdwYTVwLUxmaTlvZkVrU2JtemVyc2d5NWlFTzRaWGJDVDhXWUp6ZjRNUmpNdWVqc2QtLVp30gHDAUFVX3lxTFB2VlpQY0U5RWJiWnU1QzdnMHA1VW1mVFpReF9OUEtVUEQ3WTl5UFJobDJWU294YTdJUFVkUXh3ZlBPcWxrdU9YOTBRNFQ0eWw1VklkcUgzcFJtWExtTGpBNlZhR19GR0MxcFZUcUhBN0xMVTF3UzFxQ19ON3F0cmRoTE9Jakhhakk1aDdSZjByX1RsRzJxdjRRcUtkRExuVjVhd05ERjN1blZoWk82amh5aUdUTzN4LWxXRFNidUx5TEJJOA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789523129152
+    },
+    {
+      "id": "news_NATION_TrumpAGToddBlanchehadsomesweatynonreassu",
+      "title": "Trump AG Todd Blanche had some sweaty, non-reassuring words for Americans as he played Karoline Leavitt - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLWY5ZzV6SEZhZFkxZDFMR29lZEtEQWF3U2pqUWxlY01KT2IwcS1tdTZyWnoyVlRxTnZwMGJMaC1kV0lDbG84Z0N5bElHQUlZSWNIaE93empvRFFkUHdydkRIN2ZiVjFQWFd4bGFVWXRrbHo4TG0xOXhhY01fZ21DWktueFFBSlA4OEtYNmlHNGNreURnZi1JcGl2OEhmMjFRc3djcktzcE14VGhPUmVtNlhud1h1b3dEaWs5dTEwSkNiOU8xWlBxenQzem94YWRqR3c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789523129152
+    },
+    {
+      "id": "news_WORLD_TrumpIsReportedlySendingIsrael28Billioni",
+      "title": "Trump Is Reportedly Sending Israel $2.8 Billion in Bombs. You’re Paying for Them - Rolling Stone",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONnVzUVo0c2pFXzBIN2hVcnhZYUUyQjk4MXZiOHdVaGJ6UHRrdklaS05Xak9GOUoyV2JjME5xeFRLZUlETTF5NjVuSkRTN1NJWDE0RllqOHIwdGZtUnpGZ2RscFRFeElPSEtYbUhKQ1J3aFgwdndoSERmZTNJRTNhNDB4d0VEZGNFTXFueUdISk02Mmc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789523128441
+    },
+    {
+      "id": "news_WORLD_HouthiadvancesleaveTrumpwithonlybadchoic",
+      "title": "Houthi advances leave Trump with only bad choices - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcElIdlZUSFlxdFlTemM4R0hHMkNrZkdBbl9wT0cyc2IySk5fNUZjUGRTT1llLTRRS1BGUDM1Yi1HcTRvUWJoeThTTkVqbVRLSnhFbFV0R3RIck8zNWRjaV9wU1lwSUpNOTZNUW1VandRY2Z3TEUyNG00UXQ5V2RQX1Awa3pEQ3JSb2pFMA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789523128441
     },
     {
       "id": "news_billionaire announcement_AmazonMXPlayerunveilsBillionaireropesinA",
@@ -5357,149 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789205928408
-    },
-    {
-      "id": "news_WORLD_TiananmenSquarevigilorganisersjailedfors",
-      "title": "Tiananmen Square vigil organisers jailed for seven years in Hong Kong - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNU5vdHIzYzFKOVZUczdYLUQ1emJqY2k0LXNGc3g2cUxFNXJqbFFiMkVSRkh1T3g0Z2pFSkhsZVNCREg2VEZZOWltdlpYSHplZDBEM1pUZGhDbnFIdVhsRkVkcUlvVHQ5dTZ3M0tmZ1dIRTZGbEwtdGIybUNKR01WMDdBNVJkb1g5eDk1NTk4NHRQQmJLaEYtckpnc3RwZkt6REtZVkxva3VfZWFxSkpYX2t3OW5qTjZWYVE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789205927366
-    },
-    {
-      "id": "news_election crypto_CryptoinvestorpardonedbyTrumpdonates36mi",
-      "title": "Crypto investor pardoned by Trump donates £36 million to Farage’s Reform UK - wtvbam.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée; mots-clés viraux: rage.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGJkRlItd1JROG1ZdnMyRElSeGtjVGlsUGJ1SDR3a1ZUMnpZaTMzYjBMc2sxMDFvVVVOSjFnallTTGlJbnBseFZZQWxKX3N5OUV2eFRjeWZNamFNUk00cFBjaFBwaWdpQzhSWWlXMHkwaVBueFZKaW1teUxBMEZGZmU3OEItbC1aSFlmNE42ampaU0V3ZmZ3M0d5WHZoN2ZxSV9ac05PN3pBTmVC?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789192319153
-    },
-    {
-      "id": "news_rug pull crypto_SCATMANRugPullNets125KAfterSpaceXAndStar",
-      "title": "SCATMAN Rug Pull Nets $125K After SpaceX And Starlink X Breach Claim - Yellow.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (rug pull crypto). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyU01ueEpMbXVCd01CT1hiQndlbDh6MUhzWGthbHJ4bkZoZW8xTmhGVEFNNTdOVzdyTG9TSEpiY0FyN3JEY2stSjZCSTM1WFhmOWxYZG04bmFRdDJ4eWl5Y0NzUDRsYVB0WTR2U0ZydGF6eElSeDVsRFgxdjZvQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789192314164
-    },
-    {
-      "id": "news_SPORTS_FrancisNgannouissuesresponseafterDanaWhi",
-      "title": "Francis Ngannou issues response after Dana White admitted he wanted him to lose last UFC fight - bloodyelbow.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRmFGWjlkOFJLaXFSTml0aE5mQTFSNFpQTHpnMHlVOEQxZHQ3cHNwajA5TXhYQWVTTnFldnJ4LUd3cXhyZTB4bHNTNlFQQjFuZFVMc0dDWXl5VGpvYWp4azhFVlM2OUZybEtMOFVPWGtNRnQ2NHNGTnZCYzJwcG1wbF9XUzhlcWdqNTF6azVQZDJHUEE2SGJVZG5RMEdaOVJyQTBnUTNxRDlBQlo0Y0ZKX2xjWGtuaEFIT3NCcWVxOFJ6TUM4OHJCa2Fn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789192305191
-    },
-    {
-      "id": "news_SPORTS_SourcesBearsRBSwiftagreeto3year3375Mexte",
-      "title": "Sources: Bears, RB Swift agree to 3-year, $33.75M extension - ESPN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSmlzbHdwS3Y5SHBiXzdWR09OUVdBSElqMFpCMHA2SFdUUVBydGJxOG1adW5VNGtrdEhwX25NS05OWWZQWkFTNmhRNk1qN0k3ZlRNTVNXYzlPZkpqWlY2cU9fc1J6bDg4c2h3NWo1R1VuNjRNZEkyR19SVmgwXzJzR2pXci1wc3JNN0JwaGJiekI3Zw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789192305191
-    },
-    {
-      "id": "news_ENTERTAINMENT_WhyPierceBrosnanKeelyShayeSmithAreLeavin",
-      "title": "Why Pierce Brosnan, Keely Shaye Smith Are Leaving $100 Million Malibu Home - instyle.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeF96ZHFLdVdhMnkwV1REU3lBcTFQa3JkOGhPeWZYUDgzMFBQN2t4Tklxck5Gem9mLXlTTmVhSkRFcERSdC1SNmlQVFp2S2lKRlRoaW02dW1JUkVJY0t2enB5LUp0RVBXTTY3NFp1OWVReVB3UjVHWlZfWXdhUG43S0pibEVCbnlWUVczSE5QcndrOHhqU2V6em9rRHlQQzZtOC00?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789192304198
-    },
-    {
-      "id": "news_ENTERTAINMENT_PeteDavidsonsaysanniversaryofhisdadsdeat",
-      "title": "Pete Davidson says anniversary of his dad’s death on 9/11 is ‘harder’ this year - NJ.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS1ZGdlRtVzRiWEZ3M1I2Mml4TDFKdlVnbGhPcENkUllKLU5yejNDSllpbTdUWDJPdzJiU1JPQWdoakVhbDljY2x4dFI2MjZScFhIdWtCdnVRdEs2R0ozOXZPVXFua2ctdnFrT2cybmQ1SC11WVMxS3pUNXdDdllESmJ4STAzYl9wSHh5UENHQnpaMkREc1U2S0ptMHJEZ2hTUXlEcHNwRGpWejgzMEJ2Y2V4N3BCN2V5NG1qbHJB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789192304198
-    },
-    {
-      "id": "news_ENTERTAINMENT_Whybrazenmuseumtheftskeephappeningnearly",
-      "title": "Why brazen museum thefts keep happening nearly a year after Louvre heist - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52ZGcwTUFvX2ZuZm1HVG03b3dRZ2t4YTNtYjdoclZ0Qms5dm8yZm43YTBYQjRweWhTcElLN1ZGelZrYkUwYnFNRVk5aUpTSkV0QUZrV2wyd2Radw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789192304198
-    },
-    {
-      "id": "news_TECHNOLOGY_Microsoftsheadofcommsisleavingafteralmos",
-      "title": "Microsoft’s head of comms is leaving after almost 20 years - The Verge",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT1N2Wmhhcl9SOE1MQWlWVlRZWGdFeFdYVGkxYnlHWDBPQmRiRG1OQ0ZJQW9zQTdDNmE5SkN2LVZxR29OQ2RweVZtaF9rc2QycE9zcWhiSFJxYWRvU1h6dk8yQWRyRktVQlJuZFd3THVYUUI0SDBSWU1XTW5acl9zbm10dnBjQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789192303000
-    },
-    {
-      "id": "news_TECHNOLOGY_TheWitcher3sNewWeaponWasImpossible11Year",
-      "title": "The Witcher 3's New Weapon Was 'Impossible' 11 Years Ago - Polygon.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0g0OGhIelFCT0RSNEllUjFleHpDbFl5U3NSV1FYZF9hbGhOR1haWXpYQUd0MDRxS1BoN1J2RUdSNXRGT1M5QV9ocERYUV9Wd0dxY3NGdVBMenY0cjBPdVBWRGE3N1JVQm84c0EwTmxLV1V6M3pqd19PUkZ5LWMwYWZwX3R6ZWZqUjk0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789192303000
-    },
-    {
-      "id": "news_BUSINESS_CNNsSinghWarnsEscalatingNewFrontInMiddle",
-      "title": "CNN’s Singh Warns Escalating New Front In Middle East Could ‘Upend the Global Economy’: Trump is ‘Taking This Very Seriously’ - Mediaite",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRUNzS2RLNkI4VjFWdWtSTnV2UzdTYjJXM2RtNlk2SWF1aDBYSnB6QVZMTHo3VTRJbmJUa2V6TmtRNk5qWTdGbi1nNUZaYmVuOUYxZFVFc010Xy1yT1Y1dzBiY2h5bWdGYjI4M29sS2xHalhiMGlJb19ITlJ3ZXFJbGJMYjh6eGpJR3hYSzE3OVJqTTc5WUxPMDI4SUtob3J3aGJqdlVPNVg5REJGTkpnNng3cFRlbGJacENnQWloc084bEpKZndUUlRkSDNLVUxXS1hVUFBFREQ0ejd4dWJWS0I1UzlGaTdtbjFSOA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789192302065
-    },
-    {
-      "id": "news_NATION_HowantibriberylawsapplytoTrumpspromiseof",
-      "title": "How anti-bribery laws apply to Trump’s promise of $5,000 payments if Republicans keep control of Congress - The Conversation",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM051R0ZRQ3U4WFZXZDV4U3JqTnpMb0NuLTI1UDhkdnBXLVl6NTFrRnJCSk1IdmVhMTYwOU9PRHpUM2pnNkRGUU9CeldZS0d3VmNEYk5TXzdUSFlMOGdMamVuMm9QV2hCd2h2UzQ5S2NfM1FBSzJWaTJ3eXJOdFd6YVkyallVVE5kdW1mVmM1azVERFI2WVYzcGhkMUpMb3lZVWJIUHpjRVRmT181bXNfYTJ2cnpZel9LcVJpUWxzdkJPU3VRQldKX0hVSEhSVklXeDhaYw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789192301105
-    },
-    {
-      "id": "news_NATION_TrumpWantedaNewHouseMapinMissouriVotersG",
-      "title": "Trump Wanted a New House Map in Missouri. Voters Got Chaos Instead. - nytimes.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbExmVDhpNzhvSW9SeHhhSGNnTHNaRm9ZamVzZVJRclBUTGlqb215QV9NbDBFSnRlWC1icDZ3NmVDS1otUXFYZ2pkMXlBQjkteVFjR2hTSzVnOV9ILXF4V0VDX3MtTjUzcm45RFNJcFBqM3J4b3RIQTVjSWFGaXJBdWVmSVFCTktrNkMyUWpR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789192301105
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T19:59:29.899641+00:00",
+  "updated_at": "2026-09-16T22:41:42.519437+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_AfteryearsofretrenchingJewishdelislaunch",
@@ -825,6 +825,160 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SPORTS_PenixkneenotyetreadyforgameactionNBCSpor",
+      "title": "Penix (knee) ‘not yet ready’ for game action - NBC Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnZWUWpncmJxUjJiZ2VUZmk5YVYtVTJHV01xU3UxYTQ4eFZ5dnJJWHZDR3MwRUlKZ1p6aWtuVXNuQzdkVV9BQzRGdV9QanRTODdZTnBzcE9XbTl0ZHpod29aYldFS3pTSEo1T09aNDR2STBPcUtNcFdySGljY2FNRVlIeENwczFwT3Z1eXpTSG9HdzRqVDJwTW83N0ZJX3hZb3J4N2lvQ244QQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789598473159
+    },
+    {
+      "id": "news_ENTERTAINMENT_HannahBernerandPaigeDeSorbosGigglySquadM",
+      "title": "Hannah Berner and Paige DeSorbo’s ‘Giggly Squad’ Moves to SiriusXM in Multiyear Deal (Exclusive) - The Hollywood Reporter",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSzBHVjRkd0g0WFQ0Zl9mUkJ2X0pxQy1lLXBWT0xfcUphS08wQllROEVZRmE0YlpHS3g4bUtfNFV2TWhCVUZvVldMOTgtMnd3X1VXMEowWlFMbkhFaUNmWklaNDhfQmdJUkZ6eDY4WW96eWUxTnl3dnNzWlBzZGZEUlAyZjRmUGZoWURGVF9JQnVnVHN3cHpOQ2R6S2M4cnRqRXN1MDhvdTV1QkI1MGo3MnZGUk1IWHdwbWgwaWN0cm5lYXMtc0FaVTlyUEM0RkZtdEtLTFlYQzdsLVZaaTVnQ2pFNGljYlo3d1E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789598472260
+    },
+    {
+      "id": "news_ENTERTAINMENT_BariWeissoverhaulof60Minutesseesseasonpr",
+      "title": "Bari Weiss’ overhaul of 60 Minutes sees season premiere hit 25-year ratings low - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkVSSGRBa0VxWVpTUERadHA2YUQxWnFKWi1OZzVubHBqZHJSTmFoTHZHV1llSUFfMFhSbDJsV0VRVHRNRUhsNnNTY2ZzX1pyamY2MzZsY2dEZ3I3b1RiUlMxallFNWpYVnhDVVg5RkFwZzZMNy1pR1BwNHZXLVFDcnhhdjUxazEyTHg4M0FwOVFyWThIcGpfXw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789598472260
+    },
+    {
+      "id": "news_TECHNOLOGY_NearlyEveryoneLaidOffAsHyperLightDrifter",
+      "title": "'Nearly Everyone' Laid Off As Hyper Light Drifter Studio Risks Closing: 'I'm Not Sure Yet How Or If Heart Machine Survives' - Kotaku",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmdpdnF4LVFkc28tWldYdzFMWHljRmkxY1JrUUc4X3RsWGwyM1lweVpRbmc2WTF3blpmUXByWndtSG53T2xobHVqLUtpRFVONmh5dDRZWk1ZbVdTNk5EeFhkdUk5VlJ4RWlwUXVleHpMTUhLcVZpYUhlYWN2ZWNhZm1DVFBoRW80c2plTlFDemZ1T1htemF6ZjNGZ1dyU1RIWUFMX2dpblE1dXVTU05XOFpUYjI5Y0o3dS1ydG1UV3pHbjljSFZrWWVUZTRUSVBUUjBTVkhFTDczbGs?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789598471509
+    },
+    {
+      "id": "news_BUSINESS_FedMeetingTodayWarshFOMCExpectedtoRaiseI",
+      "title": "Fed Meeting Today: Warsh, FOMC Expected to Raise Interest Rates For First Time in Three Years — Live Updates - WSJ",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUE5oTVluRXJXSEZFTGp6UUpwcjluaGhVUlpsbGJ1WnFnVU05MDhSNDMwT3ZleW5fQnhia1ZYbFZ0SzN3dFNkSzRnV1lxbUpyREtpSnZlYndsRFM1RW5GeW1WcTdvRnZfNVh1TXAzWWVBVEZPZnAtYm9JLXNick5YZA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789598470766
+    },
+    {
+      "id": "news_BUSINESS_USMortgageRatesRiseto697HighestInMoreTha",
+      "title": "US Mortgage Rates Rise to 6.97%, Highest In More Than a Year - Bloomberg.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmhMeDBFVDdlNDY1aV9hYjBDTXkyNXJOU1BmVExEY3hKY0xrOTR1dFBMbnozbU04d2xDLUpxNUhndHEwbk84LXJzaWFCMnFwTm1UVUtBQUNVbTBaQjU4bHJzZER6eTFLcl84TEZnWlhrVW9SLUJyZVJKeUxleVFpb0FQU2xXX2xhdXM0T2FLV05PZllyLUtwZ2lNbm1sVnBLb1duNUEtZU5ULVNxYVE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789598470766
+    },
+    {
+      "id": "news_BUSINESS_TrumpofficialsconsideringAIexecutivemeet",
+      "title": "Trump officials considering AI executive meeting on the sidelines of Xi visit next week - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mVUpUYnJ3UFU5T2otTmFlMUNyOGk1ZjY5U2d0SWhvdGJTUXc2S09OWGhrcG10ZXNMNjNCV3d2elliLXNrTWlzX2VLYXJOeFl5U2VxdVZZQjk1OEpBVDNSVW5rb2JMV1VpTFNuV2s0ekNZVHFjZkFj?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789598470766
+    },
+    {
+      "id": "news_BUSINESS_Trumpdemands1orlowerinterestrateafterfir",
+      "title": "Trump demands 1% or lower interest rate after first Fed hike since 2023 - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzYXVXRVNMRmFVMkVqeGJMLVhsQklJNlVTOU4yN09nMVJMcXozWmJRUUFORlpzTTdBWHB2dU1aS1pGRkY0cWpBc3FjV1RaV3h1ZzdnbVVKQXNiVjBvY1NGYWFwRkdrQ2R6c3hyRjlGbzB6TXV10gF6QVVfeXFMTzlzVC1yMDVCc3UwVld5bEpIbm04VWx4Q3JYR1c4NVZDXy1YUElET05SNG82TVJnVUcydVo3UHozTHBXRDNQcm05YTRCOEo2M3BjTHUycko0MUZteEJzU0NRM2RsdWpJRkt0aU8weS1LRjhhVzdncWxiQXc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789598470766
+    },
+    {
+      "id": "news_NATION_ElSayedgrilledonPikerIsraelandsocialistt",
+      "title": "El-Sayed grilled on Piker, Israel and socialist ties after Mike Rogers skips Senate debate - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUxSdWN0NUNvNkVGbDlfLVpOdTV4SzBjNlY1aXVpTUg4VG1hQ3JKVWFWem1La1o0d3FYcWFmRmJDSjY5MC1kRGdtbTdPTDh6OG56b0ozZEJ1YXdVc0hBN2RGTVdMZmVEMTJ1MVNKRTlTVENmeTFPdGM2V0FRX1Q5OW0yZWp1NmROQ1Bwc0E3M3RheHJVVEhGX0liUjgxaHR2RlZ0Q042dUs3U3VMRHhyaG1HQ2g0QdIBuwFBVV95cUxNeEs3Sm9vd3hrc01xcUVUS09TZnliZVVrbm9ja0JmVXE4NndSVnBUWmpPTF9mUnFlX3l0T1BadjNCdWhNQjNaVlpRLTJMcWphRlFyTlgwT0xzYlN2cDZxTDd0Qi1Pc1lxdWxkdjh4bmZlbzVKYWpGanY5VXNlWUdjb2FSZWRMdDVKNTdRY0RDWEM1RTFVc09ZX05mZEpuRExnaVZqLVVHa185SERJV1dkdndQZ3Y0czRLQkxr?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789598470065
+    },
+    {
+      "id": "news_NATION_KennedyCentertoShutDownAfterJudgeBlocksT",
+      "title": "Kennedy Center to Shut Down After Judge Blocks Trump Again From Adding His Name to Building - Variety",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUFKaklieG9jUUp5QXg5XzVKSzdWUjM3b3dwckhneDgwdzJrUmdnZGdYTV83bmdudS15a0VQT2tOUGYtNGp0OUtudDg5WmpsZFgzZXE4bDJIVjc5ZE5ETWxSQi1iTkV1VE1VNGNXeTZtQWdyeDdsNHFMY2hiNGRWTTZ1cjE4UjlGdDRxTnhiSU04WVFvY1ZSQ1phLW45T01JMlVsVFFQcWtrWFlETHVyeA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789598470065
+    },
+    {
+      "id": "news_NATION_TopDemocratputsholdonTrumps28Bweaponssal",
+      "title": "Top Democrat puts hold on Trump’s $2.8B weapons sale to Israel - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIMUhmdTRMYUMzajAweUd6RXB4M2x1Rm93Umx2cmN6TGJINUNyZHBDeWFhYlRGdjNXSUZlQ29WN2JVVGtqc2lyc3dtNm5xVENqeXV0VDBQMHViRzVyaTk5c1J3V0ZjRjVMTlhvb1BRTm11dGRGcmNsU3FtQ07SAYIBQVVfeXFMTWl0dTdmZ2JmbFhJSzhjQXFxOHpYbi1lNHdOVWl2ZS16dFRZam93SExSMUpIaThlcmpiZXZHOTFJc2hycUZpUFp0TjlyZV95RW1hQ1lZcG5pa1pLV2x0dkVkelg0WndEMmxhNWJ5T05DQ0NpQTZ3ai1Yemh2eXZHMFB4Zw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789598470064
+    },
+    {
+      "id": "news_NATION_DrNicoleSaphierTrumpssurgeongeneralnomin",
+      "title": "Dr. Nicole Saphier, Trump’s surgeon general nominee, to face Senate grilling - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTC12bjBwUjJmTlNGMXFna18wZ05McThPNzNKaDAzblNkV2pzNVdVRUd3ekVEdnFYWW9yNHc5VHFlRWdLSGpsRVllRXNSY09DQV8zT0tRYW5KVFBGSzJIZC1CUkxWeGk4WVI1UUg2LXlqZS02Z3NoYk9KZGpZNU1LQi1sX3hMbEtlRkk4bWdVYVBYWVNuU204T2ZtRHU1M1E5b3R1Zy1fYnI?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789598470064
+    },
+    {
+      "id": "news_NATION_Trumpadministrationmovingaheadwithsignso",
+      "title": "Trump administration moving ahead with signs outside Smithsonian museum - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN0I5c202WFhVbGdXQWd2bExWdThoU2JsMVFjLTREMzhfakpid3F5ZnJueU5BT2oyODZjS2pZNUgzOWlmMUoyY2FDVzFhYzNCU0JNU3NNOS0ydlNyVXRwMVBFNGVUQWpyQ25MYktUQjFmZTdsYlladmRHZzV1MC10NnJ5VW5FcHVGU3NCeHNjWk5IVkxtTWd0dFZkUWY5Qjd5VFd2blozdm4zTElFS2xPTU1TSHpYV2puUFo0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789598470064
+    },
+    {
+      "id": "news_WORLD_TopDemocratputsholdonTrumps28Bweaponssal",
+      "title": "Top Democrat puts hold on Trump’s $2.8B weapons sale to Israel - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIMUhmdTRMYUMzajAweUd6RXB4M2x1Rm93Umx2cmN6TGJINUNyZHBDeWFhYlRGdjNXSUZlQ29WN2JVVGtqc2lyc3dtNm5xVENqeXV0VDBQMHViRzVyaTk5c1J3V0ZjRjVMTlhvb1BRTm11dGRGcmNsU3FtQ07SAYIBQVVfeXFMTWl0dTdmZ2JmbFhJSzhjQXFxOHpYbi1lNHdOVWl2ZS16dFRZam93SExSMUpIaThlcmpiZXZHOTFJc2hycUZpUFp0TjlyZV95RW1hQ1lZcG5pa1pLV2x0dkVkelg0WndEMmxhNWJ5T05DQ0NpQTZ3ai1Yemh2eXZHMFB4Zw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789598469310
     },
     {
       "id": "news_AI controversy viral_ViralTrumpallegedkissingimagesparksAIcon",
@@ -5346,160 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789258782094
-    },
-    {
-      "id": "news_SPORTS_OhioStatevsTexasliveupdatesNo1Buckeyesba",
-      "title": "Ohio State vs. Texas live updates: No. 1 Buckeyes battle No. 4 Longhorns in primetime showdown - CBS Sports",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1RLajg4ZWpwVWc1TGxpVXlhVWpZR2Z1YzhrWnlGQVdTX3FyNHdLV042aFhBT3k4X3VpNlFuSi1oNWtuZEZhU01KM1MtUHR0a1lsTklWV2l5NkNxRmp2QmYyZ0pubHp1b093NmJHZ2pyTWlsekxFNUJWRTNkb3RJemtlTGl2UzB6QUt1bURKbkc3Y25ueUtsS3M2WTdEQURwanpkWnpIS2dSNG4tVlFRbU1mRQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789258780967
-    },
-    {
-      "id": "news_SPORTS_GuimaraesandRayacrucialSunderlandvArsena",
-      "title": "Guimaraes and Raya crucial - Sunderland v Arsenal player ratings - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Pd204R29oYkdhdXBRdkpZNEdtek53LW14YmtPQ0VnWkp0S0F5X0s3d1BLTjJXN19RWnl6ZEVmS2o2QUJJQ3F2U0VOZ01pVHB2UVJESXlUR2ZSa1ducTZRYmZOcVlGb1E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789258780967
-    },
-    {
-      "id": "news_TECHNOLOGY_ChinaDeploysRareTypeofSpaceJunkThatPollu",
-      "title": "China Deploys Rare Type of Space Junk That Pollutes Orbit for Hundreds of Years - Futurism",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRENwX05mX2phOWw2aDNseEZMekFQbmU5eFRCQndVN2lrNFo1b0VORlBxZ1phN0tKQTF4Y2FvQVg1VTl1NGNUUVRLeHNpOEw2aXhUX3lkT09mYktfSUlLUG4zdVlkMUQ4QVZBZnB6TzhrSGxrcm9hNHRZUVg4b2dISnpKc0dkOU5F?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789258778655
-    },
-    {
-      "id": "news_BUSINESS_UScourtrejectsTrumpsemergencyorderkeepin",
-      "title": "US court rejects Trump’s emergency order keeping Michigan coal plant open - Al Jazeera",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0REVGJUZENFMlBSRV9ySk5PemRjZHJTbjFuNHpVamRGZDAxdVdCOFY4RUVpSGFGQWFtd2pwR2VGS21vcnBNRXpXM0tNRjVjWWZlYkpOZXJBeE9FN2FSZzVfMWV4VXBRVW5ob2N1dE9SQ1lGeGFZVzNMU1lkOHRBcXNJT3ZGWncyUWVtZmtJMnYtMlp4bmd2TmkwTzI4cGstX3ZuYnhxTFhYcnpBeFRYQzRwVdIBuAFBVV95cUxORFE5dDhhb2lWM2lWUTFTa01wa3Nacmp4eUNWOVN3NmFqRlRkOUVWTVJYSzJvNkJSRFY2NHF0MGtsLXBrd3Z4VWo1ZFUyd1AtRkxGQ05hSXlqa3BFcHdpaXpDUTlmOGN2dUxyVHpnVEx2MkhsbkNoRXFLbGNWdWMzS3VQX01UVThIblJtTkowMHFiYzQ2bDBsU1AySUVDVVZ3SjdObks1STQ2SnJzdDNRa0lTaUpCT2V6?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789258777368
-    },
-    {
-      "id": "news_NATION_TrumppredictswarwithIranwillendverysoonl",
-      "title": "Trump predicts war with Iran will end 'very soon,' likely after midterms - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0FhUm52Z2pHaFR4c3JuRDA3NUVhTUQ5X1NlYm1QbUMwcWRGMXo5TUpkOEFIcVhlR1RFT282dHhGSm42OUVsSFhMZElmUkM4ZlljU1M5QlFsSWRnaWtIQVdiOUZjeFMydkFIaFJnaFh2ZTFoNjZIcE1DRk1zaEVMNlM1TFkzLTFlWWVmOV8tbC14Szk3cVhQdm9B?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789258776244
-    },
-    {
-      "id": "news_government shutdown_TrumpProposesFederalPayFreezeFor2ndYearR",
-      "title": "Trump Proposes Federal Pay Freeze For 2nd Year Running as Congress Bails on Budget Bills - AFGE",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYW9sNWtUbWpVYklwbi15dHk3bWJ6S2lwV2JtM09ucEh1cXdOS1NUa2k2RlZNYkV3eVkxY0xYV24zTGI3WGkyNUNOYzgtSk5lVk05WDVzRVZpeFNwYXlnUzN6MWFYdnp3Wkc1SjVkQ25QWWxIRGFvN196c3A0RGJhRzlqVW9XZ0pHQmhKdTMxNFNpV3U3OWhyaHVNMkk2MUQwUXBPWFhXSGx0b1FsYWJHdjdjTjNaSjh0Vmc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789252789387
-    },
-    {
-      "id": "news_SPORTS_TuckerKraftMichaelMayerjoinhighestpaidti",
-      "title": "Tucker Kraft, Michael Mayer join highest-paid tight ends with contract extensions - CBS Sports",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOazhacDhoRGJ4VHRnYUxrMlFuNlh2d05wTTBSWUY2WDB5REFuMm0wMGktbExCcGZKTTl4MnJKbWJZUXg3NHlZU3lQT21sNzlBMW44QlpOTHRHaUhOZ3MtR3BCNVRlUTQ1WGRhdWtuOEpXdGVSS2pMY094c2E4SXBVaGVtM1B4a3pvX3J5bXd3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789252773445
-    },
-    {
-      "id": "news_ENTERTAINMENT_PracticalMagic2LeadsBoxOfficeasSpiderMan",
-      "title": "‘Practical Magic 2’ Leads Box Office as ‘Spider-Man’ Eyes All-Time Domestic Record - The Hollywood Reporter",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdOTE0zZWE5Z2o3eENfcWJiZllZMU5iTEgyalVNVlVXT0VzUkN3cVo4Y1VBWjBkdk9SRWkwY2JKcXNkZXZHZDdsZ3BtM0RGZXNqS3pSUUhwTnRhajlkdnRqUUpwMVAyZU9MZGkwS1I5NWM1QkhwTk5iV1g5eTl4Q1ExYlBFOGR5YXFNbi1CclpPRkdFWDRMekdiWGxWc09BOHFUM1lEVy0tQTJyYWpLV1pQNDh3dy0zN2Rr?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789252772478
-    },
-    {
-      "id": "news_ENTERTAINMENT_ReacherstarAlanRitchsonannouncessplitfro",
-      "title": "‘Reacher’ star Alan Ritchson announces split from wife Catherine Ritchson after 20 years of marriage - Entertainment Weekly",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVJUaEVaVHQxNWI1cHdpbFJTV0gzb2J3dUY1c1MwbDN4RkZfUkhuUG1JUFpvNzRhc3J3bmNnTU5kRkR4LXNET3FxOTlwbVJhU1p2aHhBMzdHS0JyNlBwdXhWNWJTRU4yWkZfNlpIVmVQUEZHUjNKeVhLNGJNTW1aYThSRTU5Rm5xbmc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789252772478
-    },
-    {
-      "id": "news_NATION_TrumpendorsesIrishreunificationbreakingw",
-      "title": "Trump endorses Irish reunification, breaking with decades of U.S. policy - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdTFIZUN5UjlRRmk0MGhKVjFvQ2p3bU13U05mRFoxdFhabHZXOGFFZUFScVZjWXhSYXJ5ZExkQmpPdy14eVhTM05YYVVtZnpJbFA2bFZBcmhwRXlLNmtFR0JqbDhRZ19iRWN4QXB4MVotZEk2a2NVdExaSFFLTDdKRnpoNEs2WDlNMnhVTFhlV3E4MkNJYTBpUXhQc3Q2WXE4UDQ5aHhkUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789252769331
-    },
-    {
-      "id": "news_NATION_LiveupdatesTrumpvisitsIrelandthedebateov",
-      "title": "Live updates: Trump visits Ireland, the debate over 5K dividends heats up - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSG5iWGg2OXJZc0JLUEFFWjBnRTFVcjZLYXU1YjhLcE53d3N2amhRTXpVQzNxZk5sQ2JaYlo2MlJabzNDbEpRVElOZnFNbkVBcUJ1MU9BVVBHNHRJZVROeThkSTdYcEhha0s3aHdUT2JjWWVRZk9vR3pQTjIwYzNEbk9xNXNwVWREdTNJZVN2VWowaUNHd3djWGNRS1dWYnpKUjFrN0RQZU9COTBnZmxQWFQzay15UzJBNWJDRUNwaEtOQdIBxwFBVV95cUxQVXBQM25pSWF0Z2lsRW9HLTMwMV9yX01zcXpIQzFvZTlyZlhwemVkWlFjQzlQNUIyMllFZUgzZkpGRW5uMGVxZW41Rkx0UWhEMW5Va2dWRE9nSUFsV3U1SVQyVmczaEdWeVU4c204TjhnQ0x2MFdMRUlGMFdJUU1xYWNLMlotWGhCa2U5bm9wZlZXX1ZvdDhZM3lpNGRJN0pBTVFyTHlIZmhpT2tkOGRPVURvc0xtRTN2V2lDamY3TWR0elJvd0dR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789252769331
-    },
-    {
-      "id": "news_NATION_TrumpDemandsSmithsonianInstallColossusGe",
-      "title": "Trump Demands Smithsonian Install ‘Colossus’ George Washington Statue - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZnpqdUlpeUwtcm9sMDQzbWsxLWVpWDVFMWIxNkFDR2dreUJaclNUenk1Q0o4TnJIYjN0R25zaHNwSlZ2MktoNzM5blJvR3hXTjY1RTBoY3R0TE04Q3Fob09ma1NHVnJQNVlIZnl0eDZiSTlaaGJOVV9Jb1l0d2xiUnZGRk9wbTdGd1dNcTlPaFk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789252769331
-    },
-    {
-      "id": "news_NATION_UScourtrejectsTrumpsemergencyorderkeepin",
-      "title": "US court rejects Trump’s emergency order keeping Michigan coal plant open - Al Jazeera",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0REVGJUZENFMlBSRV9ySk5PemRjZHJTbjFuNHpVamRGZDAxdVdCOFY4RUVpSGFGQWFtd2pwR2VGS21vcnBNRXpXM0tNRjVjWWZlYkpOZXJBeE9FN2FSZzVfMWV4VXBRVW5ob2N1dE9SQ1lGeGFZVzNMU1lkOHRBcXNJT3ZGWncyUWVtZmtJMnYtMlp4bmd2TmkwTzI4cGstX3ZuYnhxTFhYcnpBeFRYQzRwVdIBuAFBVV95cUxORFE5dDhhb2lWM2lWUTFTa01wa3Nacmp4eUNWOVN3NmFqRlRkOUVWTVJYSzJvNkJSRFY2NHF0MGtsLXBrd3Z4VWo1ZFUyd1AtRkxGQ05hSXlqa3BFcHdpaXpDUTlmOGN2dUxyVHpnVEx2MkhsbkNoRXFLbGNWdWMzS3VQX01UVThIblJtTkowMHFiYzQ2bDBsU1AySUVDVVZ3SjdObks1STQ2SnJzdDNRa0lTaUpCT2V6?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789252769331
-    },
-    {
-      "id": "news_NATION_TheatricallitigationRepublicanAGsfightfo",
-      "title": "‘Theatrical’ litigation: Republican AGs fight for Trump voting rules that their election officials say they can’t implement - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcWlESnp2b2hhbmwwNkFzbXZGZk5xSEJKX3RudVZnVnhBVEtGY1dEaHBkWm5RbmVQUFR2dGlQR1NWX21CNXpFVkF4SWhlaEtVOEstajJ5SUxTS2JxNWV3dEhmRlEzdWFKeVdoVW41V0lERE1nQ25EaDctcnQ1bHZ6NUt0bkxsUlpHZWdGdGo2MA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789252769331
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T22:41:42.519437+00:00",
+  "updated_at": "2026-09-17T00:54:29.421748+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_AfteryearsofretrenchingJewishdelislaunch",
@@ -825,6 +825,149 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_central bank announcement_Fedapprovesinterestratehikesignalsonemor",
+      "title": "Fed approves interest rate hike, signals one more to come this year - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (central bank announcement). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2d21SUXhkazRGZk1QSTgxb2lQME5TUzdVNEZ0bWVxdWRENm96dUNfU040Rnc4Skl5MnZwcXlKLXh0c1NzYVhrNDZHY0F2M2otb0ZEZmRyd0N2Vlk1WjZ1a1FpZk9jaEtBV25HejlPUE5LVWllZDN2TtIBfkFVX3lxTE5MbUliaWM2Nm1nSDRQU0ZEUmdZUXVNVjRZeXpzRWlaY2pMRzMwdGFUb09jaWhqUFNJZEo5OUxJenR2aEtkcWR0MnVYR3VmdndJWlJTNGlPWmUzNmJYLS1oZ29fMW5PR0dzY3JYUkUzaGdfemtIQjBqc1hjMjNtZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789606455538
+    },
+    {
+      "id": "news_government shutdown_ThankstoDOGEFederalEmployeesGotPaidBilli",
+      "title": "Thanks to DOGE, Federal Employees Got Paid Billions to Not Work - Time Magazine",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRy1nbkFwSXBpdTNuNHI4M2lRZmlYYnRCQnh1LVg1ZUFDS21WaXNfdHdNTG5VRDVvcXJxQk1qNlhBR2xRZFFWT09aX1MyVmQ3b3Q5TWdKNG1VUDZpSndlX2xHcnN4QUdpVjNYV3BnWVBSOXVOWUF2YlVBdnEyWl9mN1VMWkg5eHhacE9OWVdGSHJSQ1NpODlqYXZCY2dIUW1BWDRCQw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789606454287
+    },
+    {
+      "id": "news_ENTERTAINMENT_SaturdayNightLiveAddsSaidahBeloOsagieand",
+      "title": "‘Saturday Night Live’ Adds Saidah Belo-Osagie and Grace Reiter as Featured Players for Season 52 - The Hollywood Reporter",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9vanA4ampuTllEeVhRRjdJR1IxN09xUDZJTTBXcElSNUQwNTQxWU5tb2kyeHRKU3BTdmJlQ3BOaW8yRVJxWWZXRVYtZkJfMThJZUVMdUFrNS0talRJMVQ1RUtuQnBDTTJjbGVTWlBSS2gyMnRYTWEtbWlNTmluUmRKWFJ2TVg2amx3Q1dQV29XVHZyV01JWWlaSDluU3AwSnlLSg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789606439542
+    },
+    {
+      "id": "news_ENTERTAINMENT_MarshalsSeason2RecruitsAnotherYellowston",
+      "title": "‘Marshals’ Season 2 Recruits Another ‘Yellowstone’ Star - The Hollywood Reporter",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUhsWV9ZWFRRTjVMb0N4Q2VaTElKSVdqT1owLWY3WUNDcktXZUQ3VThZUllhbmZZM1JjU2E3VnJITVFQLVV4ejBwUFBwOWx2enVWRzFrZ3R5QVdyaWpZUVR1LVRTOGpwczk0eFBDbFdqNzBTNGRXb3U0djkwcmxFSFh0RUdHV0gzZkp0MGJRdUwxcGxaZ2hPQU1YVnpzcGs0NVRSaV9MWjdUSko2?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789606439542
+    },
+    {
+      "id": "news_BUSINESS_TrumpsLatestThreatsLoomOverFedsInterestR",
+      "title": "Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSzFrSUxudFNUNnZmaVdnRWltT1NvaHR3OFZSNlpFRzUtbm1MOEo2Z3JSM1BXVmU0TU96QVlsbDZpcGFNQmFacXUzR1hVbHkzTTJuREs5eGJ6dUZXNEdZVU54cTZqNG0zb0pCUHR4aGhKQWg2VEh0djhHZWkwX1ZGNVFoYlNnb0VF?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789606437997
+    },
+    {
+      "id": "news_NATION_IowaRepublicansinbattlegroundHouseracesv",
+      "title": "Iowa Republicans in battleground House races vote to halt Trump's ability to continue the Iran war - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWQ1MWJScTlLaEVZOV9SZkg4MTdpOHNWSDBxM21ZemI3YUJBWVFsZkVSOHpFR0JIQUVYcDl0MzlqOFg3QWR1RGNHMnlTNktVU1oyRzRhdTRsNXZKQWJvb0VXNWFpY2RTZ0NaRTZZdUl0ZUZLc2t1dzhSYk5ySG9qUWZNNWotSC0yLXJZSm5YUHlhREpJYXphcw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789606437255
+    },
+    {
+      "id": "news_NATION_KeyHouseDemocratrefusestoclearTrumps28bn",
+      "title": "Key House Democrat refuses to clear Trump’s $2.8bn arms sale to Israel - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeEIwVHNucWh6QzFJeDVwel8ybm9MTW1Tby15aDMzWG5LU0FITTIxMWJ1ZEFEcENTZTd4VndqUVpEdGU2aDBQYXQ3MG9QR1J4ZkE3M3hGazk4MlVFYlVhMVo1akliV1hQTUJtNHJYdElIS3lqWnBEUTgwTGtnWkdzbTdWYWxCU1JE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789606437255
+    },
+    {
+      "id": "news_NATION_FencinggoesuparoundthemainKennedyCenterb",
+      "title": "Fencing goes up around the main Kennedy Center building after Trump-aligned board votes to close it - PBS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcGpyc3N0VkdyZURKZ094UWxsaTRlVFJ0a1B2OUsxc2h3eU03Nmk2Zm9hMzdZNS1ydWgwV1kyQjllZW52UGJ2YW9SUUhhRllDT1dyZS01N0FSbTNJVzRBSklKNWNrZGRKSHZLNGU4UmRRa2RLQ3l3WG1VS1RxSkVScHJHdU1nTTRDSW1Bem8zblBQMnk3djNXa2Zvb09nRkJZNWpKWk5Nd0tidERMbmk5VURHUm9Mb240Uk1GQmp3NEhsQUxNWnEyV2xUUWtvVWxHVmRR0gHYAUFVX3lxTE40eDRfODFmZGgwU0xmdW1BVVd6QkJtdXVLTEJWczA5eHRXXy1ONWtCUUlHZ3BuaktVZjhnNlBwRUN4LTlZN2VtdmZqZ2xoZUowcGZQdlRSYUJYSDVRNmZIMjBoUEE5WENTbVJiM0tfNUVMU2UzY3RQQ1hvRHZIMTZUX05xbE12aEFfYVR4U3NUV1dFTG9DcE56NFFCRm1pQzdtMXhJV1Q2TFdhczhndFJpSG51dGU2aGFrS1l2dWRTbFlPSUxwWE9IdWdpejVoNFJTck41VS1vSg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789606437255
+    },
+    {
+      "id": "news_NATION_DrNicoleSaphierTrumpssurgeongeneralpickf",
+      "title": "Dr. Nicole Saphier, Trump’s surgeon general pick, faces Senate questions over her vaccine stance - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTC12bjBwUjJmTlNGMXFna18wZ05McThPNzNKaDAzblNkV2pzNVdVRUd3ekVEdnFYWW9yNHc5VHFlRWdLSGpsRVllRXNSY09DQV8zT0tRYW5KVFBGSzJIZC1CUkxWeGk4WVI1UUg2LXlqZS02Z3NoYk9KZGpZNU1LQi1sX3hMbEtlRkk4bWdVYVBYWVNuU204T2ZtRHU1M1E5b3R1Zy1fYnI?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789606437255
+    },
+    {
+      "id": "news_NATION_LivestreamTrumpholdsrallyinGastonCountyN",
+      "title": "Live stream: Trump holds rally in Gaston County, North Carolina - WBTV",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPREU1b2dQY2FoVHZmbVd0dzlSclFsUzA4dUs2WUc3bDZXNzlVVF9LeHJlakNSN2VqZXNaZ2VJTzFNMlNNVFdPT3JkcHBEQ2c5Q3hidEFWV0xKUzVHc1R6eXZ2WDdJSURFUTYwV1BheGNDWDF3NWJEV0tWRE9DQWVzS3ZMSGl6SXdwNmF3QnhQNGYtaEZf?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789606437255
+    },
+    {
+      "id": "news_WORLD_StateoftheUnionFivetakeawaysfromUrsulavo",
+      "title": "State of the Union: Five takeaways from Ursula von der Leyen's speech - Euronews.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnJtLUNWM3FzV3VEZGJ1NGhrN2p5d1E5VXhhdlB2bElMRmFHSE1CaUJyalFuRWFTdGY1aXlLODFySE81QW9aMDdrdjNUZEh6eHpycUstT1RYd28tamVtOUNINGZ5SGd1TEtPUWhMd0RRak0wOFl2enJSaGtuaGd3VGtmY294YWpjaWhQcVlnU3dLZWI2cEJ1cnN2X0cxRUxNd2Myb2hLN1JqUFhQZ282MkZwTQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789606436445
+    },
+    {
+      "id": "news_WORLD_YemenoffensiveelevatesenigmaticHouthicom",
+      "title": "Yemen offensive elevates enigmatic Houthi commander's standing - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa0FZY0J4cFN1dGZjZEsxUXc5aVlrd2ZJdHF5LWtEcWU2bnJ6aFZ4X1I5WHhRQ3pfZUNfVzJUYlEzbW9lSTdINmtnVFYyUXNBZW5LcXlYQS0zVUNlTllVTUhkR29xaWFhZFlsSTgzU1p5Z3FTSzJtMEpka0lHS0VoZHltRXMxME40Zldtb0xOcWxEekxIOGN5WG5vV2I5NHpZbGd6X21kTzMzT3hnWjVLUDZFejNYeEgzcEJnRFFuQlN5UQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789606436444
+    },
+    {
+      "id": "news_WORLD_TrumpWantedCanadaasthe51stStateHeEndedUp",
+      "title": "Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union. - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObk1yeVM4TFItdHlxdHNPeTRGSHRSdlVmN0tabzhnS1FPdWJmbXNETlkyd1RyQ2k3ZEpZN1h0RjVjUy1fVmFfSGxlODhTejRjUXZYNXFGdEhYRnFDZE9lZWlia2N0QjNkZVloN0t5VEJjaG84aElmQ3RPS0VqelUyRm9pN0M?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789606436439
     },
     {
       "id": "news_SPORTS_PenixkneenotyetreadyforgameactionNBCSpor",
@@ -5357,149 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789293878948
-    },
-    {
-      "id": "news_NATION_Missing70yearoldRoyalOakhikerfoundsafeat",
-      "title": "Missing 70-year-old Royal Oak hiker found safe at Isle Royale National Park - wxyz.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2tJMjJkS1dGQUxqMVlZaWxqeExHQWhFS2dfclgxLV9lSzUyc0FPUGJTampPeHJSV3BYQXhxNjdndGpnQXE5OG5WVFZSOC1GZnd2WFNucjVYU2pOUGVMNmE2dFUxZnVGYk1sYU1NREZORFZRTXd6djlobTNtd2EwWFpJYlh6VE1md1lNb2RKMzJ5cjhhR0NyUV95SU9La09lVUdZ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789293878948
-    },
-    {
-      "id": "news_WORLD_AlQaedaregroupsinAfghanistan25yearsafter",
-      "title": "Al-Qaeda regroups in Afghanistan, 25 years after 9/11 - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbHlXYW1xNVFCaDg0d01lWHJFek1HV240RjJ3TUJHTU9rdVc3clVfZFNDTDduTUZIMGtGM1ljdXNjV3NiOFhqQVFxanBDVWlRcDlNWF9lWTYxMUhEa2VKcUZENG9BUENqNkZaN2otV3dfcmRqc3NaSWFlOFN6bGp1M1dEUTBUTGszbjJxbUNkZEZDVi1meldrYzY4VXY4Zw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789293878184
-    },
-    {
-      "id": "news_WORLD_About1400YemenisfleetoDjiboutiwithin24ho",
-      "title": "About 1,400 Yemenis flee to Djibouti within 24 hours - Al Jazeera",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRnhaM3c0LU5VOUJ0WlZmWmZGQWNZU25rbExYWldDQkx3X0UzMXRjanlqLVRQYjdMc0k4NTIxanRuVi16dnVjV3kyVG5BODBnZE54RDNUSkZIaWRsWXVVd3FMSjRGcllSNWREcUIwajV4dWpobm9yYkJzTk1NdjVrMlpRLWxwaExESmlGeHUwa9IBlAFBVV95cUxPRXQ2UnZvRFMxblNGMkNGdGE2dHE0S3QyM1NXalcwRUVUREVKc0NDbkpBRGVFTm4wQlp0Mmk5LUx3OFdmZUM0UUowSHhxM2JOMXN3RUtQd1lvSy0xbDd6aXlldWZBNzRPOWdVOG5JblcwS1pPbnhJX2tCOUdfejBNU3Q2cldDY2w1T1pQNDlOY0xOejh6?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789293878183
-    },
-    {
-      "id": "news_government shutdown_TheSenateCRandtheShutdownThreatNationalT",
-      "title": "The Senate CR and the Shutdown Threat - National Taxpayers Union",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (government shutdown). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWQ1WW4xZ082MXRTdm9nc2s1ZVFvcXc5YUlqdENDdzRJZlJuNXc1ZnR1QTJKcHR6blNZNzJfQXlaM1Job1ZmZTBmN3hURS1zREptQTZEVDNGZ19KRXFGTnpuQzBFWTV0Z3c2WnlQV1BpSDAyZlBRVHNSQTk4QV9oaHViRQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789275536590
-    },
-    {
-      "id": "news_AI controversy viral_Metalayoffscontroversygrowsafterexemploy",
-      "title": "Meta layoffs controversy grows after ex-employee’s anti-AI video goes viral - The News International",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (AI controversy viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral, controversy.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDBkSlNSUE5rRGQ2VzZnSDdnU1hXLVpyMnRnX1pJZlBYSVNNdmRLaDdhS180VnJuWFZDMUJ3V2JueUprcnBiQUlJMElnTEJsY0ZrdHVMM3BYUl85bmcyOFlBczYwM1llR0VVRHdHRWZEbkZQazNNbjNkZHRlWFdJSXFuc2dLLWpXZEZkR2lzV2JOUWRuOG5uRUg1Rl9sbkhiSGxuSVBQWjBtUDQwMlFiRlhwU05HWWfSAbMBQVVfeXFMT3J4bGlxNzBxckp1OEttNXJ3QXBUdGZjclpvWmlObGpHc2lzd3VYOUNFYjJXSUxvWmdTMjd2X1hOYkh4NFpXQ0dBaXZEMVlucWt1UFVsT2lrVHN6TG5zTVFpOFpUVzdHY2hvdDZOVTB4NjFfUDI5NWcxOFBHV0NzOVdXd2lSQVpkLUp6WHpDSUIzd29ldVhFR2pvbVBzc1lzNGVSU3cyZHRUbVJWdGY4X1pQSGc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789275533439
-    },
-    {
-      "id": "news_SPORTS_ChrisKreiderCanadiensagreetooneyear215mi",
-      "title": "Chris Kreider, Canadiens agree to one-year, $2.15 million contract: Sources - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTk9DY0xyeFhzOU9xNTJLd21FTmo0TW9icElVZVdHTWpKa0xLYndTbHVDNUV5V1BHM1VBdDRDUkROV05PUmJFYk9vaUliVm4waVhvOVhOSlU4Q05ucmdrN2pVYjYyZDBxRzVOUVhabFBZd3Z5bWtVVkdvaXhZa284TEhpbDVZckhEakllVjdR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789275522232
-    },
-    {
-      "id": "news_TECHNOLOGY_These16SignsFromThisWeekAreSoFunnyTheyDe",
-      "title": "These 16 Signs From This Week Are So Funny They Destroyed Me, Especially The Toilet One - BuzzFeed",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vRGE3Ukc0VEhHbHprSjhCSG1tcGZPa3gtenJHZl95TU80ejBiNktqZno3X3cxWVd5UFZLelIzX1RueXJlNXV4NklWSktjZ0xzOUVHVnNrZjQ1NnFXMU5zYjFMOHpnOVBKVlhXUFQxc3UzSXVMenc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789275520656
-    },
-    {
-      "id": "news_NATION_InphotosRememberingtheSept11attacks25yea",
-      "title": "In photos: Remembering the Sept. 11 attacks, 25 years later : The Picture Show - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmVtR2o1dzl5RzRrTzJTYUgtZXRKQjJDVXBuMHlHeUJSZVVxYldYMTRkT1FtLVBqV0dzYm1SUTF2dkdNVmNyX1Z0M0o5VHVNLXJyNzVoMy0tSUNxQ0RnaG4wZGctXzg0Ul9BOWREQkd0TXl2b0k2M0Zjc1RVLVBGRUV3QjZUNmw4bWZPNWpCZTNpY0ZYY1NDRDU3UWZfV3VYZkxXc3lqSkp4ZTVMbHJwTS15WTVUWnZSUmVSanRhNXhkQnc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789275519092
-    },
-    {
-      "id": "news_NATION_FederaljudgerulesTrumpplantocutFEMAby50p",
-      "title": "Federal judge rules Trump plan to cut FEMA by 50 percent was unlawful - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHMzNkh5R2gxSHQ0cjIzVnphX052UEl1SzJHNFVhMFNvQ29wU3hpYVI4T0JGc2tyTkpkdUlXUERscEZKblJaSV9SdDVtWXY0b1BXbHVxS1JralNBQU5kbXpYbl9wZ2tiTjN0WjVKNUdqVXNkRERSWUNPSlQ3bFpQZFNOa0Via21oWXJ5SmdxWG1mWndwc2V2ZDZGZlpHNW1MQWI5blRKa0dmeXJiRlJrdW0zQ01lZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789275519092
-    },
-    {
-      "id": "news_NATION_Marshallbacktracksonsupportfor5000Trumpd",
-      "title": "Marshall backtracks on support for $5,000 Trump dividend in Kansas Senate debate - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZl9wOV9jTGo5YnhoV1p1MWlteG1MR3VlbTdmLVRfSEdYT0hCMlVsclEzSnJSbFFLWDNVQXNxTzhZTVJwY3JXWU1pd3JCWlB1S084eHQxRjJwTXJfZ1AtRGpaVzdrcjgtbXVPb0FZQnVRSDkzVVQtTzFjMjNDdXZsYnVB0gGHAUFVX3lxTE5wU1ZLcGFyWEszQnF6VVExcjNEZWZiRldNTEEtX29uSXJwWlFNTXdVRGROQktfM2dCbnFfclBNSjdrV2RKMHBsX2FXMUFHZG4waU8zQ3c4bXV2eHF1QXpIY0FaeU1RTGh5dnNDSjZoclVBekNzNm5xal82cFUxVE9vYzhRdmx3Zw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789275519092
-    },
-    {
-      "id": "news_WORLD_HouthisclaimattackonSaudibaseasfightingf",
-      "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces - theguardian.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPanB0ZWRqNU81bm9tTmp6UmxUSWVFZWY0OTFaZE1FdnRNWU11ZnlTUkNyUWtuRUliYjJXVFBvR1VLSzhqZ3k4N2NqVHZhTW14U2pzWG05T1JuNk1xM3dyblhlQkZLS3N6SW9fTDhqSjVvNm40ZDVGMU9ST2tQUi12Rm9rYk1KSUN0cldRbUNadUNYWFNfaHF4eW5aQl9qeWJOLTZVTzh2NWdTaUVMQVhndEZSdmYzcE54Y3c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789275518201
-    },
-    {
-      "id": "news_WORLD_PeoplefleeingIranbackedrebelsadvanceinYe",
-      "title": "People fleeing Iran-backed rebels’ advance in Yemen describe a ‘hysterical panic’ - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0hKblZsWDdXODVsQUN2V2V6c3dSODhwQm9pVHlwTmxpX3dQRnEyM3BLNTdBYy1OV2ZqNTE3M2pfQ1pKLWI2ZEdxZXE5QU1vWUR5WnI5bkdDalpxeVRtU3l6Zmp3UnVCUFFMbVdLQUR3RlFqQThBOUQ0UWZDYWozV1RSLWhWWUdTcEgyV2g5dUs3QQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789275518200
-    },
-    {
-      "id": "news_SCIENCE_A67yearoldtoldherelevenchildrenshewasgoi",
-      "title": "A 67-year-old told her eleven children she was \"going for a hike\", then hiked the Appalachian Trail alone in canvas sneakers, sleeping under a shower curtain with a 17-pound sack over one shoulder. She reached Katahdin on September 25, 1955, 146 days o - Space Daily",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQTFXZkVJMU9GZEJUUW50VGlTT25MbHE3d3BLak9fZldQS05VS2pTdHNWanZ1TGFyLWtQMFlpdXdubENwWWRiVjY0OVZhTl9lYy02bWVMcmp0UXFzS01sOGJZV1l2TmFnTnVVREtxVTJDNTFKWmY1UUxraEFEXzNxbzlVREw4QWtOM3FIeUpaSC1aMzNyRjdMSGRXcnRfSkE3TXZKVnJEeTRWcFR2Z0xOVGIwby1GVjJBb0FwUVhzNmtuMTlPSDVoNGdWQUdPc3hpOGtrM0NEZnljZU11ZzllcnE0b3JMMGEzU2hfUFotMEJwdW45ZjBIdFd3QzE5TDFYcXhqMHRZaEppWWhuakdxMHZkNjN2b0pmUXNkMU1ib3JRMUdwTDFXOV9DNGl6dw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789258782094
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T19:36:49.417309+00:00",
+  "updated_at": "2026-09-18T21:51:11.553987+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemensantiHouthiforceslaunchinquestintos",
@@ -858,6 +858,127 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_MichaelandSusanDellpledge625billionforki",
+      "title": "Michael and Susan Dell pledge $6.25 billion for kids' savings in 'Trump Accounts' - ABC News - Breaking News, Latest News and Videos",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbnBtbkFPSkRqR2duNDJRcU56QjdCejdaMnlTOExFNDdaNHFtc2JmSWN0aWpCdHB4dnRQNXlHalY1RUlCTENaNE5MR19QYjk5akthRTZYUm1URkRfci1zWXpOYVpuY1BzSHN0V250QUNSTUE4YmlSMTc5R0Vya213QzVhbnFZQ0ViNHY2QWR5ckZ1aXdDZFE00gGcAUFVX3lxTFByUWVqU01ueUlnV3ZPcUgwVmdoYUlNN0lGZkZLR1pEOTFjNjBFNmgyaVNURXVwd01FUHVwLWNzaG9DUEJSa0ZDMEdnYkhvVm8xd3BDd0FHSll4S0ttdWZvaDIwRG43TmVOZEZoQ2ZnS1VlakdSLTh2TW02WGJHU196dlppQk9hVG8yQTdXUzV2bG1kQ0tXS1Ztb2gzTA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789768258271
+    },
+    {
+      "id": "news_SCIENCE_NancyGraceRomanSpaceTelescopeIsntEvenAtI",
+      "title": "Nancy Grace Roman Space Telescope Isn't Even At Its Destination Yet And It's Already Doubled Its Lifespan - Jalopnik",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc3lCM2w1eGYtR2psTTR4THlnblFUd0NsMVlkbV9FQm1SZU56RHlINi0xU0VCMjZCOFctclBQcVk2Wko1eGJpb2U1YmVLVW5sRGtfN2VpbEE2alZmQ3g4WVEzZERydEhOVlJKMFE3UHF6eGdXRWxiNU44ZWNNZmdUSXIwQVRQYS1XOVVMS2JMRU1ZWVE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789768242686
+    },
+    {
+      "id": "news_SPORTS_FantasyFootballStartSitAdviceWhattodowit",
+      "title": "Fantasy Football Start/Sit Advice: What to do with Travis Etienne Jr., Quinshon Judkins, more players in Week 2 - Yahoo Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVktudkVXZkowdEhqRUYyTHRkQTlrN0xwYU1xRkpNSTJjeGxMcGJjWHNNQmRRb0tpRUpWbXF2MVloei11T2U4OWdXSlRSNkYzN0VBMWNoTXBMV2NrWk43cG5hVmlBZEF5SklPTERlVVVYQ29PX2gzRU9xTHFOV1dGZEhtOUxOeDNDZGcyMTJLUndDdVp0dVlWUVZJUTQ5Q0tFSDVObnQ2RWNTdlhkM3dlOUozR0p6UVpTUXF3MGpVZEtiQ1paOV96RG9wYUVqSDlYcTNoVjlUV1JSRkZfVmZPMGhwNncyTko1OFF2X2YwX1QxLS0z?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789768241914
+    },
+    {
+      "id": "news_NATION_NextweekcouldbeDCswettestoftheyearCapita",
+      "title": "Next week could be DC's wettest of the year - Capital Weather",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TQU54TlFsa1JyTktlazRTQUV3a0JoV1cydFdSNHd6SjdfcjJQdVNyTUJ4UzhINWRkaDJWNmhLWlhqWElVeV84SUM3dEt4U05iSS1OaW5iUGtCSHdJVkRCT3pIck9oWi1OSmhYaGpBcW5IbDFfVEcxQUE1YmRjMWc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789768238806
+    },
+    {
+      "id": "news_NATION_TrumpCallsAIFearsaHoaxInsidetheWhiteHous",
+      "title": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex. - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNak5GUzFuWWRqR1pyS1YtWkxtSXdRRXZQeTVOQzlEQmMtMVFteUxjYnRDRTdlRm91NFhacVJ4UkEwRVA1Slg3THlocElZRTZxdTh3TnNyZGlpRklMdFhyWndMaEVORS1JMUY0N3lLc0xQQkdTZHFhMzNtY0R1d01KeVhjRVI3SURHenRrVWVTME9TRDZl?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789768238806
+    },
+    {
+      "id": "news_NATION_Trumpadministrationbeginsbuildingborderw",
+      "title": "Trump administration begins building border wall in Texas’ Big Bend region - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZlV5M3N4VkpTNTF2VHZfS0s3My1sS1Y1NVdUMl90TzlPZmo3MlVJYXB3cmVJRTYyNFQtYnhMUWRFQ2FVRUNlVXBrNklteWU0dUk5TGhUVFdrRUlESzY5RHdtUGV3OWR2dmttUlVrd1FOYU1hV2EyWWRXVmFoYnB2SHlIVk05c29OdGQ1SEo3eUdTZVBlZG5iV2V5VkgyenNwdVo2VW4zQVZCTWlnd3BFV3daM3BKNjhsMXNrcmdR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789768238806
+    },
+    {
+      "id": "news_NATION_TrumpbansCNNMSNOWandPoliticofromWhiteHou",
+      "title": "Trump bans CNN, MS NOW and Politico from White House - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtVWpKOWNSbVY1Znl3Ym1HeF9uZGZ4ZjNIaWplekxZMnhLaDdoNTNIaXJHenZQZTUtb083SlFuWVBRS1RZVmlFZFUzV3FEbjN2MFlfSE1RUHM3aVlCQ3ozR1MzY2FzdFRYSl8xZ1o4UHVMb3dseTAwQUtHZ3gwWEk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789768238805
+    },
+    {
+      "id": "news_NATION_JFKsfamilyslamsTrumpoverKennedyCenterHow",
+      "title": "JFK’s family slams Trump over Kennedy Center: ‘How small minded, how narcissistic’ - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMXl5UFlOOVBGa2hMb29aMW5SdEtJOVB3YWRHUEI2N0dSdUFReGI4bHlQNTVEYXc0QmVtOXNQaHVTNE8tZ096VkdCUkNSODFIMk9ROUVualMzYXF4MnkyZGNwZC1mOEczZjNhbDdHR3ZuNHFOMEpIME9WVWlhUnBRUnJ6d2dvQdIBiwFBVV95cUxNVDg4elZrVUd4N2lSUnZ0eHRGNDFNOWExb2lPQmhiLXlRLWtSdzdvU2FvLVJfWGJWRTRHN1hsdmpVUXBfdzJRVU1uOWNzT1BVM3ZWR0x1OTN1YjFvT3hQMUFtOXRLVllXOUp5VEVIaHlvQXc1VTFZWlpVdmtLU2psSW14dnp4NGJhd3Uw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789768238805
+    },
+    {
+      "id": "news_NATION_NewTrumpordersloosenregulationsonhunting",
+      "title": "New Trump orders loosen regulations on hunting, recreational fishing - USA Today",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ19yWWtTa0cxTVVjczFWd3hkVmU0allKWngtTWF2RVhfSkZYTEpPLUdwZTRORWotbmo4clNYN3pSWTRfRXV0bGs1QVFBTmIyVldEUjNoVUhCajhKeF9LWm5KX1pzZHhwSWh0TmJQcUdJUnJhV3ZmaDA2SjhaZTQwOWdZRHdBbnhvTDJ1UkRaOWxKUVg4ejB3YmdlMzJlWkN6MmlTbkdzRHdDMy04am5adll2ejNQalZwaW5Z?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789768238805
+    },
+    {
+      "id": "news_NATION_FAAHasanUnusualSafetyRequestfortheTopofT",
+      "title": "F.A.A. Has an Unusual Safety Request for the Top of Trump’s Arch: Fire - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OcGF3Y1dZQWY5TjZ2VmZyTzljc3RMZEpVM2RvTF9pY1ZrQmVQMFpwVW1JSzc5Q2s4Q2dPTlJCY201NVNpamZfeWxuTm9zbThEXzctUHZsU0J6a0tpVTI4NzhHeEEwNTBqT1BsLWZZemtPeEZzdjB2N05pdXA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789768238805
+    },
+    {
+      "id": "news_NATION_Trumpadministrationsuedoverthreattodeplo",
+      "title": "Trump administration sued over threat to deploy federal law enforcement at voting sites - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFFabHpyNTRnbWZGdi1odkNFb3NhaGx2LW5TZHVpcUtVRXBmczlnbk1HNzNhVGVpVEZ3TEFTSDBsWjRGdEY2N2o3LWNnQTN5VGZkS2hRVlRGOEstZlJiV2lzWWduYVdsMjhIZ1ZkcmRZcnNNZXVZOURFTDE0MVVVTmhSRS1lOGl2cEk5N1NVWWtOUlUtcXhEeFZrTW1FZDRualhHQ0lXbw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789768238805
     },
     {
       "id": "news_SPORTS_MayeMuskdefendsSydneySweeneysnudesportsa",
@@ -5379,127 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789449696050
-    },
-    {
-      "id": "news_WORLD_BritishManPleadsGuiltytoDruggingandRapin",
-      "title": "British Man Pleads Guilty to Drugging and Raping Wife Over 20 Years - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGZsWGJvYlItTGVELVFIYVBLUFk0V2s2MzEwVXlMdXNTX01sRTFoclFJUkxOUm41SHZ6M0RtYnVBaUc1UnlLbUYySHJXMTZLbHFWQ2FCRFdFWFdTb2pYdy1nZFA4Ymd4UnZDWWlFZnJvaEtibndQb0FhSE1nNUlsR2U3a1Z2ejJFQUdQalZDX1VVNFk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789449696050
-    },
-    {
-      "id": "news_billionaire announcement_TrumpsBigAIAnnouncementCollapsedUnderPre",
-      "title": "Trump’s Big AI Announcement Collapsed Under Pressure From These Billionaires - Forbes",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV2lsdjhnalktS3doNzhKbFhzZzNQVkNQakx2dmtoc2pYTWVaZVVtYW1NQ0hCSjNhakUzLS1lYWRiaGIyVlk4ZVdLTGJCUWM2MXFwVmdWbGo4cEkxcTlteFpNUm5MT1loQ1VWamRjVjIwZWViWnBIMlpDVldFem5DNFYzZ3RJeUVPQTdDSk5wc2ZNV3dmdUZ6QngwM0VQeTZvRkxwZThBOXNxWHBIRDJ6N0wwQVpNYVMydGZVU1JFSkV5amRwTndPSGNybFZVdGdOaEpN?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432797005
-    },
-    {
-      "id": "news_rug pull crypto_HunterBidensmemecoincrushed4outof5buyers",
-      "title": "Hunter Biden’s meme coin crushed 4 out of 5 buyers while one mystery trader raked in $1M: ‘Classic rug pull’ - nypost.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (rug pull crypto). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN3lobFo4bkx6V0RxREFQVERWRmQ2eFBqSTBwaTJCM2VWUThCOGdPdGQxTHlEYnlhLVpUY2xtU1dsdUJtaVBxNVFMc3o3MDdjM3lLUHJKcHZoaXNCbnoyeHdHQVl6bm5VdjlxMjh3YTJoQ01mVGtxN0h0bktQMWRrYWRfd0JWb3BGb0dnYkNZZ1lCMVVpN2RWX0hueC1DMUlSaU9QNUFYQ0tMSy1rZGx6M29lWVcza2hhcXNvbEQwalZ5R3I2?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432784412
-    },
-    {
-      "id": "news_memecoin launch_HunterBidensmemecoincrushed4outof5buyers",
-      "title": "Hunter Biden’s meme coin crushed 4 out of 5 buyers while one mystery trader raked in $1M: ‘Classic rug pull’ - nypost.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (memecoin launch). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN3lobFo4bkx6V0RxREFQVERWRmQ2eFBqSTBwaTJCM2VWUThCOGdPdGQxTHlEYnlhLVpUY2xtU1dsdUJtaVBxNVFMc3o3MDdjM3lLUHJKcHZoaXNCbnoyeHdHQVl6bm5VdjlxMjh3YTJoQ01mVGtxN0h0bktQMWRrYWRfd0JWb3BGb0dnYkNZZ1lCMVVpN2RWX0hueC1DMUlSaU9QNUFYQ0tMSy1rZGx6M29lWVcza2hhcXNvbEQwalZ5R3I2?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432777933
-    },
-    {
-      "id": "news_TECHNOLOGY_IGNOwnershipChoosesBusiestTimeForGamesMe",
-      "title": "IGN Ownership Chooses Busiest Time For Games Media In Years To Lay A Bunch Of People Off - Aftermath",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TNzF3Q012RVNLOURzeGFrVWVKYWRzdjR3SWgzZnd0VEtTR2xRbUZaZzZtMUx3Wm9ZQTNHbXNHVlF6MHJ1STRsYUoyYThZZG14OWc5MS1mV1pySXc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432772996
-    },
-    {
-      "id": "news_TECHNOLOGY_RaymanLegendsRetolddelayedtoDecember3gem",
-      "title": "Rayman Legends Retold delayed to December 3 - gematsu.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcUVEN2ZFMUstM29UTzhPYWdyUjlpdGcxSTZYcXI1MkRxVHpfOFFKcFZ3SmlzX201S3Rud2ZYX3pEd3BGS0ZtXzhSbTdTdFcxSkdPQXA5dEx4LWtLVE1RX05ldW91Ym4xN2VhR0JheTcwb1I5VGFISGtCLTdYR0hqaQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432772996
-    },
-    {
-      "id": "news_TECHNOLOGY_Cyberpunk2077iscomingtoBattlenetlaterthi",
-      "title": "Cyberpunk 2077 is coming to Battle net later this year, and Overwatch gets an Edgerunners collaboration - Windows Central",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12R0UwOGtCb1R1dWJSMktQWmYtYTZmVkhvWnlQWkFBZUlWSDcyUTNaQkV2alRMdTUtZEFJTDRCSzB1dUJQRnljRDNoNVhHUWpxdTdvZ2wzQkxUVlA1Tktjb3hCWVpBWVFjLWFGY3gzNzBEbGUyaXc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432772996
-    },
-    {
-      "id": "news_BUSINESS_StockMarketNewsSept14202610YearTreasuryY",
-      "title": "Stock Market News, Sept. 14, 2026: 10-Year Treasury Yield Touches 5%, Pushed by Oil Surge - WSJ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWZSbjFBdjV2Wm83NHFwYzNNVTJHWnVvYkZmd010aWZERmFNU1F2T0JNeVhXdUNlZkRHU3dYVjJWTmVLNF8tbm8xYU5RQlFxQ0lZUmN1VkpMQVZ5OHgxZnJNVVdxeVpkeTBiR0Y5eVZPd2QxeVh5UWdyNk1QdVlWeXdiTEZocGs?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432771817
-    },
-    {
-      "id": "news_NATION_TrumpsaysUkraineandRussiaagreedtohaltstr",
-      "title": "Trump says Ukraine and Russia agreed to halt strikes on energy. Zelenskyy is not so sure. - politico.eu",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRldFLUVkSk9tSG5FRm8ycndaRVZGbVhhWEVpWmdEN2IyUm1oeUdDbllOdjlCTDExZU8xUnJRT25mUjRKZXcxR0NaN0Zna2M4UTNBcmRCdFpoLTRCYmdEUlhnMl9nTElFR0xIWThfdnRMVkRseWxydi1NdWg1ZURqYXFIVTl3TGJrN0cxTTB0WXJPa0xfVWZKXzNyRQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432769595
-    },
-    {
-      "id": "news_NATION_Trumpsays5000dividendcheckswillhappen100",
-      "title": "Trump says $5,000 dividend checks will 'happen 100 percent' - USA Today",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzl2S3R6cGNfX0dkRGFjRU9XeVFYUHNkVWlSR3k0alBCX250b0xyLXEtWlJYM1JDVTJpbTR4Und2aUtmRERybXMyS3pYQXg4QzRVREdudnJWZ3FxZzhXWHlYdUFPSHZLZVlkLUx1R3hMbTBpbnFRRkYtdUw2UU41VWZtMUEzdWg0LUFnVFVMWVJSQ2d3YkVNeGczZ0FIUUlaaEt5V2xhSGVtclBtdEVEMmpvVUpSM04tNWJRbGt1SC0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432769595
-    },
-    {
-      "id": "news_NATION_USjudgeblocksTrumplimitsonhowlongforeign",
-      "title": "US judge blocks Trump limits on how long foreign students, journalists can stay - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWQtY0pmajVTQ1p5SkFGaDZ4dFVRaUZPVkNRSWdrSVJaZWlzZjRPN25QWW51QUtqMTFSZ1V0Q28wbnFVWjFxVlZXTVgxTXV0VjNxanRHMGoxeXFEcGxPSG03OVQ2YkNTa0tsMVpoVnA1NElNcmJyLTludGQzYUdlU3h6UHJ2R2RzR1dnOE5aLXB5ZVhULUVmQkk4U1BJSHhsMk5Cd1hiWGtINHo3bkN1WndEcG0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432769595
     }
   ]
 }

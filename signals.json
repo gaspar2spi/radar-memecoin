@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T21:51:11.553987+00:00",
+  "updated_at": "2026-09-18T23:40:36.786848+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemensantiHouthiforceslaunchinquestintos",
@@ -858,6 +858,105 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_rug pull crypto_HunterBidensmemecoincrushed4outof5buyers",
+      "title": "Hunter Biden’s meme coin crushed 4 out of 5 buyers while one mystery trader raked in $1M: ‘Classic rug pull’ - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (rug pull crypto). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN3lobFo4bkx6V0RxREFQVERWRmQ2eFBqSTBwaTJCM2VWUThCOGdPdGQxTHlEYnlhLVpUY2xtU1dsdUJtaVBxNVFMc3o3MDdjM3lLUHJKcHZoaXNCbnoyeHdHQVl6bm5VdjlxMjh3YTJoQ01mVGtxN0h0bktQMWRrYWRfd0JWb3BGb0dnYkNZZ1lCMVVpN2RWX0hueC1DMUlSaU9QNUFYQ0tMSy1rZGx6M29lWVcza2hhcXNvbEQwalZ5R3I2?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789774814993
+    },
+    {
+      "id": "news_SPORTS_BrentfordvsChelseaplayerratingsHenderson",
+      "title": "Brentford vs Chelsea player ratings: Henderson a vocal leader as Thiago lifts weight off shoulders - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NRjNuV2RZRzBaaDZvRHU4dkZfZzYtQlJWQk5lR3g1bmdSV0FrRkJsQWdYenFKWFFEaHhIalRTbElWOWhYcC02b09POXFpQnZ0MlAzbFh2QjVkUUU4SUVyRW1CakZPSE5E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789774805339
+    },
+    {
+      "id": "news_TECHNOLOGY_AppleWatchSeries12vsUltra4BuyersGuideMac",
+      "title": "Apple Watch Series 12 vs. Ultra 4 Buyer's Guide - MacRumors",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRbmhENGZQWmFFYW92a3VyNHlseUp0RXlVMXRpUHhNU3BzMmRwdmtnTmxrazE1N1NoeXFxdEs2bWZtdmRwTndTVU9fQVR1VHFtUWo0c3BqLVRaaWUtUUFUcGFRTVVYc0ZQTU1mZktzRHdPQ0U?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789774803067
+    },
+    {
+      "id": "news_NATION_TrumpsaysheisbanningCNNMSNOWandPoliticof",
+      "title": "Trump says he is banning CNN, MS NOW and Politico from the White House - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmJvU3QxRHMzN3h2Umc4M3RyNFMtell5WGNTV1d2ampGY25aLUZjLVgxWlRmWS1JWVItZ3RoVXFtOUhlX01zdEhGbzhrN1VMUndiekJxOG1MZFNPTE1TZkJsZHRZb0doZUNid1NXVS1NTmtpV1FyQ3FGM0VLWDFnOWRjVXc5YnFsYTJiM3cwM21acFNYV3RieUYtcw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789774801147
+    },
+    {
+      "id": "news_NATION_RussiasanctionsbillgivesTrumpsweepingnew",
+      "title": "Russia sanctions bill gives Trump sweeping new tariff powers - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEtRUVNvYVIwTTZqQ3pmak0zd0NlNjZEcmxxQ3FUWTJKVUZjTHdjUmt1SThTNVFmZWl5OXVLUmljaWJoSFRQbU5qVnZDUjcyWEhJNk5yWjZDOTNzazlrenItWHdvODFNbE5Ka3ZoMGF4ZFRGcEFFeVhlWF8tWGZYYU1XWWttR3BuR0hmdF9iY0Z2WGQwbFJfV2lOT2FwSExyT21yUE80ZVM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789774801147
+    },
+    {
+      "id": "news_NATION_TrumpandleadersofDenmarkandGreenlandanno",
+      "title": "Trump and leaders of Denmark and Greenland announce plan to sign Arctic security pact next week – live - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOWhvcVJtTTZyUmxhYUN1b2tiQ1RpWFNCQXFDM0ExZFc5TjJya0ZEdXRIb0JLMF9kcmR3ZWg2SnZYSzZMWGRKQVptYWFHeWZZSlptUU90MkJMdG52c3JkV1VncFgyVy1SY0pEbnRJd3p4UGNTRVVKS2VWMmxSenpucDJaOUtLd1dqSng1enlXMllpbV8tWjVCQ0x6NndhWlNBRDNsZU5WZUF6NTFpTzZSNDVjYThzXzJnejQ5U2Z4YmRGNUY4R3VUYXVydGVocGJiUDVoMXpUZzh2bWZjMFBMTEs2TTZZQTgwMnRPNWZVbmZ2VXZrMmZMVjVwNnF5cDg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789774801147
+    },
+    {
+      "id": "news_NATION_InsidetheUSKillChainThatDestroyedanIrani",
+      "title": "Inside the US ‘Kill Chain’ That Destroyed an Iranian School - Bloomberg.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04V2x1Z1ZNWExtTF9jNlg0WnJCNWEtUUViQjBBVFByc1Z2bUhvNlh3Z09PbU5hU2ZJR1ROZEhvR2N5SHR0QllKcUstTl9FU0ViRzM2RnA4U1pLbU9KZ0N5bHZXc2VrMTV3d3hz?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789774801147
+    },
+    {
+      "id": "news_NATION_JudgeWhoStruckDownTrumpsCompensationFund",
+      "title": "Judge Who Struck Down Trump’s Compensation Fund Asks: Will Trump Just Pay Allies Another Way? - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaU50ellMNF9INV8zaVdYTV9KVFhVVmowUGY0TTJhVG9pYThkaDNhMmVWZ0RHdFpxeWZXZHlkblpUQU5GeHFsQ2NNd2lCeWpDT0VsSm5obndfNnFhSVBrX1VCR0ZMRkk1SWNwZEI3LWVuM3hmUUNJT0phVVBVNmI3aWlKR2c3RlBGR0Fmd2ZOaHpLTG05RHQ0WjRPcjFDUGZLSkE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789774801147
+    },
+    {
+      "id": "news_WORLD_TrumpclaimsDonJrpaidbackRussianoligarchw",
+      "title": "Trump claims Don Jr. paid back Russian oligarch who spent hundreds of thousands on his wedding - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVzZvZG9YM0E5LUJmcHAzV1VaamNtbzQwVDRyMDNURzU4anRQYXdlVjlfdEJvMmJiMmxoLUhzckV6aHJySGpuRnc4U0hyVVl2SW9adDlQNW9WYms0RjBHTllTekFRTUJiRXFUckphN09KX2NUYVlrR3AwZ2dwSHF5cU5nckNfYW5yVUJ1RVhoU3A0YmFuN3VDeGwxaFU0X3hNNnZDc25peGVjd0E3Mm1OZ0tpWkozVTVCVHdvWGh0TW44YVJybWU2QXN5WENTb09zRzd0bWJOYy1HUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789774800145
     },
     {
       "id": "news_billionaire announcement_MichaelandSusanDellpledge625billionforki",
@@ -5401,105 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789449697549
-    },
-    {
-      "id": "news_BUSINESS_Spikeon10yearbondyieldsrenewsconcernsove",
-      "title": "Spike on 10-year bond yields renews concerns over U.S. debt - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLU1rUElEWkVFZ1UyajZsc0FSVDc5M1d4VzhmSE02YWxXMkVRdzlXY0UwRTY1SGV5VU9YYUo3U1BSWGkzY0hwS0ZPZHJaWGZ4MFhSR1dBZi05MThpazlkeGZ2YzJUTE5TSEZwLVZyajBJVGtad0JpMHdYNFRiRFpFTmZHV21lNmdJZjBMNzdnRy1pVDlmeTZybXE4TlZjX044N0hzWkdPTldjQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789449697548
-    },
-    {
-      "id": "news_NATION_IranliveupdatesTrumpsaysUSopentoconcepto",
-      "title": "Iran live updates: Trump says US 'open' to 'concept' of negotiating deal with Iran - ABC News - Breaking News, Latest News and Videos",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZmxjTXJvNEtUeGNnaGJNQUVhS01VLXQ4eXRmSlNTZkhneFlFMDRsRTdIaTM5X1BNMXVMeC1GNUZSWDB3SmJqVGxYazRjcV9VWTlnYVM3S3NSNm80NldUMDhMNzZrR3R5NW9RUlRlNTFvMDFUNGoxZTBPYWc5ejdkczA1RmowRXNwaTRwOXRHZDFIWmYtV3VVV05RRVd3SDBSS0dBMTFFbURFVW5L0gGyAUFVX3lxTE5WZXFyeDRIdEpHUUxMbWhoZWJQMkM0cldmMEJHZnFOaGpQZnRtUWp3OFBHSGk1X0RRdXBjaGN2OWlaUERtalQtcGdGbzJFNHVnX2JscHpUV284cTUySGNRdldXVGo4ZUt3Q1I5Y0x5QUVMUG9kM25nVXhsZEdBc2JPeFpRM21hZzNZZzR0eEdydGUzUXdPSWhPbUYwekVDdm9hMU1sbU55alJJLWJpSlBKakE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789449696828
-    },
-    {
-      "id": "news_NATION_23yearoldGeorgiamayorremovedfromofficeaf",
-      "title": "23-year-old Georgia mayor removed from office after city alleges improper contact with teen, misuse of funds - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONThkblIxMm5oNEpVOU41ZGRyVFhtQ2JaNmdGaWozOVMwdmw0aWgzSTRPM1VnSURVRy1OZjJZbDJFalVuYlpmdUVuYk9NNW9VMDYwTDN2ZXRHNUxqWFBpLW84T2EwaTdLSVRFU2w5NkFyNW1RMnNKUkxlcHpwOXlsaHUweWhqcEZYX3lyd2Fxc09YSFZlcFhSQzh5OC1YQU1oZmV4Tm52MGoxUjB2cmVWOER4MVBjclNBTlE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789449696828
-    },
-    {
-      "id": "news_NATION_TrumpcallsNvidiaCEOJensenHuangduringsumm",
-      "title": "Trump calls Nvidia CEO Jensen Huang during summit, dismisses AI fears as 'hoax' - Fox Business",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVkU4djhYWHladGZiY0N6amVYeHA5RmVsTTJ2NFZoRThpaUhaMjhXTElKQUVoMzlZTUtxYXRnLV80Zmp3NlNvNVB5TngtUmdveS1tVjVLZ2phblF5d050RnFnQWdhdmVBTWt2VlJ2N0Y5V05qN2Q1elJQdTgzMDNmUzNXNkhza3hHaUtySWwxb25raDBsTXc4dWg5NkpnTGtXQlg5eDZMOXhLenVGbzM5ekJ30gG3AUFVX3lxTE1WN2tTRGx1Tnp3N0xULUdhUFBmUTJIUjA0cEJ1a1ROd09GTU1hdExMeXg4a1NTU2pFZDdpeC1ucS1HYkphRFlhWjR1aUhyel9QWTRsVDU4UXhUb3BwOExkLUVMUnlNNXdwb2M5dUVxbUZLbllqVjdDQXRnQjRUTEk2WVZrc1JHWG9oRDR1QWo4X0dnQTZGZWFtSFd2TC1SYkJ3MlN0LVBKT3NJTkZQZm9KR1U3R01XZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789449696827
-    },
-    {
-      "id": "news_NATION_MamdaniSuesTrumpAdministrationOverNewImm",
-      "title": "Mamdani Sues Trump Administration Over New Immigration Rule - WSJ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT25wb0RsWGptOTlOUWtTWDZZM05EMTk4WlI5c2dIQ3ZfS0hWNHM1bmZ4Sm1faWl5OHZGNVRVV21Eb3lsa3FNem44ZlBVZC1qTjlfMHFha2Z3UXRhZVIycHpRSG9BRnVXMnFiMzJidGpzZUZkc0dlSFVfM2hTNm10Mm5GTHBjVzhpLXUzalB6S0I4WGFxbk1acm1PZ01FalhUaUE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789449696827
-    },
-    {
-      "id": "news_NATION_JudgeblocksDHSrulelimitingforeignstudent",
-      "title": "Judge blocks DHS rule limiting foreign students to four-year stays - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQVQtRU9JZllhTVJwRG9HYjF5T0VvU19wMk81S1ZBOGo4d2FtakZ5WVN2YXFxMWxtRHZ4MWNldlVkWExLa3dkNVZ0cE5pTjNFM3pyY054ZUsta1hKNTNWMlktMF9fNWF6UmdjNFF2TkloVGVsVVB4SFp6aHdWc3hIZjExYUx5OXRmbW5VWW5lakh4c1Z1VzZzTk5kdWxGYjRwLXBHLU1McXQtVzJIalRJeERXNk1kX2c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789449696827
-    },
-    {
-      "id": "news_WORLD_VonderLeyenUturnswillattendlandmarkCarne",
-      "title": "Von der Leyen U-turns, will attend landmark Carney speech - politico.eu",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEN6Yy1zV1I3bEROazJVY1hwb1ZNaGozejZSa05rbHh0c3pNN2I1Z3FCamctTHUxd3FBcXJDTDFMQmJTMmV2bjlINzVLd3JUeVVCWXR3MXZYbklpQ3c1eEx2UzJqbGIyaEl5UFlGTU44ZVZHOWI2TGVBdWJQVHBiUEJfNURzUVhLSTlTY3VaVXd0ZnhfaEdsUFRRUHZacGVIN2Zn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789449696050
-    },
-    {
-      "id": "news_WORLD_TrumpsaysRussiaUkraineagreetoavoidenergy",
-      "title": "Trump says Russia, Ukraine agree to avoid energy targets as fuel prices rise - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNDlaYnc4T1ZjeFdwcnR2VENZRjNwaXBQVlBIQXdpeEQ5eUVaVkxZTlFPa2ppNk92WDlxZkZyNnNFY1dpLWk3WjRpa3NneW9WNmd0SGp3NHZCWDNTNE1PYU10SG5pLUZMZjVRcWZ0NzV3eHdoV1hMLXVUYnJPNk41M0EzNGJSa182amZtSE5FR1FYQlhvejF2ZNIBngFBVV95cUxQQm11ekhHbEpsamJlVERDNEU0elJiRW5Hcmw0WjU0Um9UNkpwTF9jaU0xWFB5UTJGSWd0SlhKMHJLM1VfaWdUMC1QWWtmekhMeWhQZXljNDEwaXUxTU9hTXlzXzRPOUdCaWVuOHlFTEJ4UWhXRlRtY0pQUmpKLW15Nnd1S1JBa3pnZ3dRUlNKTVc3SGdNd1FvVGRPYVpHUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789449696050
-    },
-    {
-      "id": "news_WORLD_RowoverReformsmegadonationshasmileageini",
-      "title": "Row over Reform's mega donations has mileage in it yet - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vNHZWbzVMSkhVVXJaeXJKNTRna1gzTHRhN1E5NlpZNTRINlZ3elczN3VpNFQ4N1NHNWpZdVlzd29uekNfT1VoLWV6dExKbjYtMVQzNVRDMXk3cFk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789449696050
     }
   ]
 }

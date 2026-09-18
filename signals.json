@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T17:12:24.316334+00:00",
+  "updated_at": "2026-09-18T19:36:49.417309+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemensantiHouthiforceslaunchinquestintos",
@@ -858,6 +858,116 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SPORTS_MayeMuskdefendsSydneySweeneysnudesportsa",
+      "title": "Maye Musk defends Sydney Sweeney's nude sports ad and recalls 12-year path to citizenship - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObzgxLVNrbUVDZmZ4YlpNWlctd1RNVlhrM0xCSm94T3JTMXNDVGI5Z2RKXzhGOGxuRFQwSEtWV3RfY2NlLXJjbktYamFmV2Z1Rm1mUkptTlowVFRQTGtERG1uN1BWQ2tud0lFQkZVcmZ6R3ExcU1qREZlVmNuUkFRSGhJamtRRVRnNnpZODdsbURmWW9KYmtoaWhEUkE2RWVDMkJNN0FmSXNhX1Z0aWg0RThLSC1ZZ3BSM29j?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789760174963
+    },
+    {
+      "id": "news_BUSINESS_Japanscentralbankraisesbenchmarkinterest",
+      "title": "Japan’s central bank raises benchmark interest rate to 1.25%, the highest in 31 years - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFZVMzlCMTR3aWVFV2pMdW9NZHp0bFJqYnZDSHhOZVNFWlp4TFl0dHZRclFCd2V0UXY3UHptV2tzX3hRQTB5M2hYMkVMSFJOTDNSaHFmcTE3azZpbnhyMmU5bWl5Yl9RMmRKVXE3UGlQUXVmeUtwNURteENVOUxseGR0blp5bTdCM2d3Y0o5d0otd1BKZ25mZERvU05WWXc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789760172376
+    },
+    {
+      "id": "news_BUSINESS_ItsdiscouragingIncreasinglyexpensivehous",
+      "title": "‘It’s discouraging’: Increasingly expensive housing market stymies would-be buyers - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHNuUS14bnVYWTk5ZUhxWEMyTWJCZ2xkZjhNTnktRjNhbm5LUnZ5dHNJNnVET2RPTXlUVjZ5WGxaRGZtcU1iOHIycmM4MmxSMGcxMEVuOXFsbnRPZ0lwVWdsckZHcFJ1S2ZrMVVsbENtd0dnQlY3bk1QaHZ4dDhOdDRTMDNnS3VfVExGNGRXWUhwZ1NRVnlRM1pn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789760172376
+    },
+    {
+      "id": "news_NATION_JudgesaysTrumpcantdemolishKennedyCenterA",
+      "title": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation - npr.org",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: lawsuit.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS2dhc0dYTGZhMU0tOXByNGxGYlVwOU54elBSbmNIVDM2Y1FlNlhGNlhxUEZXT1hteWlXX3RTbHR5WmY4QVM1QnpFRURUQ0J2bGdza21OY05IZ0ZqR0tjcklnaGdqcmZlZG92SEtKY2JpY2RQUEdJZjB3cWR5NnZIUmw3RC1KV0JuYnowWTNTTTVIak1iRzRRTFFvbGNQb242MEVqMjVxZENKTjBBbnBHb1QwTHVwTVFQemhMLVZOTllLbGtkc1I1ZnJTZmw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789760171506
+    },
+    {
+      "id": "news_NATION_TrumponwarinIranHouthiadvanceinYemenItll",
+      "title": "Trump on war in Iran, Houthi advance in Yemen: ‘It’ll all work out’ – live - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOWhvcVJtTTZyUmxhYUN1b2tiQ1RpWFNCQXFDM0ExZFc5TjJya0ZEdXRIb0JLMF9kcmR3ZWg2SnZYSzZMWGRKQVptYWFHeWZZSlptUU90MkJMdG52c3JkV1VncFgyVy1SY0pEbnRJd3p4UGNTRVVKS2VWMmxSenpucDJaOUtLd1dqSng1enlXMllpbV8tWjVCQ0x6NndhWlNBRDNsZU5WZUF6NTFpTzZSNDVjYThzXzJnejQ5U2Z4YmRGNUY4R3VUYXVydGVocGJiUDVoMXpUZzh2bWZjMFBMTEs2TTZZQTgwMnRPNWZVbmZ2VXZrMmZMVjVwNnF5cDg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789760171506
+    },
+    {
+      "id": "news_NATION_MinnesotasWeatherAuthorityAlertPersisten",
+      "title": "Minnesota’s Weather Authority Alert: Persistent rainfall Friday - 5 EYEWITNESS NEWS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc2xpbHpXM2hJbTJMN2UzaHlZWUFyalF0MV9nbW9YZGtmNXFrdG45VmxnR1VfLTRiQzRSVWV3Tk1LcFV6SmdwRjUzbjRPUVRRRlV3QzFWalhKZnI3NG9RMXNCUGE1WWsxdTJXRE0xTnc3eDFBdlBvY2E2YVYzaVBwNHB2aGh3SGNsbFpyd0ZfT0ZWOXJjT0M3clZMWE0xTlE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789760171506
+    },
+    {
+      "id": "news_NATION_BuildcolumnsnotTrumpsarchDCofficialtells",
+      "title": "Build columns, not Trump’s arch, D.C. official tells administration - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPXzBFa2Y2ODNzWUZNZy1aRlBpRjFNTDN6R2JkMDBQS3hWcmR4RENlMUViUDB1dk84N0kwYjA4TWgzd2hJcEZZYUgxaTU5S0JEUXpFZ2x1UEtCck9jRzZTYl9oN2RUMFg0SGVKa2dmVkM4OEQ2ZmhfamROUDVJYUhNeklSaVFWRGFRelJxTnhNS0hlS3dlbzNCcTNnakE4eF9KajliMnFhYkVpd2FHSVhhS1FlQTU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789760171506
+    },
+    {
+      "id": "news_NATION_LegalfightoverTrumpsantiweaponizationfun",
+      "title": "Legal fight over Trump’s ‘anti-weaponization’ fund ‘still alive and kicking,’ judge says - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BdVZtMWl3UTdRX05oM3JpeHdFNkFESGlNanpxSGtfME9qM0ZIZjZmVHctZnllMWtGendCbHZEVm5jSzFDeGV6azBZTXNVMm5Ybld6dUluNm90Z2p4dzhpRXpMakQ4LUY2Z1hOX21ZQkwxVEdiMldWNjFSME85Zw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789760171506
+    },
+    {
+      "id": "news_NATION_FormerInstituteofPeaceboardmembersaskcou",
+      "title": "Former Institute of Peace board members ask court to stop addition of Trump name to headquarters - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdUc3QzZ5M0pjaWJTNEdISE9lREdlSEdDMVpaU2ptYWpfb1F5VzZxUDYyRkhGMHZJQ0VqaW9lR0FQcVg0MjF0REVsa1lLVTBxVDVja2prWjJVTFFXMEZWMWxmLXRoNWg3YW55aTlwQWhDQzFCOVZiS29OeE42VU1zWkdSSVBFb1pXVEHSAY8BQVVfeXFMUHRmWHk2S3ljLWIzTHlKcVdhT2JBUXROdXZlV29kTXh5WHNQNlFiR3pSdFFuN202SjFtWlQ2RTVvTWx5M0VJVnc0cUxwMHpGZUVhSFRWMTJPYUUyNHlWQ3B1eDNzU19OaVJ3dGdGOGdzSjMtbmFPVWlaZHVnZGctUWhwVFFmNUpqaHVIZzM0VXM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789760171506
+    },
+    {
+      "id": "news_WORLD_TensofthousandsfleeasIranbackedrebelsdra",
+      "title": "Tens of thousands flee as Iran-backed rebels draw Yemen into the wider war - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEJrazQ1WlJrelROX1NZTzZ5dTRvX0g5QXpRWEdZbWxwR1NLRnFQajctT2tDa3FibzhVTmE0LXJWRHVGZVhSM1Zna2VoR1FNdElZN2lyN0JVb09LcWJFSFpGNXE1ajg0QmtYaVF3MlNYQktseW5rX3FCN3VqdmdsbGplOE1XbXE3V3RocVJ5dW56T0VZY0xKUEQtSQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789760170722
     },
     {
       "id": "news_SPORTS_BuffaloBillsfanspayeyeopeningpricesforbe",
@@ -5390,116 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789432769595
-    },
-    {
-      "id": "news_NATION_TrumployalistsubpoenaedJohnBrennanbefore",
-      "title": "Trump loyalist subpoenaed John Brennan before resignation last week - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPak8zcjkzNTRYUFZlSVV5MTRMbzhDbU1xQkNJY0ZucGxYMnQ1c1hhTGJmRDFHYnh2YmFTOU5kM01Pd1BaSWxzOEk4M2dLVWdJMGh1eGV4ZjVOZzJicWRPcnotZENXU3d1V1ZTYVlEaXhKSTJpcUJGNUFVV21zVWZ0OXQ3aUg1T05DcUJvU3FXUGhPNDhaSjNBWVNqVHl6NEt5cWV5MnNINzlZNVdnSjR5c1ZQc1dXS2Q3STIxSms2V3o?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432769595
-    },
-    {
-      "id": "news_NATION_TheSupremeCourtrejectsTrumpsmailvotingre",
-      "title": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOekxtVnV0RFRLTGVGcVhBcDBucXQtQ2F4UW5BTlpjcmdDQmN1UFZlSDNEOVZOMDM4bnU0YTlGd19yUHBXbVlySWQtUk9Qd3Qxdk5LUEpjZFd5el80UUFNNU8yREdTOHF1cWZpalZadkVQc2tITGVXcmdFLVZoVVdVU2daR2tDdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432769594
-    },
-    {
-      "id": "news_NATION_TrumpsEPAisendingoneofthenationsbiggestc",
-      "title": "Trump’s EPA is ending one of the nation’s biggest climate protections - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMktacUtoZ0RSWV8zZXpBdy1VbVJKUUU2Q0k5cjdYU3ctUDhtallpR0VFR3ltZnFMQjRLTjJobEozNXdWQy1CekhDY2I5bkJfNnY1VGt2RUl5bG9SaUt5VmQ2bE1UN2VFYXZTc2VzNm9BRC1qZ0tueFloOV9rMDhIQVMySUFWOVJiVGpWS3hsdk5GZWs1LXhfQ3RZNGIzci1RS0JVS2NoY2tRVWVBZlBGZ0tmVEpKTVVBaGZYMEZLbU9pLUFZaVZzQVhGd2JjZ01h?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432769594
-    },
-    {
-      "id": "news_NATION_TrumpcallsNvidiaCEOtotalkAIandgetsputons",
-      "title": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone in all-hands meeting - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkF6Q0JLVjMyRkRmX2YxS3J3MlRGX2xGdzhDWTF2alBnQ19vSmhxNGJpTTZrcDZlOTV3VTJnN3BCOXkzYzduOGo0bmpIc09CZ1lGbzdmdkc1eVlrYUEwN1RDV1NWUGdqYzBTWlZqYUVHWjFMSEpoMnplbDhkYTkyeHhRb0tFU3V2MXVkLXc2alVVUGlXRnctRFpkTzNDLXhOWWJOYXpVM09vNF94UEFFbVBxeFE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432769594
-    },
-    {
-      "id": "news_NATION_StatescitiessuetoblockTrumpimmigrationru",
-      "title": "States, cities sue to block Trump immigration rule on public benefits - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGk1MVlTS3ZZWUE1MTJ2bTNJeDZKQTV6X0ZPZVFxMXhzVEo4Y05KR0lVRHQ2Q0Q2YUsxUFdOM3pJUXRMaG9zRS1wZm9hLWZqQ0ZQdGgtYmJJRE03Yk4wZVp0ZDljcW5wWkw0c2lGOENpTXFfVEhvdTlyekNva1Vrb19lZDctRW1TQTJOOGlRVk9Mcl9sWkE0T1NscUx5aFNiTHdqOEFUMDdEQndUSER2ck1ib1JHdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432769594
-    },
-    {
-      "id": "news_NATION_HouseSpeakerRisksTrumpIreonAnyAIGuardrai",
-      "title": "House Speaker Risks Trump Ire on Any AI Guardrail Legislation - Bloomberg.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFdLbVluYm1KaFE0WVg0eFJ0YVN6UEFIX2hjN0NGWnBvMDFCMmtDMFdpdG1kQnd1TzlNd0FlV3VvNFA3TjdfbFp3N2NuUW1Zb2Iwc2VzN25IaGoyWlBlY0JIV0M0d094bzZpS1ktdkNsQzhDMnh1YVRvY0FoU0hxeVJiUlRVcm9DSDRscjlzR2VFNVJ0dEZjV2Zwb1pHczdGQTVFRVNnd0lRZGdhLWoteEhn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432769594
-    },
-    {
-      "id": "news_WORLD_TrumpJrweddingcelebrationsweresponsoredb",
-      "title": "Trump Jr. wedding celebrations were sponsored by powerful Russian businessman - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVgtaUNadFRLTHlqUzd5bFRITWdFNXNMWENUSUpPdHJhSGkwVUtQYWJNVVhYZFhfMmFaSG1ueVJZR3hmWDFmak9EUHNXNlZZeWNKdi1DRWxyTjlTdjlQaFRIbTNla0ZYODdtODAwT1ZmQmgtVDh1ZGY2RGNiTFVxVmFiQ2ROaks4czlPSWJ5NTdjVWpRMHE0VlhfeE13dDc5ODFNd2ZocGFiSHJqbVRwLXVEcXpoajQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432768604
-    },
-    {
-      "id": "news_WORLD_TrumpsaysUkraineandRussiaagreedtohaltstr",
-      "title": "Trump says Ukraine and Russia agreed to halt strikes on energy. Zelenskyy is not so sure. - politico.eu",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRldFLUVkSk9tSG5FRm8ycndaRVZGbVhhWEVpWmdEN2IyUm1oeUdDbllOdjlCTDExZU8xUnJRT25mUjRKZXcxR0NaN0Zna2M4UTNBcmRCdFpoLTRCYmdEUlhnMl9nTElFR0xIWThfdnRMVkRseWxydi1NdWg1ZURqYXFIVTl3TGJrN0cxTTB0WXJPa0xfVWZKXzNyRQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432768604
-    },
-    {
-      "id": "news_WORLD_TrumpnominateswifeofGodBlesstheUSAsinger",
-      "title": "Trump nominates wife of ‘God Bless the USA’ singer Lee Greenwood to serve as US ambassador - seattletimes.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOVVDWDdqSk5hemRFYnQ1eTdrWlFUVnhYUDNadEVVQkRXTkc1bFF1Slc2SUZ3OGN6OTZReGo5R0dhTnhDbFpmMXF5Uk1zVE1vX3NyaXY2VWFhSDE0eDhvUzl3Yko4N0FhdVRETmlWWjJuNlp0dDl3MnRyLXFvWXpvMjRWdGNtNEthRDlYVXdnMExaQnRZWnJnaEtQcDlZVDhJelJsTWY4RW5nOFNnVGhOWHJYdFdWNFJfVWtEc0JoZ18wbUpqeS1pbnV1LTY?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789432768604
-    },
-    {
-      "id": "news_billionaire announcement_MichaelandSusanDellpledge625billionforki",
-      "title": "Michael and Susan Dell pledge $6.25 billion for kids' savings in 'Trump Accounts' - ABC News - Breaking News, Latest News and Videos",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbnBtbkFPSkRqR2duNDJRcU56QjdCejdaMnlTOExFNDdaNHFtc2JmSWN0aWpCdHB4dnRQNXlHalY1RUlCTENaNE5MR19QYjk5akthRTZYUm1URkRfci1zWXpOYVpuY1BzSHN0V250QUNSTUE4YmlSMTc5R0Vya213QzVhbnFZQ0ViNHY2QWR5ckZ1aXdDZFE00gGcAUFVX3lxTFByUWVqU01ueUlnV3ZPcUgwVmdoYUlNN0lGZkZLR1pEOTFjNjBFNmgyaVNURXVwd01FUHVwLWNzaG9DUEJSa0ZDMEdnYkhvVm8xd3BDd0FHSll4S0ttdWZvaDIwRG43TmVOZEZoQ2ZnS1VlakdSLTh2TW02WGJHU196dlppQk9hVG8yQTdXUzV2bG1kQ0tXS1Ztb2gzTA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789424001926
     }
   ]
 }

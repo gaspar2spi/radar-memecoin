@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T11:29:32.931726+00:00",
+  "updated_at": "2026-09-19T14:42:38.686989+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemensantiHouthiforceslaunchinquestintos",
@@ -858,6 +858,116 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_ENTERTAINMENT_NickReinerArguesHisTrustMoneyIsFromGrand",
+      "title": "Nick Reiner Argues His Trust Money Is From Grandfather Carl and Exempt From ‘Slayer Statute’ - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkV3Y3ZNUmY4MFlENFNxMlZQSGFYQkZrV29yTXNWa1daNkhzUmwwUjlkZ3FVMmJ5YWVvX2l3U2JnWHJWanlUdG8tWnltV2RqX0Y3NWJncEU2T3JzWWpwaFdjSl95TnpsN1JyT2QtRThUeGhVcEs5d19nRHFraFY1UXdHbVRlbkVlMjlrYg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789828928959
+    },
+    {
+      "id": "news_BUSINESS_TrumpsIranwarhaseconomistsaghastSaloncom",
+      "title": "Trump’s Iran war has economists aghast - Salon.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnpyc2dmbTR3bEpBX3RieDJsXzRIRTM5ZHVVdG44Slh4M2EtOU5pM0pWbWFXdFhKQm83NzdmYkk5b3NSbUVXX0NhcDlwZC1UNW5sNHVOVjAyamgtWHpWdGV3UXNWVnZnTUk1bURrR2g2dDhzSDVldWJwVXdadUp2RFNfTE40cHotOFdrN2VCTlpqNTR0bFZhSTdLVkg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789828927382
+    },
+    {
+      "id": "news_BUSINESS_Japanraisesinterestratetonew31yearhighto",
+      "title": "Japan raises interest rate to new 31-year high to curb rising prices - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhNkRsZVl0OU5ob3FDR0l5WTZsM21feGs2OWpJNzlqMjVjT09RMkk0MDZOc0NZTzZyQzB1T2xSZTM5TmxMRHZXcElrTU5FNDQtVEQ5R1VGc2YzUnM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789828927382
+    },
+    {
+      "id": "news_NATION_AfterTrumpbanMSNOWandCNNsaytheirjournali",
+      "title": "After Trump ban, MS NOW and CNN say their journalists were denied access to White House - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcUUtVjNhMUdzOUo3alRhSVRGVF9aeFVBVUJlSjg0b1RvVnBJYjNXNzh5bWlnbEFjbDg0QWlVSlZueDZWYXltMW11ampFUHphekE1VVdDdlp5MFVhV0lWUUVySmNBT21TZGJNZGh0YlF6c0ZKbmMzMVhKLWlaQWx5Q0RwTUhPZ2dudWc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789828926681
+    },
+    {
+      "id": "news_NATION_TrumpsaysUShaspermanentcontrolofGreenlan",
+      "title": "Trump says US has ‘permanent control’ of Greenland security: Does it? - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnhLWkZYbzZ4bzJyclo0WmVucHFpX0QycFhtQ0huUXVMajRrVm9FN3Y2V3hKNEpEY0o3VEJkVm5vbzZRQTluWGxqVUc0bUNmampNTk1RaVkwRzdtNnJucC1DcW5HemFzUXN0THRrV25KWGxhb0hBY1Z6REZOc0hsQkRmRFV3bWFMXy1OSlo4ZFBXSWk5dGExNTRXeHJWVWhjWUZ2OFBxYnY3QdIBrwFBVV95cUxQbUlkd1FHVHVyQTctdGFPRkl1ZkVMZW9NaTZGaEZpQ1RfUTFLQ2NMRzdJU0drcGhOckQ2THc3M3pNWWVXVnowdmJ5UmFjYXhRbXhSUHBzUXNZSlpqQnhyS29vZzh5N0lqSmJGQ2wtU2MwaGZTRmhHcFc3SkN1R2YzUE8xQ08zc214Q29Cb3NPZVFyVEV3U2RFSkF3UTRuY19JMk9Fcm05X3ExZmlIamFz?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789828926681
+    },
+    {
+      "id": "news_NATION_RussiaWarnsNewUSSanctionsLawWouldHarmTru",
+      "title": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGFVVjBESXNDS3pqTXUwbll6TlgyMzctMUpMSjY2c2tnTG1TRUN2UjM4dWE4MHZMWENTX1pXeHQ1MEpCUFNuQXFhVTZXNzMwQkJ1S29WMTFyOGw3NDRhVnp0V2dLSHRWY1ZLSHRGXzNydFZjbkVhN1VDWmJnSm5pSEViYzU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789828926681
+    },
+    {
+      "id": "news_NATION_MendeportedfromUSboundandbeateninEquator",
+      "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMHBGQUR6ZmdqbFk4TmZRSXJqaXJhYV9wS0xOOEpsSnNtbEdPc1h3dUdnTEFyOTJtOHNRN29LVVpQa1RmajUtdXJnel9YX0dGd3U0VWg5NU51SW1wSUZkNC1oTlFEQXVZR3c2dVRraHYtaEZVdzloaVpfei01MHFVYnRfYlZOeUczQXJxaFpzd24?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789828926681
+    },
+    {
+      "id": "news_NATION_TrumpfamouslydemandsloyaltyVulnerablemid",
+      "title": "Trump famously demands loyalty. Vulnerable midterm Republicans are increasingly defying him in public - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVZDdXFMdnRmRGRfU2xwY1Z6OGtwcnpiazNycUdHSGlwTTRyRE95R3lBNWNEa2E4TGR5RWJaZE9ka0hCaW1GTS1DX1lRVHRrX0ZvQmt1NDZlQjQtU0VGV19sbFV2by1HTzZrQXNMbTBlYm5pR0xjWl9xTjQxRlhodmZzVnRCbTlNcE54R2x3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789828926681
+    },
+    {
+      "id": "news_NATION_PostmasterGeneralbreakssilenceonTrumpsfa",
+      "title": "Postmaster General breaks silence on Trump’s failed mail voting crackdown - independent.co.uk",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWhNdVl6WVFkWWhlVndNaHdsY00zeUU5RVVIcEZObnhGTVBmTWI2SENETkl0cC1NaFl1dS1SUlJvZWVlQW80R0E4cWlLNFdOY1M5cUhteUk4cnlUQVQ0X2Ywb2xOR0tKNGJZaU1UbkpIQ3Jjd3lSdVJmU2R4UmRiWThDd09FX3FVTkFhcWZ0YW1VZ0hxZ1BCNlF5aFJYa1g4M21PZG52UWwxdDJfOHVubzVR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789828926681
+    },
+    {
+      "id": "news_WORLD_WillYemenBecomeSaudiArabiasVietnamNewswe",
+      "title": "Will Yemen Become Saudi Arabia’s Vietnam? - Newsweek",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5MF8tVEY1T0FEQmRubmkyU0xjc3pBM1lJQXJtS0FIVXczc2RYVWNobHNpZDZHMmZySTdaZ2p3WTVGbHNnc25aTHFwWGI4dFRUeVhKdEhXbHdJdVhGLVdwWmZLVUdva2R4S0hwaE9yV09xZnl5X05TaDE3X2dLZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789828925921
     },
     {
       "id": "news_own cryptocurrency launch_Trumpdisclosesmorethan14billionfromfamil",
@@ -5390,116 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789484501586
-    },
-    {
-      "id": "news_ENTERTAINMENT_WolverinesPlayerRatingsAre20PointsHigher",
-      "title": "Wolverine’s Player Ratings Are 20 Points Higher Than Its Metacritic Score - forbes.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUTZfbDV4dVNyekNldjR2aHlzREZzT0RXVExTYnVXR09SYWdqM3lLY0YySVh0ZHNma2Ffb2dwbzlxbmFHVzdRd3pVUE8tQVIwdlM4aHpQU2o1ZVoxNkJBM1RFc2tJaG84X0JocXRsV2ZRMGlXM2ZYemJNWDlkVE1QYlY3bVBjRXlacnUtRlJJSENQNi1YRE9NT2gtN1M4RDgyRml3bXZtNndBQ3ZZaXlCbkZQZUZDOTU4WV9Hcm9OTGk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484500140
-    },
-    {
-      "id": "news_TECHNOLOGY_AirPods4vsAirPods5BuyersGuideMacRumors",
-      "title": "AirPods 4 vs. AirPods 5 Buyer's Guide - MacRumors",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CWE9UbXhTTm83UFFhRldMUUp5VGdOZks1Y3FZTHdZYVpOVUFzeHktaVBnSzVlV296aXZ1TTlic2xsTHZIQnU1NEd1Rk9Ya21xdjQwM0Fra2VxUnM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484499414
-    },
-    {
-      "id": "news_TECHNOLOGY_iOS27siPhoneHandoffFeatureExpandingtoMor",
-      "title": "iOS 27's iPhone Handoff Feature Expanding to More Carriers This Year - MacRumors",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFhhbWprOFF1UkwzaE5qbk5BZFNvdlhWOExfdl8tZFUtQnFpVE5JT29nZXlXUDRtMWxacklvYXp6N19WT1RRVWpUaHhkSE90UnNhRHl0Y0lPUWw4Vi1ielBubF85WVFlN0FCbVZZRTJlU3lyblFaU2hnZm1STWVxVWlpVEM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484499414
-    },
-    {
-      "id": "news_TECHNOLOGY_JujutsuKaisenRumbleSurvivatondelayedto20",
-      "title": "Jujutsu Kaisen Rumble: Survivaton delayed to 2027 - Gematsu",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2stY0JvNmN6b1dvRnVQZzhTalZGU00zYXd1VUZWelN1eFdiMVFOUnQ5eElYSFhBYjNfTmpsUmxUU0oxMmhvQzFBc1llTzVsYWlBbHVqaXJsQmdNTjBJTGtNTDBPQVZ6ZjlRSDZZLUZxZlVEZ0lRUXhmYTZNMnJRa2ZkQTJvMlk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484499414
-    },
-    {
-      "id": "news_BUSINESS_StockMarketTodayDowFalls200PointsatOpen1",
-      "title": "Stock Market Today: Dow Falls 200 Points at Open; 10-Year Treasury Yield at 5% — Live Updates - WSJ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkd6MWRHekVmaFBjWGJOWkl6QjdJWWRiTmxJQV9FMmdXcHdXaG92QUZodkp5dUIxOTY1N1ltZ2dUNmFsOFZPWl91OTdlTkFES3dud0V6bUphaE55WlE2N0N4R0NaSEJfandkZVNzQnpvaXlRUnpCNTFreG51OWZSTzlZR3gyLUU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484498693
-    },
-    {
-      "id": "news_BUSINESS_Getreadyforyetanothercostwhenbuyingahome",
-      "title": "Get ready for yet another cost when buying a home: Junk fees - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96Wmc3MjNtMWd4YW10ZFNDTjVoRUFmaU9zemRsWVlYbi1CZkppcEhQcHJVd2YzdEJ5T3JYZlM1cVRDS0gyeVN4LWhIQXU5VlVPc3lLc016VnBWSU1vYVdDTVJYU3NSSUROcFI5ZUdsVDk1UGItc1daVDdnVmtkcmc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484498693
-    },
-    {
-      "id": "news_NATION_TrumpcallsSupremeCourtmailballotrulingbi",
-      "title": "Trump calls Supreme Court mail ballot ruling 'big loss for Republicans' - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnAxNnBjMzk5QWtkZGRJLUE3WHRlYXdQR0QwUjRhalNVdmFfU3FnQzExSkNRQnhnd01tOWhmSnphemFVYkpIOThaYi1RVWNONnhHR05qWXRmV0NBZUZjUTJrMjFNakVBZXFtQmlJNng0NWVZNGxQWXhrcnNhTmxqU3ZmZU_SAYoBQVVfeXFMUF9LS3NoSTV2LTZoaEdEODUtZDdqU2dmQ3hNY3F2QWFuOEk0TTNWakFwUzdxUWhvSXJXMjhuTXBvd25SQk5WQm5vNHU4ZlEweEItbklmV20wVWcwajk0aklGQXUydHBFckVJeEMwbVd4dHhtN1RpNEhHTmU1bnl2cUlQd25LdlZwUUlR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484497979
-    },
-    {
-      "id": "news_NATION_TechCEOscallforAIregulationTrumpandCongr",
-      "title": "Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcW93ckZBY1Y1bHJDS243bGlJbXlENGFaTmQzS08zTWxtQmEwYjlFRkhuQk9WZ1plVjNac2JRSjY4Zk1uLUdlT2p2VHh4WWxfanFHaDNWa3NRWUktMEhsZ0trcWcyTWNMb0RmN05aT2pJV2I1S25nejFtOXNvRjhTVjU4VTFrcTctSzNqWHFCOXpkSmtGNnhadU1EVEdSd19kUllsWA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484497979
-    },
-    {
-      "id": "news_NATION_IamtheHoaxBusterTrumpswaronAIdoomersgets",
-      "title": "\"I am the Hoax Buster\": Trump's war on AI doomers gets personal - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rd0JOZjZpUENhWnNjdW84a2xCbU5kZW1TSlZkcjFaYmJHY2lEVHBqeTBPdndLcWtnLUpCWDZhUUt2YndELWhoMmUwWW8wUWUwWllvOS1HQk1HLWtUaldJSkVWbUhBY2FrdDV1X0J3Y2UwLWFyeTE2Nw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484497979
-    },
-    {
-      "id": "news_NATION_USconfirmsforfirsttimeithasdeployedweapo",
-      "title": "US confirms for first time it has deployed weapons in space - theguardian.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnlqY3BJUUkxVnNZT3dYV0ExMzE0eXlTbXdZYVp1a2hlZ2lsVmtQM2JVR1NfTmd6VW1fckd3dzhVRUdVMVptNkctZElQM0RZLURYdmtITzJ6SVpJNld5aHZhR2JiWVhTbXVpVGNDSXhpdDF3NXNiaEhYRUFhSTVrLVpadlZNY0ppUzB2ZUpBdkNaYUlLdDNBbWV4RXFpTjF5X0E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484497979
     }
   ]
 }

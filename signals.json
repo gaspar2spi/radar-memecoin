@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T06:35:27.082048+00:00",
+  "updated_at": "2026-09-19T11:29:32.931726+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemensantiHouthiforceslaunchinquestintos",
@@ -858,6 +858,138 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_own cryptocurrency launch_Trumpdisclosesmorethan14billionfromfamil",
+      "title": "Trump discloses more than $1.4 billion from family crypto projects in filing - The New Voice of Ukraine",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZV8tV0lLVUpHaXdaZ3Z0b0phc2tMY0hwVTBRSlM5NnRTd3pYcXczbGZtVTBFTVI2d1pRaTlxVUQzSlJZd3FJMktQRFp5ZXM3WHc1TWNnc2Z4QlNSNzhFM19Wc2UtZ3dxdFJmell3eXFkbndjSHlzMGVCMVVwakVRUmh0N2pDRUx5cVRUNVlYbmxUUDZpZnVhUFpoREJYMzJJcWQ4UlZaVldkRkNzLTVyR1R6QnQxbXYydnfSAbYBQVVfeXFMT1V0WTczQm5HYWJGN2N0YVdqYTF2b0FZSXk0NG10d3RYNGpNRXNVc2VyQ2tKUUlXa2dMUWNEOG1sUlFmdWxsQ0NBVlExQ2FtSDVYWllTb1hvdEZnVlhTMkYwal96YWxaeWRaVU50dVhMQU1tS3hvUFlEZW5ERDQ5cFpHcC1RVHZfcnRRYml1bHJpaUxYYjA2UzF2X3FRcUktQWcxdzNxNXgxTlE1RFdyTktxWXgybXc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789817351281
+    },
+    {
+      "id": "news_SPORTS_Morethan35womancomeforwardincaseagainstf",
+      "title": "More than 35 woman come forward in case against fake 49ers player accused of fraud - theguardian.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52dmtyWklJX2FzUXJXLUlwVFl2SXhaTE5taXBvTHpaNUpXM0JGMVUtWURPMlpOUGFNSzVzY0JiWVo0NFBvUHpOR21NcGhJVnR1TEY2Ui03SHBsZUowZHBXU0lNeEVNS0NfMHFmSkpQa3ItakxlSFFDMHpURQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789817343787
+    },
+    {
+      "id": "news_NATION_AppealscourtsaysTrumpadministrationsthir",
+      "title": "Appeals court says Trump administration’s third-country deportation policy is unlawful - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVRaN2pUcDB5aXpnSU1OLTNRMlhHY3o1bUZLVWRaZzdFOHZnQkMwOFFSTVlicGVQYTZfQ3BNeXdMMGVCdzE5d3JoZ1M1NUxCYU51WmdXOWh0c2dTZ19GX19UbjNLbzRuX2lFXzNrcXJHVTdWdnptY1hyYVNEUUJRekhQVERBb1RzZExaWUl0eTVaa3duSlRlVmY5VzJNZTBfTW9RVlFBV0hSaGNtMlZMaHFCclVoYnRiU1FlREFpcGlBYVBTS1JBcnRybnVvQWFqT0RGZkRkRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789817340446
+    },
+    {
+      "id": "news_NATION_USandDenmarkreachdealoverGreenlandssecur",
+      "title": "US and Denmark reach deal over Greenland's security after Trump threats - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZWFFKZURLejNoTy11ejhVQ3hWNkxqRUhGd05RQlBXUlhQaU5obE10ZExXZGw3Xzk3ZWt2ZVkzbktHVDlCcWRfdjBVUHMxaFc2R3E3TldzZXZIX28?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789817340446
+    },
+    {
+      "id": "news_NATION_KennedyCenterSupportersRallyAmidFearsofT",
+      "title": "Kennedy Center Supporters Rally Amid Fears of Trump’s Demolition - nytimes.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BVTRKaDl1aFBJWVlkUlJueDR4R0dZeVMxdldnTkk2cDNQYVhXSWU0SFpGSmNOMDVRbHo4NEQ1SXpfOE5mb3M2RDREa2tDY0NpeWVqNkRlVFdsUWpZSU43VHhlVFFKX3p1bUUwX0pJWURSZm5seHhRSFNZcG93TG8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789817340446
+    },
+    {
+      "id": "news_NATION_NAACPsuestoblockTrumpadministrationfroms",
+      "title": "NAACP sues to block Trump administration from sending armed agents to polls - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT1RhaUpIVWM2Z3M0aGpoQnNxdGNIZmhELVdQUWQtck9NY1J0RFZ5eExSbENpSEJRTEpWVXhsM2FWZFFOX3VNT0pGT25VNjM5c1BfQ2F6VF9fM1A2MjhTOVdtR1gzSks0ZmR0RHI1QzEzSWNmWkc4LVI3QjhHY2xLdEFIYnB0NHJadTdjbTB0OEI2RFFrMDAw0gGcAUFVX3lxTFBuSDV3dUlWZGNKZnhMTzVVTENzVzRTSEVuSF9fS3AzWHZDMUVKTTBZR0NSaUhCdnVpOGdJVExETHJPeTluQVltSVlwZ0lCdVcyemwzWlNzOW8yYzVMQ0FQY0laM3pmTjJnTE5LM1YySG5oelBZOGY0UmJycDQyamhMLXlibkZpZmlrUV81MEtia29IeXNlUnFiVDQyQw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789817340446
+    },
+    {
+      "id": "news_NATION_Trumpsfavorednationsdrugdiscountgetsbuyi",
+      "title": "Trump’s ‘favored nations’ drug discount gets buy-in from all 50 states — and will save billions for Medicaid - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR2RBUTJtT3o3Q1h1dXlGeW5QSDdVM1BCNVhXd1dEczFycEFxWEhFaV9XTGVlcC1qVEpxd0x1ejhtb2FRZkI0MDFsNEFIdGRBeUZ4Sk8zSVNOYjloVk1mQkR4U0RmZEtLYzdiM2hlempaOXFFSjNVMW4yUG1ZOFFfclNoZjhKMENNSG5zUmVMcFlDRDY5V2M4dlNaWHJ2ZkJhdVdXcS1Vd1hfMnFoX1NJ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789817340446
+    },
+    {
+      "id": "news_NATION_FloridasSalazargetslightTrumprebukeoverc",
+      "title": "Florida’s Salazar gets light Trump rebuke over critical immigration ad - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmJBRWZIdU1nT0VrX0x1NDRTN2dGV3NKRmNVSnMzOWhmVzVHUkd0dmdDa0FsOXV1V1kwbGNDS3Z1RzQ2d0xkZWhVcmVyWHFBYU1YclBUQTd0Tk1ZUkh3ckwxemhrcVdHdE1MMzJMdWJmZWFTdkdEaEgyUEpBUWdIcTJJdnN6TkFJQUdrV0RDaWhyN21jbkExUEN6X2hnQkcxSXlScjd6SzJPYmtuR0xmbTdDRzhEZXoweTZr?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789817340446
+    },
+    {
+      "id": "news_NATION_Trumpsayssomeroutineimmunizationswillbes",
+      "title": "Trump says some routine immunizations will be split into five separate shots. Vaccine experts say it won’t work - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tMFBNUjkxeU1JaXI0RVNTV3J0Y3JMOHNWSGFpdXdraXlQYmZVamREVEpfRHpUS1Y0dUc1NlhKVVJpYlhiaEhEWVJaUC15cTNmR2VZS2lzemRKNGFVTzBpX2s4aVB3M2VWUVdLTUt1dThaSEE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789817340446
+    },
+    {
+      "id": "news_WORLD_HouthiseyeYemensoilricheastafterseizingR",
+      "title": "Houthis eye Yemen’s oil-rich east after seizing Red Sea coast - The Times of Israel",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNEtoSkstal9BZ014QXRrd1U0VnJOTGlQa2hRV1B5LTAwak4zWnI1ZlpFNVRNZDhMWG05YmNNM1ZtYXhGNDc4S283ekM3bGVpd1l4eVN4dUxXQUhIeUFQSVpVY1pyeXZXOE1GWVVENngwU0dxSzUxSi1GSFNELUhRVnNOU0p2NnpiNjk2S3ZXUFF1MEY3a2fSAZsBQVVfeXFMUFhlX19tM2lYVW5SNTloTnhjeTNGeUhmeHYwSWg2R3RUWklSYXZYdTR6RmdtNldldzNDdTktRnNEMUlJUVlDNGY5UjhxNkxFMGR6UHlxaDkweDBvalhMeXE1UjJITExKUl9XdXhPSEpNaGV4LXB3dnEwQm9jelNaaGxFeklsaHBnSnUxVGw4ZWR1R3F2TkdxR3h5Qm8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789817339729
+    },
+    {
+      "id": "news_WORLD_IranWarUpdates2shipsattackedinStraitofHo",
+      "title": "Iran War Updates: 2 ships attacked in Strait of Hormuz as Trump says next move could be to \"annihilate\" regime - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON1ROYVJ6T0RNSzVUbXVHZTJTc0NDajFSSzB4VjdJcWVpX2JVVk9KcnpmZHNMZFZxS3pIaTFRMlUzSExKZHBiUlRYa2l2M0s1amg4aTd6alZNLW53cmZsWVhFZFRsUG91NnNLMXNSdnhGckhpTTlRTF9JV0xRS0dDNEh3cUhMcFl3NGNCdQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789817339729
+    },
+    {
+      "id": "news_WORLD_BarefootandterrifiedYemenisfleetheHouthi",
+      "title": "Barefoot and terrified, Yemenis flee the Houthi advance - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFEzVUdGUG54cExaTHZXbTQxc0FKNndwcWh5V2RhakFnYTlESUY5dTVfM3B4clN4U3BTai12dE9HVXRkbzQ3QkJwazRNaVNjWkN0MVh4a0d6eW85Yk1INlJXSU5LZmNnSXd4bFlKLU5BaHUwRTQyT1M3TDdwdXVqNVZKbTZhSVZsc1Y0OWJxTXBETk55bUp5d1AyLTFkaUszUWc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789817339729
     },
     {
       "id": "news_HEALTH_ShapirofiresbackatRFKJrTrumponmeaslesInc",
@@ -5368,138 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789484497979
-    },
-    {
-      "id": "news_NATION_DelawareSenChrisCoonsfacesprimarychallen",
-      "title": "Delaware Sen. Chris Coons faces primary challenger named \"E. No-Trump Hansen\" and more races to watch today - cbsnews.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYWWFlY0dCR1dOZUZYV3FMcDZhYnhjdFoxLVJxSEEteG5TYzZqbGd0bEhKbFdPNVgxTGlIb2IzNUdSS3JwVTZ2YUNkMFNUZ08xdW5zT0FmOW1tVERSaENPMWpucmE2b2ZpX3JPQmN2WlVJZWhJR19JUU02aw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484497979
-    },
-    {
-      "id": "news_NATION_VotershaveabluntmessageforTrumpabouthisi",
-      "title": "Voters have a blunt message for Trump about his idea to dole out $5,000 checks - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYVJpRUltQzhydkc3OHQ0c2NIdXo3WGE5b0RWR0I0T1ljeDNwRmV5SXVvSnBlNXdNUXhfUVlrZFVBVXpZZVUxNnItN3NlMUxWVWxsQUVWdU4zZ3RjRUF1eFFMS0U0TGFEWjlHalM4MERiUEh6ckpiVlRDSlZxRlVOTnhCYWZzMkdQ0gGOAUFVX3lxTE5UM3J6dV8yZWZZdkR0RkdaTER5aWoxMmVaT0tWN1dUVldLdmpldW54ZXNXM3YzbjVTYUs5bXhQRlpmRVpFYThFWWluRy1qaVJVZ0stdjAxakw0cXU5ZHJuNGc3T1hZX21wb0RSZ01PaWJSSF94bFdORGlVTDI1SmhVSUZNM1pDeHZVZWtNMHc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484497979
-    },
-    {
-      "id": "news_NATION_ExCIAchiefissuedsubpoenainTrumpgrandcons",
-      "title": "Ex-CIA chief issued subpoena in Trump 'grand conspiracy' investigation, lawyer says - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UbzZHbnBTcW43aHdnWnBFQVcxR2ZjY24yNndHTmtBZTJGTFl3R3FGUVFyOGV4bUhES3hkMmlDV040bzk2QXhPMjlYR1hvbHUzdlVKZGp6MXhpdjFVTzQwQmFDTGQ1XzA5YnFDa0RfbXAyR0MyYkMtVDZaMA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484497979
-    },
-    {
-      "id": "news_NATION_IranbalksatTrumpsopennesstorestartingpea",
-      "title": "Iran balks at Trump's openness to restarting peace talks - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLU9NeEhPUkpoNVJPTmg3LTJWZG1leVVWQTBkNHdBMVpWcnkzM09NdE1LQXlTdWpDdGtCTFE0WUQxQUEtV0xuZ1ZzaFEzNkxrdDI5UXhMQm0tZUZmY3JLMkZIa2pCUVQzeHlkMUZZWDhaQVBGYWxZQ1JweDdmS2VWVk9UcnRoUVp0X1lHTVoxV3liaWd4ZHc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484497979
-    },
-    {
-      "id": "news_NATION_ElectionofficialsprepareforchaosasTrumps",
-      "title": "Election officials prepare for chaos as Trump seeks to tilt the midterms to Republicans - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZEdQUXNJTk9YN21oQktUSU1XZG9kckc4cTdRM0pNbGg4WnF3SGg3SGwwbkdPd0VIbGNVS29oRHFaM3NWa1lXcFVaeEhpYXZLd2JiYUF2TFBpOVBzMWU0ZDZ6X3JYb2tRbEVmYW5TR2t1Qk0wZ2N2UlNqeGRvalFtRE03dTk0TjF4NkRmNjkza1JNejVza0wtcGJNT0RhVUhGRnFabEg4YWFWS09BSzVrdmJMVnFzM3F1TFl1Ulp3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484497979
-    },
-    {
-      "id": "news_NATION_ChicagoJoinsNewYorkCityInSuingTrumpAdmin",
-      "title": "Chicago Joins New York City In Suing Trump Administration Over New Green Card Restrictions - Block Club Chicago",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGFWQjROaWtKanlPUjUyMGtHb1JnQlJVTnNicWtwNkd3ajZwOHM1NXFRS0RDd0phYXhTYkJ5ZmE5bXotWVpaeXFualJHb1lvTjNpVkFqUTU4TkRVcVQxTGRMZWI0ZmVpWWRqTGpkUjNOcmN4VlNham5tYmNIZ0NMcDJxSGxfRFZCUkVLYUNENGRkRjVneVRnbVdLUXNQQkdVSDBXa1ZES3NMY05zdl9VRDRJdDhKMDR1dkw4LWhPTzN2UmloSE1wWUhnWQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484497979
-    },
-    {
-      "id": "news_WORLD_UkraineandRussiaDenyTrumpsClaimsofanEner",
-      "title": "Ukraine and Russia Deny Trump’s Claims of an Energy Truce - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTEtrX2ZYV1JCeGtzX2FqVGJ4ME1BUU1fRmxSMkEyYnhhWl9tRDN5SjdhUXNndU9DaVR2ZXRteEdEZG9sd3NwUGFDMDZwdWcwaUplcmpIV0w3TGcxU2V2NW1FR293VVYydU05cjUxOWZ6VFhWVmVIWHFobnN6c0VrczF2LWQ0TW4teHhxbHoxTQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484497198
-    },
-    {
-      "id": "news_WORLD_AirpollutionspikedaftertheTrumpadministr",
-      "title": "Air pollution spiked after the Trump administration stopped embassy monitoring - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQURWM2F4ekVwU1VmVDBLZVBsN0NPS3NFdXhEUmJWWjU4Yk51dk54RlJfTWxtc0Zhd3R3SzBNcGtySUljdUFTSVJmRU5nS0FQbF9VamszVG9kVHl0S19BTGYyZFBzOElkVFVXTTh4MFBGM1RRNGRSbU5vVXBBNklxQ0pjR0M4ZFV6UmpjejlaUzYyZUt3VVBiUzR2T1Bpa3JXdE1Vd0FWLVZRUkNwRzZEdUo1SVhzY0o1MC1CcHlSbW4?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484497198
-    },
-    {
-      "id": "news_WORLD_InquiryintoNewZealandmanwhohidhiskidsinf",
-      "title": "Inquiry into New Zealand man who hid his kids in forest for years lambasts officials’ actions - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTG85S2t3MUxoclNJTzBLR3JYZjNMQWxZU19ncXdCbll2ZVNzOVpTTlFPUE9oX0hWSGpqS0hxUzJoeEpyZ2pMSGhBajg2V0lZWmRBdXlnMG9hV3daOExrOVFmYTlIT2pnNTBxNmMtMXB2NGs5N0ZSVnFDQWpPdXo3d09Qal92b3ViemxCV1paVWVpODFfY1ZLQ050NFVSYzdaSDBrdlV3SDAzM3B0X1Q0Rg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484497198
-    },
-    {
-      "id": "news_own cryptocurrency launch_OKXsXLayerletsusersbuildtheirowncryptoma",
-      "title": "OKX’s X Layer lets users build their own crypto markets - Crypto News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1B3YmxGN2pBN1g3eHp4a0FLdFl4WmpxTGdidkhhWHp6MC1VNlFDM24yQUNDS1VmWEQ3TUg3ZEhGQ3p6WkNOaDhoT3BDUzhpd3NKSS16ZnV2czg3VUJjSGZjenVKNEZGR0p5XzZJZXhhSU03NlZtM2puR1VnWFJJcw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789467149370
-    },
-    {
-      "id": "news_SCIENCE_CaliforniaScientistLookingforFrogsFindsa",
-      "title": "California Scientist Looking for Frogs Finds a 10,000-Year-Old Mastodon Tooth - yahoo.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY0V0dkNZZVFBanpGTnNHTDRpYmdaWWltck5sZGFMWkdtY3Q5dlk0cjZPUzQ2OWR3MnZMbWJDZmJRQVdXS0NPS3IwT2w1QzN6MlpGMmxBck02WlkwQmVVaC1PYVdVb1JqaVFmbzNyZFFzeFFYaWREeS1uemFFOW5SalNlT1luU1lWSWlVUEJYa1BabW0xSmxndHgwd3YxanZr?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789467142953
-    },
-    {
-      "id": "news_SCIENCE_AparkvisitoratCarowindsspottedacrackinas",
-      "title": "A park visitor at Carowinds spotted a crack in a steel support column on the Fury 325 roller coaster before the ride's inspectors caught it. The ride stayed shut for more than a month while engineers checked the rest of the structure. - Space Daily",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNZ2h3UTEtOHNLMmRPbE9TNzRyVDhmZkJ2LW41c2w2YWhKdUhfOVplbVVNOW04aV9vQndWRENhY29XQ3JBQ08yNVhsMmpJR1pJS003MW5xelIwSGVOVlY4ZjEtdS1tQzRyc19qYmdBTzVsNUlsNkF1dzM2czU1dE10OFpLQ0NPMDZzVTJqc2VHUC1jRkplOGVhSkZrQ242Tmx6eS1QZzNjLXZDVWZoWkdOMTdYMzlURnVNcTZLN1k1bE9aMU13QTFZZzFsTjF3TmUyMUJtZTltdE1TZVhpRHcyeU1WYXJLWXJtMEJuMTFxcEJ5bFhVSE9RNlZWOGlPWW4zMXBEZkFFV0tnSWo5Tkc5dFhJczJPaWdWeDZfNUY2MEktZl9HZGd4VFZoaDdCaUU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789467142953
     }
   ]
 }

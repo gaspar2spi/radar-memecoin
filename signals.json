@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T23:40:36.786848+00:00",
+  "updated_at": "2026-09-19T01:36:49.144768+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemensantiHouthiforceslaunchinquestintos",
@@ -858,6 +858,127 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_HEALTH_Trumpsayshewilldemanddrugcompaniessplitu",
+      "title": "Trump says he will demand drug companies split up vaccines into more doses - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclhMQWt5cVpINmo3MF9qR21zZWRhM0NuMmltRmFEeURrYWxrTEVfUmtpZEhua0ZfTjI1QjRMekZlOXdGUjRSR3JnSjVnWC1fNEFTZjg3eFNCSmRya3lGeERndWZqc0NnaTJZeDBDWjJ1Vl82T2RxNkFzSXp4YXg2NmRRQXljUW1BZWtEd19zMmxNQWVPTC1WRldCU1gzT1hkd1p3cUtIV0lnY2dTMk0zVk9IaUJMTmh6LVd3Qk1KQm5MUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789781782541
+    },
+    {
+      "id": "news_SPORTS_FourObservationsfromBayernMunichs70rampa",
+      "title": "Four Observations from Bayern Munich’s 7-0 rampage against Union Berlin - Bavarian Football Works",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbVpqd1B6TlRnRTdlZXlrWUdRRjdOSXFHVzJiSWN0VEZqSlZLY21wNktxRXRsbVY0ckFnd0lINm9KWXdueWpKSUhuNXFhNVFYUEZoX3FHRnNCUGpZR1A1amJQclpIZzVGZWpVako4bkJfMGZ3blA5SkFqUGFVMlFOMEF4bm1WczlXRVBrT1ZvLUFJbWxNUWgwajhjbkVGbjk1Q0ZFVy05ZTY2UW1oTkFZaUp1d0R5Y2VSQ0luYVhZaHhEVmRoX0VmU0lVa3NHTFltZFpWX3A0cnFWbmhPaVRkcVFR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789781780718
+    },
+    {
+      "id": "news_BUSINESS_WesimplydontknowJPMorganstrugglingtofore",
+      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tZlBZZ1NnUnFqdmhqR0JDZkVwQlJ6ZTlZQ25LdFdjX2JYa3VOTlFWZXZQUWtseE5XMDlpRVJIczJxMzlQVkx6VWFVaEpJLXljNWJlc3V0aDdWUTA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789781778471
+    },
+    {
+      "id": "news_BUSINESS_MarketChatterToyotaGeneralMotorsFordJoin",
+      "title": "Market Chatter: Toyota, General Motors, Ford Join Coalition Asking Trump to Maintain Bar on Chinese Carmakers in US - Yahoo Finance",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMElBU2h3WlhQcEgxaU5RQTBFbXFWSkw3dHd3WVdJSFRuS1YzaTNtT1luVzFNTnhFN2ZfYzRtUW4wMmFuc2xNb2NkT3c2c2s3WDhKeXFMQllFRUNSSXZLOFZlVVVjNU1Ld0tkRXVkQUZyZWt3RHJsOGJnTkxkU3gxOVVlb0ZmaDQtOWpRZk1SVEZ0bXJZY3U5RE9jZWlMeGhSblZj?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789781778471
+    },
+    {
+      "id": "news_BUSINESS_JapanRaisesInterestRatesto31YearHighUnde",
+      "title": "Japan Raises Interest Rates to 31-Year High Under U.S. Pressure - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42NWZYazNucmllcUJxbUZPdHIxZmF2NDBtdjRaXzNmcU9GcEdWX2dHX3NnSmhtTkI1d2JIWjdtMGlOUVdEMm8xMXFDTVh0c3QyNEFIV2U3bDZVY2czRUZDb29ISm15dUNVTDdjMktzckViV2kwLUE1Wg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789781778471
+    },
+    {
+      "id": "news_NATION_USandDenmarkReachSecurityDealonGreenland",
+      "title": "U.S. and Denmark Reach Security Deal on Greenland, Trump Says - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlWVY0TTlvREROcE9XR0tjbHRHUU05TUNiRW9iZmg3Tnl6aWVXaS03Nlk0dVRReEtuNDhlWDVBby1kc2V2RzROUS1kV3NQSVpNbmFQa1V2Si05cnZvdFAzSVRXZC1FYmpqZ0wwOFUxdzRHbjc3TlE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789781777720
+    },
+    {
+      "id": "news_NATION_TrumpsignsbillimposingsanctionsonRussiaa",
+      "title": "Trump signs bill imposing sanctions on Russia and giving him more power to levy tariffs - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWVudVZFMERYYlhsNEJxTFdxZjlYaFFLZkZPZF9zTDJ6dEItZDRfUngtOGVvNm1HQnNHUVZhVl9RMkYyNzF2YTFQNTBmcHFYVC1RMXFzeFhoR0ZqVlNDZVdCaXNDYUROVTVhNXpxSlotTGJTRGJPQXBqdm8ydm93VVk3YkRRdzl4?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789781777720
+    },
+    {
+      "id": "news_NATION_TrumpcriticizesRepublicanwhosaidimmigrat",
+      "title": "Trump criticizes Republican who said immigration enforcement had ‘gone too far’ - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWWZTUGFiSHVNR2VqaTNBNW8xTVVCV3JDclBCSjd4UktHa0s3U1FWdTVKcUdUajJNQ0FiUHR2NHhCU242YUJPZ0paLUpuMEc3SVU4WkxKRmlqRExST3N2M2pYcmZGQ1FsZnJEbDZxS093SzRUc01Md1Bsd2VOM3ZiN19PYU9RWDdzMWQ2SUo0Njc2VVR2ME9JbmNvbVU4RTh4S0NqQUdpUHhhOGxnZ2NKd1FsUVlpOFBQRG41U243c3pZVGVCTGgwTXpjdDZBbEhoN25IRVdyUm81V3FwSHl2bGx2YkdNc01QSWQ0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789781777720
+    },
+    {
+      "id": "news_NATION_TrumpdefendsbidtoputhisnameontheKennedyC",
+      "title": "Trump defends bid to put his name on the Kennedy Center - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWNMYzZNWnlRQUx3RGU3WkNyU19aTXRoWWRPdkhqQ3doUU9yUHRCMHFETVdualpoRFBUUmRvVmZ3UVV2WDAxQmxjRFAzZy1QMlVHNTdaR0lvRHVvQkh1MmktZTR6eURjeW1VR1Y1NkV1VjdYUE1fbERJVVU1NUs4a3RMNVVONDNSbHdBa1hvcS0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789781777720
+    },
+    {
+      "id": "news_NATION_FAAclearsproposedTrumparchrequireseterna",
+      "title": "FAA clears proposed Trump arch, requires 'eternal flame' to alert pilots - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3I3OTFQM3RCM1IyS3lPLWhyRnI5RGJvbWpuQW53QmctdzM4ZlRXX3lpcDZxaGh6OUM1X2lYVGljTFlMendCU0h5ZVp1WjlHdGRReHlsWm1peHN6dmVFRXU3TDV3YUNEbjZOR1R3MmlhOHVjZzJoRUNUZlBsZ25VQUdaUUFfRFp2RFdKZnpfUkw3NHpwdTFrbl9KX3V5aDhWVkMzbkRNbVY3UWo4MlVNV2J3M0hzRGs5RGxnNmxzUksyY3JOZmd2TQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789781777720
+    },
+    {
+      "id": "news_WORLD_TrumpsayssonhaspaidbackRussianforwedding",
+      "title": "Trump says son has paid back Russian for wedding party - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJxQ0gxb0hBYWRQV3ZwZjVTalRuYTR1MmdiY1E2TG9EdEdOdkZWdDFnU0V4VEluUWZVV0tBUHdSNVpMM1FJRG83SzhJMm1Ec0x1M1JmSEZrNl9KSHNNbmVKOUZWU1cwQTB2ZDZfRGIxQ3dYemdCU1hiaHBBOHljcjVWMXFVMUl4VTBDNWc0THlXQVVBdmYxeU1qYllnOENidTJqLQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789781777012
     },
     {
       "id": "news_rug pull crypto_HunterBidensmemecoincrushed4outof5buyers",
@@ -5379,127 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789467139148
-    },
-    {
-      "id": "news_NATION_ProfoundlyunhelpfulTexasRepublicansworry",
-      "title": "‘Profoundly unhelpful’: Texas Republicans worry Bo French’s xenophobic posts make a tough year worse - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdC1iUDR0MGtYV2FwNGVUbDNwT2VmOGZIOHdtU0pmVVVmckdVdGZsb0prell2YjluTDJLblNiQjdIYktqWlNmQ0p0cHdQQlZiQ1pxbGlVLVFnZi12RTRuWnJOZkl1dEJYNUlTT0lWU3lXcDhEdlRDQ1FvMVNxYnh6d0xmT2VLZFplUnh0U053WjlKTDJrWkEwcm9OTHU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789467139148
-    },
-    {
-      "id": "news_NATION_TrumpDHSwhistleblowerallegesworkersliedt",
-      "title": "Trump DHS whistleblower alleges workers lied to access state voter data - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13N0p1NnVjYUpsYnRLLUREQzhLQ2xWNHdhNlZSaGV2eGE1X0RnMnVSZURWS3U2Z3RWWDY0bGhUMGhuU0NFVTRzY2pqcWdiYTh0Yk84cnViQjRFWVN6VVRsUVB4aXdjbTBDUW9nS01fTzUzQzVkUEhnb2F3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789467139148
-    },
-    {
-      "id": "news_NATION_Prosecutordetailsongoinggrandconspiracyp",
-      "title": "Prosecutor details ongoing “grand conspiracy” probe into Trump’s enemies - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdXVEOWFCazZlZXJVZm9vdDhGTG9FVVFjYWRlanYyb1JKNXJZQUFHa0pBYlo2ZngtRWVJX1ZYZmNJX1dITjdfSU4zSW02bVVIS2JKaUp3dVRIM2lXVTRZbk0wZkIzektPQTFpZHZRQnNvVGQ4MU9kR3FKUHNqcmxrZy1nVQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789467139148
-    },
-    {
-      "id": "news_WORLD_TrumpnominatesLeeGreenwoodswifetoserveas",
-      "title": "Trump nominates Lee Greenwood's wife to serve as ambassador to Barbados - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkNZYkJpTHhHd2hHaGszdlYwSVoyY1h0WmQzYzlUVjE1aWVkaEF1c3IwNnBtbGVkczc5QlJqOVhUUlYwb3A0LW1rdnRxY1k2VC1BNmZ4aVAzZHF3RVdRMV9raFFMbHBjV1d3dHZQa3dqR2FYaXVUakZuc21mX1RMaHFZeGN4VHdtUG9vaw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789467138391
-    },
-    {
-      "id": "news_WORLD_DonaldTrumpJracknowledgesRussianoligarch",
-      "title": "Donald Trump Jr. acknowledges Russian oligarch with ties to Putin hosted his lavish island wedding celebration - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdzZXS0RtTW1TTzRDdEVDLWc2WWx5NFNfZVFpdzRHVlhtT1N2UmtjdWhDUDZUQVFKNml5aGRqZm1pek5MZGNMLUplQWpyV3U1eG1IenlNSVpNazNEZTlTc0dZOFNudUgyZWRYQTZCa2NWZlU5aUxFWGtYbFJyWEk1U20yaVBaRERlOWsxZzZWVmI4QVFaS1cxdlhPdm9uYnIycjNZZU1jd2dUUFZXNHppRkNLdkhYcHpEUkJqYTgzUU1nNzFqQTBF?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789467138391
-    },
-    {
-      "id": "news_WORLD_CarneyheadstoEuropeforhighstakesspeechan",
-      "title": "Carney heads to Europe for high-stakes speech and deeper EU ties as Canada clashes with Trump - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWE1ROHI4c3BZTndaaTJZeDE5WnVkc0FPU0pNUUo1MldJRlNZbWhsVU51Y2NkMHM0bGM1OVVmYXFGb2w2Z1MzUnFZZVNETHdfYnN0UVM5aFJWWXdHWnZxYkJreUpScXB6ZFpmbTJ3MUJPbjYxZWJfdWowZVAxREktOUJmbHRHQ2NnM1JBekhpNG4wLWM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789467138391
-    },
-    {
-      "id": "news_billionaire announcement_TrumprenominatesbillionaireJaredIsaacman",
-      "title": "Trump renominates billionaire Jared Isaacman to lead NASA - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3FjY1lRX2ZGZ0dpd2hzZ0c1T0NYVS1vQlhvSHVqeU5tUmFXYmNDUG1UdUlzd0RRZXRvalBFVmhZUWlNMHdwcmdvclpCZEZBX2N0aHZrUWl2cFNNZjZsS0ZvNHo4c1B1MGRIY3loREd0a2JBT1V0anNQeXZpb2ZUX092Vm1UZFJVZXhSSmxwNndQVnBrZXc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789449716202
-    },
-    {
-      "id": "news_HEALTH_A3YearOldsMetastaticCancerDisappearedAft",
-      "title": "A 3-Year-Old's Metastatic Cancer Disappeared After Two Doses of Experimental Therapy - ScienceAlert",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEcwcmtxMTE2OGQxU3o4b09FaWM4bWgyX3g1UGR0Q2xHY3dIRlhvUGo0elF0ZU9vd3FsOWNoMFZkWWhsUkVIVTV6MmNBNzFvZW1EUjJNSkxhVnhNQUNibm5lb1RCbTlUTUVxcWlqLVlrdm42ZmRMRkRhSFFHdzFNQnk5OUhnYU5Hb2NyR25MYXNFS2tUUmJUajBSVV9CM1A0Q2pDQTZ4TDZLTHlSVWdXTTNn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789449701695
-    },
-    {
-      "id": "news_SPORTS_NFLWeek1GradesBestPlayerFromEveryGamepff",
-      "title": "NFL Week 1 Grades: Best Player From Every Game - pff.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fVDhvcEc1SDhOUGhhNEVjSkNkS1I5TVZMU0VvNDYwV2k4eFZlWlBCWVhVOE50YjlTVUdkS2VjZmdDREdGY1ZWYVZqb3VrLXVoWFRWSmd2bWpWdG5vODJlenMzMUhqT2N4MUpn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789449700133
-    },
-    {
-      "id": "news_SPORTS_SchefterVikingsplayersbelieveBullardshit",
-      "title": "Schefter: Vikings players believe Bullard's hit on Murray was a cheap shot - Yahoo Sports",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmEwUlhOOGhod3RUTmxBbHNNQ0Z3dnR5ODFjNjBVU0luUzV2M080dVJJVWVwRlhYQlhvTkpPSEtoUlJ4Z0RJeU5uVGxkWVFfNVhGNzN0Z3NNUlE4WDVPVTZ6dzdPbnRCV1dtRV85aElfRDBLVWFlRjNMS09aUDNMbmJ6dXVocEhjNHJ5ZnFaYzlTenpw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789449700133
-    },
-    {
-      "id": "news_BUSINESS_PsychedelicsStockUp190ThisYearFliesHighA",
-      "title": "Psychedelics Stock, Up 190% This Year, Flies High Again - Investor's Business Daily",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdlZoaWJZbGpuek1tVkxVbll0LVNIazZzbFZ0eEdkNFA2RXllSnBaQkdZajdBV29mMGdHRFJjd2pDX2cyS0h1Nm5BRl9rbWZBNk9rUFM5TFRsYUJrZDUtTll5ejVQcUxUanNZczN0ZmpORWxxaXl4NEFUTmZWdkk0SWk5VXVwX2NSWUxMZzRUWDFiWEt6SXFYNjk2bE0yMXFjbDlmcmxuWXQwYnM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789449697549
     }
   ]
 }

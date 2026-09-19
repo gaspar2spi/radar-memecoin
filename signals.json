@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T14:42:38.686989+00:00",
+  "updated_at": "2026-09-19T17:28:16.580465+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemensantiHouthiforceslaunchinquestintos",
@@ -858,6 +858,171 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_own cryptocurrency launch_OKXsXLayerletsusersbuildtheirowncryptoma",
+      "title": "OKX’s X Layer lets users build their own crypto markets - Crypto News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1B3YmxGN2pBN1g3eHp4a0FLdFl4WmpxTGdidkhhWHp6MC1VNlFDM24yQUNDS1VmWEQ3TUg3ZEhGQ3p6WkNOaDhoT3BDUzhpd3NKSS16ZnV2czg3VUJjSGZjenVKNEZGR0p5XzZJZXhhSU03NlZtM2puR1VnWFJJcw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789838871293
+    },
+    {
+      "id": "news_SCIENCE_NASAsCuriosityroversendspostcardhomeafte",
+      "title": "NASA’s Curiosity rover sends postcard home after almost 14 years on Mars - ctvnews.ca",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaldqSHREMmtNYkRWU0RPZXdQYlR4RWhCRm0xcXFtQi1yZkhYOVZCek1qOUpvb3Y0cWtFT1lPSmVDMnBDcHpURWx2OGhaWk9DdlZYcmVVWlVMTjE2VWdyQ3UtRWI5aFpxRGVucE1VMnE0YjhtaklxZC1oSEpGdDdqNHNDYllqZEVDWGNvc1lLS05wYVFCNjAzVEt1ZFYxU0l4N1BkSUpaQWVrM3dBSEhPN0pB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789838864281
+    },
+    {
+      "id": "news_SPORTS_MatchAwardsfromBayernMunichs70obliterati",
+      "title": "Match Awards from Bayern Munich’s 7-0 obliteration of Union Berlin - Bavarian Football Works",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQTBmOEFqVEF0TEZQV1NQN3VoWGxQUUNzdzZ2X01pdW5wdVIyWERURktqaHpUTVQ0QUJKb1RhNWdqMmctaWdDODJLLTlESlg1d3JKdDRQd09nemJoOEp4eUgwSDlmSXNSdmpNZS03S3BrRnJSZGpkck1VUEU0RU5FT1owdjNHcVRKTUxPUXUzUF9aOHBuaU1GS1drN1BTVWQ5Q29ia05XY1ZBRFZ4dHBhbW81WXhaMHBfY0swa0RLOGZYYlhqS0RKV2UwbG5zLXpLbVJ2TkJ3VGlUSmZjR0hzMF9mMkExeFozbDJibEQ5TFhNYWdNa0hUZVhsNDJxRnM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789838862884
+    },
+    {
+      "id": "news_ENTERTAINMENT_WoodyHarrelsonyearnstocrossswordswithMcC",
+      "title": "Woody Harrelson yearns to 'cross swords' with McConaughey for 'Brothers' DNA test - USA Today",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWVg5cUtPUlJNVWpzX3FBVGZuS00wOEVDeEJiX2tlVVo4UklzWnRLX1phVmNqbEM0UFA0eWkyQ21yNHh4dmx4d01WSG0xdVRfcnRPQ1JkWjYxWUt4T2hUS0FzdEFSbVNhaFF1TDZySl90VG9ndG42cnpVRVJuMzd5RmVKUGN1NW52N0ozUklPMGZ1YkxHWWdGWlU1T1dtYUZGQWNpUlJGeTV3dDBtSkxtTFJPVlVqY0RGcGJacTdqX2lWMU5KWjJrQjY0ZjNnRXdo?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789838861428
+    },
+    {
+      "id": "news_ENTERTAINMENT_DonaldTrumpgetsmessagefromiconicsingerTr",
+      "title": "Donald Trump gets message from iconic singer: ‘Try for just a little while to be quiet’ - PennLive.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdHk2Ykk5RHZsOV9rQnEwNUF1XzBXNjMydnFGbE9ubEZsVzV5OUpKZ1IyNXdIc2lVajRGZmRVNjItbHM0MWFfd2M0cUROcHl0aGhvTnNobkloNjNvZ29xUWZHNGtYbTZZTDhycVdhdlNrczJXY20zM052WER6LXdfTmJaVDJCdXhZRWxMb3kzSDFaZWE4MkhhREV0cEVESHd0WnZPbHZmcG9MTUcyWDBHbFo3UlZrNjdTV2l5eUJ1bXhyZXI2NzlZc1hEX1ZhZXFGM1HSAeYBQVVfeXFMTnRHeVpqUlBlT0NmOEFkOTdXVlkwcWZMN1kwMDNDNENTbHRTYnFXUm50YnM3V3d1bHlwODJaZjI4Sk12NWJJLXMxbXBTZ3hQc0JxX01MTUJiazZramhoQ1RscE5IMThnaVlHZ0w2TnE2c25Ga3ZmMlR1UnpIdkVycXFPcFFpcm40alZNeXJlRGFWYmZ3d19Jb1A3eGVzdlFqcWpnb2h6Z2tTNmdXbzYyeXY0bEctdFB6bDlibWpFRzliYUJ5cnZBaUNWLUFVQXN5aE1PQkZuRTBkNGcxaTM4Uk9WamhIaUE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789838861428
+    },
+    {
+      "id": "news_BUSINESS_SchwabspotlightsboldIRAmoveyearsbeforeRM",
+      "title": "Schwab spotlights bold IRA move years before RMDs kick in - thestreet.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoNW0wLU9YcHJueWhibmQ4bmFWVjBaOGFTSmpzbjQ5Z3hWdFdXTGxxNVRscmpweXQyblJkeU1NeVpxaWhnWEpTb1p1eDlESnBTYWJMdFlxVjRPQndrcDFEZnZCb3l2RGJtamRrSUIzU1U3bXhIVE50N2Jn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789838859474
+    },
+    {
+      "id": "news_NATION_CNNMSNOWPoliticoreportersdeniedaccesstoW",
+      "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban - NPR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qeEVXa1ROejI2NDJ4cjdNYWNlMDZpSFVCQ29DWkZuTk5VdkN3SWJfMnN4Unpoa005NnJyMF9jVDY0MWtZcWRBWGxrUE85eXBIQjF5ZnhWOVMxTlJoN05xX2pvckFQel8zanQzV0JHNy14YXF5SDVNOC1XN0E2Zw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789838858478
+    },
+    {
+      "id": "news_NATION_GreenlandDenmarksayTrumpdealwontcompromi",
+      "title": "Greenland, Denmark say Trump deal won't compromise sovereignty - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUswdG5RR3A3czVTQV82SzUwWDh1ZDZrYjNXcld1cUQwOW9nZENwVlhQRVpfMXRQY2RXZ1pLcVlnal9jeGJxelREVVpWeTZyTTI2bnJKUXlIYUNtNklZQnkyWHNPX1NzZ1lIRVB2SVFfWkJTWkg4ZFM5WE5rdTVISldEczdQX1BIdkRyd21lYVhibzVLRkwwOGVIWXdfODNPRzloNWhEWQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789838858478
+    },
+    {
+      "id": "news_NATION_ClancyholdoutjurortapsformerTrumplawyert",
+      "title": "Clancy holdout juror taps former Trump lawyer to fight back as he’s ‘dragged through the mud’: attorney - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcE1tWWxKTjdKZWlTcEN2UFJaRHFvNHJtRkpVSnBucndlX2lHRmx0YUFoVDJDTlg1VTVZaEFUdTNFNndDR2U3REtkZ1RTS1J0ZHZHRkM3YWJMSU9iaW5ndUpDYUdXNzJUQ2NTRFhOWi0tOVBTVEprT2liSGgxaTJUcFVZRl90ZThBOUlGcUpPamRzQXNEMFc0TzJNQkpOVFdJUnR3M3I3OEdEdEpGdFFJa2h5OTQ4czjSAbwBQVVfeXFMTlRHY3JDUTFjWGxkdUYzd205WnhyZEVudWFEWFFPZW14dkJDQnd2VENqTm9OLXIxNGxRQmR3WWhvU3ZzRjVhNk9BYzlSc3NzeThaZzhUb2lGRzFfVXBoTnRMNFlzSWUyVjVkN3lSd3A2LXRsZEh4SE9vR3pjTWNRVl83cTRyLW9sVDg1UEJCQWV2MjU1TzFwd1d5SWQ2SVpGWllncVF3YmVBejNudkQzVXAwbHFzQ0pPMGJNTEU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789838858478
+    },
+    {
+      "id": "news_NATION_Cubaspowergridcollapsesagainleavingmilli",
+      "title": "Cuba's power grid collapses again, leaving millions without electricity for at least 6th time this year - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGt0dWRKNHQ5X01KM3FzSm5OdHp2N3JETVVHbkdfT2FvU2JFZy1WVnF3V3FkbEZyVlc0NTRFeTRIYWM5MUNMMFhzVm9MbDRDY0hrcTdEbGpHM00xaWs0QUg4RTJEeDFQYlEwdVNzUkduYmp5UDVFR1p3ZHNuQU1nUG1iS2lkNmROOERLM1l6aV93dVFYRmc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789838858478
+    },
+    {
+      "id": "news_NATION_AdeadlycrashandtheperiloushistoryofLAsne",
+      "title": "A deadly crash and the perilous history of LA’s news helicopters: ‘the eye in the sky’ - theguardian.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM2xmZ3hkMzhORm5oLWdVYTRrU2ZwMVVPeUJCZ3c1Y1RTYnZfVkRPeE43MFFUOVpTNlFpMDRURXoyMDhxaVQycGFvUndHX0lPME1lWURYcm4tWnhXSGF6cE9IcDk1RGFBRWRJYW1PTVNPTEpSVVBjaFlJYWF4ZkE4VU9HRzdMNTA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789838858478
+    },
+    {
+      "id": "news_NATION_SecretcontractsrevealundisclosedtermsinT",
+      "title": "Secret contracts reveal undisclosed terms in Trump’s drug-pricing deals - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMVFhT2dTR0Rzbi1aS2xxbFJESUtLSzN5QkVqckZrX0hEV19MTkgtUDY2LWdfZ1pSdW41clEtZm5oWUxIOGdkMU4tejM4UmhZeU11aWhfMWNoVHJsNGxsTGZ5cFJhQVp1eDV4aFg2Z3pHMDF4STlOQVJkcE42ejl4dDFHVXR2Snl5aGlHVFpGT2FHWDhkRDF3czhVTW1raTJzWkdFSmFBRlFpZDVhSnlSYTVsRjA3VWY3bG0w?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789838858478
+    },
+    {
+      "id": "news_NATION_ThisswingstateRepublicankeepsdistancingh",
+      "title": "This swing state Republican keeps distancing himself from Trump. It may not save him in the midterms - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdE8yeE42OENteVNIeWdNYVNlSkhMNFFqdHFLRUhxZXdDNFdPR2VseW5YQzVHbUZBRTd4UFEySUxYaURfMkdLQno3cGNxZkZEU2xLa1VGRXlTYzhJOVVpZm94ZGduYnJiLVN6QmNZcURJOXpKTnZTbk4tUVUzZ3pnMmtnUmtMenk3MVFYUV9fV0VSbE44MWhYeFlIWDB1aGZOSE1YdzBfMnZRWXIwemlidlhKdXZySElo?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789838858478
+    },
+    {
+      "id": "news_NATION_OntheShoresofTrumpsLakeAmericaItsStillLa",
+      "title": "On the Shores of Trump’s Lake America, It’s Still Lake Ontario - WSJ",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNamVzeWhKdXdKVzNrRFhVOHBRWmRPVkpOMTlUbnp0ZjlkbnBEakdPdzVtdzlrZ2x1cmJpT1hhREt5MDUzNmhuWnZYekFXcjlpdGladkQtTFdEOW9iS1hjVUdoX196S2Y5c1RCVkFvbHdnY0Jlbm9oSDZQVF9QakZVNGx2WDdTVWhuQVRfbThWVWpXbndfWTlCdDFwQ0U?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789838858478
+    },
+    {
+      "id": "news_WORLD_AsattackschokeoffSaudioilkingdomconfront",
+      "title": "As attacks choke off Saudi oil, kingdom confronts limits of Trump’s friendship - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlo3U0IyWi1ZakxHRWhXM2JDOWtrQkxHNmt0ZHVnak9NbWtuYjNRc1lBU0RSZjlaSU13aXdmQWEyRy13bTYwa2hXa0k1bzQyOXNEVnJ1bWJ6cWdtMzhleG93cGxvcks5bDNUUjc2dWFJZ0h6RUtfOUI4QlRyM0hvWE9CS1FRMGs2eXViRkpheU9PZnVmR19nNVYwSlVCRUQ1TFdMVHpHdk93Wm5uaFVJMG9sSnhtblpvRzlj?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789838857395
     },
     {
       "id": "news_ENTERTAINMENT_NickReinerArguesHisTrustMoneyIsFromGrand",
@@ -5335,171 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789498430937
-    },
-    {
-      "id": "news_NATION_ThepushforAIregulationgainsunlikelyallie",
-      "title": "The push for AI regulation gains unlikely allies. Trump and Congress aren’t among them - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcW93ckZBY1Y1bHJDS243bGlJbXlENGFaTmQzS08zTWxtQmEwYjlFRkhuQk9WZ1plVjNac2JRSjY4Zk1uLUdlT2p2VHh4WWxfanFHaDNWa3NRWUktMEhsZ0trcWcyTWNMb0RmN05aT2pJV2I1S25nejFtOXNvRjhTVjU4VTFrcTctSzNqWHFCOXpkSmtGNnhadU1EVEdSd19kUllsWA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789498430937
-    },
-    {
-      "id": "news_WORLD_Morethan100000peopleinJapanarenow100year",
-      "title": "More than 100,000 people in Japan are now 100 years of age or older - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VdnhjajJkd0JZTTh3TmkzZ3RqRktleHk5UF9yYm1qMVVkOU1la2tmaWIzWE5zRl9qWHlaUV9LWW1YbFFGOG4yRjd4b2g1Smp6b2NxRXctdlRna0E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789498430201
-    },
-    {
-      "id": "news_WORLD_UkraineandRussiaSayThereIsNoEnergyTruceD",
-      "title": "Ukraine and Russia Say There Is No Energy Truce, Despite Trump’s Claims - nytimes.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTEtrX2ZYV1JCeGtzX2FqVGJ4ME1BUU1fRmxSMkEyYnhhWl9tRDN5SjdhUXNndU9DaVR2ZXRteEdEZG9sd3NwUGFDMDZwdWcwaUplcmpIV0w3TGcxU2V2NW1FR293VVYydU05cjUxOWZ6VFhWVmVIWHFobnN6c0VrczF2LWQ0TW4teHhxbHoxTQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789498430200
-    },
-    {
-      "id": "news_WORLD_HouseDemsdemandanswerstoTrumpJrstieswith",
-      "title": "House Dems demand answers to Trump Jr.’s ties with Russian oligarch - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUZFcDlQdkNfMTV3SFFhMGY3M3lLTDJTbkNjTTYtWWZSRlNuUThudnlCSWljcGpZME1WbEFHbEtjdGl4NWt3SG9XMHJ1SW9Ja2ZSVEVsc0hXZm1qcEwzMUd0aENmWmtkdGlaZXFKN0pVclFKNFlVTlhkZWhDYm1Hb3lGNXE3T3dlS2FUUDR4aHoyenNHTVdLMUNOOHZCMVR5dGZ1VmlObFFNNkF4SUJpbjlsaG8xX1U?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789498430200
-    },
-    {
-      "id": "news_WORLD_UrsulavonderLeyensdiplomaticfauxpaswithM",
-      "title": "Ursula von der Leyen’s diplomatic faux pas with Mark Carney - politico.eu",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ2kxeklNWGYwckFINU1TSUcyM2ZWZE9FTlVqTXJxVDAyX2R6dEJ1REdESnNwLXc1eWNqMmVzUFhsOGNWc3U5aHY4NUF4bVFVVDlJeEl4MzVpcVlBT3VhNmJ3RzhtejByOEVVbmRkelQ4bEFldUtUdzNnVF9CdFRLdGp0U0FoZHlOVnN4emdud0VUQXVIWlpUMDNNOA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789498430200
-    },
-    {
-      "id": "news_WORLD_PollutionspikesafterTrumphaltedglobalair",
-      "title": "Pollution spikes after Trump halted global air-monitoring efforts, report says - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTFF5NFdIRVJNZGV3OGZKOVNJWHNUZHl0dmtVLUdzYk9VTWNEQ2c5VjdnaE9nbE9Wc3I1UHFBQWNoaGF0bDVmbDQtYXlNLVV0Z3YyWnlUZGx2SExBcUdvaTRpN05vS2RZWHBLMGFYaXRPR29UT25OMzhTM1RTT244ZlBlVEduMExKYndOVktMOHZKY3RVeWVaN3h0S3MzU3VzTnVJbGVmaG5YOFdraGgtcGc1dG4wcWl4YV92SVpXM2hFX2sxcmdJVWZvX3gtNkcyN3NjT0EwOA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789498430200
-    },
-    {
-      "id": "news_WORLD_USstripsmillionsinmilitaryaidfromEuropea",
-      "title": "US strips millions in military aid from Europe and Mideast to back Trump-aligned nations in Americas - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmhJTzhsazJOQU4zbnU4Q2RKQ0RhSVE1WmJ0aTNsSWF2b0U3amFoVW5hM2VMUWROeEY5Y0p2V0dnNU5GUDFibWpzTzJwdDhId2VpVDEtNjIzVEVZZWFWY2FqZHpwc3BwLUNHVS14ZFVmRjhfS2dNS1RsREdNamVXM1YxWUJrbUlsME0xM2h0UVBoMWFQYTNTXzlMSm1tMGM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789498430200
-    },
-    {
-      "id": "news_election crypto_TrumpagreestoethicsrequirementsincryptoC",
-      "title": "Trump agrees to ethics requirements in crypto Clarity Act as GOP seeks Democratic votes - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONk8wYkc3Z3BtOG4tYVlGRjRzWmE2NEhrb29KTWxrdE5tMTZwS3pweWcyZUhYTHgxeDh4RGhwWW5DZzZuSmNwWXhhTVVJdHlMSE1YQVJ3ZmpyR0JNbDRXa1JWbV9tWjhwX2FiNld0VzhGVS1SWUV6RkhNYTNCbHF3c0JQTV_SAYoBQVVfeXFMTlVMOFJ2TW9JTUEyUWJvVVVWTjVWdmJSX3htNGhfUUg2YWF0ODRnWmQ1bzRMMlB4dHhzVFFWQTBmdzZPaUlhOE1UUG1WVVlISUppSWhhdDc1NDdJVkdvTzlzZThoN0Q4YVRrUVVpclE3NVpqTEl0cTRCbE85VkRmbVNQUGVJY3Jxdm9n?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484514092
-    },
-    {
-      "id": "news_election crypto_CryptoregulationbillnearsSenatevoteamidd",
-      "title": "Crypto regulation bill nears Senate vote amid debate over Trump ventures - spectrumlocalnews.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGFZUzV5SGMwQnFFZFdwNDhLSEtnVWJzQmJySzlvRnNUXzEtaXRZS2ItejhybEJhbUNZd0NsUUJSWVpLa05JOWdGM3hWWC0yZV9rcEI4RGVtMnNwdjJocGMtR3draXJ0Wk8xaDB3dGFhM0UyM1JNX0gwZDhjSERHR0VaZmVnUkNmM3pWMmg1TWE0aWdlSGNUWUszdEJZSVRCaktNcFltclpxaVV4aHR3V2xQSQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484514092
-    },
-    {
-      "id": "news_election crypto_TrumpconcedesonethicsrulesasmajorUScrypt",
-      "title": "Trump concedes on ethics rules as major US crypto bill nears vote - Euronews.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUZaeHNKZ1MtclVBSHVyU3dLLTlEVWUyU3VyNVQ2UUpSemxscm1KRTk2TDNOYllVZF9hVTZEclNlRzVVZ0UtRUJiVXRwckwzek9BRzhhR2dhbDBpRVhGSmh4Rjd0Y05WZzd3a0Q1TGVIX0dySVBKaHpsR0pFcVlZTk90TnVzN0Z5YUNFa2Qwdnlvei15Nk9YYmhBaVh2WFlERklCa3lHdTdZX2M5MUlfTFJVWnltY3RQQ25pTnRR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484514092
-    },
-    {
-      "id": "news_election crypto_Senateistovoteoncryptocurrencyregulation",
-      "title": "Senate is to vote on cryptocurrency regulation as Democrats push back on Trump investments - CT Insider",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd08zaVh2WERSYk1JSEljVHhkUi1wSGhRbXdCMXVla3hxQ3pMTTlxMEJPZHVicDdJMUlZaWFfTWNZUnNDR2liTDQ1VFVid1ZNbWtUY25JOWJDNlJQaUFQTWJmT1NxOUpramtxNE1nUFlJR2wwUFBSa3U5bTVhb0pBNDVnVzhCUmpBT0pZRFBWMXlLdm9JQlVQc1lHVkxJbWZyYTZITjR0OUU2b0hnMW5r?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484514092
-    },
-    {
-      "id": "news_celebrity crypto token_WhycelebritiesarelovingcryptoagaininTrum",
-      "title": "Why celebrities are loving crypto again in Trump’s second term - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (celebrity crypto token). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanpVNWxoSTU2N3Qzdjk3Vy1TZDFMRURCckpBZEFINkpaZk1aRWhXTFhtakk4LUhYUEs0UHVCU1ZhdUljam1TMDVOVUo0WWhoV2tVN1RadnZCNDNZQkZsU2FYQXR3QWhTaXY5ZHB6SjItM2p4aGNpY3RRY25QdzBrTFRMbXI?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484506936
-    },
-    {
-      "id": "news_leaked footage internet_UPDATEGTA6LeaksContinueIntoFourthDayWith",
-      "title": "[UPDATE] GTA 6 Leaks Continue Into Fourth Day With Yet Another Gameplay Video Amid Radio Silence From Rockstar - IGN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (leaked footage internet). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ2pPdVNfZlNRX3gxdmx6X0NGNzM2a3N6WGFfYzE3dVNIMjlsMTBOSEZsTXJKbElGQkc3U0pHc0xHblBTVDlUT1VxV2hYYnQzQ2FMMy1UTmxWQUpqMl9zSXBNTDQ5TmhIM1NGYWtvU0RkanE5aE00S09QZFc2bkQ2Q3lZeGxUV2YzU1BlTzFEX3JrMlVOTTRzY1VhcElrOC1sNUhCRjZWVDVJazRqQlVDeVBlZEh6RThSSkNMbEpCOWdOMHFvczFEelo4dzNFSVJsNDh2a2pFdUN0N0xjYXc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484505879
-    },
-    {
-      "id": "news_crypto coin viral_WhatIsGORPCryptoWhyThisViralMemeCoinCoul",
-      "title": "What Is GORP Crypto? Why This Viral Meme Coin Could Become a Serious Market Player - Bitcoin Foundation",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (crypto coin viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdGd3N2U3cmFnNjNtU1BhZWdESmNVaC1BcnNpUDRmYkhjc1UtVUFsYmVrN3lBOFJRWTY3Y25UcVI3cVZzU3pvTzk5LUpTV0dXM1h6WE9tZENFcW51TXFCZThwa3ZXNHVUSnlfVHB2Rm5ITi1lZ1Y2U1VycFp4aTdsb2FKekpZRXktSmtJVDNhQXdUc1lxclZpWVhVdVcyUmJXMDVNRzFQTlJ5ZEx1VjZRWjZ6YTk2T0o3ZnhaR2t3T0pLWGM1?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484504649
-    },
-    {
-      "id": "news_SCIENCE_Amammothivoryhunterpulledawolfsheadfromt",
-      "title": "A mammoth-ivory hunter pulled a wolf's head from the Siberian permafrost with its fur, whiskers and brain still intact — the animal had been dead for roughly 40,000 years - Space Daily",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQeldiZ1FOQ3ViS3oydVFUZkdtVVJWX1ZyWnNxWmNqVmVKSFNrWlRHOV90QjlQR0hYVTNjRlBMN0ZuYkFKWUowT2QxYjM0S0p1bGJVZVVIbGJqTWJKbktFUm5LZU1IY1U2ZXNUYmwxZWc5ZnN6S0dRUGtxSV9wNk9peHFxMGVZRWpaWEMya1ZfTFNKb2NJelkzV0prcUFnREt0bWZ3amFDUnlpaEFNbXBDOENsRkRsWk1zWUhGMGY1UkU3QWdWQ29yZEhLaHR1T1F5Z1hKVFZkZ0QtMWNGbnFtSEJCWFlRNmlhYUU0N05hVjVyU3lseXh0Zm1FanZ0dk9Ha0hDRHNmMTZHYjJ3WE5SVXNyM01WX0RCcVo4?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789484501586
     }
   ]
 }

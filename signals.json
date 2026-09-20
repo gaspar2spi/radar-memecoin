@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T06:55:33.106407+00:00",
+  "updated_at": "2026-09-20T11:57:51.728683+00:00",
   "signals": [
     {
       "id": "news_SCIENCE_NASAbudgeted200kilogramsoffuelforRomansf",
@@ -869,6 +869,116 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_HEALTH_SimpleBloodTestCouldFlagYourMemoryProble",
+      "title": "Simple Blood Test Could Flag Your Memory Problems 6 Years Before They Start - ScienceAlert",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1NVeVA4Ni1sWkYxUTlPSjJWT3E5TTRUcTlfSkh0TC1lN0wwM0ZZQU9XXzUxc1RPNVJyR2U0T2FaNW9fZ2NGalpSbnMwTi0tRGY4VlR3YUNxTEJWZWhicW5CRzZOVkU3U21iUVktU0xLT3BhN1dWWEhNekpIMnZoenhWX1pKNnNzQTZPemxHcVBmZHdhdENTcmc2VUxER0VpQ21VYS1vZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789905444557
+    },
+    {
+      "id": "news_SPORTS_TottenhamHotspur23AstonVillaCommunityPla",
+      "title": "Tottenham Hotspur 2-3 Aston Villa: Community Player Ratings - Cartilage Free Captain",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeW1UMmhNUDMyTnRIQUNhX0J3U0dqdC03R25mdXl1eFRUcVR5ZUlyUWl3bjVMSzFPNngwSFVVWFctMGlJQUUzcGRWczkwUmhkUFhzUVpoQ2ltUzk0UFVuOXctZXN5QUQ4TU8ydFdzUjVmdUgwbmpSOVN2RlVrMGMwUjhqZzhNQ3c4c1dEYko0WE1GeWFkS3Aza2diVlU5UEc0aXpOMENNZ3Zvc0hKU180UWRJSU9vMTdmMG5COUxSUVlNbkhRQ3pKZ0lxTQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789905443030
+    },
+    {
+      "id": "news_BUSINESS_CanadatookthetradewartoTrumpsbackyardAme",
+      "title": "Canada took the trade war to Trump’s backyard. Americans didn’t care - Global News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5STWpqbkJXLUlkMXpFVE1OaHlOREtYWmR6ZExpM1dDQ1F4X0gyamNZZTFsVm80NDJhTXl1b0xYVkR0MG00eXBjWVpzSkEtcF94MVVHWGlNbGdSV0xsS1RtdXdTc0t2dWlNXzA4?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789905440814
+    },
+    {
+      "id": "news_NATION_TrumptoformAIForcenameAIczarbutrejectsca",
+      "title": "Trump to form ‘AI Force,’ name AI czar but rejects calls for constraints - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWdwLUY4cGVyaDVQcXdGb1Rfa2J4X1VkQ2UyakVBQk5sbzMtTG1PZk1rMk9ZbHRXclA1ZlpveTlrLUQ5R0V5VUphbENyM29Bc0w4YlUxVVRyQk9DT1g0ZlY1S0d4a1hPVXVXWGVXRzFoWEt0Qi1iNGVCQ3JKWTRJV1UxU3dMTjZUZ2tabkVaRU9iR0xodjZaLU5iU2xlb1JsenpnQ2lqcl9CbzNXZURV?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789905440073
+    },
+    {
+      "id": "news_NATION_ReportersarebeingdeniedentrytotheWhiteHo",
+      "title": "Reporters are being denied entry to the White House after Trump's ban - businessinsider.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUWl1MTBGVGhhX2NUV3UzVHdKTGNtNGNrZDhKaW1pNUkyXzkxNmhBdFF6dGIxN3MxWGZMZlUwTjYxTTRXb2xHZ1k0STVZMHdjdVlLa0FOM0RCTjlZenZjcnNfZjhyZGZrQl85VUtIYWFhLTlzeV9pWTBQb1ZYZHo1Z3BNMVlDN0R1bEFsRll0QkJ0VDc2T2pnbzk4VzlUOGlVOHpEaA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789905440073
+    },
+    {
+      "id": "news_NATION_HowPresidentTrumpBroketheKennedyCenterny",
+      "title": "How President Trump Broke the Kennedy Center - nytimes.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EVDRaYVIzd3Fmc0NpRGZnWkRrZHN1d21KRXpNMUhtV0ZJWW9vaG0zU2puZi1SSF90OS0tZjB3N0pIZUo2LVJRV0ZTMi1uV1Z4Zm1XV09TR3ZsaTNHRVBXUXpfX0l2NG5oSlczZ1VWLVlWRTEzemFRZ1M0dUM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789905440073
+    },
+    {
+      "id": "news_NATION_TrumpsignsWashingtonslongawaitedsanction",
+      "title": "Trump signs Washington’s long-awaited ‘sanctions from hell’ law against Russia. It gives him 30 days to act and broad authority to suspend the restrictions. - Meduza",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPYnBocWFRWUhMUTctYWJRa2w2T0Rqb01SMTVrQ29KZElxMTh4azBDRm5nRHJMamJrWDY2LXpNLUd2aHdYODJWbEQ3aGNaN0hiWWg2cFVnd1FaaXFTaFpmbXF0QS00azNQdUl1WDJmdm1mMVBjUlp5QTdIMTNRdk5ObnAtNERuM2FsZFFyYmlHRzk4SlFGMFpHcmEyQVdQQW84bDhQQmJPV0VHdDhtZnh6QllBYVdCbTNxWHRQQ3EzRHZwUklPZVpRZmJ6VzVWelRhMk5OQWQ3VHBvX1ZwSGl5WVAtc280b0RYTVpDbUl1dUZZT3Vhdmc0alJiUUVHZGVqWk5RQlp4N3ZlSkVLZHFVWjRnZW9UZGNfSzBUbNIBogJBVV95cUxOUS0wME81TVk0QnU1X0RsdjQtSWtTZVVLdFh5NktGMkdwaHg4VFZkRzNWWlFpaTgyMTQ1VDhwajhBbk02dG82R1NidC12bW1tR1IzMVlzSmNTRnlTbkVJREVpdXowTlBSemlsWGRNODNfbHNONTcxcElxbHhMdnhkN1JGa1pqTE1VUXRxRzFwNGFMRnlNVU1vXzU1QVVDTVl5NVJCY09YOFJEaEdvcUVlMzA1MHB4ZzJBbEh6RUpXeWZ2YUt6SXBjS3VBWHhGQW9kM0dadDlxQ1MtUVM4OW9aMmZpTEJiV3FPamVMNjRtY243ellIWEVaNjl3U0JXRkRHX0F6WXY2Q3YyNWJ4eEdYMEFKRWJHbUxiNV9RZFlCV2xydw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789905440073
+    },
+    {
+      "id": "news_NATION_Trumpaskedbudgetchieftodraftorderbringin",
+      "title": "Trump asked budget chief to draft order bringing health research funding under his control - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd1pkc256Q0UzT0VDTUl3Yk1SckdYRWJDQXU0X1R1V083UnJpUWVVRVRrbXhoRVc3ZmZ3VWU5MnNFNWxvMy1fcnd2dEZDcVF3UXFJLWN2SlduQTJubnRnUUpJLXNUWXc0NEN4M2ZUeE5OQ2ZVZE4zeWNBYVotVC12RjU0R3RwTk5HV0U5d2I5Q3FIaW4tS3lFX0hB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789905440073
+    },
+    {
+      "id": "news_WORLD_MacronandCarneytomeetinFrenchAtlanticarc",
+      "title": "Macron and Carney to meet in French Atlantic archipelago in signal to Trump - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkVYa2s0a1hldGZKYmpHQS1XdWkyNDZZSkR6UkNGUGRFWnFOMHJvQ1plRXRZanlQSFgwN09iMEliYmdQZm1lWENhNERBVkVaYjJiSUxrc25pVUFkWnpCRm9rYmxUU3N4Q0xXVHQwNFpLcXVyU2l2dHBxVFRGQkluNnZyY0NMRGJpMXFJTHo0X3AzaWV5SUU2ampSanpLN3MzRHNBRHc5ZjZyOV9XaGEw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789905439328
+    },
+    {
+      "id": "news_WORLD_Scientistsdiscoverfirstnewwildcatinmoret",
+      "title": "Scientists discover first new wild cat in more than 100 years - France 24",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNanRuekM1R0NWOGNRdWxsaDBvVGswSi1vXzJuMFJkek5kcEx5clRGYmllbTlSQUd2UXUtbW1qV2pmeldnZW5hSTRFbjJkNEl0QU9VX1ZsZVBKR2ZtcVpUWmZpX2lSczM2enJEcV9vazMzV2hKazhHZmtVYU5RNENuU0NNQml1TjdCd1ZsTXI0UDhBYS1tMS16MTRCYnZfVFJPSTZTYjc4a3l1cmM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789905439328
     },
     {
       "id": "news_tech ceo controversy_Howatechbillionairephilanthropistgotcaug",
@@ -5390,116 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789523131437
-    },
-    {
-      "id": "news_TECHNOLOGY_FirstLookIWCCelebrates50YearsOfTheIngeni",
-      "title": "First Look: IWC Celebrates 50 Years Of The Ingenieur SL - Monochrome Watches",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNnd6elpGOWxZZ1ZpYTRHVWxxZHJkckVrYXZqdlZTU3VMdFVaWDJITVpLeVJ6Nmh1OHVxeDZiTURLdWc1TU9Oa3ctU25Odm01SXU3MTJ6REhuS3JwNTZVMXpUUk5OSlFRTjdTUEppOENjZ3BWSmdFVEJRT2t2RUlWZk93Z2dOaXZ1OVh2M1FtdUtqTVVza3FleERZX2JULVdBZnY4WHJPUXlNQUlNci1Pcmh5TzRfWWFaYWlNczNKaG9palFxWXVIZE00LW92ZUZYR1Jsdk9DUm5hQ3dtU3pDN1czYXBZUjA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789523130643
-    },
-    {
-      "id": "news_BUSINESS_Trumpcantblusterhiswayoutofhiscalamities",
-      "title": "Trump can’t bluster his way out of his calamities - dailykos.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakREMWQ1dUpBRU0tQndRZ1lZbmNvbjdwdmlCYVMyajlwQUFCZld2YTVXQVhyd1hyR3FRSy12QllSMWVBVWJVdTN2dTRqWDBkZi12T0VPdlgzZWJlWVVHeUtHWHVsNlJhSGZwejJTcHBnZ2RNVGxfSkVSOVcwN1VYLVNlXzRNendNY1A2RGJ6QzkwdjVyWEIxTm4xanY4WDNKNGtQcXRpSmZMR3c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789523129879
-    },
-    {
-      "id": "news_BUSINESS_TrumpAdvisersLutnickMichaelMeetWithaTopA",
-      "title": "Trump Advisers Lutnick, Michael Meet With a Top Anthropic Executive Over AI Safety - Bloomberg.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcVJCd1JzOVZOSkZWSU5pYjZnZ1NRRWt2VW9LUmlOSXNuTW52X3RVZXRoVmlVQlM1QU5yNi1BQm41cnp2YTJUZ2Y1d3p2bUt0QWRuZlVEbHRHLUFQWDZqcmtWbHZhVDZnUTdUQ1hHYXdJWHN0Nm83cnlHSkJvQXVYMkZUZjRGY0t2QldvNzlES3A2UGdlaXJPM2d0VERvMmdPaXVzU1Z0RmtnXzg4eEdPdzdQaUdHR1dTSzdZV2lfOGFvTEFm?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789523129879
-    },
-    {
-      "id": "news_NATION_AttemptedTrumpassassinThomasCrooksusedBo",
-      "title": "Attempted Trump assassin Thomas Crooks used 'Bob Dole' alias before anonymous donor paid for cremation: docs - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMlBNRk5uQzh2YmFOS1g5WTFNb2lMbmY3RjFoNThKLVRGS2lCMUJmNXFqS0hQeHN1OHZDVmd3bHRISGpUcGF5Wk9BaVhPaktfMlFBT3J4d2tzTWx5Y2JHWkdHNEFNa1c5Y2l6OFFEMnZYVTFHdjhOZHV5WFU0VUxnelUwb2tpcnJORzdwYTVwLUxmaTlvZkVrU2JtemVyc2d5NWlFTzRaWGJDVDhXWUp6ZjRNUmpNdWVqc2QtLVp30gHDAUFVX3lxTFB2VlpQY0U5RWJiWnU1QzdnMHA1VW1mVFpReF9OUEtVUEQ3WTl5UFJobDJWU294YTdJUFVkUXh3ZlBPcWxrdU9YOTBRNFQ0eWw1VklkcUgzcFJtWExtTGpBNlZhR19GR0MxcFZUcUhBN0xMVTF3UzFxQ19ON3F0cmRoTE9Jakhhakk1aDdSZjByX1RsRzJxdjRRcUtkRExuVjVhd05ERjN1blZoWk82amh5aUdUTzN4LWxXRFNidUx5TEJJOA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789523129152
-    },
-    {
-      "id": "news_NATION_TrumpAGToddBlanchehadsomesweatynonreassu",
-      "title": "Trump AG Todd Blanche had some sweaty, non-reassuring words for Americans as he played Karoline Leavitt - The Independent",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLWY5ZzV6SEZhZFkxZDFMR29lZEtEQWF3U2pqUWxlY01KT2IwcS1tdTZyWnoyVlRxTnZwMGJMaC1kV0lDbG84Z0N5bElHQUlZSWNIaE93empvRFFkUHdydkRIN2ZiVjFQWFd4bGFVWXRrbHo4TG0xOXhhY01fZ21DWktueFFBSlA4OEtYNmlHNGNreURnZi1JcGl2OEhmMjFRc3djcktzcE14VGhPUmVtNlhud1h1b3dEaWs5dTEwSkNiOU8xWlBxenQzem94YWRqR3c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789523129152
-    },
-    {
-      "id": "news_WORLD_TrumpIsReportedlySendingIsrael28Billioni",
-      "title": "Trump Is Reportedly Sending Israel $2.8 Billion in Bombs. You’re Paying for Them - Rolling Stone",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONnVzUVo0c2pFXzBIN2hVcnhZYUUyQjk4MXZiOHdVaGJ6UHRrdklaS05Xak9GOUoyV2JjME5xeFRLZUlETTF5NjVuSkRTN1NJWDE0RllqOHIwdGZtUnpGZ2RscFRFeElPSEtYbUhKQ1J3aFgwdndoSERmZTNJRTNhNDB4d0VEZGNFTXFueUdISk02Mmc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789523128441
-    },
-    {
-      "id": "news_WORLD_HouthiadvancesleaveTrumpwithonlybadchoic",
-      "title": "Houthi advances leave Trump with only bad choices - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcElIdlZUSFlxdFlTemM4R0hHMkNrZkdBbl9wT0cyc2IySk5fNUZjUGRTT1llLTRRS1BGUDM1Yi1HcTRvUWJoeThTTkVqbVRLSnhFbFV0R3RIck8zNWRjaV9wU1lwSUpNOTZNUW1VandRY2Z3TEUyNG00UXQ5V2RQX1Awa3pEQ3JSb2pFMA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789523128441
-    },
-    {
-      "id": "news_billionaire announcement_AmazonMXPlayerunveilsBillionaireropesinA",
-      "title": "Amazon MX Player unveils ‘Billionaire’, ropes in Arjun Rampal for upcoming original series - MediaNews4U",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHZjY3libjVMaC1RV3hYTGljbndyRldtcGlaQkRLb2p5NjFUczdaMVc2a2FIamtUdTdqY3VDUTJtdUxibXg5OF9aVjc2NmJUY3puZ0VVUHl3SzNYZE5jZndzSi03TzU0am5zUGxiVHdvY1VNRWRNNmRucDFXSy1NRTdEb3dHb2c5LTFZcXJ2OEV6RnlSR0NtVk9yV0JFb2dzNHJRUzFfLW9zNDF3aU5CQkE4dVhPNnc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789516012180
-    },
-    {
-      "id": "news_billionaire announcement_TheyregoingtohatethisBillionaireTomSteye",
-      "title": "‘They’re going to hate this’: Billionaire Tom Steyer jumps into crowded governor’s race - sfstandard.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CTDk0UmVDZkE4T256R1FfRkd1bll2ZndNOF9uNXBrQVhnRDF6SVBoeW9EekNLTjRUV2RoWFB1SElsd1FDWjdFMVExU0haUWVzMjRhNUlqRjZIOVVLSUw4SHI2eUI2ZE9ldjRJTWZJTk5ZaUFuenphREJ3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789516012180
-    },
-    {
-      "id": "news_election crypto_SusanCollinsvoteswithDemocratsagainstDon",
-      "title": "Susan Collins votes with Democrats against Donald Trump-backed crypto overhaul - Bangor Daily News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGdmUlpDWi1JNHZUMXhaWGNvMFo3Q0h2VHR3aUVyRnpoY3JFUzV0bXQycFdIdEx6SmJ6X1YxQVliZWR5QmtET3RkMjY3ZTl4aXd6aW5UenByaGFmN2Z5V01Xd1oyREdvMVpXYkhQa2szalk5YllBOW0tQVR0MkVtUVNaZ3p4MkdqQlI1bDg4TG44aUtOVldoQUQyVnF2enBmU3BJaWhSVVpiMWNxdUdSSklxekFwbTR1WGc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789516008472
     }
   ]
 }

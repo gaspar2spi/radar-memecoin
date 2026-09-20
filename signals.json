@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T23:33:28.541172+00:00",
+  "updated_at": "2026-09-20T01:36:01.688157+00:00",
   "signals": [
     {
       "id": "news_WORLD_YemensantiHouthiforceslaunchinquestintos",
@@ -858,6 +858,39 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_viral scandal internet_Ayearagothisscandalbecameaninternetsensa",
+      "title": "A year ago, this scandal became an internet sensation—and it’s still having repercussions today - bluewin.ch",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (viral scandal internet). figure tier-10 (ye) mentionnée; mots-clés viraux: scandal.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOazFmb1RyZW5HbVVodVNLTWhKeHlKSmFOOF91a1B2ZERORWVFMWtyOE9MLTc3Q1RBbWZCWEk1MTYzUnJ2eldmWVVhcW1ZMkZteTN1NEwzS1V3VW1nZUo5aXVGUHc4VHhUeXJ0SjZDNV82dGZmTVVKcVlXRXFTenQ4cVBCZTNMcGJJZi15aTkwWmVvUmdnWWJIZ0dfcGZIcncxLVhfZV9QN1NzZDdEdFNCQXNwUTljMlhFLXZKMHNNWFo2X0FOZUtXRWtGc2NlWGRkZm0yX2tteEtCd0R3QVQzbVFWc0lhcldLMU5zc1lHWDg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789868145891
+    },
+    {
+      "id": "news_NATION_NewsomsignsbillstoshieldCaliforniaelecti",
+      "title": "Newsom signs bills to shield California elections from Trump interference, increase transparency - Los Angeles Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNVJKdUZUQkFjeVhDSW1hR2NmZE8zd3l3dF9PS1UwX2tfZno0N3pvQ25MUkI2YW9VWkRrMHVZRGY5SmVBY044UlJXTjB5UXBTcjFZOEVjQ2w0empDNkExQW1VcDZBU1JZR1hRTVN2SUZrTkpZU0RSdGdhQmc4VW1DbnoyNTFYV2pRQWN2bDlwbEgxbTFOeFlmN0RzSGVraXF3b05sZ2VZRFdMVGJxRjZMT2JUVXVjT0FFY3dQNl9tY2RpVVZpLVFlTS1uTjBUX0RJcW16UlRMV1FyOHJKWWVIZQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789868133151
+    },
+    {
+      "id": "news_NATION_ThousandsprotestKennedyCenterclosureamid",
+      "title": "Thousands protest Kennedy Center closure amid fears Trump set to demolish institution - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVFBudHBxcF9JWUtvbF9VZ2Y5NHhMVHF0QmItcW5BdVctMjJtekJNTHU0cERGZHQwMHNYLVAtVElYSWVabEZmZTQ1cGpVaW8tZ3ZVV29YQjBGM1RWRFRYcHRhWWVxTjRMQkphRHB0T24wTy16a0d3emJMbUVidDcyZVlJd0xpdURwaVlqdk5vNHNNaGFwblQ2XzBaWFA0Zm1qOGw1UmhmV1BCd0djQXpJUzZMRXZvWTZKbkp1bGpqTXlNWnR2X2hMb19oUldkRXVFZV92R0FrcVRqX1FUS2VjSw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789868133151
     },
     {
       "id": "news_billionaire announcement_BillionaireandclimateactivistTomSteyerjo",
@@ -5467,39 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789515988952
-    },
-    {
-      "id": "news_tech ceo controversy_Howatechbillionairephilanthropistgotcaug",
-      "title": "How a tech billionaire philanthropist got caught between Trump and San Francisco - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYlZOSFBwa1RXTXNMV3c0RVBPVWFXTTV1Q2JJMFNWVVlLSDlzVUtnNEd5RmptbHpacGRjZ2ZObTNXS3JFVFdFQUsxdmFGbkVKUFprZFNwejB1SDNBOE1nN1ZYenFoN3hMWk1ONmJGU0JlVlFQT2ttbnRybFkyem5IRGxSLXR0YUY5aUxJTDJQc21DenZPbzB3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789509015938
-    },
-    {
-      "id": "news_billionaire announcement_Trumpaccountswebsiteisunveiledwithbillio",
-      "title": "\"Trump accounts\" website is unveiled with billionaire Ray Dalio as its latest supporter - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NcFhabEg0LU81U1FONnRSRFZTc25UWWszRUE2ZWltRW4xV2s1ZW55T1hHcEJMUmN2LXEzR0pNRW5PV3hlMGhLT0g3WVlRZEJudkhfUzlqdUFYVFQwWXN1R2ZRRQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789509014795
-    },
-    {
-      "id": "news_billionaire announcement_SFbillionaireTomSteyerannouncesrunforCal",
-      "title": "S.F. billionaire Tom Steyer announces run for California governor - San Francisco Chronicle",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmk1MDRLUUFPcDBWTjB3bU5mNEg0Z3UtSEoxclpFUUdvOXQzOUkwRTlYSkxaN3ppZGw5RnNnUUtoZXd1NGItWVh1X0tUZUlVNVFGY0RXakJNSkl0TDBuSVlqVkpVaWdQRmtnUExLeE5PVTdVWlNNS2EwTmV4Q3loeGVXQ3VMbEZWRGE1VkdIczVuZjhHOFdrUDJfV2pZZnBrNlE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789509014795
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T20:55:45.068458+00:00",
+  "updated_at": "2026-09-20T22:53:44.681963+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_A60yearoldtookoutstudentloanstohelpherki",
@@ -880,6 +880,127 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_crypto coin viral_MemeCoinEnthusiastsTattooBlunderGoesVira",
+      "title": "Meme Coin Enthusiast's Tattoo Blunder Goes Viral - Yellow.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (crypto coin viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOGFfb1VBRDNyeUhRMXhHR0NwTHU3YWhSdjVNcWVSMVVMdXhINXdsS21KS01QV0NDVmFldnVFUllhbS1vblQ5RmRVYjAtYzkzVkxIUmdIWm5adEJfOWdYQVJ1UHlBeTdic0ZHRmZUWktOWTluczA0SzlLSWVKLWZFd0s0amxwX0k?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789944799586
+    },
+    {
+      "id": "news_HEALTH_DoctorsAreTellingUsWhatToExpectForSickSe",
+      "title": "Doctors Are Telling Us What To Expect For Sick Season This Year, And I'm Already So Grossed Out - buzzfeed.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWFjbVlXdWpFcW1lYWFLZXZFZGlNUnRrdUhjaXdYRERpUVJqdGQyNlhHYXp6d3VmZTZjZ2NtMmctbjFsRHN6cWM5eHRFdjhObWcxUk13bHlPRU1vZWZreThoeEQyV1M5ZV9YemROTkhnTHRGOFU1YUpWLVZKSW5BVnlTSzhsN3hMRWtqdg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789944797267
+    },
+    {
+      "id": "news_SPORTS_HowEveryNebraskaPlayeronOffensevsNorthDa",
+      "title": "How Every Nebraska Player on Offense vs. North Dakota Graded Out on PFF - Sports Illustrated",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1hFS0llRjFaMlBfQk93Z0xJNlY1WU5PS1J4c2Zua0lGVkI2dXZEbGNNU0VQZjBIcjVaV2NFUl8tNGg4MTR6OVJjT0tFajc5Y21sQTE4ZTE4a0NBYXZuQTVFNndkdnlrZDliakkwWW9VUXZtS1dmcjdJdUNPcDFZUFg5NXVKY0FER0pUMXkwd0NGYVBXQlppT3pGU2pDQWVnZ1d1YlRCOA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789944795731
+    },
+    {
+      "id": "news_ENTERTAINMENT_SylvesterStalloneToldTrumpHollywoodAmbas",
+      "title": "Sylvester Stallone Told Trump Hollywood Ambassadorship Was \"Impossible\" - Deadline",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUnc1THdNYk5kZmJTSHM1eTROSHZ1d3NmcFcwdGp6T1liV0l1aVBaY3NaeF9jOGVFUUpIM3RHYXZaeU9uZG1UWWZreGtTRk43RFFDb0tiS1BGYkZRTE9va2pER2Y5cS1kVHBEb0E2ejJMVWtwdGoyX0trVXJoWDh6OWJudFV5SXBpeTRuaThYYkFNdURoaGVtcndTZUlndw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789944794939
+    },
+    {
+      "id": "news_NATION_TrumpsUNambassadordefendspressbanasnewso",
+      "title": "Trump’s UN ambassador defends press ban as news outlets prepare legal challenges - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbHdYRWtYOVkzUlFSWkpvZXhpVV9pYmRwbXNNMkhmcldEUlh4VFdjTzZWQWNOUThuNWZxSFlWZnNmSXlfOVFnQ0RWaUNkZzRPZVZMUE5SMmxTR29pV3RmLUpJbTZvc2VXaUZpWXBtQU9Za2ViSGpCdUVIajNwTERpa0xDUjZYdW1vM0NNUkhLb0c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789944792588
+    },
+    {
+      "id": "news_NATION_BurnhamhailsGreenlanddealaheadofexpected",
+      "title": "Burnham hails Greenland deal ahead of expected first Trump meeting - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWakhlMy1Oa2dTV2RMZktyY09tUFE2NzR3SzJ5bktqT25VYmI2NF9rNlY5VXUwdmViVDl0aVEtWGZwbU14bWpkU3gxMUlfQ1RROTVzZzUyc1l5czQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789944792588
+    },
+    {
+      "id": "news_NATION_TrumpMamdanitomeetinNewYorkonMondayTheHi",
+      "title": "Trump, Mamdani to meet in New York on Monday - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbVFxem9pdC15allKU1ZVM3lJN01mSXNEQ0g3X0szR2lCaDBNTTlBbWxSSS10Rkp6UktndGZyZTh4UXNSbmhTRWpQaFAxUlZna3JYWVpRbWV1WUluWTdJelVFdFFhdFZkTlQ2dzY5R3RCSTM0VHVodDhaU0FNQU1RUXUxZ2VVR3NqclpPb0VWaThXMjTSAZgBQVVfeXFMT0g4WldUdW5qNzhuT3FqWUlNb3hIS0VsM0c4ZUxnZFdSM05XSlBZWnhHbnFIVGtaYlNNODRxVFhJUDdkcDJFVUhVbnJabFBOdDVYMlFhck54MVVXZFhYRVNrX2cxc2tjaGxiRFZjYXlUR1NXTXZUNjlwREJIU3NJenpaMmVIb05CdUc2RGF1ZXFvQWhPTk8wM2g?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789944792588
+    },
+    {
+      "id": "news_NATION_HouseRepublicandoublesdownonjabatTrumpsi",
+      "title": "House Republican doubles down on jab at Trump’s immigration enforcement - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSUptS2ROcnQteGtRalFoM1JfTFlHSlVYbnQ5Y3VtTUI5dmt0MHpiX19EOXhUQlRwOUREMGRCT0ttRTdSN1lOTUlBV1JNSDJGYkcwbmRoRU9jUW1TNF94aEtEVXc1VHQ1NFdQcktoRURpTTlYVjhUM21JZHB2N0prd2ZCQTNLbGg1aWw5UHoxZDEyOUF1RXBBVTVDbThwdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789944792588
+    },
+    {
+      "id": "news_WORLD_TrumpheadsbacktoDCearlywithtwotopgolfers",
+      "title": "Trump heads back to DC early – with two top golfers at his side - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlpsRmNlSDU2LWNCaG1JaVBDYTdnS0ZtSkk4bmg0N0traUJKZHkwa2FBSnBjSmVYNkNGT0tKd2hrRzB2LWRneXEyNEgtX3AweS15cmRzRDhvZmFlV1RhRjdYY1NwNUNUSEpyWER1aU55dHgwOXBxc29BUk1jd0d2elAwdXl3cTZwN3FhWTVsRDZNZ0cyOV9wYTBuYklybkJCYm91SWNrMA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789944791822
+    },
+    {
+      "id": "news_WORLD_IranUSwarlatestTrumpthreatenstoblowtheen",
+      "title": "Iran-US war latest: Trump threatens to ‘blow the entire nation up’ after Tehran warns of ‘painful strikes’ - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTgtY0otTzJNQ1RmdVk4SzZLS0FpWWZNSUFNTmlOY2VtbkRwOEFWUUlSMDdON19BSklMaUhlRFJBQ2cxWmdXQ3FIRFpodUFuZmt4aTNGOVpmV0xpLUFMZnRramsxVTBzU2d3THM3aEFpLXNGZmtZTXpMQ2ZCUG5OckJJTEFpdlJLUWxqYUIzalJBcGxoR3N1aVFoTDBZMjFGNXVNdU1lMHc4b2NIWEdrZnhCaE9GYXIxZkE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789944791822
+    },
+    {
+      "id": "news_WORLD_VouliagmenibeachMan82diesafterbeachfight",
+      "title": "Vouliagmeni beach: Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wd0dtRGp6ZWE4NldKNG05U0xXb1BaYVRQM3pWUGJmdDRLY2g0akVZanE2V1JmM1dsLXZrd1o2UHJuTFUyQ0VZeng0UFJsNUJ2aFMzYWUwQ25tSW8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789944791822
     },
     {
       "id": "news_election crypto_AIandcryptogroupswereamongthebiggestplay",
@@ -5379,127 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789577998923
-    },
-    {
-      "id": "news_BUSINESS_FedmeetingliveupdatesRatehikeexpectedfor",
-      "title": "Fed meeting live updates: Rate hike expected for the first time in three years - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RWUJMaHR6WU9hNlFYTnlPQ1lqS0xsMnRuTlMtdndQaXFJdXpKVXhiQS1IbjJiUVpudkRqWDdoZWZIekpsQy1VYU1uMUJQUHZMZjFCVU9Fa1gzdGZkMFpqSWZwWXY2Y1dnTU9teG5uZlhBVTVYU0HSAXtBVV95cUxPZDNnc0c0YVZIQkNTTlJDRWpYNXNBdUxrRUtaeTdZVUVHa3JJVXpCZmNVdTJaZ0x3Q1E4bGNhVUVkbjBDdmVreldONlE3Y3NXSm9YeThsdGhkM1ozME9iZ2JVa0p4NVVkTHpqcW1WSnVoMlMwWkpkRi1YdHM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789577998134
-    },
-    {
-      "id": "news_BUSINESS_ColoradokeepsfouronthisyearsForbes400ric",
-      "title": "Colorado keeps four on this year’s Forbes 400 richest list, but loses one - The Denver Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52ZW1oRndIQUxZTW85bk9LbTRUeTVHWnU0cXpNd05vMWhqVFJHblA4NVFnZzZuVG03RFFmRWNMWFNUckh5aEVVbm9FZ3VoeGo3X2NPT0kxY1VJMVlIc1FRR0w1bGFURHZ2NTJuQVBDMFktVE50MVE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789577998134
-    },
-    {
-      "id": "news_BUSINESS_ThisMidwestairportwasnamedAmericasbestac",
-      "title": "This Midwest airport was named America's best, according to flyers - USA Today",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnRrSmlYNWotcXNzLXdjNE1uTTJuMElkaU05Mk8yMks2MU9adnlYMWRwNGQ0UG1wekpRSlhWTDFpZzctS0RUS08wTmpUOHdhNDdEZm5mQ3ZPb0NqLUI5SmdYRE5kVUVzazNZTDBmY05DUFFVaHBibjktS3I2bnhTcFJ1OEs0ZTlaWW5KV1QybXRuSU1PQ1dVMmZOV3JBcUstenZkc0tYTXpGZ3JBd0w0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789577998134
-    },
-    {
-      "id": "news_NATION_TrumpadministrationhitsSouthAfricawithne",
-      "title": "Trump administration hits South Africa with new sanctions over alleged discrimination against whites - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSlphNE02VVM2WHAwRWlldWxYOW9fVUVyQU53Qk1CNFdPWHNsNlpaczBZYkNmLXNQRmFBaUdaRjV2dnk3UWRRRzdXTFQxV21hZ2JPQVVKSlBhLXR6SnNuWnk5dWFJRC1Qb0Q0ejZObzh4eEtkeHU1cDUxU1NDN0dYdVBpUVBZVVdxTER0djFJMFAtd0FpZUtmZGtqUmEzN1dm?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789577997389
-    },
-    {
-      "id": "news_NATION_Atlanticseasonsetsarecordlatestartwithno",
-      "title": "Atlantic season sets a record-late start with no hurricanes yet - WLWT",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGVzRkJQUkw0bzVVRHFfNG9DZkZwbVU1VVd0RWs5MVZWVmo4eFNRald3Rm9GRjYxbjZtbEUzTk1SWk5NOU1KMG9DbVJKMHB4Q1NFb1ljSEwwaGhQb3FTMUpENTBIdE03UnpvM2FZRC1Jal9Wc1R1YzZvVkpfWTc4SnFPREgtQkhwVG5XQ0hyaG9EZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789577997389
-    },
-    {
-      "id": "news_WORLD_Trumpenvoysecuresreleaseof25Belaruspriso",
-      "title": "Trump envoy secures release of 25 Belarus prisoners as U.S. drops more sanctions - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY1NIQ04xNnNUZ3VqQnM4MGw1U09YUHlDTFRxbF9ad3JwT2ZvaUpEQ3ZZNUVWODQtOFF1VmlXWGZVWHgtYmI3eUxLeU9VNF9MNUhVMkF4ZG0wZmJMY3NIMjlucHQ4Si1hVElMZ2lkQUFEU3l3TF9QR3dTSkZhenJXME03OWRhVDhkcHFQTzRTR0xPWUpKa1VkMFprckVBRGtsTTdn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789577996249
-    },
-    {
-      "id": "news_WORLD_YemensHouthisclaimtheyshotdownSaudifight",
-      "title": "Yemen's Houthis claim they shot down Saudi fighter jet, deny targeting Mecca - Euronews.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcWVONWpCM1lXcjVGcklFeThGYm5WSVNMeEQxR1hGdWFpRmVIYzY4Yzh5bW5FVHdINUt6V1VuRWNEaDlESXAtdnRiOE55QXNuNFNJcXpTZlJqWXdlMW9iSjRRa01HdlNIS2NZTTcxZTc4UzdEbDZjNnotbjBMenRub2syX0JlU0wwMTZ0bXpXczRfODhjSzFNdEw3UlBTbmFrWDdmSk5ubnA4UVdkSE5N?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789577996249
-    },
-    {
-      "id": "news_election crypto_DemocratsvotedowncryptosClarityActciting",
-      "title": "Democrats vote down crypto's Clarity Act, citing ethics concerns and Trump's vast crypto wealth - SiliconANGLE",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRW96ZlhQOTU2SzBBY0Vzc3ZYb0xSWWV0d2MxVmNYZ3BfLVhKZE9EektSXzlXLUphczZ1QWxnZnBLS2FPZEl0SF91aU9YYm0xU29Od0hMTE5MTWJTbjVtMnhYMUxfcHdiSTdybl9hSFhxLTIyWmhvZkd3b0U3RE5mcmN2a0dGMUoxRmNJSlg1V3ZISDNxMzB0RFRUWVVTWWhmeHBxZWZKcUwwc2g5d0dyVl9oOUROUWhpNldsSEM3ZThXQVlKall0OA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789560843244
-    },
-    {
-      "id": "news_viral scandal internet_OneyearofHawkTuahEverythingthatwentdownw",
-      "title": "One year of Hawk Tuah: Everything that went down with Hailey Welch returning to the internet - The Tab",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (viral scandal internet). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaTVyMFdVcHd0MkxVT2RNTGdwV0JNQk5qY0xGUTlPZzU4Q09kUHc1STRXdFdLTXZBOVN4aVdGdjNWbll5dVBoNXpNSVM1NEFrSVVzQ1psUkZWUk4xTllvakk1TjJvelJvZl9QX1RNYkNyRWFTa25TbThRYlNlREZ3N3ExYW5NRHpyTDVNT0w5ak1RMVN3c0pMall6QV9WcnZQU3JJcVZwOVB6UnN1YTAyRGpvT1A1LWlEUHVEamN3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789560839798
-    },
-    {
-      "id": "news_rug pull crypto_WHITEWHALEClimbs180DespiteRugPullAccusat",
-      "title": "WHITEWHALE Climbs 180% Despite Rug Pull Accusations - Yellow.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (rug pull crypto). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdkc1QkNpNlByYUJEbjlsQkk3Z2l4WXEtUWJSQkEwZ2N0WERCMkY5bkZDYS1WRWdJTHoxaFRHaEtRRWVtV3lidFAxY3FzRFlZdTIwYlF3TEdHY29RRjFENEN4anZFdXl6N244elpjNEYzZ1dxTENEeGV3U25obzBTU3A0S2k0R2hCVVZ3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789560838699
-    },
-    {
-      "id": "news_crypto coin viral_BestCryptoPresaleDigiTapGoesViralAheadof",
-      "title": "Best Crypto Presale: DigiTap Goes Viral Ahead of $0.14 Listing While Bitcoin Eyes $100K and Altcoins Bleed - TheWire.in",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (crypto coin viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLUs4TVpzNWdhdVpFcFQxSDlHTFJ3ZlJfQ3V2OWJ4d2JXVVRUYzRlYU85Ty1WVjFqMWo5R2dPVTlvaGM3am56Si1YQUtSN2s4RW10cVlTRVc2VXdfVUptZHhuTG1xaW9UbW9hcXh5N3FaQWN5eUFra1AxcUxaRDc4U1Y2NmtPalRUZm5hOHAyRDFtd2ZMT2YxNGlVUmtEN19yZV84NVFVVEd0eDI4QVU5M1lYaHBvejA1U3Z6MG5UZnUyU09MamlzbWFqeGZvWGtiNVRYSjlEQUFmQdIB3wFBVV95cUxQeVdJalJEMFdFS0pTOHJOZG52Qm9tOEM2cFJYREJrUGVnNl94TFhJZ2JiVkN6bjU3SG41eFZzNHRJUldiZ2V1Q0RlYXd2RnRvbFpxZU90Y0pyS3Z0Q1hjQXhMS052X2JXZjRJVS1VR203dVNNOFlqRnlpSU9zeFRFZmNiZDczaXFwUGJ6VzRocU1rbDdLZHpOb2l4NEs5MkRYc2tfRHVUaF9ZU3pkVDE3VjRmOWdXT2tBc0dmRUJTQVBSdklldy13OVV2OW9RMzZUN0dBbGx5cjNwRUphdHVZ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789560833939
     }
   ]
 }

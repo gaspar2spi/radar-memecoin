@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T22:53:44.681963+00:00",
+  "updated_at": "2026-09-21T00:37:33.455909+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_A60yearoldtookoutstudentloanstohelpherki",
@@ -880,6 +880,72 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_crypto coin viral_BestCryptoPresaleDigiTapGoesViralAheadof",
+      "title": "Best Crypto Presale: DigiTap Goes Viral Ahead of $0.14 Listing While Bitcoin Eyes $100K and Altcoins Bleed - TheWire.in",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (crypto coin viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLUs4TVpzNWdhdVpFcFQxSDlHTFJ3ZlJfQ3V2OWJ4d2JXVVRUYzRlYU85Ty1WVjFqMWo5R2dPVTlvaGM3am56Si1YQUtSN2s4RW10cVlTRVc2VXdfVUptZHhuTG1xaW9UbW9hcXh5N3FaQWN5eUFra1AxcUxaRDc4U1Y2NmtPalRUZm5hOHAyRDFtd2ZMT2YxNGlVUmtEN19yZV84NVFVVEd0eDI4QVU5M1lYaHBvejA1U3Z6MG5UZnUyU09MamlzbWFqeGZvWGtiNVRYSjlEQUFmQdIB3wFBVV95cUxQeVdJalJEMFdFS0pTOHJOZG52Qm9tOEM2cFJYREJrUGVnNl94TFhJZ2JiVkN6bjU3SG41eFZzNHRJUldiZ2V1Q0RlYXd2RnRvbFpxZU90Y0pyS3Z0Q1hjQXhMS052X2JXZjRJVS1VR203dVNNOFlqRnlpSU9zeFRFZmNiZDczaXFwUGJ6VzRocU1rbDdLZHpOb2l4NEs5MkRYc2tfRHVUaF9ZU3pkVDE3VjRmOWdXT2tBc0dmRUJTQVBSdklldy13OVV2OW9RMzZUN0dBbGx5cjNwRUphdHVZ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789951030490
+    },
+    {
+      "id": "news_ENTERTAINMENT_SylvesterStalloneLearnedAboutTrumpHollyw",
+      "title": "Sylvester Stallone Learned About Trump Hollywood Ambassadorship While Watching TV: “It Won’t Work” - The Hollywood Reporter",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeVFCdTI3MkowNmlDczlOcXJIRnVJRGM4ejQyQWpXYm9yX0xYOUNmNEpCMS1TSFZkZjBhTTZlUG9Sem9KVXNrSngzX0tzWXNtQW1Db1FGTm5XQVVqeS1jY0VHTGZXU0tkZFpURTlJOGRfVnZGaFprZUFlMkxIMV9WYjBzaTZjc1k3OUNrd2hNNmw1QXlPVjViM1Fxd3ByWmt0d25rdExDcE9yM2ZxNXBpQmY5UjA0Y2cteDBFVXV1YXdnQ2dxa0xaLVBn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789951025970
+    },
+    {
+      "id": "news_ENTERTAINMENT_HaydenChristensens11yearolddaughterwithe",
+      "title": "Hayden Christensen’s 11-year-old daughter with ex Rachel Bilson makes red carpet debut - Page Six",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcklnNGo4TFIxQXFLb2NGZUMxNlBob1RQdTJSY09sckVTa21kM1ZYOWg3aDRKamNsd1FGYTROYm1PQU9yZjF4dkZUSC1yRHgyN2JUanAtMDY2N1BsYUJGZF92V1hrb0hzQ0poX25hVnl3LW4zVDFQRWx3WndBVnltZkg5a3otX3dPMlp1LVFudFBiajFWT1NJOWM1cFRMc1cxcndhTFduLXpxRG5zanBhQVF2aHpsamRlYUFZYzl6ckoxeUtMcmdfRU9vc2Y?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789951025970
+    },
+    {
+      "id": "news_BUSINESS_ElonMuskslatestBoringCompanypitchinvolve",
+      "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio - TechCrunch",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ29xNi1jRWhnZ1Q3YUVrcmk2cWR5azlSQ2pZeWVIbE1nSldzOXpoRkQxaTNJUmo5UnlZVzhRZks2SzBfYlhaV2FWMXNYNUxVWU5fWGlOb1lKZW9YZjh0MlNMSFRRMldnc25BTDY3OEVXNlB1RlNPdy0zYXV3Vm5fVGo1bWdreTZfVGVXNmFtdUZNUzdNTWVVNy0xRjJTOGlXQmRlY3dOaDZsbTR6bXBfSzl0NnZXcW9UV3Jhdm1OOHEwdDQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789951024460
+    },
+    {
+      "id": "news_NATION_ExclusiveTrumpRampsUpBidtoDismantleInter",
+      "title": "Exclusive | Trump Ramps Up Bid to Dismantle International Criminal Court - WSJ",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMzEwYkY3dnNudDFMT252V3hyT3piVFFEVXNkbDBldV9tTG5wRGdqeVhRZXFyenJLU1RhalUyQVdDUzd1cmZLQU5sdW9zWWtEVmVxSlFHdDIzU2RmYk5rajJKWjVNMWdQMzlWU09PRzZVS3Rvc1VqT3ZoUHA4VjkwaWNkN3E3bUdZZ2ZkM0RpYy1wQndYWmRCclkwYndoRUNTTUtVUEhXWVFhd0w5M01hQlNJVEpET1lRMVFR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789951023687
+    },
+    {
+      "id": "news_WORLD_Trumpdecidingwhethertoblowtheentirenatio",
+      "title": "Trump 'deciding' whether to 'blow the entire nation up' in Iran threat - USA Today",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMU9acUJTVEVaQXNRR09ycmdRc0tLZUZiOGdWNXFhR3hhNFlDcFZuWjZEcTY2bzQ4bTJTR3JsZGRkZkhaTjUySHlLRmxaeGFNR1hGSTNyLTRxLXdfcmN3OHJITzYxc1kyZTN6NFBaSDdoZXluQ2xEZm81X2FTeU9yZFM0VVRtSjZaTlo0TGpIYWZKUTBXR1lQeUxlMTR1QXpXYUJGSy1rQkwtMWo4?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1789951022989
     },
     {
       "id": "news_crypto coin viral_MemeCoinEnthusiastsTattooBlunderGoesVira",
@@ -5434,72 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789578001894
-    },
-    {
-      "id": "news_SCIENCE_Trexfootprintsunearthedinfirsteverdiscov",
-      "title": "T rex footprints unearthed in first-ever discovery 66 million years after creature walked the Earth - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3dNNXdONHFXQXJUMFlGcTBDYkVzdEtJVFNKckJoSEk5ZE50VWFYcmt5eV81b19aQktjb3NTcTR2MnEzajdMSlhvWU9tS2czUlc1aG9mUXF6YmFfaEhwUzlyZjkwTzBXWE9nYmR5c04wak9WaVBmelJBY1VzeXhCNlhiaVdYYXk1VW5WMzVGQTE5RjlRcFdTa05hcWk5ZHhRbUM5ZXljLWZmUlo0ZFNjSGJjalNfNTJz0gG-AUFVX3lxTE5JbFVIaWIyV05yb3I5OFlrZkx2ektiZkhOcEI0cFRBWnNRYUVlMmFpcjFJQUJmalpsVlNRRERlQjlETjZlb1NXaFVmb2xrY3pIRGxWVjZDZ19HdTBDa3pmUWhZTzR3dG90V3NFMzlnZk00emxKWWpqYVFGU0NTSGt2Mnk0NVFyVFo3YjNuSk9jTTNwTzdyZVQ3UFdFM3F3Mi1rQWFaaFJLeGY5aFdRWDRSMGpQNVUzUmp3dmNLWkE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789578001894
-    },
-    {
-      "id": "news_ENTERTAINMENT_JonVoightExplainsWhatHesUptoasTrumpsSpec",
-      "title": "Jon Voight Explains What He’s Up to as Trump’s Special Ambassador to Hollywood - The Hollywood Reporter",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkc4RDlJaFJzcHpkM1l6eHUzanZncnRqZ1ZrX2UyN2pfMnlUZ2gxdWxmZGpLWnNxcTduRzh5VTA0V2daeGhlRVZnNWZJb3VpeVVuekpxbUltRW9tSVFzYVl0QkRsTDdLM2szd01WSWZxSHFfWDNFaWpLdWVQS3JncUhydmpybTVaZUo2cVhpcWs3NzlxdGo0WnplNTc4U2xoUTJBVDQwS2JIcGRnbWJURUpvMG96S0x3ZWlhcC01Y2VfZEx0V2U4?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789578000015
-    },
-    {
-      "id": "news_TECHNOLOGY_XboxsFablerebootwasalloweda10yeardevelop",
-      "title": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says - Eurogamer.net",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WdGg4NnlFdWwxRGJWZ2R4b2czYTF3dzROeVM0azc3Y1dockNQWDI2MmhPVlBISkd1RnB3bmZyYk1GS0wwOGRldWVyVTdCNkE5RzlvcmE4Y0NqNFJWR1UwV3VpU19uaThtMUJ0TlU4RVRXMU11?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789577998924
-    },
-    {
-      "id": "news_TECHNOLOGY_TheStudioBehindMindsEyeIsClosingFollowin",
-      "title": "The Studio Behind MindsEye Is Closing Following Latest Round Of Layoffs - Kotaku",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXFwbjI4bElLMGN5UlRXSGFKcXgxQjgwamxhT3dWLWU1ZzNLbThiSGlocWIwMjg1cWlpM0ZQM01oZVF1SHh4Z1pxd1FIUVM3ckR4a0dtQks2NDlSNFBmVXhyX2JEVXNQWTBsSnF3cEpKdVJ5a3VDdWVLdFpTVndISzFjTlV5TWF1bVJ2cENndXlMeDNMUXZETl9KQ2lUbG5IWUNj?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789577998924
-    },
-    {
-      "id": "news_TECHNOLOGY_PeopleWhoGrewUpBeforeCellphonesAreAnswer",
-      "title": "People Who Grew Up Before Cellphones Are Answering The Question, “Was Life Actually Better?” And Honestly…It’s A Resounding Yes - BuzzFeed",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pWkZwLW5pZVpTM2pNcjZ1NG51YmtmbTdhZ2dHRlJhS1g4MWlXdTQzX09hS2hZa1lKVDMxaUwzRngzall4VGlneDBHVUJpNzhja1ZsVXVjTUdGQ2p2RXhjcDdiZDl2NVpTbGdKeE9zZXNjZXZicDJfclNR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789577998924
-    },
-    {
-      "id": "news_TECHNOLOGY_GalaxyS27UltraSamsungToChangeScreenAfter",
-      "title": "Galaxy S27 Ultra: Samsung To Change Screen After Three Years - Forbes",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmxCb1EyZk9HcllIakxRd0RLT1dkMW1TS3VseWVzUmZuSWczMmNrUFpVeENMUEFrSkRFOFdRWHBkc2V4bU1pU2FDYWxGdE9RSnNWYmVEbm5FT3dkTS01SlFvUVdNaHFDQUJ4UWotLW1JbU9zdmVDWWdTMmVobm95cXpRMGh1enlPV0ZtX2JOZ25ZMlJVWTM3ZWU0NUpOMFljUm9Ua0JNcEZhdnotUWs5MG9Fc3ZtaHRBX2Zn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789577998923
     }
   ]
 }

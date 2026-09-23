@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T05:49:33.994837+00:00",
+  "updated_at": "2026-09-23T10:19:39.976239+00:00",
   "signals": [
     {
       "id": "news_NATION_WhiteHouselaunchesTrumpTVa247greatesthit",
@@ -935,6 +935,171 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_MichaelandSusanDellpledge625billionforki",
+      "title": "Michael and Susan Dell pledge $6.25 billion for kids' savings in 'Trump Accounts' - ABC News - Breaking News, Latest News and Videos",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbnBtbkFPSkRqR2duNDJRcU56QjdCejdaMnlTOExFNDdaNHFtc2JmSWN0aWpCdHB4dnRQNXlHalY1RUlCTENaNE5MR19QYjk5akthRTZYUm1URkRfci1zWXpOYVpuY1BzSHN0V250QUNSTUE4YmlSMTc5R0Vya213QzVhbnFZQ0ViNHY2QWR5ckZ1aXdDZFE00gGcAUFVX3lxTFByUWVqU01ueUlnV3ZPcUgwVmdoYUlNN0lGZkZLR1pEOTFjNjBFNmgyaVNURXVwd01FUHVwLWNzaG9DUEJSa0ZDMEdnYkhvVm8xd3BDd0FHSll4S0ttdWZvaDIwRG43TmVOZEZoQ2ZnS1VlakdSLTh2TW02WGJHU196dlppQk9hVG8yQTdXUzV2bG1kQ0tXS1Ztb2gzTA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790158763007
+    },
+    {
+      "id": "news_SPORTS_DeionSandersdismissesmultipleColoradopla",
+      "title": "Deion Sanders dismisses multiple Colorado players from team after blowout loss - PennLive.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNekMzay1GYTVORmtvNjBxaENnbS1hQXNON3RfRzA0RHBMc1R5Ungzc1Q0Y2QyTWtYamQtT0picnhsU2VsaTc3a0FEQWxObWJHTk1VMWo3ZDVIYVVUb0gxczBfS2pfUDA5cEtRN1RUTnNZOExIU3NTaDBJdEUxeHpoMXVjdjFYX1ppOGpHLV92WF83TUotbmlFS3JDRVJpNGxHNVpLYW1xUVdBUzQ5XzdiUlRrWGRZR1ZMLUhycEc2M3bSAdQBQVVfeXFMUElrSXJSaFU2eUFoTkN3NW9ldzBuY09uUWN4M1VjbHF1VldyYjFRM3pxRUNQZzdwU1JSY0phWDAyNmhzdzl0LUFyMGtxSTFaUU9fSk5TOHRHQmFGV05ld0JVZGN1VmJvM1A0eDJhSjJwNHlmaVBiaWU3UEs0ZUtBbW5VQWw2QVFFSWY4X2w1U1NOWHBqaUhXM3hPNGNydUtOX29mTFk0Y19JVEtzMVh1TFlxZFJQMk9UcW8ybVREb1BQUmR1WjlXbHZpNlNDY3dsbmg3MVM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790158747621
+    },
+    {
+      "id": "news_SPORTS_ASUreleasesreviewofworkoutleadingtohocke",
+      "title": "ASU releases review of workout leading to hockey player’s collapse - AZ Family",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVlPbXRVTmZoWmg1ZVp2eGFORHFzYU9vdzJOODg1NW95dGZmbkt2VVVOZXJuMzdXMVJnLW9vcFM3dGhOOUpzdnZod3VHbnFHUV8zR1FFNE9xSHpwTUNlWG5aem1LWWFGRzlDZzN6aFp6VE51YUhuU0hHQjZ2R3llc1lZYUtoWXFhenBHN1cwQW1SVHQ4RGlEQ0FSR0LSAbABQVVfeXFMTVduQTdDLWxGaTdURFlkTVQ0SnBvZHhWZ1I0RDhlWk9yLWdxczJKUmctZHR6ZkhERkUxTUZHQnZkRXVic1RsTVVrNWhtcWZkSXp0V2tKZzFLb3ZfVmN1VXN2OTh5bFBVR0tEVGx3ODBDQ1RVZEVPWlZDNEVxcXJwcXNJNzExcjJ4a1dOYmFWQUI4U0JwV2hUbE45R1VYSlQzVXdFakI2bG1WY1pkVlU3bXA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790158747621
+    },
+    {
+      "id": "news_BUSINESS_Trumpsayshebacksdieselexportbantocurbsoa",
+      "title": "Trump says he backs diesel export ban to curb soaring energy costs - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WWjhXb2lxMkhCaDhhMU9OTnVzUUhHVWNiaXJhUHpIOFgwcFlsWS1zQk54ZHZwS1hNTkJfVUdRWl9WOEZudTJERkFrWUVzMGxsMlZpWmdyVGs3TnRJRW50ZmlmTFVsaUNtZmg2aHFSdTVFY1BYY2NCUVg4QQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790158745327
+    },
+    {
+      "id": "news_BUSINESS_AsiastocksstrugglefordirectionaheadofTru",
+      "title": "Asia stocks struggle for direction ahead of Trump-Xi meeting; China shares down - Investing.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVThrdkhzU0xXbWZQejZMTTlVbEpMUUVWMHlGWVlBcFpwVzMyTDYxZUs4TWotZlNLdWVoa3I5YjNwLTRHb2hnY1FiLWlkV0stNl9jbzZHVGtvTDV5UWl3WDdsSWRIZXNLQ010QlNGWmFuSjZwMHlHcmprRlZIdExiNHdhVUtWUzZfSDdfTWZZRlp3SDVoSGxtdWo2ZHBuazVIdElPZ0NNblRMN3Z5VEs4dkV2YWFZSmRLY3N4V1E2Z2ZKMXdybGU4eEhZSU9pQU0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790158745327
+    },
+    {
+      "id": "news_NATION_DefendingreporterbanJusticeDepartmentarg",
+      "title": "Defending reporter ban, Justice Department argues stories on Trump’s ballroom project, Iran war threaten national security - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWDNDLU94QWZmOHZTUzNicXFkSXljamstLXgwR3Rpd21TNVA3TTFYaklHdjcwc0ZMV2pGTnJoUWk3eC1KOS1QUHo0NzVXMUF2YWlGYWhNV2lfWHkxSFRtbjdoNTl3aTk5MElQLUZ1ek53R1RtRW9qNjlYYWZlNmtoUkRKQzZKYUV2Tmc5dHpTb3h5UFlQZGdqaQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790158744617
+    },
+    {
+      "id": "news_NATION_ChinasXikicksoffstatevisittoWashingtonon",
+      "title": "China's Xi kicks off state visit to Washington on Wednesday with a rare planeside welcome from Trump - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0RkaG5qaGdHbDlPcmdKVDdEMG5mdTlRa0tIQ3llODRmeGtlY0xuWmV1U1Jxd3lHQzI3ZjlFMHVLSzF1ODc2YmIzcjE5aDVDTHpUUTFiYU95Unh4Z01tc29pN21Kcm1JTGRxdE9PUWlrdTFiV0hVS1dQb3VuakxyV24wNWQySlBwUFBCbEc3V3d6VnVLTFpCX05Cc1NfcGJU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790158744617
+    },
+    {
+      "id": "news_NATION_TrumpbackedMissouricongressionalmapretur",
+      "title": "Trump-backed Missouri congressional map returns to the Supreme Court for the third time - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0hhbFlEVXkySldGd0J4Sm94bFU4RGUtUjlicjRVVXBBZnkyVFVDUDEyekdZWlByWUtLTFA5cEwtMTFFNTBDeUlwQlBJcXdIdEtleE93TGRnYWNUazlzUVdaSjAwNnRRTEFNOGpDaXl6aFd4TEFiY0RZYkh0c3hOc1NHcmU4a3FPVFpOWGJfeU05U1lJaEJfektrUHZqX0hvVng2UHJMRnNkTkFiYVpsU0RzRUo?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790158744617
+    },
+    {
+      "id": "news_NATION_ZelenskyysaysUkrainereadyforenergyceasef",
+      "title": "Zelenskyy says Ukraine ready for ‘energy ceasefire’, calls for trilateral meeting with Putin, Trump - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2tyWmtVbWt0WVltY1J1TEt0a0tkaEVpWDZOR21FR3FrQWlRNnpvc1JTVVRuRHZuNU5sdkpwUlQ1MXUtbk51aTZ0X2xKZVBZREwxZGc1dFZHMkFQS0ZzUzI0ZF9McVZhRUFVU2p0TGpDUjhhc1dqd1FlcFFCQURKOXJTVdIBiAFBVV95cUxOcm1LWi1FdXc3c2tkU1FFUHhIck1JbWxLX0FHRDhXTHJySFZBMkNpUmJ2NDhOUDdTNlFDM0YyQ2hDMzBfSDl5VW9xNWVsUklpVDZyamg4bE5UYmQ4d0hJLTg3MkF0cFlvcUVjcWdSX0NPbUpRcUNfNHRPaXRrY2d1VzZkaXRCVWFx?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790158744617
+    },
+    {
+      "id": "news_NATION_TrumpsignsfantasticGreenlandsecuritydeal",
+      "title": "Trump signs ‘fantastic’ Greenland security deal with Denmark - politico.eu",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUkM0Q0plS0VmMUZqX3Nkdmt6a1Q1MmJhTTFXVm1ZN0YxbTMtU2lBNjhGdG9lWnZ3QkpQV2pZT1hwZ09BU2VsVFFNY1JEVENteVNmdGluYnFsY1ZVQjF3TmFUYVF4UDQ1Q2NEdW1PRGgwdkprWlFiQ3l4eEpqRjVZMV9nQlRmd2dINF94Tm16Z2ozR0p2My1Rdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790158744617
+    },
+    {
+      "id": "news_NATION_YoushouldnotbehereTrumptellsCNNatUNassta",
+      "title": "‘You should not be here,’ Trump tells CNN at UN as standoff with media outlets persists - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR29vU0VzZjExSW04QkFxbFhTc0ZPRmdpaGdOS0xqbFF0S2tZN045Z3BuSm5JRnpNWUxvVFFwWG94U1Y5Yk1NbksxS0VsQ1Z5bXpTT1Q5RHdhZ1NmUEdMZXM0cHZtaGh1aUlmVDZleHAwUVk2TkEtQm0xQzJWTkdoX2w5Zl9RcGlqUHgzdnZLMGdGQ0pDVWc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790158744617
+    },
+    {
+      "id": "news_NATION_TrumpwantstorebrandAIassuperintelligence",
+      "title": "Trump wants to rebrand AI as \"super intelligence\" - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TWC1ZUzQwQ1UxcGwtNmY4QXU1VWEwWWZIXzZDWE1SMFVyZ3d0S2xlTjRHcVJqaHlVWnFCWGJKT1RhTGZaREVaMlgyVjhoM05iRVRCTFZDS0ZDMWpLNGlhS0xzWWtiYmVlcHJzNkdlbnJ2Wm81YnZV?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790158744617
+    },
+    {
+      "id": "news_NATION_WhattoknowabouthospitaldealswiththeTrump",
+      "title": "What to know about hospital deals with the Trump administration to avoid treating transgender minors - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQajltYnR4eDhjTVVGcGplb3pYTU9HTURiLTdQTDBfRGVUVU03R2VmYUp2dzkxZ0hQOWRRckxiLWNHS0VVQ1ViWDhCeWtyOVZSaldaZkliX1FCVWxKNHRDNzZMYVd5VjhDSUcwUlRHRUx6WVhpTThXeTN1Z2NKbDJLLWVUdUtlQjdEX08yckQ0QVNueW5uSmEwY0RqX2wyQk9LQk1aTHZpZkZYbzBYU1FCemRWTUpJU2V2SEFoMHBn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790158744617
+    },
+    {
+      "id": "news_NATION_MapShowsDonaldTrumpsApprovalRatinginStat",
+      "title": "Map Shows Donald Trump’s Approval Rating in States With $6.50 Diesel - newsweek.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb19NeERCOGUzaVBzemU2VVl4RlZLdG50bUdqTEhRMFU2V1Rwdm94aGxHM2NxZERLRlIwLVNfd09vempLWTJ1ZEtWZHk5T2w4LWRKNGZwcjgwSnlXREtkckNKTy1EdnR2MC0zRGJDd0JHMWpUZkFwTEtiZ3VHWkhLcXptbVYwYUl0dHZ1eDRrNG5vanljMHc0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790158744617
+    },
+    {
+      "id": "news_WORLD_TrumpThreatensAnnihilationinIraninUNSpee",
+      "title": "Trump Threatens Annihilation in Iran in UN Speech and Lays Out Winner-Takes-All Vision - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMC14enRnZ3pSTGZfVXJiNU5CNXdHTVFSdTMwdDE2U3otb1Y3YUJhT1F5TDBFWW9CUlA1MmhNSng3bjNUZGs3em9wbUZYclByTGF0cktEdkZpWVZVeHR1dVJsajlHbjQ4YlF3YXhQcTVJUXBaUml1ajgtNnlNQnM3dFVHeFMwWjNIRmx1SzhSTE5wemJoREhz?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790158743847
     },
     {
       "id": "news_central bank announcement_WeekAheadforFXBondsAllEyesonFedRateDecis",
@@ -5335,171 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789781778471
-    },
-    {
-      "id": "news_NATION_USandDenmarkReachSecurityDealonGreenland",
-      "title": "U.S. and Denmark Reach Security Deal on Greenland, Trump Says - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlWVY0TTlvREROcE9XR0tjbHRHUU05TUNiRW9iZmg3Tnl6aWVXaS03Nlk0dVRReEtuNDhlWDVBby1kc2V2RzROUS1kV3NQSVpNbmFQa1V2Si05cnZvdFAzSVRXZC1FYmpqZ0wwOFUxdzRHbjc3TlE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789781777720
-    },
-    {
-      "id": "news_NATION_TrumpsignsbillimposingsanctionsonRussiaa",
-      "title": "Trump signs bill imposing sanctions on Russia and giving him more power to levy tariffs - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWVudVZFMERYYlhsNEJxTFdxZjlYaFFLZkZPZF9zTDJ6dEItZDRfUngtOGVvNm1HQnNHUVZhVl9RMkYyNzF2YTFQNTBmcHFYVC1RMXFzeFhoR0ZqVlNDZVdCaXNDYUROVTVhNXpxSlotTGJTRGJPQXBqdm8ydm93VVk3YkRRdzl4?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789781777720
-    },
-    {
-      "id": "news_NATION_TrumpcriticizesRepublicanwhosaidimmigrat",
-      "title": "Trump criticizes Republican who said immigration enforcement had ‘gone too far’ - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWWZTUGFiSHVNR2VqaTNBNW8xTVVCV3JDclBCSjd4UktHa0s3U1FWdTVKcUdUajJNQ0FiUHR2NHhCU242YUJPZ0paLUpuMEc3SVU4WkxKRmlqRExST3N2M2pYcmZGQ1FsZnJEbDZxS093SzRUc01Md1Bsd2VOM3ZiN19PYU9RWDdzMWQ2SUo0Njc2VVR2ME9JbmNvbVU4RTh4S0NqQUdpUHhhOGxnZ2NKd1FsUVlpOFBQRG41U243c3pZVGVCTGgwTXpjdDZBbEhoN25IRVdyUm81V3FwSHl2bGx2YkdNc01QSWQ0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789781777720
-    },
-    {
-      "id": "news_NATION_TrumpdefendsbidtoputhisnameontheKennedyC",
-      "title": "Trump defends bid to put his name on the Kennedy Center - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWNMYzZNWnlRQUx3RGU3WkNyU19aTXRoWWRPdkhqQ3doUU9yUHRCMHFETVdualpoRFBUUmRvVmZ3UVV2WDAxQmxjRFAzZy1QMlVHNTdaR0lvRHVvQkh1MmktZTR6eURjeW1VR1Y1NkV1VjdYUE1fbERJVVU1NUs4a3RMNVVONDNSbHdBa1hvcS0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789781777720
-    },
-    {
-      "id": "news_NATION_FAAclearsproposedTrumparchrequireseterna",
-      "title": "FAA clears proposed Trump arch, requires 'eternal flame' to alert pilots - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3I3OTFQM3RCM1IyS3lPLWhyRnI5RGJvbWpuQW53QmctdzM4ZlRXX3lpcDZxaGh6OUM1X2lYVGljTFlMendCU0h5ZVp1WjlHdGRReHlsWm1peHN6dmVFRXU3TDV3YUNEbjZOR1R3MmlhOHVjZzJoRUNUZlBsZ25VQUdaUUFfRFp2RFdKZnpfUkw3NHpwdTFrbl9KX3V5aDhWVkMzbkRNbVY3UWo4MlVNV2J3M0hzRGs5RGxnNmxzUksyY3JOZmd2TQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789781777720
-    },
-    {
-      "id": "news_WORLD_TrumpsayssonhaspaidbackRussianforwedding",
-      "title": "Trump says son has paid back Russian for wedding party - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJxQ0gxb0hBYWRQV3ZwZjVTalRuYTR1MmdiY1E2TG9EdEdOdkZWdDFnU0V4VEluUWZVV0tBUHdSNVpMM1FJRG83SzhJMm1Ec0x1M1JmSEZrNl9KSHNNbmVKOUZWU1cwQTB2ZDZfRGIxQ3dYemdCU1hiaHBBOHljcjVWMXFVMUl4VTBDNWc0THlXQVVBdmYxeU1qYllnOENidTJqLQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789781777012
-    },
-    {
-      "id": "news_rug pull crypto_HunterBidensmemecoincrushed4outof5buyers",
-      "title": "Hunter Biden’s meme coin crushed 4 out of 5 buyers while one mystery trader raked in $1M: ‘Classic rug pull’ - New York Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (rug pull crypto). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN3lobFo4bkx6V0RxREFQVERWRmQ2eFBqSTBwaTJCM2VWUThCOGdPdGQxTHlEYnlhLVpUY2xtU1dsdUJtaVBxNVFMc3o3MDdjM3lLUHJKcHZoaXNCbnoyeHdHQVl6bm5VdjlxMjh3YTJoQ01mVGtxN0h0bktQMWRrYWRfd0JWb3BGb0dnYkNZZ1lCMVVpN2RWX0hueC1DMUlSaU9QNUFYQ0tMSy1rZGx6M29lWVcza2hhcXNvbEQwalZ5R3I2?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789774814993
-    },
-    {
-      "id": "news_SPORTS_BrentfordvsChelseaplayerratingsHenderson",
-      "title": "Brentford vs Chelsea player ratings: Henderson a vocal leader as Thiago lifts weight off shoulders - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NRjNuV2RZRzBaaDZvRHU4dkZfZzYtQlJWQk5lR3g1bmdSV0FrRkJsQWdYenFKWFFEaHhIalRTbElWOWhYcC02b09POXFpQnZ0MlAzbFh2QjVkUUU4SUVyRW1CakZPSE5E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789774805339
-    },
-    {
-      "id": "news_TECHNOLOGY_AppleWatchSeries12vsUltra4BuyersGuideMac",
-      "title": "Apple Watch Series 12 vs. Ultra 4 Buyer's Guide - MacRumors",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRbmhENGZQWmFFYW92a3VyNHlseUp0RXlVMXRpUHhNU3BzMmRwdmtnTmxrazE1N1NoeXFxdEs2bWZtdmRwTndTVU9fQVR1VHFtUWo0c3BqLVRaaWUtUUFUcGFRTVVYc0ZQTU1mZktzRHdPQ0U?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789774803067
-    },
-    {
-      "id": "news_NATION_TrumpsaysheisbanningCNNMSNOWandPoliticof",
-      "title": "Trump says he is banning CNN, MS NOW and Politico from the White House - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmJvU3QxRHMzN3h2Umc4M3RyNFMtell5WGNTV1d2ampGY25aLUZjLVgxWlRmWS1JWVItZ3RoVXFtOUhlX01zdEhGbzhrN1VMUndiekJxOG1MZFNPTE1TZkJsZHRZb0doZUNid1NXVS1NTmtpV1FyQ3FGM0VLWDFnOWRjVXc5YnFsYTJiM3cwM21acFNYV3RieUYtcw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789774801147
-    },
-    {
-      "id": "news_NATION_RussiasanctionsbillgivesTrumpsweepingnew",
-      "title": "Russia sanctions bill gives Trump sweeping new tariff powers - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEtRUVNvYVIwTTZqQ3pmak0zd0NlNjZEcmxxQ3FUWTJKVUZjTHdjUmt1SThTNVFmZWl5OXVLUmljaWJoSFRQbU5qVnZDUjcyWEhJNk5yWjZDOTNzazlrenItWHdvODFNbE5Ka3ZoMGF4ZFRGcEFFeVhlWF8tWGZYYU1XWWttR3BuR0hmdF9iY0Z2WGQwbFJfV2lOT2FwSExyT21yUE80ZVM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789774801147
-    },
-    {
-      "id": "news_NATION_TrumpandleadersofDenmarkandGreenlandanno",
-      "title": "Trump and leaders of Denmark and Greenland announce plan to sign Arctic security pact next week – live - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOWhvcVJtTTZyUmxhYUN1b2tiQ1RpWFNCQXFDM0ExZFc5TjJya0ZEdXRIb0JLMF9kcmR3ZWg2SnZYSzZMWGRKQVptYWFHeWZZSlptUU90MkJMdG52c3JkV1VncFgyVy1SY0pEbnRJd3p4UGNTRVVKS2VWMmxSenpucDJaOUtLd1dqSng1enlXMllpbV8tWjVCQ0x6NndhWlNBRDNsZU5WZUF6NTFpTzZSNDVjYThzXzJnejQ5U2Z4YmRGNUY4R3VUYXVydGVocGJiUDVoMXpUZzh2bWZjMFBMTEs2TTZZQTgwMnRPNWZVbmZ2VXZrMmZMVjVwNnF5cDg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789774801147
-    },
-    {
-      "id": "news_NATION_InsidetheUSKillChainThatDestroyedanIrani",
-      "title": "Inside the US ‘Kill Chain’ That Destroyed an Iranian School - Bloomberg.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04V2x1Z1ZNWExtTF9jNlg0WnJCNWEtUUViQjBBVFByc1Z2bUhvNlh3Z09PbU5hU2ZJR1ROZEhvR2N5SHR0QllKcUstTl9FU0ViRzM2RnA4U1pLbU9KZ0N5bHZXc2VrMTV3d3hz?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789774801147
-    },
-    {
-      "id": "news_NATION_JudgeWhoStruckDownTrumpsCompensationFund",
-      "title": "Judge Who Struck Down Trump’s Compensation Fund Asks: Will Trump Just Pay Allies Another Way? - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaU50ellMNF9INV8zaVdYTV9KVFhVVmowUGY0TTJhVG9pYThkaDNhMmVWZ0RHdFpxeWZXZHlkblpUQU5GeHFsQ2NNd2lCeWpDT0VsSm5obndfNnFhSVBrX1VCR0ZMRkk1SWNwZEI3LWVuM3hmUUNJT0phVVBVNmI3aWlKR2c3RlBGR0Fmd2ZOaHpLTG05RHQ0WjRPcjFDUGZLSkE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789774801147
-    },
-    {
-      "id": "news_WORLD_TrumpclaimsDonJrpaidbackRussianoligarchw",
-      "title": "Trump claims Don Jr. paid back Russian oligarch who spent hundreds of thousands on his wedding - New York Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVzZvZG9YM0E5LUJmcHAzV1VaamNtbzQwVDRyMDNURzU4anRQYXdlVjlfdEJvMmJiMmxoLUhzckV6aHJySGpuRnc4U0hyVVl2SW9adDlQNW9WYms0RjBHTllTekFRTUJiRXFUckphN09KX2NUYVlrR3AwZ2dwSHF5cU5nckNfYW5yVUJ1RVhoU3A0YmFuN3VDeGwxaFU0X3hNNnZDc25peGVjd0E3Mm1OZ0tpWkozVTVCVHdvWGh0TW44YVJybWU2QXN5WENTb09zRzd0bWJOYy1HUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789774800145
     }
   ]
 }

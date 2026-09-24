@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T00:31:30.448071+00:00",
+  "updated_at": "2026-09-24T05:16:33.297795+00:00",
   "signals": [
     {
       "id": "news_NATION_WhiteHouselaunchesTrumpTVa247greatesthit",
@@ -935,6 +935,138 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_TrumpsBigAIAnnouncementCollapsedUnderPre",
+      "title": "Trump’s Big AI Announcement Collapsed Under Pressure From These Billionaires - Forbes",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV2lsdjhnalktS3doNzhKbFhzZzNQVkNQakx2dmtoc2pYTWVaZVVtYW1NQ0hCSjNhakUzLS1lYWRiaGIyVlk4ZVdLTGJCUWM2MXFwVmdWbGo4cEkxcTlteFpNUm5MT1loQ1VWamRjVjIwZWViWnBIMlpDVldFem5DNFYzZ3RJeUVPQTdDSk5wc2ZNV3dmdUZ6QngwM0VQeTZvRkxwZThBOXNxWHBIRDJ6N0wwQVpNYVMydGZVU1JFSkV5amRwTndPSGNybFZVdGdOaEpN?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790226979929
+    },
+    {
+      "id": "news_celebrity crypto token_WhycelebritiesarelovingcryptoagaininTrum",
+      "title": "Why celebrities are loving crypto again in Trump’s second term - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (celebrity crypto token). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanpVNWxoSTU2N3Qzdjk3Vy1TZDFMRURCckpBZEFINkpaZk1aRWhXTFhtakk4LUhYUEs0UHVCU1ZhdUljam1TMDVOVUo0WWhoV2tVN1RadnZCNDNZQkZsU2FYQXR3QWhTaXY5ZHB6SjItM2p4aGNpY3RRY25QdzBrTFRMbXI?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790226970455
+    },
+    {
+      "id": "news_leaked footage internet_UPDATEGTA6LeaksContinueIntoFourthDayWith",
+      "title": "[UPDATE] GTA 6 Leaks Continue Into Fourth Day With Yet Another Gameplay Video Amid Radio Silence From Rockstar - IGN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (leaked footage internet). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ2pPdVNfZlNRX3gxdmx6X0NGNzM2a3N6WGFfYzE3dVNIMjlsMTBOSEZsTXJKbElGQkc3U0pHc0xHblBTVDlUT1VxV2hYYnQzQ2FMMy1UTmxWQUpqMl9zSXBNTDQ5TmhIM1NGYWtvU0RkanE5aE00S09QZFc2bkQ2Q3lZeGxUV2YzU1BlTzFEX3JrMlVOTTRzY1VhcElrOC1sNUhCRjZWVDVJazRqQlVDeVBlZEh6RThSSkNMbEpCOWdOMHFvczFEelo4dzNFSVJsNDh2a2pFdUN0N0xjYXc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790226969533
+    },
+    {
+      "id": "news_TECHNOLOGY_TheFirstAceCombatGameInSevenYearsIsPlayi",
+      "title": "The First Ace Combat Game In Seven Years Is Playing For Keeps - Kotaku",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORnFoV1dESHJ1S2pqQmlYaGo2NUUzWThPMVpMRDNMTW53X0RiRnc3M29mdUN5dDN3c1BJVkVmcmtWaXAya2JMbjkycWRDMmlndldkTzI3SDJSLWg1S1ZhcmtxLVhTam9QME9TV3U2cExFQkFRMVpZczE3ZlEzamZRMlkwZUtBa0N5S1locnJaeDVJZGo1UkE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790226963351
+    },
+    {
+      "id": "news_BUSINESS_YouTubepromisescustomfeedsandalotmoreAIl",
+      "title": "YouTube promises custom feeds and a lot more AI later this year - Ars Technica",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTjQ4QUItTGVmcWN1VzNUa2NmWW5VT1o3ZEVLazA5X3NmaVBRVS1MZzFHY201cWkyN1FhMDNZSWdNbG5IVjJKR2R6VnZkMnpMOEc4TzJ4bHp4QUxLUHZ6Z3NsUWw2MDg4MG04SU8tY2hZVEtTU1R0TjFsNTd0ME1MSnBzNWhnQlA4ZWFvWXJFaTBRV1VFdnVodHNQSW9mUkdtU2RWTmFndw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790226962652
+    },
+    {
+      "id": "news_NATION_TrumpgivesXiJinpingrareairportwelcomeass",
+      "title": "Trump gives Xi Jinping rare airport welcome as summit visit begins - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (xi jinping) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHhaaUFNQmIxNFF4eFUxelRnUVFBNE5BWUlLcEx3OENoWWRaaXdfTzhHcDhqWUwyNVNNazQtMGZVVmpIYnB2UXZWVGJSNTBfVVVSeXN6TG15SUFNSU5UYlpjRV95Y1g3TkkxNjdrZ205ZXYxS0NWa1RsN2d6M2lXQ2MxeW9BalFUd1NBM0ZtLTEyYXNKNUl6TVhIdnBKR1cxemlhYlp1b1Y0eTJLT0pR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790226961960
+    },
+    {
+      "id": "news_NATION_TrumplikelysmirkedascrassIranianpresiden",
+      "title": "Trump likely ‘smirked’ as 'crass' Iranian president lashed out at US in UN speech: expert - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbzl5OFRRc1BPWW1lQmFwLUVqVE41VHJGX2R4MThuTmNFUjczb0FSbXo0NW5uWkpqOGlDYktoUHpVSGIzSEZkZHJqS2dKek15VUlNeGtkNVRWTlp3WU0tOGtkX25MVVhwUkkxRmNOYkdycHQ4bHNtdFdNSEpvckVuSl9JTUEtTk55NndFTWJyMVJGNDhNdTRrUlhR0gGfAUFVX3lxTE1KNlYyTkxIWmtMTENUV1FubzJpVFYxbW5tYVJTRENuUkhjT0NaUVBjbmg5MUZOMC01ZmdKMVNnbE56SGdwU3VnbWtNeVhsbTVRVzZXVWFUWks2blE0NHZRWDB0V2JJbTR2OURyMlNpVHZGNTBzRFNrZEpKVFo5RXBZcFJRaXQxZGVsOXpqdFRoeEpQaUlDRGR3MWFfYy1ybw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790226961960
+    },
+    {
+      "id": "news_NATION_IowaJudgeDismissesTrumpsLawsuitAgainstTh",
+      "title": "Iowa Judge Dismisses Trump’s Lawsuit Against The Des Moines Register - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: lawsuit.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcFBhQnFrZVJNb3hOeGh6cUFHb0JwZ3ZEN19qWlU1UG5teGY0MWF6V3FzRmhzLUcxNGQ3VThWaUZNZTVSVE1mbjRjNHM2eEF5ancyTXE0NkktQU5rXzlrSjRPQmVvazM4MVpyOWlySjVtQU8yYmpTbVJaVnpFbUgxSHl4U0luWHRyS0JIclpR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790226961960
+    },
+    {
+      "id": "news_NATION_TrumpsBanofNewsOrganizationsGoesBeyondOb",
+      "title": "Trump’s Ban of News Organizations Goes Beyond Obama, Biden Actions - FactCheck.org",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlFCVzcxVEpHUm5ZZF9adHpXSXc1Z0hmOG5XSmtleVZ5bTJpSVplbUxjQ1lXQURDU1ZWUm8tSTUzb3o0MGVySzQ2TzI1ZEd0NEJNSV82TFBJeVBzTUJySWp5VE1yRGNJRFlDbkhYdl9ac09GWVFTVWFKNUdkQ3U0YkpRM1JpVEZ6V09TMkFndC13R2lzanhJejdSaXptM3Bj?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790226961960
+    },
+    {
+      "id": "news_NATION_ByronDonaldsscrubsmostTrumpreferencesfro",
+      "title": "Byron Donalds scrubs most Trump references from new campaign site for Florida governor’s race - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGhzRzRPc2FvYU5Pamh5T3VNNVk0Vm92VHhITHpNdGk5cnRyU2J4V25HOEJIUmd6TzRGeWdkSl84NU5OQUdBTHFNSjZnSkgtY1g4U3QxYXd2TG13Vk1XMHVkZ3gxU2Y4QmVCSWhmS251TzRaSmZwbGJaNVgzd2xKazUzWUVMWWRyTkpLZDB5NmhuVnM2VkNSdk1zR01zR2NZYUVCQ3VtVHM4aFl3dWJ0enBzSHotNnpNSEllWTdVMWE3MmpLX0hz?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790226961960
+    },
+    {
+      "id": "news_WORLD_6yearoldChinesegirlsetswomensRubiksCubes",
+      "title": "6-year-old Chinese girl sets women’s Rubik’s Cube speed record - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT2VUaU5MRERQYl9MYjV6OFViYVhtdFhxZjVPQTNCYzRLT1pleVdkazJFRVNPNktxZzlyWG5aMXp6TFRrOUw2Y0hhMy1scldlNm9jQWs1ZUVfYzlRZExRdE5LUnFxZVVSalV3X0g4RmFsVXJMX2NZS1dhamhxMEI5TTVESEJGcF9Pbjc4SjVDYWw4VlZESDFzRlln?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790226961257
+    },
+    {
+      "id": "news_WORLD_TrumpAidesSeektoJumpStartDiplomacyWithIr",
+      "title": "Trump Aides Seek to Jump Start Diplomacy With Iran as Crisis Widens - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QLXZkeGhNazRPbXVpaEFSQnh6NXVHSmdCTUxqcVhmQ0tIUjg5SWJsY3pDQXM5elNwQWNtOUpPMVR1VEpwcEVOWDJBaUM2RDZkYTNpTFJHNEhHTEhZbjdiWjB6TWhJeEphRkc3bnpwSXlkMDYzVEVURXRZbUtCSnc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790226961256
     },
     {
       "id": "news_government shutdown_FBIinvestigateshackersclaimtohavestolene",
@@ -5368,138 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789860787675
-    },
-    {
-      "id": "news_rug pull crypto_WarrendemandsinvestigationintoTrumpmemec",
-      "title": "Warren demands investigation into Trump meme coin - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (rug pull crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0RoTS0tTnJ4NVg0RGRMT1pPczBRUkRFeEotOWVYYTdZQXA5d2YtRTN5VWRENzVIZHJvN19mOUJvU2NNSjFfcHJ1bjgycVFCQjNOOUEwUFNkR0NhY2hXblVZVmd0c1JEOTFCdW85X2Y2NkYxb1lhWVJ0eEFiMDFldEQ3dy1CVGhjMVEyWVRrZFcwQknSAZgBQVVfeXFMTUlfZXZZcHdvZ002aFJiNjNjRHBCb2Qxa2NBdnQwYkI2NHZGY1IxZDJVajRaTEhTaTdCa2o0S05CRVBLcTlKTGRZZWo1V0FRUlVmWnpONEpRYWU3dWM2VlhSa0t5UnhTWG43THZaQUNfVFJ0ZDJCa2ZIWTBqM05FNnVVMXNjaUhMN3dXanBIclZzYi1YQlF1dU8?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789860787675
-    },
-    {
-      "id": "news_own cryptocurrency launch_UndertheTrumpcryptoplaybookthefamilyalwa",
-      "title": "Under the Trump crypto playbook, the family always wins. Investors don’t - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUpmc096bllHcUstWFZXT0hnMnEzRTVvSFY4QURZcWwzcWpQV1dQWktHWC15SHNrSjBSOUZBYy1sUFZ2UmxwaHdEd2gybm90YWs2R19LdlFCRTB0Vzdua0UxSXJ5WjFGY0lydW0xcGtMU0ZXZzUtRFRid2FyTWptQmJmTU1mcEdVUEw2RkIzeXJIUFJ5dHlMUHIzRG51TWtWdVBoM1R2RHYwQ0xvRnR4cDRB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789860786304
-    },
-    {
-      "id": "news_own cryptocurrency launch_Trumpmademoneyoffhismemecoindiditsinvest",
-      "title": "Trump made money off his meme coin, did its investors? - ABC News & Headlines – Australian Broadcasting Corporation",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ3NOT0hTUzlrSkU2bFFqcVZ1TThLc0RJTkFzN2pFczVJS3ZYWjliZjdFOVJGcEdrekJYOHV4WVJDM0Vzd3ZVYS1jTnplb3IzekpvLTVXQjVLSWJsWUk5elVuVjF2NXNIcVU2bWtnWngyVWI2V295MDc5VDN3M19uWVFUZ1V6cU4zSkFDNnNQQzhtMWlKUUF6RUVaTnVSdW1nSmNhSm1n?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789860786304
-    },
-    {
-      "id": "news_SCIENCE_AroutinequalitycheckonaMoonmapturnedupab",
-      "title": "A routine quality check on a Moon map turned up a bright spot ringed by a dark halo, and it marked a 222-metre crater that did not exist before spring 2024, the largest newly formed crater yet found anywhere in the solar system - Space Daily",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNaWRKMlY3RnVZeEN6OFY2TnE4SERKMzFwTHdDcWZQN1VVbWl3OTBJUThTay0wMHVxdTE4OHJuLWozVUlrdUpmMGdtY0dTSHVTTDdoZlRHWURpNUlmOGdvT3BBd1Jwc1JxbUNfVkRQeG5wckdhLVdXcnFSZ2FVVWlWNnIyWm9tTWtLQmtzWDJaMVB5RURsbUxPa1Byd2NCUHkwTTJFdHRZdEd6anI2ckxJdV9Yb1pqYjBIaU80NDZoUzB1cko2akZFRVJHUUtRQmc1eXBpUWFhNHlhZDdibFI0NlAxOURQc2tmY2FEWGlQQXpuek5oSkxGaW44c01kSFhjdXE2cFZpdG9tYm03MGt6UEVyRXlHTVlBd2o5RUV0RmRTaFhrTnNQX3BiRk1pQUpETjk3cEw3MnVNVUFKM3REUE14RDQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789860779323
-    },
-    {
-      "id": "news_SPORTS_JeremiahSmithmakesOhioStatehistoryBuckey",
-      "title": "Jeremiah Smith makes Ohio State history: Buckeyes star becomes school's all-time receiving yards leader - cbssports.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUU5KR1dNV2JQdmNBc0NJeEF2Z2FVd00tLWp0aElvSlVsNmE1NExsaEpMam5LLWczdWVqSGN4MHdfZGRoakw2bVBoNVJRRFQzR01GZTVkdERLdWI3bmloSVhsbGdqMnBKbGl3eS1tMHViVmxPWHhnMmoyQkFVQ0N5dlRmV21SRm1TU3ZfQzF1YVAySDIwcHNGSlFMWXdxUnlfVE5rbklwX3MzU2RV?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789860778580
-    },
-    {
-      "id": "news_SPORTS_TexasTechdidntwantFridaynightfootballIts",
-      "title": "Texas Tech didn't want Friday night football. Its dramatic escape vs. Houston played out 'like a movie' - cbssports.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcklxQVE0U0pZUldHSzN1MjMydmZTQ1FOX2Zlem5qRjF4ZnpfY013akliSlZHWU5jeHZrWlczSElkQjFKTWl1RVR1T3UxNkl6SDdQSUdLZFBXQmloakVwcGFWZm5FMXVwY2ZPc0szZGhZQzRacUdQYmpob3RZRDhqT2xSQUhtWVJKNVBoaDA4c18?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789860778580
-    },
-    {
-      "id": "news_ENTERTAINMENT_AngelinaJolieandSalmaHayekonWithoutBlood",
-      "title": "Angelina Jolie and Salma Hayek on \"Without Blood,\" Trauma and Comedies - Variety",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT0EwY29LdjFzZl8wRXRObXFyY241VmtUOG45RTFHQ2d2TGJGN2lDeUQyQk1zaG5feTVKM2ZPVzZtWExJRDZUQVMtbmFjUUtUeG00OGMwYjVnT25JOUV1YTFVTjNITDJ2cWxUWGVQZnNUYnUwU2w2cEh4TjBtVERLZ1VQQWhpbWhtdmxXaUxSVjdXb1pkMTY3ay1LQ2FWbm9DbWIyN1NxQnNyYXh5WnRz?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789860777888
-    },
-    {
-      "id": "news_ENTERTAINMENT_PatBooneSendsBlunt2WordMessagetoDonaldTr",
-      "title": "Pat Boone Sends Blunt 2-Word Message to Donald Trump - TV Insider",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMHZHSnBGOGlxQWtvZnVsUTZaTE4xcEdXOFRJNEIwUUo4a0UxYmJJaEdDZVFid05kSzhNa0N5RGVVS1VCSjNUenV1eUJ6dFJUcHFrX0tkZk5NLTRZS2RMRHhzU3NVekNPdkNNQ0VMbHZlOS1TeGFTTXdJUVZqcktaX3RzaHpQZEtKcGVHeGZTWnJ4ak1YSTJBSQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789860777888
-    },
-    {
-      "id": "news_NATION_TrumpsayshescreatinganAIforceandappointi",
-      "title": "Trump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWpMdlgxOFkzTjJRSld4OE1Xb2JZY1ZDdjFGSC1vUFctZTR2cUtSdDJEWU53YVcyeE1abkNIWndBcHJVaVB2VjhVY09KanpZUm1TUjVZeV9mSHNvWFJFakhCZ3RQQl9FNWNQUmtpN1FXMWNFSTZxNWxMXzBmaTZyV1FSN3BucTh6eE5Dd1VxRllMX05WQlZiaWZHeVp1TGZyQzRMaUQyRGVQZU1LeHhKSnpB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789860775728
-    },
-    {
-      "id": "news_NATION_Trumpsignssanctionsbillthatthreatensupto",
-      "title": "Trump signs sanctions bill that threatens up to 100% tariffs on top importers of Russian energy - Fortune",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU25hUm84YTVMblVTRlA5Y3hzekhpSDZadkpvZTJhQ2FxeGl0Q09uZDJIbWNqSy1iejBCNXJqZ1pVaEs2alVhbnkzQTNUdG9YTzU0Y0x6ZWZwcjRYeGEwM29nRmtySGU4X1RLTUluQkNjcWVLSEFIS0tHcjQ2eXZoQjd0WjJfVFdSd24tbnFMcWltN0tROU1pUHFHTEt0VjBhNzE0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789860775728
-    },
-    {
-      "id": "news_NATION_Trumpannouncesall50statesjoiningMedicaid",
-      "title": "Trump announces all 50 states joining Medicaid drug pricing model - PBS",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMHhXbEN0MlVKeExmcjZJaDF1bnBzbmYycHZmNmVDeUlsemtzRmFsVFB6ZXM4VWNQc0xPc2dPR2UzNmJ1dDNRVnI1YUpKZl9rc0MzZDdZM1Zwc0tkMkl4T1UtdWg3dkdQNVZSb05hbDI3OVU1TGFtWUNJYmFwQzdUcWMzcXg4VERhaHpBNzgzcFIwckM0dXFEM25FYXNPcU5zNkJoMF93?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789860775728
-    },
-    {
-      "id": "news_WORLD_TheextraordinarynewcrisisthatwillhitTrum",
-      "title": "The extraordinary new crisis that will hit Trump harder than his war - The i Paper",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbkdFLWlqMFBJaUxtTG1uQVg3akxPdjVNNFdSMjBIcEFjay12dFhZbmJ5bkNILVBOU1hjdmRzbHNaSUhVWUUwTTF4c1lXNnNZRzhIQVc4eHBTZjNUUFBpNXV0NERIMkVmR3kyd2o2OTNnejZuQURxXzFJRDV2WWp5MVZiTmN1a3NvX0ZGVHJzYmtkRFE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789860775022
     }
   ]
 }

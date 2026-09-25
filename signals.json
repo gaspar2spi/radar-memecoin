@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T00:34:50.746060+00:00",
+  "updated_at": "2026-09-25T05:20:15.161351+00:00",
   "signals": [
     {
       "id": "news_NATION_TrumpadministrationlaunchesproTrumpTVada",
@@ -946,6 +946,105 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SPORTS_Trumpscollegefootballplansmayhavecausedm",
+      "title": "Trump's college football plans may have caused massive ticket price drop - Chron",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNEhFREp3WG1NYy01RHRGRUpnRHhERXZCUHc4dE9IUGNwcVh3VGFXdjZVV282OGlfSVpoMnpieElYZWxEQlpMRmVIWmp2NmRPWGl3UUpaMF9ObE4zZW1XVVczeGlOMWhHUmlWajNMMEU5SVQ5MWhxZ3VOMElMNDROMlRIYjJxQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790313584003
+    },
+    {
+      "id": "news_ENTERTAINMENT_UnabomberExplosiveTrueStoryIsNetflixsMos",
+      "title": "‘Unabomber’: Explosive True Story Is Netflix’s Most Thrilling Movie in Years - The Daily Beast",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ2x5SmtHWXMwUXhBRU5XcS1BOXZMclNFSExmTERBSEgwMGYxckNCcGlXLUlSX1dMakJaUnV4Z3ZmMS1CemdDV2QyUldTUFFPZWVzOERZWXlGdnJGNUsxTkt4QTJOcFIwemg0SFh6Q0VHRjNMZzk5MVNxeDdGZmFaZTBvem9Ya1RubFlyWW90SjByU2NUbDJaeU5DMF9HeUFyYmZ0SXVxOEdkb3J1T05XeDRR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790313583255
+    },
+    {
+      "id": "news_BUSINESS_HereswhoisattendingtheTrumpXistatedinner",
+      "title": "Here's who is attending the Trump-Xi state dinner - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZm9HUWNGX1Y1aEtGWmlLOXlTMDZmQk5qd3JOYzlZdlF3SnJjU0t3Z0VNNWh2LWd1RDFsSGJvT1pua2tqYXoyaDBCN0dncDUxZ2QwcHpUNVNmTWp2Q25GamZVcmVuOWVVWWpDeGM1dEl0ZHA5YjVrd0VVelBiVEN2ZDVhWlpCOHU5YXVDS1FB0gGTAUFVX3lxTE1MZEZkanBlOEV6Y2tpSDM5enVLZVExaDMyZmpUV3RNakk4RUk4LTZrMXhUN3dmMmFmcTU3Um5fQWY3b3dTY0R6cGJZakNSOEZPZXhaclpJVTFjeU1jWWVhMkRxTVBITU1YWGhZelEzanZRdS1GYm00NlJkLVRGVXNtRVlTQXI4WEMyVXZUNk1jejRJZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790313581230
+    },
+    {
+      "id": "news_BUSINESS_ElonMuskSaysSpaceXsAIModelMaySurpassAnth",
+      "title": "Elon Musk Says SpaceX’s AI Model May Surpass Anthropic And OpenAI’s In 6 Months - Forbes",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée; figure/entité tier-8 (openai) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1NTSWxjbnFsclcxZ3V0ekV1V0tkMWs0bWx2Z2FfbVdMYXZacEtwNDRMWjMwV1RnWmpkbDVsT2ExeGUxTjlTeUpNSGNtTFhLcGJGVHlhTW5lLVVta0EzQTdlOHJqTFJFODRXREdBZjZXZUpydmNEUkQxb1NJQUZGNVE0dHNUSXF2V1BWLUpNSlNzaUZmcGhFeUJJRGxMcmEyNHdOTGR6Y3VXS3VuMDBSdnJxRkVKQTczSmp3YjBzX2wtOXd2d0JFZV80TnZlRjZLdHc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790313581230
+    },
+    {
+      "id": "news_BUSINESS_TrumpHostsXiattheWhiteHouseLiveSummitMee",
+      "title": "Trump Hosts Xi at the White House: Live Summit Meeting Updates - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2VkRU5jVDhybFQyR1U5VldYcjJXbnRkWVgwMHM5LWEzaFFQU3oyWUlhaDg3MGNZa0llMW5PQ1N0WlUtZDZKci1OTHRwbHN5a1FobElIOVFKVXM5dXBTX01sWG1kQW5oc1REY19OR1l4YTRtemhRMk44cmk5TnhwUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790313581230
+    },
+    {
+      "id": "news_NATION_HereswhoisattendingtheTrumpXistatedinner",
+      "title": "Here's who is attending the Trump-Xi state dinner - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZm9HUWNGX1Y1aEtGWmlLOXlTMDZmQk5qd3JOYzlZdlF3SnJjU0t3Z0VNNWh2LWd1RDFsSGJvT1pua2tqYXoyaDBCN0dncDUxZ2QwcHpUNVNmTWp2Q25GamZVcmVuOWVVWWpDeGM1dEl0ZHA5YjVrd0VVelBiVEN2ZDVhWlpCOHU5YXVDS1FB0gGTAUFVX3lxTE1MZEZkanBlOEV6Y2tpSDM5enVLZVExaDMyZmpUV3RNakk4RUk4LTZrMXhUN3dmMmFmcTU3Um5fQWY3b3dTY0R6cGJZakNSOEZPZXhaclpJVTFjeU1jWWVhMkRxTVBITU1YWGhZelEzanZRdS1GYm00NlJkLVRGVXNtRVlTQXI4WEMyVXZUNk1jejRJZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790313580504
+    },
+    {
+      "id": "news_NATION_Manwhowasshotduring2024Trumpcampaignrall",
+      "title": "Man who was shot during 2024 Trump campaign rally in Butler, Pennsylvania, has died - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOelhPaU1SSDVKNG41ZktkNU5xVEZZaXV3NU5VOGs3dVg3aXU5X0JiYzVGbHRRVjdlcFpzTHZHTTFtUXk2QXVmVTFaNlJtYi1aLTNGM2U5R0lqNEVhbUhKbS1JR3RlcE5ONWREaFA3SjNWR2JYN3hNeTVnTVFIRkZTMmM2b0hJTU8ySDZtUTNUckVDbUxUVUxaVl9mZl9DWXo0Mmc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790313580504
+    },
+    {
+      "id": "news_NATION_NewTrumpfocusedLoveMeadcampaignpaidforby",
+      "title": "New Trump-focused \"Love Me\" ad campaign paid for by taxpayers hits airwaves - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LZ2xOSFBpN0RCak80MnJXLS1NZjFFYUFoTldRVmlpNjFQTVdpNjZPUHVPRmljNTdaTzF5djdNYTRpNGJCeUZPQlVjUVdFMHkwcGNXcmNqd3ZtN0FEa3JBUVF5alBqSnZKc1N0ckh3VkVDMWM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790313580504
+    },
+    {
+      "id": "news_WORLD_TrumprollsoutredcarpetsforXiJinpingthoug",
+      "title": "Trump rolls out red carpets for Xi Jinping, though he has portrayed China as a global menace - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée; figure tier-10 (xi jinping) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMnJRSm9OWTUyMXlBeW0xWVZRYnRnaEEyTlhVUGdKU29TTmVXMkRCY3dsNDJ3NFFab0tXTHBTTzFMSWhpajVnMkFaTGFxTkJrdTh1TWNVcTVPMTZLQndrSUxONmoxVExqMG9qLWdnWkxrcnJ4VjFxTllaNVE1OERzU1duY196NjU3Q21jckxGNThXbUlQY1ZRTlhncUQ3RmFlci03alBSQWRWOWhmdlU1UmVQTzF6YnNNZF9wZzVLWWF5WWsxUFE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790313579762
     },
     {
       "id": "news_ENTERTAINMENT_RandyRainbowSlamsPresidentTrumpsCorpseLi",
@@ -5401,105 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1789968395855
-    },
-    {
-      "id": "news_NATION_WhiteHousestripsCNNofTVpoolassignmentasT",
-      "title": "White House strips CNN of TV pool assignment as Trump’s press ban escalates - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUTXNYeWdJU1p5eXktUjhBcWQ5V2kzNmVnU1BtdUR1RDFIRnI1bjRvMWljdkp3OVpqOFZGeEdGZEZ5TFBnY3FpZzEwRFhacXlGc0xvVThLX2NHQ19nd0g1XzJwQkxlRG9oc2tiNl91b1BZSFVvV0E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789968394791
-    },
-    {
-      "id": "news_NATION_TrumpsGreenlandDealEasesWayforUSBusiness",
-      "title": "Trump’s Greenland Deal Eases Way for U.S. Business on Arctic Island - WSJ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmpxSlM3X08wbDVybXV4TlBWQXZsdEVLdm93a0h4czFvX0t5c055TlZaTlNkRkJSUjFQUlVCS1k0eGRZZ0s0VGJZUmRob0FBNWdtYnJ5TFpoLTl1T29YQVQ2Y21SSUU0YzRwUlNQY0t3X1JINmZ5ZWo1SkF6bllDZVhuR2NTR0l3Q1BoU3VMLXFXV1MzTFc1bUdzX1hoUG5Denc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789968394791
-    },
-    {
-      "id": "news_NATION_Trumpreportedlytoformhealthfundingboardt",
-      "title": "Trump reportedly to form health funding board that could veto ‘woke’ initiatives - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTV9CMDhqQjJOU2kxZGRrNTBGX3hyVUVwZTlrZEszb1YtMGxuM0RrZFRvZkpJVXdhU1RqUW5Hc2N0bkhkQWM4QkJncXVaNUtuQkVWaUpwRTgxeTRmbm40aFU1Q05kS09LaTF6LUlpLWFHOWt4d3J1MDJDLUNzelBBTmNXZk9xS1NSNmNpWHFOa2ZPWjV3dzYzWA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789968394791
-    },
-    {
-      "id": "news_NATION_Trumpadministrationreadiessweepingsancti",
-      "title": "Trump administration readies sweeping sanctions against ICC, reports say - Al Jazeera",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS2xVc210cV9MZDhyUnp2YmNJRnVZU3A0THRJaHM3Y193NllxenRaZEtwd2ZvY3FWSVhRLW1icU8zQTZMaFloVHVKaktyejFhNWIyQnM5OHlnTXY2V0ZydW9kR2lnRGhfM0xWbUNBeWpjaVYzbFdWYnJvc3FaTjZBaDNGdkZoWmdEUUh5YWpiQmxpMU5kLTVvSTFsNDgtM3JCaXhKU29nNUxVNnNpMWdLNmV30gG3AUFVX3lxTE1JX2Z0NU5RaUMwOEFXblVOcDVOa29aTDd1Y3d5aUtNRDVlWHBHR3loQlphMzJYWV8xVXFKX3pyMy1kN1Z6Qlo3VV8wMEx6Q1hDLVVlNTdWdFNmNS0wZnhxWUZiVEgxdnZfOWg2RGpkUlJxamZmQTd2Z0xqNnNjcXpvQ2RaTUFBSlZvRzFZM21mZzkzSUJJcGR1d2xsd2xvOEprOENYMkx6azhzc2lSOHpuVmNmTXNwbw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789968394791
-    },
-    {
-      "id": "news_WORLD_Perthbeachesclosedafter63yearoldswimmerk",
-      "title": "Perth beaches closed after 63-year-old swimmer killed in great white shark attack - The Independent",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGRvemVJTnVtQm9EQjY0QXF4a0QzcnVaRTF0dHhxSWlmOXZTZ2FxbHlJYkJsdk5EcHlhUmVvZWNneU5KMkgtOGlVcnVoUW8tNk15emlkLVdIc2ZmWl9qNGJtNDktTWNjMzYxQm5wUG5FLWpjeXM2VHU0R0hYZHJjam5NbF9pMFpDYjBjeERtZml5RE9JSHNNRl9fdFpZSGNzOFpZWmFR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789968393638
-    },
-    {
-      "id": "news_WORLD_MacronandCarneyannouncecloserFranceCanad",
-      "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTFyT0lMekcyYzNGUUNGcmZHTTQ1dmhEMzAtQU9zdUxrOE94bWJpQ2c1eTRTMWhyVnNmQngyTWJaamxGc0tKbGk2dmRDUHZRcFpjZjZXZWo5UVB6NE5fRjZKd18zQjBSZEJFcFgwSXB3RTJVbHhrUUxlY0FobExmZEQ3TlhpeTRzZWctMHQwRHA1QUpJMXhVTw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789968393637
-    },
-    {
-      "id": "news_WORLD_ItjuststinksUtahsenatorcallsoutRussianol",
-      "title": "'It just stinks': Utah senator calls out Russian oligarch who paid for Trump Jr's wedding party - KSL News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdHZLYXB3TktBUGtscUJkb3UtS215SWlHbkJGZTNJeXBrejhFcDI4N0MxTlpjMGNncV92LUZ0R3dBQ3V0c2lMeGR1V3dxdGN2a0RqS1F2eG9KWDJUNDJFT2RPVWVRcTcxTmJka3Z3OW1xQUNpNnVnZ3hpSk9qNUI3NDJlT0lCZEFnaGVlVzZJUlRtQWRad3JGTWZ3YlhWcWhIakxqZ0tweURaRTZHT3hOa3lwR0lHbUlOeGNxajE2d3VMTHpBVmZB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789968393637
-    },
-    {
-      "id": "news_crypto coin viral_BestCryptoPresaleDigiTapGoesViralAheadof",
-      "title": "Best Crypto Presale: DigiTap Goes Viral Ahead of $0.14 Listing While Bitcoin Eyes $100K and Altcoins Bleed - TheWire.in",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (crypto coin viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLUs4TVpzNWdhdVpFcFQxSDlHTFJ3ZlJfQ3V2OWJ4d2JXVVRUYzRlYU85Ty1WVjFqMWo5R2dPVTlvaGM3am56Si1YQUtSN2s4RW10cVlTRVc2VXdfVUptZHhuTG1xaW9UbW9hcXh5N3FaQWN5eUFra1AxcUxaRDc4U1Y2NmtPalRUZm5hOHAyRDFtd2ZMT2YxNGlVUmtEN19yZV84NVFVVEd0eDI4QVU5M1lYaHBvejA1U3Z6MG5UZnUyU09MamlzbWFqeGZvWGtiNVRYSjlEQUFmQdIB3wFBVV95cUxQeVdJalJEMFdFS0pTOHJOZG52Qm9tOEM2cFJYREJrUGVnNl94TFhJZ2JiVkN6bjU3SG41eFZzNHRJUldiZ2V1Q0RlYXd2RnRvbFpxZU90Y0pyS3Z0Q1hjQXhMS052X2JXZjRJVS1VR203dVNNOFlqRnlpSU9zeFRFZmNiZDczaXFwUGJ6VzRocU1rbDdLZHpOb2l4NEs5MkRYc2tfRHVUaF9ZU3pkVDE3VjRmOWdXT2tBc0dmRUJTQVBSdklldy13OVV2OW9RMzZUN0dBbGx5cjNwRUphdHVZ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789951030490
-    },
-    {
-      "id": "news_ENTERTAINMENT_SylvesterStalloneLearnedAboutTrumpHollyw",
-      "title": "Sylvester Stallone Learned About Trump Hollywood Ambassadorship While Watching TV: “It Won’t Work” - The Hollywood Reporter",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeVFCdTI3MkowNmlDczlOcXJIRnVJRGM4ejQyQWpXYm9yX0xYOUNmNEpCMS1TSFZkZjBhTTZlUG9Sem9KVXNrSngzX0tzWXNtQW1Db1FGTm5XQVVqeS1jY0VHTGZXU0tkZFpURTlJOGRfVnZGaFprZUFlMkxIMV9WYjBzaTZjc1k3OUNrd2hNNmw1QXlPVjViM1Fxd3ByWmt0d25rdExDcE9yM2ZxNXBpQmY5UjA0Y2cteDBFVXV1YXdnQ2dxa0xaLVBn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1789951025970
     }
   ]
 }

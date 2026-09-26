@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T05:37:55.273758+00:00",
+  "updated_at": "2026-09-26T10:14:55.133205+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_EUlaunchesdiplomaticoffensivetostopTrump",
@@ -957,6 +957,149 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_government shutdown_TrumpAdministrationSettlesWithUnionsOver",
+      "title": "Trump Administration Settles With Unions Over Shutdown Cuts (1) - news.bloombergtax.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWFSVjV4NVZuclpKN1ZzUk15VkhYY0Z2SDV2UjVnN2xtRndicGRSamd5QXdXVmZpRFgtSGdQSjVmdGxvYmZKS2NGNUFPUFV1QTl2S2tJMWpGV3pWUmlTMTB1dUd4ckFGb2VoTTNFLWM4U0xqZGdqT1l5RzF2YVdGUEw0bVAzU0w2aGJHaTdDS2FDdmFXa2dFMlFGelFIZktkNnRQN0VqdEpiOWdpUVE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790417679085
+    },
+    {
+      "id": "news_HEALTH_WestNileviruscasesinSanDiegocountyhit10y",
+      "title": "West Nile virus cases in San Diego county hit 10-year high — how to protect yourself - cbs8.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXo0UWxQa2NOc0xwOTE5bkJ0NFVXWGVSUHdZNHZoNU4xU1RWLTJ2dlpMMlQxbjUtOTh1N1NqM041SV9GYzFTemgwdF8xTXMwdGNEOW53UjNmU0lCN18ySUt5TzRTV3MwLW04Y1hyZVhnczZ2UUh6RTJfTWNoR3hzMzEtclh1RWlwd2RjeWhQOUxwQmYxWGhwcUM3NEJ1STVZSW5LeDlvYnpaU0dQQmFGRkxCOVBjUFlOenJvLWU4M2hiZ2o2RlpQTWk0RzhXS2VrT3VoNkxUbFA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790417665204
+    },
+    {
+      "id": "news_SCIENCE_Newhairyleggedthreelippedredeyedspidersp",
+      "title": "New hairy-legged, three-lipped, red-eyed spider species discovered - East Idaho News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWlFwT2EyeGVZbXI0UGRoZnlXb3RCTXI5VDNwRFA0czlBVVROMHdiU1NpLS0xZXBJajRuQ0JMNHQ0MU01eWF1SHZCOHdkQm1jVXdmeExZQzR1LTFQWkU5QjZCSExtdFpTc2pKYjkwaFNDLW8xR1RPT3JPT2dteHhFeWwzZkpsbm1aNFBpMTl3bWxTN3Z2ZDFvTkNHbEh0OXRBWTZQX0p3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790417664090
+    },
+    {
+      "id": "news_SPORTS_StephCurrytakesadiscountsigns2yearextens",
+      "title": "Steph Curry takes a discount, signs 2-year extension with Warriors - SFGATE",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON0g4aUIzWGdkcGtLNmY3Sk5CREhKTEtjaVRpYVRRRGl0b3RLVXcwTkRWdnFSWnZOTFRzRGpUeFZnNXNHeFNGSWZzSHFWemstMlZZSWF4VjRYSVBUcVZoV1dHZ0NDWW5KSmF4QWNqN0tJd1JZYzRjOWcyYlNVSkZwT3BZSTBKSTRQYUpJ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790417663022
+    },
+    {
+      "id": "news_BUSINESS_TrumpsStargateAIProjectinHugeTroubleAs18",
+      "title": "Trump's Stargate AI Project in Huge Trouble As $18 Billion Data Center Shrivels Toward Oblivion - Futurism",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdllVVFdjV1JTVlFMakVaVzJSVGJOalltUHo5dmxYMWJMSlFaN0Z2eC1UTjJWWDBvdTRIR0dTN2QzbTV3NkVTZUlPRUktTFlLRk9zMURVSjJ6VFFVZDM0ZE4xRGFsYTNRcWdhamo2YzBleTZCREFvbFdaMzRqTmx1MGNGYzBVU25tVXA0R2xJSFIyTXI1Ym1QZjBMQ1dfSEJl?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790417659769
+    },
+    {
+      "id": "news_BUSINESS_TeslabeginsdeliveringSemitruckstocustome",
+      "title": "Tesla begins delivering Semi trucks to customers after years of delays - Fox Business",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTm5GbDIyNVRTNzYxZHptX1FrZ1BOUXkwNFF6X2hMXzV5aEdFRzQ4ZTdpWHVtcGdmcmJHazQyRHAyZk0zdm5GTGZqUkVlWmFSNVA5V3BwZ1JQV0JtWGcybE5qekJvUEV4ampaNVp5Rm01SDZ1dm5xX0pNc3ktRTMyaHBvU3B1RGl0WFlQVFhJV3N1ZlBfSGR4MjBzNW81c1M0V2fSAacBQVVfeXFMTjlxamE0cGQxWDZ3MVpaMEJIbkJUSFo3MlhEeE55U19lZ0FVVk9Sc09oMzMwb2R0YWt4UVFuYlZtQk11VFFtUmtlcU5lanROeDZiTXcwZk1fRTV4eGpLLUd3QXFaeFB2bkEzcEhIaDVtVXhNVGlqUGw0V0NpN2hfY0ZOUklzelBBN0lGVnlsNGY3VmNmSTVMWnZtakpmcFExOEdWY2V6ZXM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790417659769
+    },
+    {
+      "id": "news_BUSINESS_Whya64YearOldCoupleIsSpendingDowna14Mill",
+      "title": "Why a 64-Year-Old Couple Is Spending Down a $1.4 Million 401(k) First and Letting Social Security Grow 8% a Year Until 70 - 247wallst.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWnVfUHRDLTA1c1dqckV5cFhfN05QUm91NVJyMGtzR1h0RGlqY29qamNEYlpSOUtqb2c2bEpHaEZhSjQtcGYxZE5BMDhockg0NER1NVJfclBsOTNTYWpXWTI2eDBZeWFrYWU4UkJxU1JYd1RpbjVSazlOX3J3X1k3RTZURVhRVDBoRF9xdW5sdFpONm1OSjFidW5lYVZMTzRxcTJ2dXhGclplbGw4Qkh0aGRJQS1mQkdQcExBc1NYYU41ODBWWWhVTVlvQmQwUkI3VzAzZkw5Vk12ampxaGw0VTF3d3NnUWZiTnNtRnlZVEJfcmtxNVFXZkxjUzA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790417659769
+    },
+    {
+      "id": "news_NATION_Trumpcancelsnearly1bninfundingapprovedby",
+      "title": "Trump cancels nearly $1bn in funding approved by Congress - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1BrOWo3TjFrRkdselZVV25adnhUNWMtcXUyUnFEUlhDNEtVUHRXMTVMbUFCMEVqTDdKQmRUTlpWeGVZU0UtaFFvWU5GbmxBZE5Uc1RWZjlWUjNuYTMtTmJhYlRXSEdzRnAwNzdZTkxPYjFLRE5Zc0FWNG02TW1odW1nbjQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790417658780
+    },
+    {
+      "id": "news_NATION_Trumpsaidhewouldcampaigninmidtermbattleg",
+      "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0Zvc2VPMWZJQzlJNWlyZkVfNGI2b3ptSXhWZTUxaGV5U1BIQkpkRWhnVDZUUTloa3RFY0VjaFU0Q01RcU1UTG1YeTBnT0NCYTlGSTFlaElMeEx0YzFKS1FjLWRMaWRNd0JQZC05VTRsalVQWnJydVdrYVNKYWNNT05SMGtTLVlMcXBIVUwxN3pPUjRVRGppdlFrdWs2UVMza0MtdDF3a3JsMEJtcHc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790417658780
+    },
+    {
+      "id": "news_NATION_TrumpreportedlyrejectsIranssevendaypeace",
+      "title": "Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPazdjdl95TUw5YndNMUkzTkNvZGh2VER3MEhQTVI0MHd2WDQ4cmdITTBhZnBrQlhlX19fMHVXU2F6Q3dCWGxOVS1TTGlkcjY0TWFrbGdvQVp3TWQ3Uy1kMFJ0aEV6aEhWN05IM0xKUzRtSjJXS0tPZjAwV0ZlUjVyd09sWmNZa0lrMVAtS0p0TGtlcVYya01z?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790417658780
+    },
+    {
+      "id": "news_NATION_WhiteHousedefendstaxpayerfundedTrumpadDe",
+      "title": "White House defends taxpayer-funded Trump ad Democrats want pulled - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd1BSVVhIXzQwaG9TNTZLNzhGcEYweE9wZVd1ckRZM1l0ZE03dVNCYjVURmowSTN2MEdMNEQ2amZSTHNPaDhQUkN1d0lYNURiSmN4NGpkVUZvQzhuelFXRUptSnJMcUNpTFRIMDBEYmlQOHJfUGtSR0JnazI1YTZuLVpfbWQwQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790417658780
+    },
+    {
+      "id": "news_NATION_BipartisanRussiahawksurgeTrumptopullPuti",
+      "title": "Bipartisan Russia hawks urge Trump to pull Putin invite to G20 summit - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWNrSnhoaUp1b3VPZ2RnbFQ4Q1hnT3BDejZ5LWduSlJmUVN0cGlXa2lxWVhyRmZ1QnBEWHJRdjV0Q0lzdDFzSUFDN1dBMUF0Nk9VYnMwa3dpUnlQUWpPaTJIZHpKcXdoaVBqYlRaS01RQnVuTnFiZTYwbEpQd19jWWpLV2ZNeUdocHZnQzBmemFqQTBLWXJubEROUERLaG8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790417658780
+    },
+    {
+      "id": "news_NATION_InsideTrumpssuperintelligencenamingprobl",
+      "title": "Inside Trump's \"super intelligence\" naming problem - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWWNDWmFFdmtOUXJSYUVBR1NaUnNvWjRMdTQyN1JQNTlBdXlHcWJYUFZYa0RHNll0WF8tb2R6bE5OYkllaFdsaGpDZE1FNzdTZTd5SVNobktDcm41MDVFQndzYUp5enB3elNoMWpSM1FZVDJ0aHRTWmZ3YW0xS292c3NB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790417658780
     },
     {
       "id": "news_internet drama trending_Chinadramaqueenlambgoesviralforplayingde",
@@ -5357,149 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1790079037407
-    },
-    {
-      "id": "news_own cryptocurrency launch_Trumpmediafirmtoissuenewcryptocurrencyto",
-      "title": "Trump media firm to issue new cryptocurrency to shareholders - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ba2VWdHlvaFBEN2gxVFdQMXNBYTAzS0JYWkFkNk43cWxJTERoanZDdkNkMklzOXQ2WW13ZG5hWWd5ZzV5SU5pUDhya0JPcWl1eEMtMVVmR2JRdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790059978941
-    },
-    {
-      "id": "news_SCIENCE_Scientistsdiscoverfirstnewpenguinspecies",
-      "title": "Scientists discover first new penguin species in more than 100 years - ScienceDaily",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YSDNLaEJJSGFtc1loWkxUbmRPSVU5VGhaZVBuLU5vaGZ6dnBsTTZDSlZGUlhVOGZPR2ltT0d4ZzBKOXpDYWVGM3NSclV6anhUXy1iODY1SVRza0xWOGNEMVhSY1gxbUlxZzV2WlNiMA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790059972246
-    },
-    {
-      "id": "news_SCIENCE_Whentheeyesplaytricksthebrainbuildsconse",
-      "title": "When the eyes play tricks, the brain builds consensus - Medical Xpress",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPRDJhTlNnb0VRQ2xNX1JkWmRVcWpMZHhsT1VfRXlQMEFWdVlWRjdPRFhkVE1UQ3Q2NE5kTnl0NFVtaW4tMk5ZdlZ3dDFSNFQxYTJ1eG94SVptZnB2STF2S0ZfekpyMzlpWklnUjBVZVp6eDY5RWZTUw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790059972246
-    },
-    {
-      "id": "news_SCIENCE_Scientistsopenedasealedenvelopeafter10ye",
-      "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense - ScienceDaily",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1reE44d3lYc0dTem1zYjNrWC1WXzI0RUhYUGFBN0NKUWRkbnlCNEdjbkZBOHRlQ2NGaElvZmU0YUwwdVdNWFpIWEZpZWJ0MHA2bkdaM0lNXy12Q1Y1cjFZbk5XdEVLMGpMdW1CeklJOA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790059972246
-    },
-    {
-      "id": "news_ENTERTAINMENT_PartsOfDouglassParkDestroyedByMuddyRiotF",
-      "title": "Parts Of Douglass Park 'Destroyed' By Muddy Riot Fest, Neighbors Say — But Organizers Vow Restoration - Block Club Chicago",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNXzFKNFlIUVNPWGY1UHhEOE8tV3hfb0JubUJsRmYwUURhQmRHWEZrZ0lVM0U0V2xuYUNCZGQzbDZMMDR4bHh4ZVdsMC1WRHRRUENTSzBsVXR5eXhCS2N4UFgtVXFXbGp3UHhWeXQ4YlRSZy1lSnI2ODMxQkp5eHpBVExkQ1BaZlg1RHBPSDZBdC1XZTJ3ZGg5bEhaLXFjWkFCQXFCX3NXdWczeTBNR3lZeDkxSUp4UnhuSFdzdDZtTDdhblplV21BcGJjMnRYcEZxRlBZ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790059970614
-    },
-    {
-      "id": "news_NATION_IowaGOPSenatecandidateAshleyHinsoncallsf",
-      "title": "Iowa GOP Senate candidate Ashley Hinson calls for Iran war to end despite voting to let Trump continue it - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYU44M0Y4eTJLQzU5clNNc3JtUS0wX2ZZRVlXZVRMY0ViUVRtZlV3aURPZHZOaENIcEEtRVpEaWQxblFCTjZ0eHFJYXNmX19tQ1F0WmdlNGtFM05aa1dIRjRBb1I1WEpLV1ZzeDlGUlFiWlFYelphYTZ6eDJPU01YY2R5MVN0cEZDNkdidmxwZ2JBZF94NUY1M0dQRmdpYzBCOTVrY3BEOFlGQnFLejkyQ1g3aUFMaEE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790059968052
-    },
-    {
-      "id": "news_NATION_MamdanihostsTrumpinNYCdiscussesmidtermsN",
-      "title": "Mamdani hosts Trump in NYC, discusses midterms, Netanyahu in exclusive CNN interview | CNN Politics - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdnpPV2d3QUFlaVNSRnNQOG9qYVJxemZuVlYyZEcxNWZQczNMZ1l3YXk2WTA2ZUN3RjJLcFV4NU9wUGRDZFZYYnZvemlqLTFPVm5sZ3R3RTN3T2dnYkJ1REI5STg2V1J1VHpxaThaS0IzMTF0OWdON09Kd003ajBMV0NjSUhyS3hGc28wVTBfOWU2U3c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790059968051
-    },
-    {
-      "id": "news_NATION_PrincetonsRunAtopUSNewsRankingsEndsAfter",
-      "title": "Princeton’s Run Atop U.S. News Rankings Ends After 15 Years - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTldBLUtaVzdGM2hPMTFCVTc2Zk9mS2hLTmlpTGhiYTd4bVJ2S1RUNFJpakNjM3FqU2g4cVdhUkRJV3pqY19GRkV4dnJMbkE2bnMwM0QzQWNEd2Y5NXJVdmFpaGt2TDJxTnc2amlIX2JQbVF2YmphdWwwQzJPLTBWaDdadlIzZU4y?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790059968051
-    },
-    {
-      "id": "news_NATION_CNBCsTheChinaConnectionnewsletterFivethi",
-      "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWFZtUVF5NzNkaXdfbldfeVZvckEyYXZ1ZWlGUkQ4OS1jYW1WZzJrTC1OUjF4YUVNcWQ5UTF3dERhdl8xRW5rdXF0NDdDU0QwSXRkc2JoSFE4dGpOTVZfTlR2UEtjWjJWTDM2RmhqS3ZnU1UtN0N4YzdHV1pCcnhWV2NrQWZvWEt3WVlsemVkMzJpZERDNlFueDR4SXJUSjB2SWloVFBoSdIBrAFBVV95cUxQS0oxZ1ptMlhKMm9FX0prWEZUZE1BUG13d0pJMWZqZk9EUlg4TzJVRjl5VjlBMHpwLThHSmpMN3J3ZTlSTFZYVXlqd1g3V2cxbV9sb1NqdE5aa2p0Q1B0dmlvRGVLY3FyeUEwMDFSU1c0Y2VhdnZJMEwyRUd3SG9DLWdXV21VSmVVNHVIS1RsZVpINHRXSkZzcm5RdFNrWXZyUVJMOENWSTJSbjlP?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790059968051
-    },
-    {
-      "id": "news_NATION_GOPswarforeyeballsAxios",
-      "title": "GOP's war for eyeballs - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVHZTWGJpTVJqUFZFX2tsQVpaUUtCTkIyWkhxUUp5c3BlanRsd0poX3NMUTl4QnFHLU5UbE5hVDF5UDJpTnRQUG1FQjkzWEtPMmtPRmhUbU1EcnItX3o4Z0Yza2RRNDFTaV9yNXhnQzdRX1dZemYyS3cyLWhISVltODhIdFlSYU44LUk3Q1NUeUtHU0t6a2Y3WEpn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790059968051
-    },
-    {
-      "id": "news_WORLD_AndyBurnhamexpectstofindcommongroundwith",
-      "title": "Andy Burnham expects to find 'common ground' with Trump in first meeting - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1clRHTDdkanE2QkNGMU9FLVN4eWJybHBvSzl0ZnFzRUVHV01UR0hTRUMtb1I1QU1YbEZLRlJ6SXBXTFl2cm43WFRRUWtBV0c0MW52M3FGSERQemM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790059967141
-    },
-    {
-      "id": "news_WORLD_TrumpreturnstoUNatamomentofanxietyaboutI",
-      "title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of world body itself - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790059967141
-    },
-    {
-      "id": "news_gaming leak_SonysProjectCanisPS6HandheldLeaksUnveil5",
-      "title": "Sony’s Project Canis PS6 Handheld Leaks Unveil 540p Base Rendering, Yet PSSR 3.0 Nearly Matches PS5 Pro Power - Wccftech",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (gaming leak). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YQ1Z6bGRhOHFCM0FKd09kOXkxaUpKZ1RYOEdBMENBb3l4OXkwR2xNa2tYaEpqZUN3VDBIMEdJVDNCa3hZRVZ5OFpocWxLRmtVXzJNMk9JYmhrSkVPUWpPUDNSamN1V1JuQnFBX1R4N1NIeXRjV2NBNmlVZ0NZUdIBgwFBVV95cUxPOUNJSl9JeEtVSGlrd0tLOXI4d1FzQ2xsSkJPQkQ3QjQzZU5zU2Q1Rk1zMjVfa21oaXlycVFfSVI4VlFCUElaZ04yMy1ZUWRsSnhNTXlxTU4yck1XczVrUnZ0T3RCb0RVRDhMUmFrNnNPeFdpOEc2S1JnVGVMMHBnRF9tUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790041935190
     }
   ]
 }

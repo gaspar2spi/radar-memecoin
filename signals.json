@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T22:33:08.974119+00:00",
+  "updated_at": "2026-09-26T00:50:51.257725+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_EUlaunchesdiplomaticoffensivetostopTrump",
@@ -957,6 +957,105 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_ENTERTAINMENT_FlorencePughslovelifeincludingfamousacto",
+      "title": "Florence Pugh's love life - including famous actor boyfriend and 21-year age gap romance - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYlBEM2VsOE9uazhpajVySUZGaDg1dzBrdDZJUHQyQ1loaGNoYUh2ejlSLUxpbGRfT1NyQkJIdHZEbEx3Ql9LMVJoWGkzS3h2aVRNV3VhcllmdnlOQ2JaMzktVDJEUzdtVVQtMWo1N21veHY4MjNKck9zb2VGS1ZzLU1SWTNKWTNpTXNlREItZUFMUnI3c0cxZFhSZldaSUxFUVNDSjBIQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790383820518
+    },
+    {
+      "id": "news_BUSINESS_EUvowstodefenditsstandagainstXaftertheUS",
+      "title": "EU vows to defend its stand against X after the US backs a court challenge from Elon Musk - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb29tZ3Y2WEF6QVdUTEZzTUdhcG9jMlJ2ZkttZ0hEQTducHA3cjRMMkhCOTFPcGtnVGxhenhZS29iQW1Iem1xV1d1MWdOSGZ4Y1JzMUNMNlNTc2ZoZFgwU1FXRVZPb2NWbXJvVnFxTUZJT3NpWGktR1k4cTR3SloyYTMwZHdCbXV1blJMaXRTOTRabVdPOU9JcUdhNEhLcy1Mdk5EZGpPYk1jU3F2dDNoTVBMbGNJTThGa2ZJTkR1MWRLTmxO0gHKAUFVX3lxTE5IMlZYeU9GTVNGWTBraFowQmVaX2FfaWZtSzk5SmNDdEJ3czB1NUozQlB6dTJ2THA2S092M0xjSURFckJabnJBUnhxUmpxZlFhUEpGRUw1cWVrcHp0Y0x3djI5aVNXYW5PNzJYX1pHZXJFWklXYlhxNU11MmJYeVI1d1VqaE92Q2NJRHBrcVBkVk5pNW5EVnFaa1N1X3BPNlBYdDBLLXF6WlVPNHpJWk1kLUJsdjd1bXcxaWU1Wm9QQWtrVDVhc0FpdFE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790383818565
+    },
+    {
+      "id": "news_BUSINESS_BPEyesBiggerUSShaleFootprintAfterDevonDe",
+      "title": "BP Eyes Bigger U.S. Shale Footprint After Devon Deal Talks - Crude Oil Prices Today | OilPrice.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXFnTlFFc2V3eUxuNEVmT2ZxNktleUZ6Wko4M3J2QkQyQkdaUGkxdkowTEtVbTI5cHkwaVpYNlZSNEZ1dlVrRmE3WVdjWFJDT1E3V1k1eGw5UF9ObHZYcEpta1Ntd1NBanNMVmhxTnREcDBlQ1o4U0FweGlNT0YwRmNrbm56UXk5Z1ktSzMtcWktNUhPUk9fTlZrTlhpeXdiQThCdGxuVWpBVng2anFpRDZn0gG3AUFVX3lxTE9wdUNqY3dhdUE3UWRNeDgzZkF2QUUySVFMSWhFcHVvNDBVWUVZVWM3Tm1jbHBzY0o5WlZxYnZLNFo5UHVpbU9ldTY2MDM3dEd4NG5EVU9iaWVVVGZfNzk3OU9WQXhwbGFxUHRwS1JINS1VUXFsa2lLdGg5ekR6VUhpN1YtZnh1aUVUeGZ1QXhEb3ZlVGdBUWtCSC1RY3ZKWUZNN2RYbUlLQldlZFQ1LUlfZ21lT19qTQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790383818565
+    },
+    {
+      "id": "news_NATION_SupremeCourtletsTrumpadministrationusere",
+      "title": "Supreme Court lets Trump administration use revamped federal voter eligibility database for now - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTjdiQ0dkQkV2V1J1Z19HdURxN0pmMlI3d1dRN2N6QmZpUjFRbUZYd1hMM1JuN0tnaW9Fd1kzRFVwUFh4SGdCVzFpZHJkZDgtV0pRVHd5NzNpZUtGa0xTcnc3VlNwVVZabDZWVDVvU1h2a2luY2NMNkFpWUluMWJHTlhpZXdJUUFTTXFwTTRqS3hvTGI4SFJ2WmxUeGt1cHA0bGVEQXlUbmtNeGZpdmlzeQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790383817846
+    },
+    {
+      "id": "news_NATION_TrumpsscowlsaysitallasCNNandMSNOWreturnt",
+      "title": "Trump’s scowl says it all as CNN and MS NOW return to White House for XI’s final day - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUVLMWZjOFVQa0dsZlRoQzF2VFk3VmE2MkhFNUtVYVI1YXVFVWhHdC0xdzRxa0RpUTNuRmxMMzJwU2szNW5MVnFheWxVbG5aUzk1TlVGdm1pdjFoN3VWU29zelI0R3pFUlVnRW9XVG91M1J0U0pnNjU2V1Utdy04SGZVdjR6VFROTDdHWFVqVkJlbXhtdlloMUFfVU5hRUZ3YTRDZzYxdldwQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790383817846
+    },
+    {
+      "id": "news_NATION_McConnellCornynjoinletterquestioningTrum",
+      "title": "McConnell, Cornyn join letter questioning Trump invite to Putin - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTU5ySkhIU2c2MlJpU1pWUUhaVUk3SVFiNHJjaHAtVDdfQk9LanRJVDN2cEMwVmhQMkFnM2VqRWRUSmlNb1FXZnF5WFczckk0aFVLQmZlYlJyck1hanNYYUtOby1OVkQ2dmtLQm40S09sbXdPakU3aGZvaWNIX3UwTkRiR1VnNWVLcjItZNIBkgFBVV95cUxQbEJEcWFOckFwSktobmNaMWUxOUplTEhHMENJT2VVUHhvdEZVdGhRalhUcV9Yb2ZEWUZFTmEzeEFSMnJPdHM5bU1mSWpfUVlCUVQ2MTFLSU9ueEZaMU9abm90X1JwVW5nUW85QnJjRmxvNmZrX2NTcUR4Z0dsTHRFN3RxX2ZiQ2kwQWl6Qk1Lb2Ywdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790383817846
+    },
+    {
+      "id": "news_NATION_TakeawaysfromtheTrumpXistatevisitPageant",
+      "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas - NPR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNVBZWnVJOUxQenNUQWNlSnBVQUk5RWc2WnROWmxkUTBuRHJoazdvNVlIeUhpeDRzNzdoWmlVNUtYV2Z1TU14d0tCUDdUVUllRUQ4SWRPMXc0bm9hSWRkb0lPWEpCM1NjQnRxZ0lDNlpzblpWOU5GVXJDb0wzSFBRcktfOGJKbXNNRW1kM3pjVWRCZTZBUDQ0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790383817846
+    },
+    {
+      "id": "news_WORLD_ThisIsTrumpsTwistedNewFixationWolffYahoo",
+      "title": "This Is Trump’s Twisted New Fixation: Wolff - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeWhQQXVrVklSNnlaZmtHNkZVdi1Pc2poWkVsR19udkduNzhrVjZHMXlSb1JJR1BmQmREUmhwbWM0VUFEcjNBM2JjX0RJOFBFTi1EVUpxMDgxTW5UTi1COTk3RmJ0SkZfZGptRURrNkEyckxEb2Z1VFI0Y200ZE13bExOcnNsWk85UV9WTXYzQTk5dw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790383817132
+    },
+    {
+      "id": "news_WORLD_YemencallsoncitizenstofightIranbackedHou",
+      "title": "Yemen calls on citizens to fight Iran-backed Houthis - The Jerusalem Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXOFhXOHgxdmpTSHgwaTlXSnZmX1lFb0VwV1RmMndmMDczcWtYcUE1TWdkLXZiLVBNWURwYXdyOHJWU0FsVzByYWptaXlyMVZ1eTZNTjRUSTlVamUy?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790383817132
     },
     {
       "id": "news_government shutdown_UnionsTrumpadministrationreachdealNomass",
@@ -5401,105 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1790041913687
-    },
-    {
-      "id": "news_WORLD_Familysoundsalarmafter83yearoldgrandmadi",
-      "title": "Family sounds alarm after 83-year-old grandma dies under Canada's assisted-death program - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeG94T0F6SWlNZlMtM085Umd3LVhYNlJMaUpZdkhKMzQyV3VYVkxwU3prTEtwOV9kd1FmZnc5MV9sWEk0bFk2RzBjbU9kZkEzeHhEdmYwQURHVXlkeDVZQXJuTGNSVmJDdFRwSG56VGRvN3FZQW5MdDhUd21jN0dCSmNUVkl5dHVsRGItOW8wdlNCd3djTkJ3bzQ4OERyY0Y5dzJ3bmlR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790041912920
-    },
-    {
-      "id": "news_WORLD_Gazastudentsreturntoinpersonschoolingfor",
-      "title": "Gaza students return to in-person schooling for first time in three years - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWU4dWw2cjB2T1E3bV80M1JsUHpuZ3ZfUXNCak41UWx3T2kwdmgtY0RuOGd3Y3lWZzNmbGY3VU14SzJJRHpBTExyRmhLSDNfVlN3Uy1aRUZXaVduczlHajZ2WXBGVzBiY0J2US1zZFNEV3VzeHRaTXJWLXA3R1pGY2xnQ3hFcUw4WnVZczMxQ2U2M2czOGNJR29UZVA2VjBJMWtqQ1BHaUVtY3NxUTZXR0pRUEszN3Zq?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790041912920
-    },
-    {
-      "id": "news_WORLD_WhyTrumpisleavingSaudiArabiaalonetofight",
-      "title": "Why Trump is leaving Saudi Arabia alone to fight the Houthis — even as they threaten global oil supplies - New York Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS0NBQWFZdUxZZ2IyeVM2TUFRY0drcEVrUGtWclF2dzFsVjREOGZnc3lfdVYxZ2NkeUxkZEtqNmphVnFUcFNmZWZXdmZpWlRjXzY4eVZCYzBfd1dwZmtXVHU3Yl92cFJKM0JDd3lpcGVQQjhkeVZKa0s5UDE4d0ZwaENKWHJBOGEtNlBBMGczeDVwR2ZJUzAwX3N3Q2J3NFhVR2VMcHNWMTZGbWo3bHhBZjBWa0xmOXZSLTJ3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790041912920
-    },
-    {
-      "id": "news_WORLD_LegendarywarphotographerSirDonMcCullinon",
-      "title": "Legendary war photographer Sir Don McCullin on his final testament to Vietnam: 50 years of \"pictures to hurt you\" - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXZpdkctR0k4VlZBSWNRdWxOQnF5bXVpRHMta254NHZxNkhQclVKN3FESlNTZS0xMktQREZpbFEyOEh5UVNyZURQZm5wZzdNV0xsTHJ3YXc4YnA1eXJMYURFby1CM3E5SUszTXFfb2ZqcDl2Mno4Tk5MSXdlaEYyWFFHNnlZVTdiU2pfNUtZUmU0ZmxTenFOLVU1S2xoT3RWU1ZRZUkzQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790041912910
-    },
-    {
-      "id": "news_internet drama trending_Chinadramaqueenlambgoesviralforplayingde",
-      "title": "China ‘drama queen’ lamb goes viral for playing dead when buyers approach - South China Morning Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (internet drama trending). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOXzBhcE5fZnY1N2p3QnBSTlpLU3o5VmQ3dlE3eFh2ZzVqOHp5bnZSMDJEQjg0MS1pNXZyeEFqRnlST1VWM0tnX0xMU1N0RXl2TFpmS1NtTTF4Ykt4NDBnM1lNdk84a2ZwV0c2UFFRVXdPYWRPQU5pOEJ4UGJmRWo3eEh4MUtCN0E3eHp0TWl2YngteUxSVlpRVTFxOEJKS3k5SjhUT1AyYjMzNjRjSjZTNWxaRXBqZEI2LTFyZ3FPZG9tcXdQZEZGd2wxelhvUjhnRnhxaWJOSkJIdVY3Qm1pTDhxSVc4QVZNMjBr0gHrAUFVX3lxTE83Z2lkcDV3VFh2VkN2dlJYaVA5dV9YTkRodXN4amVJNlVQQzdkQ054SkY1alo2M3RXRmVjaUVXcXpwODFKb1hHNVhRdEJfWEh2M3o0Rkp5aHEycGszUXRfaFU3dGMtcjN6clNPN0tqTWNtemlybXBYTFAzSW9HQUx5T1IyUS1Vdmp6c3o0M1Z4enhsdjFIWU5EbWVmcjdFTEhobXdGX3dTQ2xqSWh6S3pLVUM0TUhqTy1udEZDM3p0SnZnZXRwZXJzd0RiUmQ1RTcySTQtYUlCN2tab3RFV2gxaHEtRFZJVlZvTVE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790033929864
-    },
-    {
-      "id": "news_AI controversy viral_Metalayoffscontroversygrowsafterexemploy",
-      "title": "Meta layoffs controversy grows after ex-employee’s anti-AI video goes viral - The News International",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (AI controversy viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral, controversy.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDBkSlNSUE5rRGQ2VzZnSDdnU1hXLVpyMnRnX1pJZlBYSVNNdmRLaDdhS180VnJuWFZDMUJ3V2JueUprcnBiQUlJMElnTEJsY0ZrdHVMM3BYUl85bmcyOFlBczYwM1llR0VVRHdHRWZEbkZQazNNbjNkZHRlWFdJSXFuc2dLLWpXZEZkR2lzV2JOUWRuOG5uRUg1Rl9sbkhiSGxuSVBQWjBtUDQwMlFiRlhwU05HWWfSAbMBQVVfeXFMT3J4bGlxNzBxckp1OEttNXJ3QXBUdGZjclpvWmlObGpHc2lzd3VYOUNFYjJXSUxvWmdTMjd2X1hOYkh4NFpXQ0dBaXZEMVlucWt1UFVsT2lrVHN6TG5zTVFpOFpUVzdHY2hvdDZOVTB4NjFfUDI5NWcxOFBHV0NzOVdXd2lSQVpkLUp6WHpDSUIzd29ldVhFR2pvbVBzc1lzNGVSU3cyZHRUbVJWdGY4X1pQSGc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790033928762
-    },
-    {
-      "id": "news_SCIENCE_Yellowstonelakesedimentsreveal15000years",
-      "title": "Yellowstone lake sediments reveal 15 000 years of hydrothermal and wildfire change - watchers.news",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaE9hUC1ESnU3bmN2aVpSUnBDYXVJX1hVOU1aeWVfdENTRnFKb1pCOWtTTnhHWWJwRkNZVGZ4bnQxS3NhdlpSRVhwVm1jb3pYdEFaZEpEOF9vNVJiTzg3NzJFeHFtSHJzSzFTLTBnMWdsYTZyUGtQS2VZUUhTd0NUR0FVdGNEaFBta1QzWmVGeEpQWXZPZ3BxdWdhb1I4WmNQSVNEdGZlLTd6Y3hlaDJyTlY4N2Nwdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790033917442
-    },
-    {
-      "id": "news_SCIENCE_EndofhumanityBlowbyblowaccountofwhatwoul",
-      "title": "End of humanity? Blow‑by‑blow account of what would happen if the Yellowstone supervolcano erupted now - Phys.org",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV1VtOEN0Q25rOTJtdjJpODdRZ3dBZnpHbmtOQkljR0pzTF84dkJQSVVndXJNSE1RN2FjWmxzX2xVU1hteklQN251RmZNNGc3Nkctd1lrRXY5Ny14Qlc5ZkVBTWtrVGIyVnFEcXhUMEdBOEIwam9UQ3V0RkZuQURpcjNtQ25wLXRNakkxaVZuRUY?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790033917442
-    },
-    {
-      "id": "news_SPORTS_NFLWeek2HighestGradedPlayersPFF",
-      "title": "NFL Week 2: Highest-Graded Players - PFF",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2a2cyMVQyYlRaTy1xZWc1NkU0OHhRMThxb0pQdXBoZ25ZSGtNdXVlR3pxd1FyQzBKRExMYzFxSXZIdGZ4S2F2V2VQSjdaU2tFOUxoalZna1p6SzBZb3c4X204dFFqVEtrOUlV?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790033916468
     }
   ]
 }

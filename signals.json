@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T00:50:51.257725+00:00",
+  "updated_at": "2026-09-26T05:37:55.273758+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_EUlaunchesdiplomaticoffensivetostopTrump",
@@ -957,6 +957,105 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_internet drama trending_Chinadramaqueenlambgoesviralforplayingde",
+      "title": "China ‘drama queen’ lamb goes viral for playing dead when buyers approach - South China Morning Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (internet drama trending). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOXzBhcE5fZnY1N2p3QnBSTlpLU3o5VmQ3dlE3eFh2ZzVqOHp5bnZSMDJEQjg0MS1pNXZyeEFqRnlST1VWM0tnX0xMU1N0RXl2TFpmS1NtTTF4Ykt4NDBnM1lNdk84a2ZwV0c2UFFRVXdPYWRPQU5pOEJ4UGJmRWo3eEh4MUtCN0E3eHp0TWl2YngteUxSVlpRVTFxOEJKS3k5SjhUT1AyYjMzNjRjSjZTNWxaRXBqZEI2LTFyZ3FPZG9tcXdQZEZGd2wxelhvUjhnRnhxaWJOSkJIdVY3Qm1pTDhxSVc4QVZNMjBr0gHrAUFVX3lxTE83Z2lkcDV3VFh2VkN2dlJYaVA5dV9YTkRodXN4amVJNlVQQzdkQ054SkY1alo2M3RXRmVjaUVXcXpwODFKb1hHNVhRdEJfWEh2M3o0Rkp5aHEycGszUXRfaFU3dGMtcjN6clNPN0tqTWNtemlybXBYTFAzSW9HQUx5T1IyUS1Vdmp6c3o0M1Z4enhsdjFIWU5EbWVmcjdFTEhobXdGX3dTQ2xqSWh6S3pLVUM0TUhqTy1udEZDM3p0SnZnZXRwZXJzd0RiUmQ1RTcySTQtYUlCN2tab3RFV2gxaHEtRFZJVlZvTVE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790401058274
+    },
+    {
+      "id": "news_AI controversy viral_Metalayoffscontroversygrowsafterexemploy",
+      "title": "Meta layoffs controversy grows after ex-employee’s anti-AI video goes viral - The News International",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (AI controversy viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral, controversy.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDBkSlNSUE5rRGQ2VzZnSDdnU1hXLVpyMnRnX1pJZlBYSVNNdmRLaDdhS180VnJuWFZDMUJ3V2JueUprcnBiQUlJMElnTEJsY0ZrdHVMM3BYUl85bmcyOFlBczYwM1llR0VVRHdHRWZEbkZQazNNbjNkZHRlWFdJSXFuc2dLLWpXZEZkR2lzV2JOUWRuOG5uRUg1Rl9sbkhiSGxuSVBQWjBtUDQwMlFiRlhwU05HWWfSAbMBQVVfeXFMT3J4bGlxNzBxckp1OEttNXJ3QXBUdGZjclpvWmlObGpHc2lzd3VYOUNFYjJXSUxvWmdTMjd2X1hOYkh4NFpXQ0dBaXZEMVlucWt1UFVsT2lrVHN6TG5zTVFpOFpUVzdHY2hvdDZOVTB4NjFfUDI5NWcxOFBHV0NzOVdXd2lSQVpkLUp6WHpDSUIzd29ldVhFR2pvbVBzc1lzNGVSU3cyZHRUbVJWdGY4X1pQSGc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790401057127
+    },
+    {
+      "id": "news_HEALTH_Doctorreveals10yearruleforevaluatingbrai",
+      "title": "Doctor reveals '10-year rule' for evaluating brain fog and dementia symptoms - foxnews.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLU9CTzkzTFlBN24zcFBOMG5HMnRpaFlpTmJjTHlrMDh0cGNxUTNIMlpqOV84aW5IMHkwWTcxVElkV0pGeEZYVjlmc05paHFGaWFhWUdYUXFEUnVtSUlLX01LQjFIblJyckdudXFVY1dEZ19xZG9Qdkt0Tm0walRKUXNjQ0F2UlNOeDdrbnFGVkdSOXVyeDFBVjJDbjhKQdIBowFBVV95cUxOYTRUNUlKaHFKLUFLWW1YcFROYWZOTFhYR0pLeGNub3ViV0YyN0pzNXo5cUxHc3FLbkxGOXBvSzlqNEtad3AwSExGWUJoemZxQ1hMeVljR2Y5bERUeTZBM0NkZFdGcDdWVF9ESGxWUzdTUG52UXNSS19HbXJfNmdKbGktV0RuNURsQlZQUlpfSEFwS2l4aXZXajZaYlY3UVJTQVNr?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790401047262
+    },
+    {
+      "id": "news_SPORTS_SourcesWarriorsCurryreach2yearextensionw",
+      "title": "Sources: Warriors, Curry reach 2-year extension worth $116 million - ESPN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXVJX0Z5VkRJOTVzTUJ6aU5Hbll5aDg0WWVNUEFwSkxxVEQ4UklWTHhOWmFTZ2xjY1BnYzMzdWdmejN4SFZXQ3B1NmdaeDdLTHZlMHhIQmdxSXZ0eVFTSVkzc2QtRTJkVFVyRmg5b1FvbVFUSk8wYmd5STlpSDJtMjZ3V0lHa0RudkxvZG9PSnlfVUpfTXdob09hSHJwS1hjZ244MU9wSjVmVnVr?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790401045145
+    },
+    {
+      "id": "news_BUSINESS_ElizabethHolmestoleaveprisonmovetohalfwa",
+      "title": "Elizabeth Holmes to leave prison, move to halfway house next year - SFGATE",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3B1dUl5VTRFQkZiYTdFTGJ6QnNCRTBHWkVid2VJWW0wTXdGNlhQMFJMU3MwVDQtNW5jblhWTE54SHhfQks5ampSMHlDS1pvRHZ2eE5qeDR3M3dBNk1ZaW14Sy1GRnM3a0YzQy04X2EyT1JCLXdQR0xFQjBzOXRCYjhmS3pOSmFTV3c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790401042424
+    },
+    {
+      "id": "news_NATION_TrumpsdisruptiontoTVcoverageduringXivisi",
+      "title": "Trump’s disruption to TV coverage during Xi visit frustrates Chinese officials - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: rage.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXTHlxbjJTeE43N2RSMjhfWTdqVlpEV2ZVN2NQVmo1NWEyNjAwT1llMm9mWGdseV9STFlkRjhnZFlZMjB0b0VDaFBiUmc5SGM4WFR1S2QtVE9LdmJkUlR1TTU3OWdGMUFUWjJxQVA1aXZEZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790401041084
+    },
+    {
+      "id": "news_NATION_BipartisangroupofsenatorsurgeTrumptodisi",
+      "title": "Bipartisan group of senators urge Trump to disinvite Putin from G-20 - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaEw5V2xWZWtaWXV3ZUh2ZV9SODI5ZjdpclcxdlRqdHNnbGFjWk1QQjROdVRSdzRUXy1yUUowb1E4eno3U3drNXBFTDFaWkVYeHdET2RlNHROVlBOZG9tbjVKUEtTelg1cV9LT0FNRWlnNWFzRXB5UHFXNnJBXzZ2dWg1bVFwSENIbElGOElnZ04zQWlSdHRrdElRc2xvcnVpNGNPMkJkVUxIMHJCV0E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790401041084
+    },
+    {
+      "id": "news_NATION_WhiteHouseclaimsproTrumpaditpaidFoxtoair",
+      "title": "White House claims pro-Trump ad it paid Fox to air was ‘public service announcement’ - theguardian.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZGRrWnhqSmRRMUJrZWV3bk9EWVg1N0M5ODVwVlhnUnRsRUczNzR2OEhxaU9aUUNVbkNkQ0UxZ2RYdzNGaFluOHRPdEQwTTVHTE5MN3JCXzZTNmVFMGlwSU5mbmdITmIyRWdfbGppUzZ3bjZyMmJHbUVQS1hueXRTQ0hB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790401041084
+    },
+    {
+      "id": "news_WORLD_Specialistcoachesandhoursofpracticeadayt",
+      "title": "Specialist coaches and hours of practice a day: the making of China’s six-year-old Rubik’s Cube prodigy - theguardian.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOakdXenBuU2VtLTI1MVB2YnBsYTVfX2lsaXhMcnlTZXQxVmZQeVRxSWMwRUdwdFpJMDVPeE9zU0tsa0R5QjJuMFd5TnZIY1VMangtOHhVYVhJTm5xbU1WZTNEQmlPTXdOZjBLeEVKdFc1dnJ5UmZQOWl5UUJCUDdVUUV1VjlHbGpfeG9VdzdNN1RXamM4X2FKTFJ4NG1mMEJW?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790401040180
     },
     {
       "id": "news_ENTERTAINMENT_FlorencePughslovelifeincludingfamousacto",
@@ -5401,105 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1790041935190
-    },
-    {
-      "id": "news_BUSINESS_Sept19Powerballresults31playerscomeheart",
-      "title": "Sept. 19 Powerball results: 31 players come heartbreakingly close to winning the $298M jackpot - MLive.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée; mots-clés viraux: breaking.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeGFTNWdVaVpaSm1hZkZ5anV5SHlJekRXeC1hVjY2bnhfdm5Ga2dlcWp1MmdWQ0tJU2JnOElFdElNdlR3NTZoVUZXYmxGZVh3bDAtMkZfNGtnOGFKVjZENzBEbkE5bWJaZjgyQkpzODRWSnJRQzhzeF9EVFJXMW1LaWV3MVd1N0dsRkRhZkNxMVZtSkJCLV9lTWdIQUlpbThlZUluYnNULVdoY2JjaERXN3d3dVdFZmV2V0dnZUhVWDFXYUU3eGNZelZqUlhtSFk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790041914380
-    },
-    {
-      "id": "news_BUSINESS_FlightsdelayedatmajorUSairportsaftercabl",
-      "title": "Flights delayed at major US airports after cable cut by construction workers - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50cTI1X1N2Rkt5T1ZUQTlaSE5CX0pFX1o4SjJiRjJnd21qemlRM2lrU1lDM2hwMUh0OGxfU0RsRnhPc3p2bnZibldRLVpGNTNXSGtnMmNn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790041914379
-    },
-    {
-      "id": "news_NATION_AppealscourtfavorsTrumpbackedMissouricon",
-      "title": "Appeals court favors Trump-backed Missouri congressional map, but Supreme Court will have final say - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0w4RmpmZFdPVndBNzh0M19ZT1gwZW5ZeTY3cmdLcjU2Y09fTktGM1l3QWc0c01jek9NRlRxN2hEMmxfWDFFdWxTVGVNZVA3UFBmYzJBeWNUUXZVYzF1WmtXTll5MVQ4Z0d0dmNvTVFwWm1ZNmZkbktpRW91dG94V3E3NlVjV1cySEk4VTc3VEQ4ZWphLTRacVRZX1c4NmQ4a3FtSG9adVozVmdPRDI0c0Z3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790041913687
-    },
-    {
-      "id": "news_NATION_MamdaniandTrumpemergefromGracieMansionsi",
-      "title": "Mamdani and Trump emerge from Gracie Mansion sit-down with nothing but praise - politico.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV1dpY0xZaGxXdGt1cmtFQjBxZC16ZmlDUmpGSXF3UmZEWDZHX0UxWUJyZVhLQUFBN0RkRUNEWHI5dlRSWVJQb19QU09GcUtJdmVZRFhweERwa0VwNUlWS1JOUlVMQURDUFpzcXpSejVkcmtzelczUzN1b3A0Smx4Mkw2NzRrT2I5ckRGbTBiWQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790041913687
-    },
-    {
-      "id": "news_NATION_USTVnetworkssuspendWhiteHousepoolcoverag",
-      "title": "US TV networks suspend White House pool coverage over Trump media ban - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: rage.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzdleUJOMTlRSXpRUXEwa0d2bFFTd2hveVptTWFYT2pOcE9iZjR5UzBUVFJ0T3hSTjZ1NHNhREJndWxBMDNqOGVESWxMRWVqamt1dEFGZVE1eHQyRFBIaTM0d2lXNi1XRUhSemF4XzR6R29BXzRFektJY3lhVmsxenRfMU1Nc3M2OGNVUWRVTlhsOUZtY0E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790041913687
-    },
-    {
-      "id": "news_NATION_HouseRepublicansignalsoppositiontousingm",
-      "title": "House Republican signals opposition to using military funds for Trump’s arch - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdXVBNWtQeUhfV2E1SFNZVG5LRVJmQ3dYUWx2SHE2WWVPb1phQkhGVURKZUd6N3l0NFUyUWRMYXh3b0NhZy14bnNLZjdzTk9Qd19CbC1hZVVTVXdtRk1QQ2xjRDJfNDM0d0daT0w2UDhQdGwxeEs2VDBhZGhMcHRCb0Q2aEx5QjZJUWNwWW9mb9IBlAFBVV95cUxQRUxUdm5KdlFEcEFCcm55a2J5MjE3TlI1LWY4cE9NN3I3ZU0wMnJxYjM1cS0xbDk1ZkEyQ0JWTDNFand1QzI1eTR1RmxYVDVWcmItVDJDSk1aVzFfajA2dEhWOHAyVUNKVkJ4YnlHblhXQXZvSFdkWUpsOWtvNXpaWXgxYi1zZm5KM05LajIxUGdUSXd0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790041913687
-    },
-    {
-      "id": "news_NATION_TrumpspressbanbackfiresatWhiteHouseevent",
-      "title": "Trump’s press ban backfires at White House event with president ‘yelling into the void’ - AL.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV2llRGlRUGM3U1kxWThoaHlibDV2Q1ZfcXdUM0Jzd0Mxdml5em5XWHg3aEY0WWgtbVZObFN6NmlGa0FQcUNVWVJpYnVRZVZpRmg0ZVEtS3ZfaHgxR2tLY2pjQ0d5dlNPdWJMRWcwcHBfLXU2dGFabVA4MzgzOXZxejQ1dGdnVG5VWUxiV21CUldwdHRTSUMybjVOQ3hTNUVUMlhfdV9tdy04eUJ6NGdMQkpibDc4OEpzQlo3eGljdjlWX0U?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790041913687
-    },
-    {
-      "id": "news_NATION_MuchofTrumpspromisedmidtermelectionspend",
-      "title": "Much of Trump’s promised midterm election spending has yet to surface, new filing shows - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SZTYwV3ZZd2FHUmJlYUlQRUdvQ2M3U1UxV0RjaDE2bkpDdUFWR2lla2F6VFdSTElIV0ROQS15eVdDZUUwQXJQYzBraEx0TXdwcFJQQ2JYc1dmOThxLUJDWF9XelpfX2ZWaGZTS1VCQklLX0tiUHhoMlAwMHlzMU3SAYQBQVVfeXFMT3RTeU5FeDVtelBGMV83WlNtQldlaFFtUU0ybWRwR2RwRGhKYktLcmlhMmFFQWE3TFpZYWxkOVhwVVRFa0lHNjJLdkxDcTRoQXFRTkQ2NHNaSWQwYmhJMkI0VGt4M2F5cW9ZU3JxZ2hkbWREMmFsZUFWdUUtYUVDb0JLUFRy?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790041913687
-    },
-    {
-      "id": "news_NATION_BelarussaysnopotashleftafterTrumpclaimsm",
-      "title": "Belarus says no potash left after Trump claims massive deal for fertilizer - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQajN3ZUhycFM1cHJwdE1Kb2lqcndmVGRpZy1uUWhPZnNwZUlDNlpBQy1ucDA1R2RJbExaX3FqRjNnV1Ztd3FqZVVhN1A3ZVkzUjU4bWIxUHZKZUdTTEVaeTladm1PamZiUGZabEk3ZEYxSnVMc0xtSTJPYmNyWTB1ZmVUSGdJUk9FTjZ5cdIBkgFBVV95cUxNUkNyMWpwU04tZEVNUWwySWh3VjZGSGludWNDaW9vMXd2R2NNRER1WnRyd2VNRjNRS0pWNDh1U0d1ZE1mRWcyM09tM01qQnRWeUxkS19HcjQyc0tGbVdaX3g2THoxekJOd1JVMlMxR1RnNy1VNmVESVh0YUw2UFg0aWtxUjJVVllxcDY1U2xNZFk1QQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790041913687
     }
   ]
 }

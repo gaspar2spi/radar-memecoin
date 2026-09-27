@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T23:11:16.266025+00:00",
+  "updated_at": "2026-09-27T01:26:26.085230+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_EUlaunchesdiplomaticoffensivetostopTrump",
@@ -957,6 +957,83 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_BUSINESS_TrumpAdministrationPlanstoGutCleanCarRul",
+      "title": "Trump Administration Plans to Gut Clean Car Rules - nytimes.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzU0d0NZMXNwQ0Y2RzhwcExtb1c3bzd6M3RBeG83Y0xTbFRxRFdxWGVGdUZjSmRtVnROU1ZnQmRCM20ySDdTSVVFTGVFRFhkaUZvS3drNF80V1I5NW9DNWxyLUgyQXcxWTF3VmR2LUJVNU1DakRVTlBfRmFIQS14Z21B?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790472355151
+    },
+    {
+      "id": "news_NATION_TVNetworkstoResumeTrumpCoverageEvenasWhi",
+      "title": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN - nytimes.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: rage.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMjRkR3B5TlR0VXpxZjhXdXVIQm1WU1VNd1lOR2RvUnpKY2NLekJ5VmE5bWY0ci1BbjZWbWFDWHVzZDN6a2xuNjVWQnhlQjFObkxqWHdra2tud2lQM0gzbHV2VENfSWRVNkJMRm5INnpLa0xvUEJaVkctMWE1RUJOTGZuNWVhWDhDMmhmSA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790472354213
+    },
+    {
+      "id": "news_NATION_RahmEmanuelEyeing2028MakesHis2026Playnyt",
+      "title": "Rahm Emanuel, Eyeing 2028, Makes His 2026 Play - nytimes.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUZCYzlRemVfOXdnYV90VE41OXZ4TWk1VU9pY3NPakx5anctQUZzUnB0SjlKS1pQNlJYUnE5TTlXUEtyYkZDa3pOVjdaTllJSG9JWVA0T3NZVDVMandBMTNXYUVpbmE0NXZkLUVVOVZ5bWxwVFVQUVhNMEtQWDVCRUdXblFTUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790472354213
+    },
+    {
+      "id": "news_NATION_TrumptellsfemaleMSNowreportertobequietam",
+      "title": "Trump tells female MS Now reporter to ‘be quiet’ amid questions on press pool ban - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbkNMcDNlcFJTb19pSVlxNTd4bVVjSUQ0YWhkLXpNYUpRMlg0bVZONlgyX0FpaXpCdWhROG8xREw5ajRpYUZsMjVSRExDSnhhODkwbGhNcmJpRjBHRng4XzFRZzRraXN4SGJ6QnR2eUxGcWE2b3U5QkJ5WWdvZ05pcm9R?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790472354212
+    },
+    {
+      "id": "news_NATION_TrumprejectsIransproposaltoreopenStraito",
+      "title": "Trump rejects Iran’s proposal to reopen Strait of Hormuz, restart peace talks - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1Rja0Y2Z0RxMU12MzE5M2d5UUhPRnZYYWdhQVJ3YTdtdjBIZ1c0eXV1WjQzSVZJNnk2UGlpR2dQV2RtUHZqR2tzRjVwaTNSbXJRV1RWUEdEN2hBY1p0VXBxVzJnZFUxVV92N0gyTmhqYkg2Szc3THE3UTByRWUyN09fT2M2WWRDanQ5VTV0aGJCWXFDeXZCSjNxMEY4LUQyY3ZBWHk1VHl0RjktMGh2V0VwTUZ4SGpqOFpELVNTQlFSRjh2b1Vtdg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790472354212
+    },
+    {
+      "id": "news_NATION_TrumpturnsonSalazarafterFloridaRepublica",
+      "title": "Trump turns on Salazar after Florida Republican challenges his immigration crackdown - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaTVIN2JySEdVOEtXY3BNeWdzbVBKbnZWSnVnUjFOcW1YNm1xT0tVUmFyTFlJTnNKcG1Tbl9MenJIOVBDMmhfVE12VEE5aUdKSjVKMEI5cGpsazk0cy1ZOEpTNjRZY0puQ0pEbDRZVFRCSVZjTzl5bjN6T21OZkZXYkhqUmhZN3VTYVRrYUZNdTUtbmhSRzJ0angteUk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790472354212
+    },
+    {
+      "id": "news_NATION_Trumpadministrationusesrareauthoritytocl",
+      "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress - PBS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOTlHOHBtXzNwNUIyazlua3AtN3A4S3ItRk9QWXZYNG95dE9WOERVYTNhTWhaaWFTMW5lRW1UOXRobGtqU185SDZLVjQ0RG1zbk1fNG9tTkZzYm9rSEQwaFN2VzVralRrZmVaNjgweU5LWnVJVVUzVWlzMXd3OVMyU1RpT2xfcUhBbzdkdEZMaXhUSkRweXA3dkJUOVkwWlB0T0lVaF9weHA1V3hTSnRHa2FnNnFDQVVGamViWExLR2E4enZzUHdVellqZk9ubVnSAdQBQVVfeXFMUHp5YXgtVGl2X2E3WlhmUERzQ1ZaaUwwN2g4VjhabnFrQmhRbEJrY3kzY0tqZlY1SGhLZ1gxS0xvM2tQQmlsajlQYnpzeWY2UEVSam82bG5uNHA3d3E5LXpoQWR0VFZYaS03REl2SFk3WnZJT2ZENTVLQmVyT0xlaXJoVHVMdFM4OGZuMURNdXJseXNPUGVub2dBNTlTNV9XOXNuQk9IQUtDcjhVQUR2MGhBZUhJMHVoamhVcUxRNXlHc21mSnJLU19namlSeUJYdDRldlI?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790472354212
     },
     {
       "id": "news_SPORTS_NFLpicksagainstthespreadWeek32026ExpertA",
@@ -5423,83 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1790107244271
-    },
-    {
-      "id": "news_viral scandal internet_KeyConsiderationsforEmployersWhenWorkpla",
-      "title": "Key Considerations for Employers When Workplace Issues Go Viral: Lessons Learned From the Try Guys Scandal - Ogletree",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (viral scandal internet). figure tier-10 (ye) mentionnée; mots-clés viraux: scandal, viral.",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNzdvSEpiN25fU1FXdXpwMnA0Y0t3b1hHYWJ0SFhBa2FIbXlHNTI5bzA3VjBqSUdWazJfc3AzUnFVRGZ0TEJna0paX25BTFFaY3pQYTRKSjlzOTZzTWZtS3hxSF82eUY4TDdna2hNaFdJYlRvdi1aZENCWEFpTGhGRE5MS0ZzYnl2WXhEMVJDN0tsbVMzekx0TzdDcFROY2QwOHRDOTU0OVRoN1ZOVFNqUUdnbXpOTzVORldMVllLdEl4RzJVNWVTT2ZRWXBkd1Fva3Rwb213V1laMEh4V2tHWTVTeDFoUnhSSXpyaUdn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790107239171
-    },
-    {
-      "id": "news_HEALTH_WhatToExpectFromSickSeasonThisYearAccord",
-      "title": "What To Expect From Sick Season This Year, According To Doctors - huffpost.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUENUZTdwbDJ4U0lKdU45a3ZqaHZUX0pjS2h0RHB5aGV1OFBPUEwtb3NXS2N1ZmRZcm8wT1hpaXZscWtnN2swMGlDbGRnSnRlS296Z2ZCSnk4cUh0czRCa0cxZkUzS1lQUUdORklvOFI2UXNvWDMySVMxNmh3TjZaYVYzSnNIYVUxMXZhUXN3d1FuSmZaempodC15NUkwak1NY3Q1NW5R0gGrAUFVX3lxTE1GMXBzQTg0SjZvc1FmMnhRVHBRTGd1MGZpSmpodmVXZXFDd2I2N2YwamtQTHE1blpTRUNyN0pDTkFGeENDcmx0Mmk2QWZJVlVTeXRIRXRHaVJQM3o1blJTZGZfanVGcWNNN0xjWGg3MWNQLVhWWDJ6Q19HdkFNeGxmRWw2MHZmUC1iQWZtYVYtRVJPY3BFT0ljQl82SS1UWi0wTkYwd2dpQUtBVQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790107230716
-    },
-    {
-      "id": "news_HEALTH_A2yearoldscancerdiagnosisledhermomtoaloc",
-      "title": "A 2-year-old's cancer diagnosis led her mom to a local group that quietly helps families when they need it most - WHEC.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM05lXzhwMUszNHJzMzNRN29lcDBmd0JMaUFndDZsaU5MLWZTV01lUHpwckFjZmFQRmFSdW1XNzJ3TVJxNThfakhndHc4S0NDM0RLWElLZHY0SFpVLTRzZlRuUzJMZTVYMjBOWVoySzhVbHJkOEc0VkNNZ1hvRlFGaG5oc0NqTXh1dHpXdVI2eWlyRG9RLS1Rdjk2b090MU9LbWdVajBWTVBxaEJkcVIzcmRRWQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790107230716
-    },
-    {
-      "id": "news_HEALTH_Trumpcallsforsomechildhoodvaccinesbespli",
-      "title": "Trump calls for some childhood vaccines be split into smaller doses - Fierce Pharma",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaldjYm00M21Fb1hobnR5QVZEc1ljRlg2M3VlMURnUmtlMnhiRGlWMTh3X2VITnZlYzduMzI3ZERXRWUzang1RzRybkpxbENGUmdiTmRoVEc4d0dTZXBHdTI1NzJTLXhpVUJ1S2kwd1hLZlZKZXprTXhQSzFsUTNvclBrSHlPdjdQUzZKWFVWMGZlOXBRSW9McV9TejhiM1NvWUlSRQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790107230716
-    },
-    {
-      "id": "news_SPORTS_RobGronkowskiandJulianEdelmanexplainwhyt",
-      "title": "Rob Gronkowski and Julian Edelman explain why they’re worried about Drake Maye - Boston.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX1ZlNlFYS0JyRkxrMDA5eEg3ZUkwb2YxbllrRXczRXZpWUo5UkhuV2pKVXV5TWo4U013Njk2UDJnTUlvd3hBV3VhU0dxZEpSWkNSYmlwU2pwZGxieVZlVFpqUFdzSEtmYWhHM3lFMm1PV2lTeHhRa01VZDFlR0hfbVhUWGhWdE1menQ4WFozV2lTSmlHV2lBUGxBcmRsd004dXc2OUJpZ3BrSzlKeEtCZUZOSWFOUURkOW5iNjFtU21sbDBSMDVJQ3JLajNJVU40Ul9iczYxZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790107228942
-    },
-    {
-      "id": "news_SPORTS_SandersColoradoremovesseveralplayersford",
-      "title": "Sanders: Colorado removes several players for detrimental conduct - ESPN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTDZRaDFkdXpiOHdZZ2hCVU5uZFRGWGxiNkM5VTQwQ1lOQnQxX2QzNTZzMjROU1VvM1JWUUtCNUROZTYyVnlKRUNIX0hyeUxvelphM1I0YXJtazFvNk1pWDBpTy12YWk1WU5xQU5Qcm9UQnlTMlNCdmVPN1dBWW8tRW55aXM2dDQ4blFjWXBMcGg3NlRIRE1rT2x3Tm1vcHU5Z0pBWXlnTUltMzZkNGFNR1JqanM2cUJaZnc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790107228942
-    },
-    {
-      "id": "news_SPORTS_RedSoxExercise202930ClubOptionsOnCraigBr",
-      "title": "Red Sox Exercise 2029-30 Club Options On Craig Breslow, Sign Manager Chad Tracy To Three-Year Deal - MLB Trade Rumors",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUmtfN2tQd0JsV3JFOWVXX0RnZU1KNWdsQnpDUFVvWXJsaldWYWhGREdYMmFSX2RydDRZTzJ0azhIeDhWR0J4VVFJUVJGU1NBUUxBX3kwblV5eGRLWk9FUTl1d0VXWmlpdTY3TVFHdmwwQnlpbEExZ3JObmxyVFBFTU9XWG92R0RFSjEw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790107228942
     }
   ]
 }

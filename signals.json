@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T23:02:55.049763+00:00",
+  "updated_at": "2026-09-28T01:34:11.333944+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_EUlaunchesdiplomaticoffensivetostopTrump",
@@ -957,6 +957,138 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_MichaelandSusanDellpledge625billionforki",
+      "title": "Michael and Susan Dell pledge $6.25 billion for kids' savings in 'Trump Accounts' - ABC News - Breaking News, Latest News and Videos",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbnBtbkFPSkRqR2duNDJRcU56QjdCejdaMnlTOExFNDdaNHFtc2JmSWN0aWpCdHB4dnRQNXlHalY1RUlCTENaNE5MR19QYjk5akthRTZYUm1URkRfci1zWXpOYVpuY1BzSHN0V250QUNSTUE4YmlSMTc5R0Vya213QzVhbnFZQ0ViNHY2QWR5ckZ1aXdDZFE00gGcAUFVX3lxTFByUWVqU01ueUlnV3ZPcUgwVmdoYUlNN0lGZkZLR1pEOTFjNjBFNmgyaVNURXVwd01FUHVwLWNzaG9DUEJSa0ZDMEdnYkhvVm8xd3BDd0FHSll4S0ttdWZvaDIwRG43TmVOZEZoQ2ZnS1VlakdSLTh2TW02WGJHU196dlppQk9hVG8yQTdXUzV2bG1kQ0tXS1Ztb2gzTA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790559239017
+    },
+    {
+      "id": "news_SPORTS_Irelandplayerswearblackarmbandsandrefrai",
+      "title": "Ireland players wear black armbands and refrain from handshakes in soccer game against Israel - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUpkTUxROHJiQ01Ndm9Zc2JDUktneERoUVY5b19mazFXXzlLYXc4T05CZW54R1BFazUxVFVoSTQ2bHJIVHdJZlQ1c19NUFAtQ05wVG0weVdpZzlIaVc0RmdqSEV0anNmUDU5eEtjamJwRUt1UnJPU0o1RWxKcVdWT0VhQXVmYnpwSk9iNjJmMWUxcmw2MnVpTWxRTWtTYlZUMWk3R0FyVVZ6N2s?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790559223024
+    },
+    {
+      "id": "news_SPORTS_GolfFansSurprisedByCrowdsReactiontoPresi",
+      "title": "Golf Fans Surprised By Crowd's Reaction to President Trump Sunday - Yahoo Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdTBHUkpKN0czbV95UXVJSjA3eU5neV9GcW90NXBnSFM2dEIyNGczUVpsdWxWcVJfTVpQSkxINE9MamhzNWNtY2RiaGh2UUJOUHkxS0UtVl91OGZXcTNlXzMzeUptZkJ4d3R1akRvRnhDWXRQaXpTNHBPUEQ0R2p5VUZjZkxpbV8yZEY1Vg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790559223024
+    },
+    {
+      "id": "news_SPORTS_DrakeMayePatriotsoffenseownplayunaccepta",
+      "title": "Drake Maye: Patriots offense, own play 'unacceptable' - ESPN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOTBKT0FEZm5GWE5TaDFpLXdzV3BuQ2o4RTB0LUpreC13WGgwbU0xYVNUQkd6M2I5eTc0Rl8wX3BYTlFkV2lXeWluekctMWFpVGp2a2tMWlRNT3d1TmY2M0Y1ZExrQTNnR0JJS3pjVGI4alNsY0xYT0RVNmM5LU1WdUsyU2h6NTlCb2N3R01ZQmZ4VlRxeW5SWjVn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790559223023
+    },
+    {
+      "id": "news_SPORTS_NFLWeek3overreactionsPatsofficiallyhavea",
+      "title": "NFL Week 3 overreactions: Pats officially have a Drake Maye problem, Ravens can finally win big games again - CBS Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHktWE5GYVFpREZZNVFhbklvbDc1VXJ5WlFOYjMtc1M4NWoxVWRNLVlGa0cwR3hHeFdVZ2RRb3Vyb1RoclJkTXV6WERxMkVFTWpiZ1ROZ3d2bVdwcll5SEJ2ZWpRWHpZRHlKOERpTnlldU53ZDBiQTZ3eHMzWnJmR3Y4blp1Y3RsR2twNGdpdlNhc3JEcFlZSUlHVDl1d2RySFlOc3NrOA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790559223023
+    },
+    {
+      "id": "news_ENTERTAINMENT_Rihannasoneyearolddaughtercriesoverfivef",
+      "title": "Rihanna's one-year-old daughter cries over five-figure Louis Vuitton bag in must-see video - currently.att.yahoo.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGx6UGJxalVyclZkdUg5RkQ1ZGpvNV9YbWZQR1ZwNEFmazc4SFgwZDlZZWhsa2hRNy03SkxUTE1URWxiXy14VmZNVnVJa21oZGQ3T1ZZMVNXTlhJQWtLOVFMRW9veGNfMkVlcFlFQzdQaWRlcmhDNWpjbXhiZ0NSR0Frb1l6MGVEN3c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790559222249
+    },
+    {
+      "id": "news_BUSINESS_AnthropicsCEOisabouttohavedinnerwithPres",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump - TechCrunch",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUhaZ0QyUEIyRFpKalV4WHdSU05uU3ZZVVpFenpKNk9aNEgwT19kVTJXLXZpR192RFhPUkxKLXVFZHlmSzM1SmFrSGFfdnUzWXJFNjRfVHpoRGZkaDY3c0dJak44LXRiT2pCMHk1SDJaUElPaDVIT3V3UWxBWmRFRW9kYVJHVEN6Zk1uamNWcGxFcVJNWHJLMDBn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790559220713
+    },
+    {
+      "id": "news_BUSINESS_TrumpsaysheisrollingbackBideneraUSfuelec",
+      "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc09CZ3pXS1RmSXRYN1ltZkJORHVNaFI0MzZUcjllTTRZazI3S1I1T1JNZ3dQOGJUR0lUSkdGS3dyUWtlOGd6VjJySG13emtyNGhSeVJqTXBHLW1sZmpSUXNKVm1rR2xaZlRhMXY4blU2NVItcEYzMFpPcmJLaTBMN2pUbTJsQlA3MzhlVWdFZWcwQ2d3eGhkaUZ4OU9Rb1dtYlpEcHRNTjJWT3J0VjRpUdIBtgFBVV95cUxOLU45MW1WVmcxNDZieUNGdHVMcEhISmxKZHRpV0tNdTlXTDAzLW9WdFhCTGw2V21kRktOMWdpUmxKRzNBUF9mTE9qRk1KaGE1VjBOX2VuXzdKSW5NajZNZndtdDJSV3ZYZ29sWkVHRl9EbElJNGg2QjNmaloxQVNudzhBTk4zY3ZoemltNVVIdGI0bFBMVV92MWsxcDdMT0ZTbnJkZW82QnU4X0hON1J4TjBnZ25nUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790559220713
+    },
+    {
+      "id": "news_NATION_TillisTrumpendorsingPaxtonoverCornynwasc",
+      "title": "Tillis: Trump endorsing Paxton over Cornyn was ‘colossal mistake’ - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdkh3eFU4QUhrNDhQam9lWDFUSWl5eE9vd2t3UVF0UW1hNG5UUWJOcHZrZ0txRlBkRUNMUDBkSWpVTlJKcUt6Y0kyVU5PbW9sdEE4emZtQ3h2Uk5JWlJDdnNiRDlYZzNoT1J1TWVYcTN1Z1liTWVCSXNtOWlCcU5IOGJDcXZsNzQwd2Y40gGQAUFVX3lxTFBvSWxPMnR3MnRhUFlnR19OMzZiNUxNdTFFYVpob2EyVndLZHRmSUl3TVBuOEdQWjBGVWtNQWhDSkgxZGZZRkM4RFRrbEwwb3Z2UDJJQmZoNi0wY3RkX0tCNGc2TGJ0M0F4WjBEVmZQVmtlT3R4MkNLRWk1Z0h4ZThDWmhJN2FOUHNuZ2p5MGdMVw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790559219969
+    },
+    {
+      "id": "news_NATION_TrumpslamsSupremeCourtforblockingMissour",
+      "title": "Trump slams Supreme Court for blocking Missouri’s GOP-favored map for third time - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUEZsSDZGZ0Y1SFRaVjRzRWtrODJXQVZRS1V0NDNvT25MZUdjaVlXN3JZRDJaMlhWcnJManNuQ25yZjZNaTVQVjViWHFzNlBPSnFTX0dZVVY4RTVsV0xHNUxodU1JZkFfOFM3WWY1STJFOTU3WGktUnM4MlZ1WFhPUkoweUJDNTM1YTdfWHBkUTdnWFY3emxsZUpuUFfSAaIBQVVfeXFMUGVWak1RMVdfNV8zOVRyYVdWdXpHbGpFY2F2b0VhRldGZkNtd1d3a2ZzaHlmZExYVGE0anpmYWhIbE5oOHI1RE1vTXN4aVNyejVEQ3hKRWxQVlBRWlUwaWRaY2Q4azB2eU9jNjVqYWZPV2U4bkw4Q3NMMTdaZWJlV3YwUzZBNjVVVl83a1A0dTltY3ZXZnY5S0QwakFpejRhSERB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790559219969
+    },
+    {
+      "id": "news_NATION_TrumpaskedChinaspresidentifhewantstobuyU",
+      "title": "Trump asked China’s president if he wants to buy US arms, ambassador says - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0RpWWZ5VnRieXhDRkcyTE9ieGRNTkFCc1gxZzBiMkQ5LTZ5cUdwT1BLbTdSSGtGc042MWxUbXVzanZwTUJJcmpWN1JQTEpWOUdsNFdQdm8wTjZOUlU4eUNyMGdic3NXZG9fUV9pcHVwRi13Z3I0ZDNpdG1yWG9qUFVxczFoRlNCNEdUOE45VVM4TEEzU3Q5dQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790559219969
+    },
+    {
+      "id": "news_WORLD_YemenHouthisreportdeadlySaudistrikesonTa",
+      "title": "Yemen: Houthis report deadly Saudi strikes on Taiz market - dw.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2tiTmtOT3NLUTZvN1hYZHlETHUySG5iMnRvU0ltVS03QXAzWmtocndacEhvVGViM2xnbnFFbkhQLWt6eDlkQVhoUWtMRHNrSVBoS2l3VzlCQzVJTXdPTTVNZVg5WHF5eGdSZzN0ZmNBQlRZeDhmSkNOd3VJRElmbDU4aFVCUFFBTDFVLXl2U01OemfSAZMBQVVfeXFMTVJmck1SdmphcTFYLXhiV1U5ZHI5TzZMcVFjZDBZMFk4NTQ5U1RJSHVyM3pFU3pFZTlsTmNiTUQyODU4VFNRU2FOMGZuSVBfVjlfOXpQZk8zZlJWUDBDZmtmVG1CUHhKamZEVnpuTUoyU253U1g3cS05cWZMWHdMZXBkYXEzUTZsT19lNjg0dW1EcVc0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790559219237
     },
     {
       "id": "news_central bank announcement_WeekAheadforFXBondsAllEyesonFedRateDecis",
@@ -5368,138 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1790175962680
-    },
-    {
-      "id": "news_BUSINESS_AIloomslargeoverTrumpXimeetingamiddeepdi",
-      "title": "AI looms large over Trump-Xi meeting amid deep distrust between US and China | US foreign policy - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRER5Q0NmbkNwZWRBdlRBUkpobm1MZUdaNHJMSWNuNzZtMGNxTldqc3MtY0hDS25xZG04YkxLVkE1a2tmdkhmX1lIaEtvV1Z3VkxFSTVWOU5ySk9jOE9fc0E2NS0yZFNvSVdVb2ZyYmRXYkVZZGRTdzJ3dFlLZlUxOUtYUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790175961878
-    },
-    {
-      "id": "news_BUSINESS_USMortgageRatesSurgeAbove7toaMoreThanTwo",
-      "title": "US Mortgage Rates Surge Above 7% to a More Than Two-Year High - Bloomberg.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM29Ua2ZTMVgxQlF4TlNPMHhMalk4QUNKZ3ZfamNPaDVINmhKbGRMNkQ3WlZjUFE3d0FLZnI0aUhDQ2dEeUVwaGZXSmdTM3RDNmNvYTVNMnRjUTA0bnRKQy1ZamU3cUpuRWlBdWpGbmUxbTlaaUk2am9Zc3ZjbEhnWm04MnY1aXBrT1lmcFBDRm9uYkd6d0JNbVFhVUZtRkRGWWJudzBhMUNNY09fYkFqcg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790175961878
-    },
-    {
-      "id": "news_BUSINESS_TrumpsOilAlliesFearLosingBattleinBidtoSt",
-      "title": "Trump’s Oil Allies Fear Losing Battle in Bid to Stop Diesel-Export Ban - WSJ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZEJHRU9JX25kVnBSV2Zmblczd1lPNHN2LU1adDRGX1VlcEx2dEZtMXVlYU9yVUt1ZWJiUl9PWElIZnBHS1JFdnN0R1NyclFtaG1tYjNLbHRYa1FQcUhZQWRGTE42TzlXNkNMVElkVkduQjl5ZVVKR3hwTEZDSkE0anAyUjZxaUtpU3k3MjVhc0JyNTQ0Ylhpb05VTzJTa3QybXdZOTVldkZrdGFyNXN2bmtVMlJMTHlfYXR1ZVE0U1FnMVRkdUE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790175961878
-    },
-    {
-      "id": "news_BUSINESS_TrumpsDieselDilemmanytimescom",
-      "title": "Trump’s Diesel Dilemma - nytimes.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc1pRRk5QbUZzajg3ZWVwMHhjNFZyamJFMlRudmswWDBCcWtyREFOdEVodl8zY3Rlb0tLQjdTMFpua0JFRjBBSlFQLWR2QjJPZXVsZDVKU3FXVUxoNEI3aWZsZ2w3OU95cVB1ZUNTYXlkMUZiWC1TdGdwT2UycEx5X3BxckI?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790175961878
-    },
-    {
-      "id": "news_BUSINESS_USstocksfallas10yearTreasuryyieldhitshig",
-      "title": "US stocks fall as 10-year Treasury yield hits highest since 2007 - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzB2Vlh0Nm9MZUlDRnA2S1pIMUJXWmZtdlZEVUdFRDV2WEJ1U3pLQnJKUFNBU3YyZGxXZ0trVk1tdm9lVFp0aEh5N0VpVUdOZDNWYjRzOTdUVW84bEYwYnZHNEQ1X213dHl5OGlpQWNSUEFkdXRpRC1rUTRDaDRBMFh2Zw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790175961878
-    },
-    {
-      "id": "news_NATION_PollCanadiansandAmericansagreeTrumpwasin",
-      "title": "Poll: Canadians and Americans agree, Trump was in the wrong with trade war - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTC1hX2tnQUdoQjNwN2tUY0QyVm93Rk41Q1JkcU12ZkQ4YllRMXl5MVBsN2gzQ3N1bUl3MlY5N0U4MHUyMnpkUEJ4VWtSZ21sZV8xc3Z2dkdmSHE5R20wdjZpczlLbTF0YXRqN0d2bFBNRllRS3ZrTzFiLVNWbm5ray1DNGpoMThrRUZ3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790175961140
-    },
-    {
-      "id": "news_NATION_DefendingTrumpmediabanDOJcitesnationalse",
-      "title": "Defending Trump media ban, DOJ cites national security and says White House access is a ‘privilege’ - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVW1qQVVRTFYtc2dBS2FWY0lrb3FjVnprV0t2WlRXMll2MzRkeElTVjRFZEpPNVAyOEtUdkN6WElzWFpUTllQOEJWSlhzU0dyQlpmNzltWlB0cDFqZnNIRkRLcWJFYVFaN282bERDU0Rxd3BiTHJiYWR3LTl2Y3dPTDBXaEpMVEZTRTVLYkpGVGlUM0k4UzdzWWwtRXI3X2NCc1IyV0ppazFnRUIzOXZJVEVmeGZXaVAwcl80b3FRLThEdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790175961140
-    },
-    {
-      "id": "news_NATION_Trumpplansgrandspectacleforpotentiallyte",
-      "title": "Trump plans grand spectacle for potentially tense Xi talks - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790175961140
-    },
-    {
-      "id": "news_NATION_TrumpsGreenlanddealexplainedpoliticoeu",
-      "title": "Trump’s Greenland deal, explained - politico.eu",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHk3ZG50bWxzQjZlaWYweHhTR2o4TlVGTUp0dlNGNGtwOFRiZDVNa3RqR0E2UGdwNE9vNVF5LVRWM21XT3B3S2V5U3hOeGx3VzMtNmM1Rl85UC1saHRiVzZWT281QUFYYWUyZVk3LThUZzBLSFE5NExjZkFoTm5zSVc1N0I4aW1pdURSWnVsSGdfOG1jaWpTSEVn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790175961140
-    },
-    {
-      "id": "news_NATION_Trumpsmidtermwoesdeepenamidworsenedecono",
-      "title": "Trump’s midterm woes deepen amid worsened economic backdrop: CNN poll - cnn.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORnFJTTdNM2F3MDFnU1BsRkJLRHhyalB5MWxzd0lTUWhZeUkxeEZzcFhKQmpja0EtZHJWbndrc3ZPcVFQd0pQZEM5bkV0NjJVT3BRQzZkTF92UndwZ3kwUTdqRUpuR2Q2WkVaRGhxcENTOWVoUFM5Q2ZuaFZVVk9UVno3X1RHRkxjMEE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790175961140
-    },
-    {
-      "id": "news_WORLD_FirstThingTrumpaddressesUNwithmixtureofb",
-      "title": "First Thing: Trump addresses UN with mixture of boasts, threats and jibes - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYy03UFFkZXBzbXdhOXlmU1hHTEZiVGhRR0EtZ2dHblFXaEpsMmZsMWE0LW4yQV9jR3NSR3ZZdXRZTWRDSEVibGYyMXZjeHcyOExYOWlSa1hMaG94cThncGlWRUxKM2syMVFyZVVPb1lwZmMwVTVmWEhSbnJ5MTZUVUlEbm5uaHExRGItS3ZKaDJ5YVgySWg0OWVYRFlWUlFXbC1pTGdjM2RmcjhWdGVGbTNFcnpjdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790175960408
-    },
-    {
-      "id": "news_WORLD_YemensHouthisThreateningGlobalOilAreIncr",
-      "title": "Yemen’s Houthis, Threatening Global Oil, Are Increasingly Supplied by China - WSJ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObUVwRUtldkxBbUR1NUIyWkFYb3lMZDVRUThtR2drLVlZb0dUVFVqZF9NSFJTVEp6b05jWFBzRkZRcHdnS0xUNmVPdXIwVEQ4aEpUY1pPWXpoa1YyMWlGQjZIZm41bG1XUUxvaHdKbHpuM0l0cnp1VTVtRUFYRnZzQzNlWDBEeHphZGdKQXk5X2p4NW1rdTZRNFJ1ajN3Vld1eG5YTW5YT2pGSHo1TUNKNUVIUlhsSFNyanY0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790175960408
     }
   ]
 }

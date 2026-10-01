@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T22:56:50.595377+00:00",
+  "updated_at": "2026-10-01T01:48:46.012933+00:00",
   "signals": [
     {
       "id": "news_NATION_Trumplaunchesgovernmentchatboturgingawar",
@@ -1001,6 +1001,138 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_MayorZohranMamdaniaddressesKenGriffinthr",
+      "title": "Mayor Zohran Mamdani addresses Ken Griffin threat, announces Office of Deed Theft Prevention at press conference - ABC7 Eyewitness News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTy1GcTFvOXBEdnRldmNmSUJIYlNndEtKSGxkRnpycHh6eGxkeDdSTlFxM2s0UXBydEtzTzQxcVZaSEl3Y1BuT2s1dm16OHZGVHhLcl9PZVpaaUF0dXFiVkZqWGtPMm9VUXBHLXhmYjd3clFmRHY1VG5FbnRmQmM3WTJka2VFdF9xX191Qjl4M2hyYmZqZWJGdGN3MXpVb3BrV1FrOTF5Y9IBrAFBVV95cUxPaDNLOVFxRWQzZXNETF9hOTJYQ0MwMnFGZXd4VnB1bmpYcG5hSnJFcnp5TXB2bHJkeWk3bWx1SFJ4ejZCQ056MkxXWjFoXzdVQ2VTRkEyV1N5T2U2TEoyd0ZnNnZZaGhLMUpON1VWSmlLcjI1ZHlYcW1KMmt5dnFXSG11RVhMNXZibHJwY2NyUVMwY3R4Wm4tNDJpZG1rd19vbWNyOFdCdTdrcC1a?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790819310067
+    },
+    {
+      "id": "news_government shutdown_Trumpsignsbilltoavertgovernmentshutdownb",
+      "title": "Trump signs bill to avert government shutdown before midterm elections - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTJfTlZvbUVhMkVhSVQxSlFOdXM1Vzk4aXo3TTRwalJWVVF4bmU0cHYwRDBVaGYteDFoZy1sczEwOGNoeFlmel9GS0Y0cGlwdXRXNEFQVTR4dXhVVkRFQnBxUFhUUDMzaDh2R29VRVVpTW84TXVwcVV4TlhoY0tOdFF3TUxlbXNmbmVwNHh0ME94WlhVVHVxMTdjbkllQnFjOW9VZzFqREF2OHFUWmJOZ1E4OWFoVzYxcy1FTg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790819306635
+    },
+    {
+      "id": "news_government shutdown_RepublicansschemetoblockTrumpsfundingcan",
+      "title": "Republicans scheme to block Trump’s funding cancellations - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdXpDTk5WcTdLX3N1TGlrY04taWJ2Rlg3cE5tUDJ2N3UtbkFlZkJRWVlUcFhFUE85LWxycjBoLUdKZmxwaldNVHZvYlRONzJFSnhRYm5rZTM1RzV0Z1NRNkF5T2VuNkJrMXdPTDZJbFJ5a25PZXE0WHZRUGtVbUNFamlUajkzWTFickNoM2hqVQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790819306635
+    },
+    {
+      "id": "news_SPORTS_RAV4ThingsFlyersvsPenguinsNHLcom",
+      "title": "RAV4 Things: Flyers vs. Penguins - NHL.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpWjU5ZFE2VENtN0ZQclF6WFUyQTl5bkJTWXpldkh4V3VKOURhYjg3MmkzRXlCMnpRT3lIeTl2VnB2cFZSWVVIT29JNjhPVXJ3TzVaM0lHMm5BMThzVmI0VDlyRTZaYk45X1Jjc1NFWFFaVnkxQlRF?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790819284377
+    },
+    {
+      "id": "news_ENTERTAINMENT_BoxOfficeVerityAimsfor35MillionDebutandA",
+      "title": "Box Office: ‘Verity’ Aims for $35 Million Debut and Anne Hathaway’s Third No. 1 Movie of the Year, ‘Digger’ Could Bomb With $12 Million - Variety",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQWsyVW94YWFrTXFWaW5GRi1wSE9pNTF3cERIUmkzZTdUWlJqWmlZLWVTc2xvWXFfYXBReTFRd0lQb0R3dXRkUWhadHpCdXIxQUxGRGRQNDFuTDNvcU5qZ01tM1BDMXVDRk1PLUxRdlE1eTRhWFkxWnV3T0hjSEllUzlRb181WFZyUkJQN0M4RWlBTlVzSmg3dzd0N2s1dw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790819282512
+    },
+    {
+      "id": "news_BUSINESS_KalshitradersseehighoddsAnthropicsIPOisa",
+      "title": "Kalshi traders see high odds Anthropic's IPO is announced this year - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLU5oQnpJNFFOOGZMSGhtNGxkUXZYTXNpeDFtd2wydks4ZjdES20taFlGLXlVakZUTkFYVHpxMkh6aFZBNEh1Zm84ajhjLXk2elM5UHVyeFZiNFhuU3U2M1BHVnBubEw2MTIxY1hhT0NEaEVDYWJ2VHZXVnlFR0ZUeXU4bTdQMkdoRlBJbW5yTXp0TlQtdlNIREJ5eFQzWGVtelNiR3ViVdIBrAFBVV95cUxPUVJhTGVkaTZCYWxHM1hQT2RDZGkzYXJ4NWlIU19ya3psWHJHaFhaX0M2NTYyTVB3cXFvSHlPZk95UWFsS3JmS2dpNVdqaF9WbVZWLUpBb3BDRkFpZE5USDVKbng4NTZqdUoxM2V6a0tMcjZkMElKWUlOb2UzRW5lZm1CQzFiRE1ydXpSZWc1RUptY2o5S0xJR0NIWEpMQnVUV0Y1Rk9la0wxSnNI?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790819278118
+    },
+    {
+      "id": "news_BUSINESS_Trumpplugs54billionnaturalgasprojectinAl",
+      "title": "Trump plugs $54 billion natural gas project in Alaska, flanked by a senator in a tight race - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGU1Ql9iYnRFcDZKTjZjYjFxTWJBZFV2am9GdER0UUl2d1RwUV95MlQ5YmRLUjUyYmstVGJFTDNza1k5cV9YMU02dHNsTGRTMGVfVFJabm1uZWkzLW9Geko5RWdtS2E4OVpLemNIMTlBR1ZfS1dFMzN5QXVnZnZlOFRyakYtc1l0ZUZORU8wUVRBWHJqN3lVLUF6TXVpLThl?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790819278118
+    },
+    {
+      "id": "news_BUSINESS_TrumpsNewTariffsGetaFamiliarDayinCourtTh",
+      "title": "Trump’s New Tariffs Get a Familiar Day in Court - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHRPek5DQy1ncW5wTWpTaDNwM1VsWk1aZjloUG9mNGlkVmNteTJadXJWY0NfbFAyRXprZ0ZNdFhKYWFPNWV3dkkwZWZSMFZ1N0xzNE14Q0h6eVVNTUx0bkdHX1p3T1p5aWcyd19EOTdUcDFCVzVEY3U3QmF1TmNPMDBvdVo?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790819278118
+    },
+    {
+      "id": "news_NATION_TrumphailstheUSmilitarysexitfromIraqafte",
+      "title": "Trump hails the US military’s exit from Iraq after 12-year mission against Islamic State - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVd3ZE1qU3YyRlhnTjBFTlVSX0taT0p1MDFpQVNBNVJTSzY5U3pkVkpNVTdmMU5qLWZrMGsxLUdROFFURmFxRzFjME5fWWhhVlZGcTFZRnExRkFhcFNaeXNRYmhkQ3h4NnU3Q09mSUlteG8wZ1dVRlpQME0xQk1jcUlqeU5XMkpVdWNyaW1jN1VRNG84VExtV0NQUkJsd2ZNRUFPdmd0WFM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790819275899
+    },
+    {
+      "id": "news_NATION_Trumpadministrationfilescomplaintagainst",
+      "title": "Trump administration files complaint against judges over media comments - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUs1dXpoWndZSTdodkpybWhJa0k4Z2FPS0JlMjRkRDcyNmRXMHBhMWp6cE9UVTVfeTdHSDVCWVFONml0MHB3QjNqMkZoY1gyRXVvek9uTDQwLXJYM2NfcUkxakFtZnhYU2stRXhVczM0U2hkRUx4eDA0anAtU1FLTVpjWVpvZVdYcmxWVFBnc1Z6Q3JzcEdMd3NBSVNtbzdvTy02WVV4WVVtZDY2eDlLcjBn0gG3AUFVX3lxTE9KajdxcExHSEV4eWFyOUxDMUhWdXpQNG5USGN1OTVac1ZFZFg3SlFHZVEtOWJ3XzBoZHJreDZKeHFZR0Z4NW1ZTThnWjlST3kyRlV3MHJZUFpCVGtSWmFKa0Vkb0pSY2kzRmd0UXBkWm1pbUlDTWllM1RMLVRvXy1VWlcxclYzZkxMOWRsVjhzY0NRZnZMU0VjTXFJR2Q3QWdIWUg1QUtlVGllRVlJRS1nX2Zfbmd2bw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790819275899
+    },
+    {
+      "id": "news_NATION_TrumpdeflectsonleakedaudioofKenPaxtoncal",
+      "title": "Trump deflects on leaked audio of Ken Paxton calling Texas midterm convention a drag on his poll numbers - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: leak, leaked.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1FzUHNRMGstOHhrMlhublRaVm5ybEJxUHNpOE1BZ0xEQlFRNXB5c0lja3RLNWZtZ0hpQlI1UnlaaWtWRnROR2ZuZmVOcWljQk1ibHNKLXkyeEFTTkVkcU9HcENCVlZBM2dmSXJUQ2pZczQ2ZVBjcmhHckYySUVvZmZ3OXFKcWlNT1dCS1pTck9YMUJ2OHppRVJMV3lwbWptR2c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790819275899
+    },
+    {
+      "id": "news_NATION_Trumpplugs54billionnaturalgasprojectinAl",
+      "title": "Trump plugs $54 billion natural gas project in Alaska, flanked by a senator in a tight race - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGU1Ql9iYnRFcDZKTjZjYjFxTWJBZFV2am9GdER0UUl2d1RwUV95MlQ5YmRLUjUyYmstVGJFTDNza1k5cV9YMU02dHNsTGRTMGVfVFJabm1uZWkzLW9Geko5RWdtS2E4OVpLemNIMTlBR1ZfS1dFMzN5QXVnZnZlOFRyakYtc1l0ZUZORU8wUVRBWHJqN3lVLUF6TXVpLThl?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790819275899
     },
     {
       "id": "news_HEALTH_Pennsylvaniareportsfifthmeaslesrelatedde",
@@ -5368,138 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1790383817132
-    },
-    {
-      "id": "news_government shutdown_UnionsTrumpadministrationreachdealNomass",
-      "title": "Unions, Trump administration reach deal: No mass firings during government shutdowns - Courthouse News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa21IcWpBNi05aWpGb2pZaUx4VEV6R3IwUDJoMTdWYXdzeW5XWDlOajQzN2IxREY5d2hqRS1aOGs3V2Y3UGRrRUhjTWhCMXI0YUNMY0JOazdQYUVMTHdvTjBSMGdfc25rcTZEZlBmdGhNMkpMZE5wM1ZaUWdpcnh1S25mOTNmcmFrZ2xHdUV1cTdSajFpVnVqa2N6V3RIOGF4ZldFa0NCcHZyRXdXMnVPSTRHcXg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790375568047
-    },
-    {
-      "id": "news_government shutdown_Trumpadministrationsettlesunionslegalcha",
-      "title": "Trump administration settles unions' legal challenge to mass layoffs during shutdown - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNamVuLTZxc1dRd0pOMy1tNmFxRUhXcnJxalBhczFNRzZiRE8wamtGZmVPMmJwYWpQQzJMa1BtRFAzVDdIQi1IcHc1TGFJbmhwYloxNGZpTXdvSnQ2allVMXBMdV9kYTZyR0djZXdiR0tPbTVOVURuNXY1Ul9EY2lmb0h1cnNLa0R1UjZhcExDSFZUMVV3d1hscTRiUVhiVlVIVEFCOVdYazduWldFTTFsUU04Z0tkRUo3dEt3THdvMGhTTG81Y054OHJ0eTk1Zw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790375568047
-    },
-    {
-      "id": "news_election crypto_CryptoregulationbillnearsSenatevoteamidd",
-      "title": "Crypto regulation bill nears Senate vote amid debate over Trump ventures - Spectrum News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGFZUzV5SGMwQnFFZFdwNDhLSEtnVWJzQmJySzlvRnNUXzEtaXRZS2ItejhybEJhbUNZd0NsUUJSWVpLa05JOWdGM3hWWC0yZV9rcEI4RGVtMnNwdjJocGMtR3draXJ0Wk8xaDB3dGFhM0UyM1JNX0gwZDhjSERHR0VaZmVnUkNmM3pWMmg1TWE0aWdlSGNUWUszdEJZSVRCaktNcFltclpxaVV4aHR3V2xQSQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790375567044
-    },
-    {
-      "id": "news_SPORTS_MeettheUSMNTsnextgenerationacheatsheetfo",
-      "title": "Meet the USMNT’s next generation: a cheat sheet for 12 new players in camp - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT1BKazRWT2JQTFZWLXotY1ljUVpGbHd6dEJOc1JCaG5rUXdsOGlwUVZvV3hBdElGUEEtel9jZnJ0ZHczZThQbm85cm1idHVjMWpEa25JckppOUVoZjdzU3lzUnFRX3l4ZHhkTlYtWENXNE80V0tnNmw4NzR0TmVYRjhR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790375554112
-    },
-    {
-      "id": "news_SPORTS_SeahawksinjuryreportSamDarnoldwillplaybu",
-      "title": "Seahawks injury report: Sam Darnold will play, but key defensive player ruled out - Field Gulls",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT3kxZUZYSTlpMXBVUnBaSUdLY1k5ODVtU21XbTl3NnZhMEJROENYUDdFbElDdkh2UkJRY3dTdG9qVVZHb3VKMjFaNDJGV0owUktGZXhuRVJEVGdRY0UwcWF3cXJWVG40QTJSRmVXQ0xUQnJoc3ZaZlJzUk5OcmEzUlJ2bzQ3V1V3NkJOampPR3hRSUo2QUxpS2pyTUV3TVVqMlB6bk11YnVvaWR4cTVsSTBlMDZIQnlKNWcyZllaQWQxY1R6cjkxa1NhbnlBZWtwcW9DXzhwLTctdEFwUnU4?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790375554112
-    },
-    {
-      "id": "news_ENTERTAINMENT_MilaniaGiudices911dispatchaudioexposesfr",
-      "title": "Milania Giudice’s 911 dispatch audio exposes frantic search for ‘rogue’ 20-year-old at airport - Page Six",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPREwxZmhiaHRja1JLT3VEcUtQY0Z3c01NZlUxOUViUUJiaEViQnRHYmlOYTFNUWE4QmhObXpCenFtaXlRcEk1bjh2S3dyT0VCNFdSeU84NjF6bWwzWUE2Nkg0Wkp2RFI4TTVCeS1Majk4Ym04MTNlWGpWUHVpS2JkQ0xRc2VUbExST2w3aUx6QXlXODlmeTRqYW1OaWtQVUlQNW80YXhsNUFOd3VUNlNLYnBsM2hnSmU2NHVzVFEzQkxxMlAtZUxBTWl3TTRFbjll?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790375553381
-    },
-    {
-      "id": "news_ENTERTAINMENT_ArnoldSchwarzeneggerIntroducesLAMayoralC",
-      "title": "Arnold Schwarzenegger Introduces L.A. Mayoral Candidate Nithya Raman to Power Players - TMZ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTzJuY2pfUzNXV183RmU5MUw4WkN2aHJLMlhGWDRndjVRTUFCbHV4dTdUb3AxbzdLZTkyNk8tRnZqNENvbmNZSFc0MW1BYk9CZjFzRlhQNktWaUl3clNqLXNwZGJ2MWE0aVhTTTRqVXh3cUNNT2wySUxuVUJUMW9tektfNW1Ia0ItYTlwdUlkVHpJUWpyMGlxSnZSUGZfQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790375553381
-    },
-    {
-      "id": "news_TECHNOLOGY_TheNextHaloGameFromHaloStudiosWasReporte",
-      "title": "The Next Halo Game From Halo Studios Was Reportedly Still Years Away - IGN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX2RySy1yZ09Wb3A5dHAxWHRRenU4dFphWlUtbXF5NFRWSm1iY3NidHh6ZllXTktSbkFqcWtYYlJwNGRpcG5NbU5SNUNvMnpmVlpqY0JBSUw4ajF3QXFvM0ludG9QNEJzN0JKZlpQZ1B0RlJOZnRYS2NjeGJPY044UHZxeGZVcTJqNFBCOC1nX3d1YjRKa1piX2ZuejUzWkpPUnE1OVRCd25OWkhoUHBOODlXYjJSeFlCMV9yVEhMTWdaR1pGNVFtSjJmM19yQ3Z5OVZGMHI4RV9XXzEzLTlrMlNWYw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790375552567
-    },
-    {
-      "id": "news_BUSINESS_TheTrumpAdministrationIsTryingtoGetMuska",
-      "title": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine - wired.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkV2WUhPMVVBcmwwZ1QtbkluSml2SGp4R0VIQ0oxdWFHcFV5c2hGZEN0ajdVOEpxNHNTdVJxdVA4ZnU3YkFKbl96eHc1b2VYSGduOENTMUc5ZEtQTzBrNVRxbDhqX3VtTDRyN2N1Y2VQLVZyVzBsenBjZ2x6WEJoUmFobHphY2V0eGhDUnlfZDRxSzhwS2RJaDI5MTFIRTZXMnJHUmFnTUpRYkdNSlJVdk1B?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790375551849
-    },
-    {
-      "id": "news_NATION_DiningWithAIMogulsBillionairesandXiJinpi",
-      "title": "Dining With A.I. Moguls, Billionaires and Xi Jinping, Trump Went Off Script - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (xi jinping) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yVWE1NjIyRVRieDJWVk9MLU5rd2xLZjZHRk5NQkZVeEdKWDIxSHNXdjZTLWhlZmc3T1dKbmVZN2RIOXRUQXZON2pueHRmTmpsTGppZW1kanFSRVJxNUxUX21jYVhuYUFaMTZ2cWd1bjJOaWM2aS10UHhR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790375551125
-    },
-    {
-      "id": "news_NATION_SupremeCourtrestoresTrumpsmassvoterverif",
-      "title": "Supreme Court restores Trump's mass voter verification system - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUJNR0o2X0F6cklkVHU5T1RDYTB3WFhsWXkxT3gxRE9NbHZSbEtMZTU4UU54eURxd1VxdGJzYkVxMk43dER3a2FvSVhaeTc4UlNNdVFzV0tOMWxPeWFma0N6bzFzcFA3aGJCdXhKczJXVWh2c1A0TVlOcDlJMlJNdXZmR18xR2ZjV29ISXNuT3I0SEk4YUgxMG9WNWFRYnRqQ3FpQg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790375551125
-    },
-    {
-      "id": "news_NATION_5MajorAirlinesIssueTravelWaiversForWeeke",
-      "title": "5 Major Airlines Issue Travel Waivers For Weekend Nor’easter—Hundreds Of Flights Delayed - Forbes",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmplSDZHdmpnTFJxN2EwMDFaQ2J0c25hRjFackVPOXExSTA2MlZ3MnZpU3F5T1hQRVQ2ODhRUTdLSEtZT29rcF9ERWR0SG5tMlR3TDJ1REVuZGxBc2gxYURZWU1FdktDMjRESElYN3lnMTFER3F2U2hGRGVGdTZfeTlENkxHWm5vTFJzOUdjLVVma1BNOGMxd1hrb0kydTF6VFlkQTBrVTk3aVdRZC1QTjdB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790375551125
     }
   ]
 }

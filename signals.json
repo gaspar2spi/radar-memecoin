@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T23:45:25.494876+00:00",
+  "updated_at": "2026-10-03T02:22:25.375902+00:00",
   "signals": [
     {
       "id": "news_TECHNOLOGY_NvidiaShieldTVProisnow299a100pricehikese",
@@ -1067,6 +1067,94 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_MichaelandSusanDellpledge625billionforki",
+      "title": "Michael and Susan Dell pledge $6.25 billion for kids' savings in 'Trump Accounts' - ABC News - Breaking News, Latest News and Videos",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbnBtbkFPSkRqR2duNDJRcU56QjdCejdaMnlTOExFNDdaNHFtc2JmSWN0aWpCdHB4dnRQNXlHalY1RUlCTENaNE5MR19QYjk5akthRTZYUm1URkRfci1zWXpOYVpuY1BzSHN0V250QUNSTUE4YmlSMTc5R0Vya213QzVhbnFZQ0ViNHY2QWR5ckZ1aXdDZFE00gGcAUFVX3lxTFByUWVqU01ueUlnV3ZPcUgwVmdoYUlNN0lGZkZLR1pEOTFjNjBFNmgyaVNURXVwd01FUHVwLWNzaG9DUEJSa0ZDMEdnYkhvVm8xd3BDd0FHSll4S0ttdWZvaDIwRG43TmVOZEZoQ2ZnS1VlakdSLTh2TW02WGJHU196dlppQk9hVG8yQTdXUzV2bG1kQ0tXS1Ztb2gzTA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790994134722
+    },
+    {
+      "id": "news_HEALTH_A20yearoldAmishwomanwithleukemiagotmeasl",
+      "title": "A 20-year-old Amish woman with leukemia got measles and died in Pa.’s largest outbreak in three decades - inquirer.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGRDejlxZ2NEY2VMWVZJMGNJSUpFMjFwOXBHOFZ1aWFmSF8tX1NBMlRNVVBVTm4zZU4xMVBQUC1VWHFWa2l1OS13cmhGOHZEUENjM3VMTno0N2tGeC1XbGVHVV9aY1kyWEYzbkczaWxEeDZBaVl6akFWU2pLbzdtdjdISjViWGh4WER3WmJaMTZjdjMyVmRYaGJKQWRjOWc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790994120123
+    },
+    {
+      "id": "news_SPORTS_PistonsJalenDurenagreeon5year200millionr",
+      "title": "Pistons, Jalen Duren agree on 5-year, $200 million rookie scale extension - NBA.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jNjM0dmx0bXI1NzkxVXdNc2tLa1hicEZ5dWs2TU5BamlnUWNxbTVHRzFkTng3TGVlVG1nZDZpUnA5WU1kWnNiTFpmMW45ZjljSFZHT2liOWpUd3dHMUZVcjk1RjRIcFZ2blVhNmhn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790994118524
+    },
+    {
+      "id": "news_ENTERTAINMENT_EXCLUSIVEMichaelMcDonaldslonglostsonreve",
+      "title": "EXCLUSIVE: Michael McDonald’s long-lost son reveals stunning moment he discovered famous father after 58 years - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUdYRGJGcUxEc1BaaUg5NktlUnJiSkxIZ2RucXMxWmRyYk9sZTlacVFEMFhWaTE2Yk9LaTVabVRZVW9tTTJNTmFNZmtoaHhQRE1GY0xQR0plWG1jcWtpT3JtWWlvNkNURC04UzZaYmZ6NGowOGVyTGNpRld0NFR0dWM5OF9JWnhGT3ZRZ0lKZ2Y5a3l6d1ZDdndDa29VeFdrb0pONmZySjFDSGF3d0ptVWZDMnlra2R1ZktVWVR1dWJmN2lCc0HSAcsBQVVfeXFMTms5a0hLa29tNzVwbXlSMkZTQVhzV0JaTkV1VjR3WldIeDNpNnlBdC1LUEpRbmhoZ0hLeld2V25jNXBmbVlLVWlsblBNVjVpMGVnY25SdFlpWXRfY3UwcWczbkg0WU12RXBZb1h3TUJVb1piMU1VRi1ua2tRVXQ5c0ZPLUVyVVVwaW84RzNTazdzTUIzQTh4UGdDLXd0a0dyTGhDTVhJa0s4NE1EMDV3YVFyQjM3TmtpdjY3VkgwZUtGOWNjY0ZDMVB4S0k?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790994117795
+    },
+    {
+      "id": "news_BUSINESS_ShivonZilissaysshewasletgofromrelationsh",
+      "title": "Shivon Zilis says she was 'let go' from relationship with Elon Musk - USA Today",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYndkRGNnSU9Qc2txR2YyejRHbF8wRUlIaHFVY05LMzk5TjM3Wkc1Q1ZjR0dXRFY2cFFjcmp3MVZIRWd0Nm84M1JLTlBnR04ybGRkdmlEOHFDQ3VvQUZaTE1oVS1tSnNkbHNYSzdXMkVxNktJUC1UOTRjNHJPc25sTGRtSUhYN3lqb1c2TDVKRFM5LWx1VXNJQTBEVXdaYjhoaEduUjNhb2pqZGRVNTd6djVB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790994116360
+    },
+    {
+      "id": "news_NATION_TrumpheadsbacktoTexasonWednesdayasGOPfig",
+      "title": "Trump heads back to Texas on Wednesday as GOP fights to keep state red - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1hNNXlpQTBFYV9GaEpEZ19GUEp4bHBFeDRIMkRCMkk0NHhUQTBXeWxnUXN1bUp3S3dBektuaFVfaVc2N0JOSXZlTGtaQ2tEZ21QUHFZR0J0U0VlblFkNWdsNGt2RTE5dWRQdm5Xc1JtTHNsNFFScDNzUzR0YkRBTVlLeXlZaTRkM3VCNkxJdWVCUEI2VXBQU2ZGLWJPSnFDRDZUa1ZPQXJRS2FjemU4?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790994115638
+    },
+    {
+      "id": "news_NATION_TrumpDirectedUseofTaxpayerMoneyforAdsPra",
+      "title": "Trump Directed Use of Taxpayer Money for Ads Praising His Presidency - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiejVxNFZGSTRKNlpwaTFSOUppTm9SOWJXVHJXblVVbkNTTklEQkZxLVQ0YlRDQUVHMWdsNkduUlcxWGpycmg3SFJLWDZQWDY2RDlld1AzN0NrOEVvVDNNOGxURFAzSFVTMFRCU1pR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790994115638
+    },
+    {
+      "id": "news_NATION_AsTrumpsproposedarchloomsoverDCprotester",
+      "title": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms - NPR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYUhzR3NKaDRGNXIzMm1xRFkydk04SnRwUXctTFlzYU11Tl9EZUMxU0RqZHhaMGNXY3hCR1NOUEQwa2Q2SFRXbWlrSjdfRG55THJKQnduWFJBMklCbFRCdFpfR1VHSG04d3BEUUEyZmlJVkt5dGlEWmNCc0FPU293Rk9IZ3RVaXRO?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1790994115638
     },
     {
       "id": "news_central bank announcement_WeekAheadforFXBondsAllEyesonFedRateDecis",
@@ -5412,94 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1790610723719
-    },
-    {
-      "id": "news_NATION_TrumppushesUStowinAIraceinmeetingwithAnt",
-      "title": "Trump pushes US to win AI race in meeting with Anthropic CEO Dario Amodei - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYTJiUlZEa2N3S21hQnVYVjBXeVEyN2ZicERzMWNpUTFFNEFYcGNrSzZjNDh6ZTFqdW9vZDkzbzg1YjhBV1FwVnROQlZNalJjTlFXZXRIdFJRQW81LUV0V1ktb05sZmw0eTVZdUl5aEFDT204T1lMeGRQNjFVY2QwYQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790610723719
-    },
-    {
-      "id": "news_NATION_TrumpXisummitWhatwasntsaidmightmatterthe",
-      "title": "Trump-Xi summit: What wasn't said might matter the most - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1adkU4Qjh6cWV3NVVSOHhoTWtxeDBEaWhVZ0VKSFp6aS1Qb0FhRVllOVczZ3NTblpnSHllVF9zUk54ZHo5WDRfTXhlazM0M1lvUnRIdGFqU0QtMUE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790610723719
-    },
-    {
-      "id": "news_NATION_ExclusiveTrumptoUnveilPlanned15BillionIo",
-      "title": "Exclusive | Trump to Unveil Planned $15 Billion Iowa Steel Project - WSJ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHFOZzhfV1lobjRkdkFTOUdfeTBLUHdtZ2FoMEE3OVRyOXhObVQ0NlprU2ZOSWNaUEZ0LVFGZFlLWm84Z18zeHF0OUVCWFhlbE5UZEJQOGhmbUVwWE9aT3R1Wm1RVW9xQ2JfLTZfZlk5MEdaNDhSVHowa0lFdU5pQ2VYeF9aRnFEa2w3eHM1QVlZbVFoSWc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790610723719
-    },
-    {
-      "id": "news_NATION_TrumpBroughtVenezuelanGoldtotheUSbutRefi",
-      "title": "Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaWdJX1Y0cDdzTFJsd0t4OGdoZWVJWlMyYjdNRS1qazN2ZjRpU2NEcGJ3YmNVczVyVHo0SkczQVdfaHI2NzRDRWdOalJaT2ZNTUtlRzFjSWNTNGhvZzNIRUF0MG1yU3ZtYVF1ZWxfYnlrU0EyZkFUdTE1aUpJdDJuVw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790610723719
-    },
-    {
-      "id": "news_WORLD_PopeLeoPraisesEuropesDemocracyDivergingO",
-      "title": "Pope Leo Praises Europe’s Democracy, Diverging Once Again From Trump - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDJOUG1VZlI4cGxhckVQbFRxZzV2eEMxZDRtNDhpS2dsVFltT2l3WDZISjRDOThmMndYWXc0ajJhd0NUWExZZ0NPSl9FQTRmS1NxM2tfMXBCS2diS2VwRUx5VkxHeFdGN0oyWmRuMlc1M2ZKVUtrYXFCNHBIMWpiTnJwR09Mcl9yYTVEUA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790610722797
-    },
-    {
-      "id": "news_WORLD_Evictionof87yearoldsparksprotestsinMadri",
-      "title": "Eviction of 87-year-old sparks protests in Madrid over housing crisis - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQazBoOEtvYjlGdWdzRkZMbl9jeXpVUE53TkxiajM0ZHg4YkRMVkVRRXJxZU9GalBPU1o0UjhHTFlHRW16YTRpZ2pFcGlrM1ljcWlSdTlmV1hNQzkzU0tLb2o0VElnSWZLZWtTcXkyNEZ2enZVbkhmblo3ekMtZDAxdm9pRFg5ei12WmUya2tB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790610722797
-    },
-    {
-      "id": "news_SPORTS_MikeVrabeladmitshisconcernisveryhighforP",
-      "title": "Mike Vrabel admits his concern 'is very high' for Patriots after Drake Maye commits 3 turnovers in ugly loss to Jaguars - Yahoo Sports",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQOF9Jc2MtN2V0Nk1LdkVIbWk3SHU3b2dfUWYxS2RsZWpibmRiUFliTHV2ejE4eFZwOEJ1WmFLSjAyUlFZeVJNN2dldnQ3NHdLRnRfbTJCSExhTnV0bXN6WWdzR0tmTHFIS3d6ZWtSYXRIRXFDTk9UeE1hSlFicFRTTkFKOTRnVlpiVXBIVFZ2WHRsM0pHb09LcE9ORUJQeHRHaUdjWkFza2xkSllTNU04ZWdqY01NYjVUNFVsSFRXSWpRdFc2ZXIxSkpITmc3NmVReXRrUFdzdlQzUml0Zjc4R0RERnFEdkpJRkcxZzVzeEFiYTJjWXhIdVVkakNfb2Y1Mk5IQVF2M3FhTDZRdjg2aw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790580782764
-    },
-    {
-      "id": "news_SPORTS_HowEveryNebraskaPlayeronOffensevsMichiga",
-      "title": "How Every Nebraska Player on Offense vs. Michigan State Graded Out on PFF - si.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLTd2bHFQOHI2Rk1xdHVHdzJLcjVCcGo2UkFaWUtjeHp0ZEdpV1R3UzFOR1duLURKZnBMWW9yc0t3NkJqY0dyT0NvQ1E4LS1kZU9jY2RYMlIyYXU2SWp2THd3YmlySV9wLXR6QlhzaDVJbmtvamYtajl4cUk4OUR2Vm9aN0MtQ29WczN6NzhObnBuX3NkV2FiUzdJTkVPaEI4WGJwTExsWm1WelZEXzVsVDBBSWlveHdL?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790580782764
     }
   ]
 }

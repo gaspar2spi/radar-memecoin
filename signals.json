@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-03T23:01:43.057914+00:00",
+  "updated_at": "2026-10-04T02:32:02.425695+00:00",
   "signals": [
+    {
+      "id": "news_own cryptocurrency launch_TheNewYorkTimesPresidentTrumplaunchedhis",
+      "title": "The New York Times. . President Trump launched his own cryptocurrency just days before his 2025 inauguration. The New York Times would like to hear from readers who bought the coin last year, no matter the reason for investing, or how big or small the am - facebook.com",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) + lancement explicite; figure tier-10 (ye) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTJhSWJlLTNaTnVEa1U0UWt4cWVJZlNva09RVVZCdDNrazY5RFJuX2lETmVIV3J1ZEpZSmFrYWEwRGJTdUREY1Y2eFpDMm50MU56XzJaTUZ6OEVPTWljSnJmRDlzUnpsZ2ZXVkxRa2xoSm1WWVh3dlV4UkJRSUFxSy13V0g1WVF3U0xDTUFqTDVuTExCbG1oM0MxcWxpN1VaSlVxN3Jacw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791081101278
+    },
     {
       "id": "news_TECHNOLOGY_NvidiaShieldTVProisnow299a100pricehikese",
       "title": "Nvidia Shield TV Pro is now $299 – a $100 price hike seven years after the Android TV box launched - 9to5Google",
@@ -1067,6 +1078,116 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_ENTERTAINMENT_Bravefromthebeginning20yearsofFridayNigh",
+      "title": "‘Brave from the beginning’: 20 years of Friday Night Lights – the sports drama that dared to be different - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLVY0MDcwWXVZZEVscENiU3RSakN0ZTA1Rm54ejllTC1UdmhrUGRvbWJ4M3pHT09XeGtMRzlORFl5RzRuZmh5a0xUaThFZTlPZmpqVDR4LWxCdnhJNW1wNjhvV0NYNngzYXV1bVoydmM1ekJCNUNGRWRicjBsNmRyeDNGR3JRMXVmUFAzbEdhNDFBcVpSSnFxclZTOVlhUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791081093364
+    },
+    {
+      "id": "news_TECHNOLOGY_SheleftVegastoliveonaBlueZoneislandwhere",
+      "title": "She left Vegas to live on a ‘Blue Zone’ island where people live past 100 years old - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FQnk1YjNKZ3VndElvSUtsMDA2MklrS1ZmMG9ldk12aVVoaTRpSGg2cV9PMjFfUHZDcUhhMDd1RUFWa0xBN01fUGV3YklwTUd4dkNNeWdkM2ZmVlRZOGtmV3dBUkhVRy1lZFduekpwbnlfVEpFbHFz?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791081092623
+    },
+    {
+      "id": "news_BUSINESS_Popularcookiechainabruptlyclosesalllocat",
+      "title": "Popular cookie chain abruptly closes all locations after years of rapid expansion - Fox Business",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONlBvT0s1X0ZWTkdhbjBiZlFKTkhZU1lYOXUxSjdJQmo5UHVES3pWWVdGTFlIUmtxa3JxUF92QjRfZmJGZHcwOXBuMFNfcERQMk15S2RJeEh5WmtEZ0V5UnhkczVfSk90VmFPemxoM1oxZGEyMWt1OWR4R0Vqb1R4MHN1ZU9XcFhSeTFnRktEdEp4Tjg4TUZ1bi1XaHZoMlB3VXR5ZUNSTjRSQUZSZUJXMDNzM01UYXfSAbwBQVVfeXFMUEptbzhkZ3hqSXRlT29JRG9fR2MwTHFReEpxcW0zcXJ4bkxWZ2RkQzhXbWppRV9VN0o0MVpWV21JbFBXMHlzMk9IQnVGVnVldE9TblNKRmd1eG54N1BFV1lwbW5LY0lhSTVoTjBhZWg3MUpZbTJiWkFmbjBUY2dBNVNoVEJZZ2YzOFM2ekotamJPeUZxYWZtb1hQMXFDVXZEdnBLOEFRUjVhQVV3T0prVU1GLUZkTUw3akEzM0s?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791081091809
+    },
+    {
+      "id": "news_BUSINESS_AfterOutcryMonitorstheTrumpAdministratio",
+      "title": "After Outcry, Monitors the Trump Administration Tried to Scrap Return to Sea - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbkRaaml6ZGxhMDhBcFRUYlZZMk16OFBDX2dqU096SHlEZU96MFhCQl85WXJPb3F1amZ4XzVLQ29RZXowNXcwTllzd0pUVzdQZXUzbWs3RHBYLXFrRUpnQlR2dzhqOHljWVFuU3YxU0NsQzNRNXVYNkZBeTVfbmppdHYxaGZ4TjNOS3FUeTBRVm1haXRNNDVFMG9OSXk2clZ6T0hTNEpEdFE3cTFoelFrR19GVVdhNTctM3p1ZFVETnU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791081091809
+    },
+    {
+      "id": "news_NATION_TrumprevealsTomCottonsphonenumberindayli",
+      "title": "Trump reveals Tom Cotton’s phone number in daylight saving time standoff - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRGp6MjI4cHhDUDBqblFvT01fcjlZb3pXMXRKODlaS0tIZ3MzZG9xR0hVSWpveGVRSW1rU0tmQXFwSUxYLThkM2gzYmk3NVJZM0lMRnZ0NjVNUTNnRnRxay1Nb1hENmxSaDdVUmxMZXdfR0Q1N2lIVnppejRrejZ1WFRTZ3lKVVp1S3kzUmZxOEFsTGxQOWNsdXVZNURqWk8yZFJuaW5fSU5GTExOWElya0FpdE8yM01OQzNwMm1SN2lhZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791081091122
+    },
+    {
+      "id": "news_NATION_Trumptogive90toseniorcitizensforMedicare",
+      "title": "Trump to give $90 to senior citizens for Medicare premiums - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0Z3B5cFM5THl3QmlWc2g1Uy1LLUEzczJBNllYVl9jSmhENUUxRUxqdlpPYmFIQjN3aFdUa25mQWUwMmpkRlpPOVRDMk4zaVRjczBDV0dQVkVoV2NsWFAtSTBhbEpncGhWdGItbWs5dnY?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791081091122
+    },
+    {
+      "id": "news_NATION_GodMadeTrumpamongpresidentstaxpayerfunde",
+      "title": "‘God Made Trump’ among president’s taxpayer-funded midterm ads - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZUFXUjMwaTlDU1c0VTducUVkQ3Ytay1kNDVTZFlQVkE2ZEpJMHQxRUlHNGhROG1YS2J2LUxnQ280aFhic2M3SURkZFMtSnJudzNRcVpkYXhIY0htMkgtUGRqQnh5ZEo1QXdIalJsM2xFcWI1OTBmOWFrdU1SNHEzbl9wWVVVdEdJMHRqNlVQTThUZ3pGMXhBMmh0WFJkNHhkZG1lREFqa2lPelp6MmpGYVRydw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791081091122
+    },
+    {
+      "id": "news_WORLD_YemensarmysaystargetsHouthisinhundredsof",
+      "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700 - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JvMzdKWGlzOXIzVTV3Y2E0ajEza2kzSE5icF9wWGJrTC1Sc051Y3JYNEVQZlo5YmVIZS0zcnZ6b3Y5Q0E4dTQ1SFJ6YTQwOWdoYmlUSDNBTjd6Z3RrQ195Sk12akk0UHludWJMZk12ZWgzUUphOVdrRU50bVpnMjh4VEJpN2xkWThvdlJvWHZtd3JSZmN5d0tUZ2RCRWpRak4xSdIBqgFBVV95cUxQMXRObHY1T2JOSWZQMFZ5STlNMHZyYzc3MmFhQV9RaDRWLVdJTy1KLXNLckY4cXVqSm5QWnJqcHdWaWxBckZzU2JKNHRBV0ZzS3VPZklOUTVUNkg4UlU4c0pCTWtLcDhwbHl4c3ZfWWlWU3R4blZaTFVnZ0hOZElILXYyRzZldGpjY3NCZDZXU2VuVWJGN0pmd05tWm1jUTd6WTBMeW5Xb0c0UQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791081090376
+    },
+    {
+      "id": "news_WORLD_EuropetoreleasedieselreservesafterTrumpr",
+      "title": "Europe to release diesel reserves after Trump request - DW.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85TWRabzE5TFpBLXhla3owSmdFV2ltcUhyeFJwQjVlaVl2T1NES240V3JKemFPVnBRYXp4V3dGQ0h0TnQ1X2VBZXRLamtNbjVtblRZQTZpblVzOGNsaHFpQzNsNDUwTXhUSUNfaXdMaEFSd9IBckFVX3lxTFBTZVdtVDNsQWJkbkh3Qk5oaEVKZUllR1kyeDZYNTRrYXNMNWVUYXdYU3BYT3I1VWRtX18yeGI5bUZQaEJSRlZodEEwRjJrWjNuNGlLbWR2bEM0aG9yVldaS2NVT0EzWTZhSmQ5UklWOEdSQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791081090376
+    },
+    {
+      "id": "news_WORLD_RemainsofBulgariasCzarSamuelreturnhomeaf",
+      "title": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdDRqRVpOd1hjNWtKRzNuN2UxbGFTcnI2eUZsX1RZdi1WVzFQYUUzUk4xMGVUNGJZYmV6eWlidGg0d3VBTklYMFVuVUs2cnBpMkdHNDVKc2FXNkJUcnRFeF9kMUFkdGVwQ0JXaW94ZFhHNTQxWWJkMmgzcmVCOWpEaFhUVnYzNUljNkNUaTlKNVE1QkY1aVA0b2wwdzA4d3FwV3Vvb9IBqgFBVV95cUxNZE51UDRkQU55NzNMQ3JTcExSY1ZJdUg0YVYyN1h6NUZKcmNqX1dLM3dCcDRwS3Jiek1wbU51LUtuMW9pdFZOTG9IYUE4TmxHc3c2NEpaVDF2dkdGUlUydnhjOWpscXg0b09Ua2VodTZWU1Jha1Q2bms1MnRpLWxfQUwtN1FmQ19xQ1RLcEVFT3hHN2hodGpjbFJmcUEwSjNmYUh2TFZWU2YwUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791081090376
     },
     {
       "id": "news_viral scandal internet_ThisPicOfDonaldTrumpsSituationRoomAtMarA",
@@ -5379,127 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1790688405921
-    },
-    {
-      "id": "news_NATION_Whatvotersaremostconcernedaboutheadingin",
-      "title": "What voters are most concerned about heading into midterms and Jack Smith faces Senate GOP on Trump Jan. 6 probe: Morning Rundown - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQamgzcTFvN3RFVnpXT0J4MWJzSGpOS05rVzJiZVVUbXR5eGFURHpvUmcxZmRPS19GRkxjM2MwUHViX3owSE0wbldSQ2syUzFwdDRwZklzNGhHajdrYWxCcGFGcGVMQVVfMTEtVmZldnNnWGVtekxmdXNVQ1dQMUdSM2lQWW1Wb0ZtQ01VT2NzYW1SSUhfLVg0Zk5sdkVNRTM1c2o0UGg1LTBZSEdxUUVyOGowV2cySDkwMlE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790688405921
-    },
-    {
-      "id": "news_NATION_IranWarUpdatesTehransaysitexpectsUSrespo",
-      "title": "Iran War Updates: Tehran says it expects U.S. response to cease-fire proposal already rejected by Trump today - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWE0SmFYMGplRWp0MEtWY3Fia2dlSW1QTEQxa2hyQTBHdE9MU213SFhMRU5EaGZQaUZSV0hlLWhjWWpZMHFuSWQ0MjhlczBvbVFvSkVNRDgxT0pHN0dOd2l0WS1TNGE5OEpiWG5YODg1cDRXZnpjZXBVQ1c3SXFJTEFxYjM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790688405921
-    },
-    {
-      "id": "news_leaked footage internet_UPDATEGTA6LeaksContinueIntoFourthDayWith",
-      "title": "[UPDATE] GTA 6 Leaks Continue Into Fourth Day With Yet Another Gameplay Video Amid Radio Silence From Rockstar - IGN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (leaked footage internet). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ2pPdVNfZlNRX3gxdmx6X0NGNzM2a3N6WGFfYzE3dVNIMjlsMTBOSEZsTXJKbElGQkc3U0pHc0xHblBTVDlUT1VxV2hYYnQzQ2FMMy1UTmxWQUpqMl9zSXBNTDQ5TmhIM1NGYWtvU0RkanE5aE00S09QZFc2bkQ2Q3lZeGxUV2YzU1BlTzFEX3JrMlVOTTRzY1VhcElrOC1sNUhCRjZWVDVJazRqQlVDeVBlZEh6RThSSkNMbEpCOWdOMHFvczFEelo4dzNFSVJsNDh2a2pFdUN0N0xjYXc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790664739413
-    },
-    {
-      "id": "news_crypto coin viral_WhatIsGORPCryptoWhyThisViralMemeCoinCoul",
-      "title": "What Is GORP Crypto? Why This Viral Meme Coin Could Become a Serious Market Player - Bitcoin Foundation",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (crypto coin viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdGd3N2U3cmFnNjNtU1BhZWdESmNVaC1BcnNpUDRmYkhjc1UtVUFsYmVrN3lBOFJRWTY3Y25UcVI3cVZzU3pvTzk5LUpTV0dXM1h6WE9tZENFcW51TXFCZThwa3ZXNHVUSnlfVHB2Rm5ITi1lZ1Y2U1VycFp4aTdsb2FKekpZRXktSmtJVDNhQXdUc1lxclZpWVhVdVcyUmJXMDVNRzFQTlJ5ZEx1VjZRWjZ6YTk2T0o3ZnhaR2t3T0pLWGM1?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790664738259
-    },
-    {
-      "id": "news_SCIENCE_ElonMusksSpaceXStarshipendsflightearlyaf",
-      "title": "Elon Musk’s SpaceX Starship ends flight early after first-ever orbit of Earth - WANE 15",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSmNSdVFxbm0tN19Mc2Rvc25oM3p2U0hubzRaY01KN3p1R0s4ekt1NjVqVkgzeUx2TmVpVVc1VE9Rb0tUUlVDcFQ3TXJTVG8tazU4OWtXVlpmRWZNVml0b1BwUTBrQnlIZnJZNVoyM0tfNGZzQUdyX0J3WjdFbjNONUNUcm5tb2NfVXRyTXlLd1ZpdFRuS3ZrV3NfMVFsUdIBowFBVV95cUxPZGRLRmFSVFhVWWJMMmRvSEpiTnlfNFc4Wjl4a0xlSmpGMDRTWlliM2czOTNBYmR6UHpqYnlQMWNCbW5TOXQ2b29tTDNsVnFHMFBFdXdfYzg0VmdzZEdPOGt5b25lX3R4WDNsNmJnOTRuc0V5eURIdDJ5S2RQdTVtcU9USXpiWFZjWHpwMldQQWZYbGJJc3JBRjIyUmw5V2ZyVl9j?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790664735208
-    },
-    {
-      "id": "news_SCIENCE_Experimentalevidenceofaltermagnetisminal",
-      "title": "Experimental evidence of altermagnetism in a layered material opens a promising path toward future spintronics - Phys.org",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0VRcVhreUpXd2dGV3hFdUpMdXJmQUZ6QjdONWdVSE9QVlh1UGRLMVNWMGp0cTQ1aXdJdDl5QjBVQlhYZmtTN0JiMWk4MEdHSVVOYXFjUW5BbnpwelZqVVlCQlU3UDZrYmtTZ3NvaUdwanF5VFBldjFERUxYV1M3LTd5STdaMVE1dV9ZOTRNZTN1dw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790664735208
-    },
-    {
-      "id": "news_SPORTS_Bears38yearoldbackupCaseKeenumrollsbackt",
-      "title": "Bears’ 38-year-old backup Case Keenum rolls back the years to ground Eagles - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTnRsNHViaVBQYlJmZWdzakdsUzlMLS1pZnRkSGQzb2ViWGlVQlRaZk5DWmZVTjF0dmh0REh1enE4QjEyUkZvQmFIbGtuUHA4OFh0S2N6SnVXVVZrODc2eHRRSlBJdWg5QWRCazd6MGNVb3hLVGZoUnFMS3FmUXYtYkNxcTR2aWptSkdfUVB1cTlsV0hxVzJCandmX2Q?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790664734489
-    },
-    {
-      "id": "news_SPORTS_ShieldyoureyesfromDeshaunWatsonsPFFgrade",
-      "title": "Shield your eyes from Deshaun Watson’s PFF grade: Browns offensive snap counts - Dawgs By Nature",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV3R3bDNXZFVkQVNOby1tMHNsWkEyZDdjdGlsN3FNcXYzaWFNbUdOWUVqSDVJa3ZlR2xwd0xZM19OV2FnMHZVb2I0aEpVR1ZwQ1cxMWZueW16QUFKa2RPSEVKRTRIMnNRZG8wc0k5Z2JnWEQ1Q29hY0JqZWpPYnZCLTZ1MUpPcXQ4a1VLYmxBTzNNRENRZE9qeGdYZklKOUQ4NEo5WXNDUUJDZEZiUGg1bWNYeUNhRlRQeElmaVJxTDMwUl9ZZDA5UUF0bklvakhLYWdNRmhB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790664734489
-    },
-    {
-      "id": "news_SPORTS_FantasyFootballWaiverWireAdvicePlayersto",
-      "title": "Fantasy Football Waiver Wire Advice: Players to Add, Stash & Drop (Week 4) - fantasypros.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMncxNFRKajlpWG84VzZkTHZVZjNCSjV1Q3ZYcEhQUWhHaUY4blhGLWt6UFJIMjdjX2x5WEFDY1Qwd0xzSjA3Yk1WX3M5VG5KSlp5UlMtbko2eHExci0tRkl5ZS1kUmh6dGxiVXdxX2hDU3VxczVJeEM1enhVNmRoUk1IYmVMNlJvelB0MlhMTEJsdXF5T1U5aTV5dkMzcVR6dFdBSTNVZW7SAa4BQVVfeXFMT3VBNzFTTXZPNnN4SW5DeFFlVHhLcmtuci1XRmhjZ0RVbDBaQnB5aWI1NHk4dlhnbGh5dmZSVFRFcDNaZW02Y1FuTEFLbWRfUjR1cjJFLUNKblB6aFlnWUVzOE9EWTlnVzdrenQ2X1lkclozSXV0SUZYNTFPS3hDMkM4a0N2VE5SREFla1M0YmlnWVdkSE5USVBWVDVPdHNucWlYSkxDYVZmZ0o2dklR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790664734489
-    },
-    {
-      "id": "news_ENTERTAINMENT_SpiderManBrandNewDayEyesRereleaseWithUns",
-      "title": "‘Spider-Man: Brand New Day’ Eyes Rerelease With Unseen Footage - The Hollywood Reporter",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZkVHcV9jT1hZelVBOFJpdFRKWVhMZ1ZLRG5LLV9qUU4xV2NQVnlmM0x1SWtOS1RFMGRiZS02bXdpTDQ3eVI3Q2tUR3hIUzc0NmtJb2JwbWR0X0pXeTFtbm5IR2xQbTFINE5yNE9sRTRWOVVDZTNxWXpIMnk1LU5KVjJSNG1qUk1FdHBkVWVHUGpmMTF1Rk01al9BU1F1clpWb3Zka2ctdzJtOUdkWnBBR3kxVC1CQWNTNzFsYXdR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790664733772
-    },
-    {
-      "id": "news_TECHNOLOGY_GodofWarLaufeyPreOrdersOpenTomorrowSepte",
-      "title": "God of War Laufey Pre-Orders Open Tomorrow, September 29, as Santa Monica Reveals Faye Fights Nothing Like Kratos - Wccftech",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMExpRFVTZTl3WFZWWXlmbXZfNlVSYlNNMTRhbWl2WlNYaEVSR0h4N25rUF9aNDBmSnp6M3ZacTZLbEo0a2lmblhRX1E5cWxTVGRpclkxSUlNQ0YwMElVMjNDM1kwalJmby1CWjI2MFlrbEwwVi1OXzQyTzA2NG0xd9IBhgFBVV95cUxOdmhfWXdaY2NXSG80Tk5udFYzVWE5aDdTaTJvcU5YYVJqT0ZWZFVYa2hjNXFlNGd6b1lYdWJsWGFOb2pVei0zLWJfTlJVaFhnbzA4NFVOSUd3STNuQWFvVHBnS2hvLUplTzlOQ1BfbTRLQUNNUEhoLVRtTmdsWTBsYWk4SHdQQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790664733059
     }
   ]
 }

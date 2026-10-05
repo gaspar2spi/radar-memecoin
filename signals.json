@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-04T21:35:25.917088+00:00",
+  "updated_at": "2026-10-05T00:08:12.556812+00:00",
   "signals": [
+    {
+      "id": "news_WORLD_Yemenigovernmentlaunchesoffensivetoseize",
+      "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis - Reuters",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791158854407
+    },
     {
       "id": "news_NATION_TrumplaunchesSuperIntelligenceForceafter",
       "title": "Trump launches ‘Super Intelligence Force’ after calls for AI slowdown - washingtonpost.com",
@@ -1111,6 +1122,138 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_rug pull crypto_WarrendemandsinvestigationintoTrumpmemec",
+      "title": "Warren demands investigation into Trump meme coin - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (rug pull crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0RoTS0tTnJ4NVg0RGRMT1pPczBRUkRFeEotOWVYYTdZQXA5d2YtRTN5VWRENzVIZHJvN19mOUJvU2NNSjFfcHJ1bjgycVFCQjNOOUEwUFNkR0NhY2hXblVZVmd0c1JEOTFCdW85X2Y2NkYxb1lhWVJ0eEFiMDFldEQ3dy1CVGhjMVEyWVRrZFcwQknSAZgBQVVfeXFMTUlfZXZZcHdvZ002aFJiNjNjRHBCb2Qxa2NBdnQwYkI2NHZGY1IxZDJVajRaTEhTaTdCa2o0S05CRVBLcTlKTGRZZWo1V0FRUlVmWnpONEpRYWU3dWM2VlhSa0t5UnhTWG43THZaQUNfVFJ0ZDJCa2ZIWTBqM05FNnVVMXNjaUhMN3dXanBIclZzYi1YQlF1dU8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791158868024
+    },
+    {
+      "id": "news_own cryptocurrency launch_UndertheTrumpcryptoplaybookthefamilyalwa",
+      "title": "Under the Trump crypto playbook, the family always wins. Investors don’t - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUpmc096bllHcUstWFZXT0hnMnEzRTVvSFY4QURZcWwzcWpQV1dQWktHWC15SHNrSjBSOUZBYy1sUFZ2UmxwaHdEd2gybm90YWs2R19LdlFCRTB0Vzdua0UxSXJ5WjFGY0lydW0xcGtMU0ZXZzUtRFRid2FyTWptQmJmTU1mcEdVUEw2RkIzeXJIUFJ5dHlMUHIzRG51TWtWdVBoM1R2RHYwQ0xvRnR4cDRB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791158866924
+    },
+    {
+      "id": "news_leaked footage internet_ClashOfClansKnockoffPopularInNorthKoreaW",
+      "title": "Clash Of Clans Knockoff Popular In North Korea With More Than 40,000 Players Online - Eurasia Review",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (leaked footage internet). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVzUzdk1LWTlHZGNreHJhcVRBbTQ1OFpWcWtGT3IxTmhyNmplZE9vVUdmYVQzR1E5NEsxMVpJSVFDUE1VeG1XVFE5RElHQ2hWN196VFBtWnBUS3JiLWRaSndabHNCTi1wVE5wOWtHaUpPY1pydU00Z0lITEdpTDM2b3Y2bEJ5SVBLTWp2LWpncnNBcEFNalluRHB2c3dEUEEzaE1PdEg3SGhFX0xKbFR3MkV5RFpJUXFmaTZVOEt6cw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791158864561
+    },
+    {
+      "id": "news_ENTERTAINMENT_SNLtakesaimatTrumpsRepublicanallieswithc",
+      "title": "SNL takes aim at Trump’s Republican allies with cold open - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlJzZzg2YVd6VWN4TTVmcHJ3UGtubk1vNnVqRXRoT2ZESzFsOFl2eHh0YUN5VHNFQmN2aGh3VW8yclp3QnJrYUhzTm1UNEFtSklkTmtNYTFIYW1Zd0dCVXFiLVA2dWdlMTRON0RlcVQ0aFVaVFR4QnVTQ0RZQjFFUzQ4V2ZPdVJFRi1jRENRa3ljajI1YkxrVVVUVWp0YklRak9ZVWlZN3BUZ0QxbUVCZ2RYNA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791158857964
+    },
+    {
+      "id": "news_TECHNOLOGY_TherisefallandriseofportableMP3playersTh",
+      "title": "The rise, fall, and rise of portable MP3 players - The Verge",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSm5QU3RJSWZwVDNHU2xIdHdnb00zcEZyVlpic29wWVBqSzk4bjlld1Nfa3RyR2E2ZXdDNDI3N1J4SVFrdUVmQ2ZBdDJaQ3dmbVNkT0dmVHVSaUM2a0dIekpIZlBhTzFJM0lITmRRd1FIYlpWdDFoRW9KU2pnQmwyMA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791158857086
+    },
+    {
+      "id": "news_BUSINESS_ElonMuskrebrandsSpaceXAIfollowingTrumpdi",
+      "title": "Elon Musk rebrands SpaceXAI following Trump directive - Fox Business",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée; figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMWs2amQzUGhmcDdna2lfTjBlckl3alhCcExSN3oxZzJZbkxnUU9sZUJ4SG1uclZJQ3BRUVluc3JMaU1BZUx4enlaSXZod3RnTUp4bmlqNDVKZnpaVUdyelBJYzctQjdrRUxTVm5Zcm9xUjIxUTlDVm9EdUh4VW16WGdwbU0weTZOc2FDSVFGdXgzUFZ0b2Vr0gGcAUFVX3lxTFBrandJaTNtWW1rMU5KOHJXYzBiYlVTZ01BUjZTV1NiV3VvWXJLTnJxUm5kOGdOeHRVRG9zdlpXR3J2eTdJeU51RGtPa3NwYzZ5UUM4dWxyTzRDYTdERXU1TmgwYVZfSlg3elZBWVdyUk16cG9XYUdxZlBIeTJFRGZ4QmpVZEpqZUVtZEk3LV9wbFZvc1NUdGd5d2pUbA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791158856182
+    },
+    {
+      "id": "news_BUSINESS_TrumpeconomicadvisorsaysitstimeforPowell",
+      "title": "Trump economic advisor says 'it's time' for Powell to leave Fed, calls extended tenure 'unprecedented' - Fox Business",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWVHaUpReFZlSHBPYlBDemFkTHM0cGUzU3NnYm9heWMtUzBrYUdVVUZsN3lpd0dKRmxoZWJKV0xKTDFfWHpiR3E4QXpTMEc4RGlucU9sTEgzUFljTkFBbXM2aW9abU9xQXFYZW00aS1HTU10U1ljYW16YWV4bWJsUEt1OUE2T0NvU0RMamRyd2VkTnhfZzlMSHZwd3g1UHg5d2MyTFVia0RZQlNJdFhVY0VhTngtU2d6TVBKMGRLTnotRTc00gHKAUFVX3lxTFBQVWp6aGZ3ZGtCampSMEp5UXRDVlNFR0JvRGIzZjFFQUVfRnFIQUhueURraUpoYjE1OFlmQjFLLUlwNF9VYTMtcnBQMFBudExwMmN0Ti1FcDFMcWRfLUtDdzRtR0FkbF9EblgxeHpGSktSbHFfYmdoQ19yeG9ENmZkMmZxSVREcjlXMzA0a0ZuWFFybUZyRXRDdkRaaU9ESTM4bjlEcDBmOC1CbW1ITnl1SXRVMVJqRTBlNWlyM2NFQ2dSM0pfY1NFZFE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791158856182
+    },
+    {
+      "id": "news_NATION_Trumppromises90paymentsforseniorsonMedic",
+      "title": "Trump promises $90 payments for seniors on Medicare ahead of midterm elections for premium costs - WBAL-TV",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5eGhndUY0SEJHd1dQaVd0UUhMdF9NWFUzNE9nSVQ2SndSVDRydGh0Z2ZMSEZGMGgtRGh1a2hpdGxMSFZfRVVyeDRLZDA4akZ4RlJXZVNyVGRtLWFDT3BZQXozck4yUWZ0YWw0NVV5ODNPdmthUVFEYjBRUEJyRW8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791158855281
+    },
+    {
+      "id": "news_NATION_ChristaPikestillincriticalconditionafter",
+      "title": "Christa Pike still in critical condition after botched execution, lawyer says - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR09yTDhhX3BhNF9UbW0zQ3BFZy15OERYenpxVFFIVE9mbTVRUHFyYWNmUEVXOXEza051ODcwZG5NbEF2YndoVWNmeDk4UnpScXNfSFpJYkp5OEt1VjI2NTN6WHJ2UEtWelg3Sk1JeVUxemRrVTZHc0oxWUlfX2dzVXI2SGRlTmpUYjJyV28yeEYyT2hBRDB4WURCLUNsTlhha3hNT1NGMDVld0NCcU9BN1JwTVVLVTBpZzdKSE95RW4?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791158855280
+    },
+    {
+      "id": "news_NATION_TrumpnamesnationalintelligencechiefJayCl",
+      "title": "Trump names national intelligence chief Jay Clayton as new AI czar - NPR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XcWRJLUVQZ3ZVTDhReFJONG1jSmtyWkRKbDNWeGJLVEpuRHZNdGUxa0JjN0I5Vnc3S1VVakJaLWlaZS1oT3RhTXA0LWhHdEczTUd4bTlTa2lCU2NHMzRBaG9DTFBENUwtNlFkeE5HdkRWNDVodWFoUnhn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791158855280
+    },
+    {
+      "id": "news_NATION_SenKennedybashesTrumpforgivingoutCottons",
+      "title": "Sen. Kennedy bashes Trump for giving out Cotton's phone number - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQlNsdXhnQlc0T0t6XzNIeWFBbWhJYUgwamQzWk1ic25abGpZYnVLTUw1YmdsX2JuNmlwUkpFUVlBcXpSV1pkanpYei1EbHBtV29kOUMwazhIQkRJTUJDUlRQVEVjVlVscEtSTll4MEYwUEdQYXZmRHl3RzVWbDNWbERmN3FTd2xwN093?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791158855280
+    },
+    {
+      "id": "news_NATION_TrumpaideNatalieHarpplayedmajorroletoens",
+      "title": "Trump aide Natalie Harp played major role to ensure he was properly glorified in taxpayer-funded ads: report - independent.co.uk",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDduNjNZc0dPQzFZcmFDQVQ2UE0tTkVtWW4ydzZIeWl0bXV1U1U1N3o2RkRvOVBUWTlYaW1ZcFgzX1R0WHd3RHROczd5b2NQeVpFYmhacnRnZEMtVmlpZlBtTjFyZk5wdVFtVlVvaFFvSGl1SjVPZWJfSmljcDhiWnY1YU9tZnJkUnBNQlB5NE1NOW9wV0ZxdkltTnVJYkcxVk11ZWRDYmdlc0I2eFNvN0tOYl8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791158855280
     },
     {
       "id": "news_tech ceo controversy_InsidetheTechCompanyPoweringTrumpsMostCo",
@@ -5357,149 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1790721740249
-    },
-    {
-      "id": "news_rug pull crypto_RossGerberSlamsTrumpsCryptoRugPullPoints",
-      "title": "Ross Gerber Slams Trump's Crypto 'Rug Pull,' Points to Report of 'Over 1 Million People' Losing Money While President Made a Fortune - finance.yahoo.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (rug pull crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNVBCUVFTbTAzZFR4cFo1VnlxaWc0R2RoSEJDelVuX2JDVW1oWndXSFY2Y0pxQ1lnNmt2RF9kUG5fQy1xLTZQZUxyLUFRTnZYaGhPYVJkbDUwTDRSckZ2SllvaGF0cU1QVWdRNlZFLTF2dUpqendTUmxza1ZIRDJOdXA3U1FtenYtd3Fkd1pMLUttY1FOclRMUWVMSlF6N0xZLXdiV2FWeEViakdjM29JSXdIM2R1eXZBUlFGNWVaWE5HVHJQb25sMUUtcDRrQWlTQWxVT19QRjlUMlp6LS1Rb2hWZHJyMjZKZlBHWDdpdDRBeDdTT0Y1dWtSTnE4T2lZa2tmWmxpQlc1LVdvVzRwX2NlNF9DbUFiR0xR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790721739074
-    },
-    {
-      "id": "news_rug pull crypto_HowTrumpmademorethan1Boncryptowhenmostof",
-      "title": "How Trump made more than $1B on crypto when most of his coin's investors lost money - ABC7 New York",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (rug pull crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmNRamtUY2NCSExkU0NTTU0ybHlURUlZb051OUFGRXp1dmEwWnl5ZU80UEhSQTBmODJKOGE3NXhya196aHl3TF90aGY1Wk1XYjgyY0F3LWJ0ZjlPbHdneG52cnNZMDZpMUhQYmd6bWxUU1RJNVNrcDhOcWVQcFBfTnlQX0luYTR0Z2J4SmZTTTFEZFFrenhIeFVfZGpFT0QzUXhkbm0zdlN4RVVO?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790721739074
-    },
-    {
-      "id": "news_rug pull crypto_TrumpDigitalGoldCrashes98inHoursAfterSus",
-      "title": "Trump Digital Gold Crashes 98% in Hours After Suspected $330,000 Rug Pull - finance.yahoo.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (rug pull crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXdhMWdTc1VFNW1OTkRTUnpJZzNpdUt2aUpiYnR2Y0Z1U29TNk9aVTh1Yk5NSlQtSlRoR3U4c3VJaXFnZVhsWDRyNDVQcVYyVmRGVVh2WkN0cS1yQUFBU1VIN3JXcVNzNk5NVUl2eFM5bjNlQUlnYklCcDlTWDZiOUplQ1R4UmJtSGdJbUZ2c2hULVMzLUF1Njhn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790721739074
-    },
-    {
-      "id": "news_SCIENCE_BoeingsStarlinerFacesaCriticalTestThisYe",
-      "title": "Boeing’s Starliner Faces a Critical Test This Year as NASA Runs Out of Options - Gizmodo",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0Z1MnBCM2xLSkZOR2hrMW1tWTVrVVg5Mnl1eVBaTUw4REl6TjRGWGFvamlCTEFHQktyUEY3eXByX1lzVXpWazE4R24xY3hFYUItWTRPWUkyNUY4OTZJeEdwTTFMcXhieVA3UlBncG9sNE9ZdlNvQ3dDVFVfZVhTVHFTNHgxa2dRckFCRjVzQjZDZVRva21WWUFwUU5PN05YbGNueWRKaVVvMUpKckE5WURHQlc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790721731009
-    },
-    {
-      "id": "news_SPORTS_TrumpcelebratesSenatepassageoflegislatio",
-      "title": "Trump celebrates Senate passage of legislation to overhaul college sports - ABC News - Breaking News, Latest News and Videos",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcEtJYmRYcWhydXRBbUh2OHVQZVM1UExfLW15OEZnakdNZm85SWRZTHQ1T2s4TnpqbWJKcnJ3X1RUUUdFVWRGbEgtcFg0ZmdWakpqNjdaODIwS1ZZRnoxb1pvRjhLUXc1UkJCTXZXUWs3aExoMEZVNVJKWEJzX3JqSE9kaW5NaDBqbEdHd3dwbkxKb3dCbWhPLXU1d3BVdm5ZeGJpRHpiSGQ5bGk0ckZtVjl4c3VBQdIBuwFBVV95cUxQVEx0N2xvN1p3N3ZuX081Y2JzY0dWdWRmRWZzcV9fSGVrcElaTlJ0WnN5T2M1c2RJNC1ndlBFT2ZORXlfU3ZKOWRpS2lHNTVyR0dFQTFWWE1BYVBNbXZ6ck9MRUtpOFBvWkNMRWI2MHVYYUtGSVNnWkNEZzJYQ1VNM0hNTGlDdWhvWkxNcmhsWVN6MHRkZ2Itd2JUT0NTV2FMLS1vRTNrYmxmbDJDd1Z2SlE4MkQ0eHNuc1NR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790721730146
-    },
-    {
-      "id": "news_SPORTS_GiardiMikesMusingsonMayebeingamesshighly",
-      "title": "Giardi: Mike's Musings on Maye being a mess, highly-paid players not performing and more - Boston Sports Journal",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN3djblBoWkFmbFNCZU91QlJtZUxGRDkyQ2phcnpWTzZjaXNtYkxVWUpLcjBscUZsVVNiU2hVTHIzd2x4dUFkNXUzZm9VOElVNzZuTFRvMmdaMVBBZnYtdGluUFo5NElPRjRJb3J1V05TX1FpT3VGanhINUM1aW5hSURfYkx3alFQMy1MM2dGcVBPZldNajlPaEduNkFuazROTWpFV05QVVJhak0yTHRyQzdsaE90eFpwajJsajdtVjRUZ0FFSFpGM1JCNkI?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790721730146
-    },
-    {
-      "id": "news_ENTERTAINMENT_TheLatestLanternsMysteryDeepensWithanEye",
-      "title": "The Latest ‘Lanterns’ Mystery Deepens With an Eye on Its Endgame - Gizmodo",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNDdBV0xFSDBjdmZNQmNjNUVCUlBZM1B4OV81NjhqZEJZQ1hzcXpjaFlHVDUyX0pVVUk2amZ3Z3VTN3hvcWJGRllIeGNPa3RtUFVnSjFEMFFMZmwxbTlDZDZ6VlRqNnNSTWhfM29sTEdwWXdPYnBsZDNCZTVfR0U4ckhndlA5WjViRm5NR3FYNE82ODRV?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790721728838
-    },
-    {
-      "id": "news_BUSINESS_Disneylayingoffaround300employeesinlates",
-      "title": "Disney laying off around 300 employees in latest cuts under new CEO Josh D'Amaro - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRaHFKM25oUEhJTEV0cUNjNC00WGs0MlpGRVB4YTNGRjJzQ0d6LWVnYWYwWHRDTXUwNGs3dy1KX1JmWkFkR0hmNVhLTDVNSl84RWZUb3o0WmllMFRsWnNNNElpeWtWdXhEdGV5TUUwRETSAXZBVV95cUxNMkVSWkJLOE5jcmktbHN2T2lLMTVFQXZPU1BabnhISldha1hQdDJpY3hwZmhIM2ctdlVCTE55S0N3U1ZGb1RnSDN1ZEF1a211cGliQURXVDFLVmtITjRIRzgzajRaN243dzRvLUpJZXFmWWV6YjdB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790721726998
-    },
-    {
-      "id": "news_BUSINESS_Congressvotestoendproductionofthepennyaf",
-      "title": "Congress votes to end production of the penny after 234 years, sending a bill to Trump - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWxCYmlCSlZ1UzFxVnZScmpjcXR5T1lVelBEX0NZNkhtYTQ3SXV1aGhpSjRrSTh3bFhYNTJ6VmVtYnlWRTkwVnJ6WVZQMEp5SDJHNEhfM2FJakphZzJrdXRIcjR1R1JheElvVWlnak1wMVhYMWk4QmFLQVNXVThlM2otMThkVDhFTXdYMER1TEY2MHFFYTNaa3lxUi00Zk0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790721726998
-    },
-    {
-      "id": "news_BUSINESS_TreasuryWillAutoEnroll60MillionChildreni",
-      "title": "Treasury Will Auto-Enroll 60 Million Children in Trump Accounts - WSJ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYkZENkZvVmlZTEtzRTZGaWpZbjVPTWxpYVAzUlJWQ2RjYndiZDdKRTJsR2ozcGdnWG9NTGhaamprSXpxbXllOWxWMXV2ZDFUcGpGRnY5X0owSTZUQmVpdjlHaERxMnlUQ0hiRlVCXzJpWEw0b1pzTzYwS0N6SHNZd3pZUzNBaWZvMjJ2ajdxMjl3QXVTV2gwUnBsektfYWdD?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790721726998
-    },
-    {
-      "id": "news_NATION_HomelandSecuritytaps20Mintaxpayerfundsfo",
-      "title": "Homeland Security taps $20M in taxpayer funds for pro-Trump ads - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWW9HbDVBYV9QNnNzcjZRMEdQNms3aE84ZWJsVTFZVVVFaWJ3UWdhc1p2Vi1TczlFZzVpaU9YUWMwdlJ5VnhnSGVJYmtrYWV0UVhPekt4WGx1RUpXQS1hMDNPQWpTb3Fsa3hfd3dhQ21rWFhoN2FJcl80MWRCRWpMSFlSZGlxTWpuTDBoODFKNEhkT2JfRG5qZ09UdndzcFVMc2xWeQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790721726123
-    },
-    {
-      "id": "news_NATION_WhattoknowaboutChristaPikefirstwomantobe",
-      "title": "What to know about Christa Pike, first woman to be executed in Tennessee in more than 200 years - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeW1RVXh5RVdIR253ZEZQVEpVMW5iSFdFUlZZejNYVktURWZpY1BJZ1ZUSTdhTzFhbmREUGJzUlBYbk1ORW5meS1wQmlMbDl3VmRacHg4WXRLLUs4NjE3ZVdIQ1lwMXliVGpsX0xSc1FqeS1aNUtPS1pyWE82Vk83OEtYaG1BYm1IQ3g0cl9tdnhKN0V3Z1BDMDk4dFo?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790721726123
-    },
-    {
-      "id": "news_NATION_LoneGOPsenatorblocksbipartisanefforttopr",
-      "title": "Lone GOP senator blocks bipartisan effort to prevent Trump from demolishing Kennedy Center - cnn.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBraU05enpaa0pNOWhEazAzRHFLVjRVb1p5U1pOYnhOaFpPU2dwaEJmcnhkV3Q4UHlscWZDTmpSTkxIWVpGOXNramhEX09JTjNrTmJjZUJna3F2VWZlWGFESzJmT3NwVWl3akFBc0Njdmh6S1ZLemJr?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1790721726123
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-10T18:54:56.230470+00:00",
+  "updated_at": "2026-10-10T22:07:59.030482+00:00",
   "signals": [
+    {
+      "id": "news_ENTERTAINMENT_LanceBasssaysNSYNCgot35adayatheightof90s",
+      "title": "Lance Bass says NSYNC got $35 a day at height of ’90s fame: ‘After years of number one albums, sellout tours’ - Entertainment Weekly",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yUW5nU3FPVzZkWUxFdDAtTXNqYnRTdjd4N2JmX2Zzb3lKTFBlTFA3WnFQRVBSSDFKcVkwa0IzajN2Zkk4cml2WkhLVG5nTjdaM2s2amhiX3d3ZURnNEZrb0RrNFlGbEhQd3BnN3NUaDFrV1ZKalkzMmEwZDRrRk0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791670050387
+    },
     {
       "id": "news_TECHNOLOGY_FosiAudioLaunchesDAPNeoDigitalPortableMu",
       "title": "Fosi Audio Launches DAP Neo Digital Portable Music Player - Forbes",
@@ -1188,6 +1199,83 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_tech ceo controversy_InsidetheTechCompanyPoweringTrumpsMostCo",
+      "title": "Inside the Tech Company Powering Trump’s Most Controversial Policies - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjJXY3hTSTFTa0YzOFpvVXpIWFdnU25iT250aDNILUZHREtBM0d2UEdUMzZVWFJDd2FFeGVNekx2NlhhY0J5cEYxbFoxR1Y4S0VSdUltSUNSeC1HQVNjTVJpemdPa2ZWWTAwTnhWbURaeFBNNURULVlYLThVVFVqV2c1V0hhV29LQWVJajJLZmo?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791670069508
+    },
+    {
+      "id": "news_billionaire announcement_Trumpaccountswebsiteisunveiledwithbillio",
+      "title": "\"Trump accounts\" website is unveiled with billionaire Ray Dalio as its latest supporter - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NcFhabEg0LU81U1FONnRSRFZTc25UWWszRUE2ZWltRW4xV2s1ZW55T1hHcEJMUmN2LXEzR0pNRW5PV3hlMGhLT0g3WVlRZEJudkhfUzlqdUFYVFQwWXN1R2ZRRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791670068288
+    },
+    {
+      "id": "news_SPORTS_GiardiNFLNotebookPatriotswillhavealotofo",
+      "title": "Giardi: NFL Notebook - Patriots will have a lot of of eyes on Bowers; plus, Eagles falling apart? - Boston Sports Journal",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRk5tZzc4WS1aemxYbnVRNUpPY3JQU3RTTnJpTXZSV0xWdVBlMko0TVFXNzlyVU1qRVJHaWlwY0JlSzhqdk1Ocm1waG9UWkItSW9oZlB2V2dWNmVCc2o5TTN2XzB0Z3otc2xXa1hhbUE1bG9YRm1KQlZETExNd2tKUzhyLUlNWFJ6OWNvTUNVTW11Y2w0emQxUDlyNEItRzRNbjlXRDRGOVA4V1U1d2thZGhSUjJTcjRoQzFZRzJrZ1h0NV80ci1oNmYxQ0JTOWZfNHpHeVNjTQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791670051284
+    },
+    {
+      "id": "news_NATION_TimeforUkrainetogetnewpresidentsaysTrump",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKbVFFOUgycHh5RmVhUzkwNUtXWVNBLWJSU0d4U05vN1RmY3JZb2xmM2lGbVR1OVctcjdRRS1KQzQweE91Wkx4QUNPdGQyOWpXNXlrQVNUVWtiTzQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791670047726
+    },
+    {
+      "id": "news_NATION_MoreThan500TreestoBeCutDownatDCGolfCours",
+      "title": "More Than 500 Trees to Be Cut Down at D.C. Golf Course That Trump Wants to Redo - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2V0akJDWXJ1UDlFYzlZT0Eya28xdVk1SkZ0U05GeFhQLTRmSEdTeS1kdU1mOVRXRklXNG9CbVYyT0pRWEx2VGxGaDJqd1pzTzVhZ1Fzb0NBVjNRbzN5MURocEZYazFSaTJfcEdvR3dUWUYyZkdYMFNkVFFPRmVYeF9aMEJSd1BaVEE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791670047726
+    },
+    {
+      "id": "news_WORLD_TrumpsaysUkraineshouldgetanewpresidentas",
+      "title": "Trump says Ukraine should get a new president as he blames Zelenskyy for US diesel prices - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVE9mQmhMWU5BTVNON25zTDhzTlBzU2VKMDBpa3FmcTI2NE5qNWJYRUx1c2dEdk9kTjhoQm5naDZXQTJKUmRaMDJ4WVhvSklpclRXUGxZSl9USUY4SkN2WTFMaHo1bVVDWGJzS1FGWVV6YlRkNlJ5ZVdaUmp2WUd5eUZKbFZWQXdCcVNzNkZEX01YUXZxeHBXZUlTaXdYQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791670046853
+    },
+    {
+      "id": "news_WORLD_TrumpweighsjoiningthefightagainstHouthis",
+      "title": "Trump weighs joining the fight against Houthis after Saudi capital’s airport is struck again - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGZwcDY1YlloN3oyNzFVMFZTcExnWXZqTzVQNEFkNnBoN2xGR0FEWEVjeUU2OVFEQ21hLUtXRzF2WHVnMzFuVUoxWGQzUFBVTjV2cWNmeFhmWTVvQ19iZ0xxV1c2OXRWMjBFOURBSzc2TWlaQUxENnpCU1ptX0Rna0E4Sl8zNE5aRmpNVkhrclRWUFdIcElCMg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791670046853
     },
     {
       "id": "news_election crypto_CouldElectionYearUncertaintyAffectGasGro",
@@ -5412,94 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791250180512
-    },
-    {
-      "id": "news_BUSINESS_IntelStockDropsasElonMuskDealsaSetbackto",
-      "title": "Intel Stock Drops as Elon Musk Deals a Setback to the Chip Maker. Why You Shouldn’t Panic. - Barron's",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRWdaazlPODkxRjNvR2VMdWlxbmMtNW1PWllVYjlLZXpNcW50UVJ5UlNFYmI3Nzd4MW1aN0pidWVWODR2UklXT0diSkx3RUtrOGp5MmdvTEhQT2Q0Z2tIY1FCdkNUcTY0ZnlCUC12U2pjOHBZVFZlM0VWQlhGd2hzNjJmOA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250180512
-    },
-    {
-      "id": "news_BUSINESS_WalmartDealsstartnowWereeyeing25discount",
-      "title": "Walmart Deals start now: We're eyeing 25+ discounts that rival October Prime Day - shopping.yahoo.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX0l5TURUcXVtN3k2bHYtZWUyMlNuSE1KQXhnXzBTQ3B5bTdyS1lWSjlBWDlrYXhtNGlCcWpBcGotQmdTaS14UGU0RVBlY2NjYjB0dFpwZWRmTXAxNXAwTVFScUpFdzNiMTBXdFNyS0oxUHRpWWxwV1BTbURCalF1c2dqYUV4TS1HNlZBdHpvbnVzNkwxN2NlWTUwbU4zWGh4MmszcTAwaGhZQ1BucVVVUFY4NHpXcW5QOVBUakYxaUNNRGhNaVBrdTlQVlg3VWotdjE5VG1VQVNwaHRyai0xOA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250180512
-    },
-    {
-      "id": "news_BUSINESS_Babyboomersarepoisedtounleashmillionsofh",
-      "title": "Baby boomers are poised to unleash millions of homes — but there's a catch for first-time buyers - Fox Business",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOXNrdkVETjBDS3FxLWVVTWdoWXlrV250RWxUcU9kU2hnZXc2UVJ2QkM1N0lEeGdqalAxTHpIVXpSSUNIM0dMaXFXMVZpeDlYclE0U2RZSEhIZENqNC1FWDdHSGRna0dBMlAzZ3B4YnkzaHZrbVB4THc0YUo3N0tucDFacDRfTTRSSWRVSnR5ZHU4UkVPY00yVjBwLTdZWUxuQVhweWt6QdIBrAFBVV95cUxOb0JMcmZOcG9UNHotbG5FQTBoRllQaG9FWEE1cGUwd01heWhiMlBzNWFPU0FlcEtSYnN4UDVZV3R6Ul91WUh0M1FpSnVhemplaU15ZGxQNDFlQWFEY1dXd3VKdVdZQ3VfQ3JKd21tYjNUMGt5N2p2WkZRNEtnYzk3UFFRX1gtSWlYcnRGY0hHc0ZLR2ZGRlhETnpvRmxyYks0VERBTUFVdFA1UWtS?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250180512
-    },
-    {
-      "id": "news_NATION_SenateRepublicanonTrumppostingCottonsnum",
-      "title": "Senate Republican on Trump posting Cotton’s number: ‘From 0 to a‑‑hole in about 3 seconds’ - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVkl0VVBtUTVMQ1Rrdk93NWVBSDJ2N043c2paOFhMSENkMkxDSXBKeTU1bi1PSkZWRFFzeHVrcVM5b3pwd1FMYzdUWDdhY3YwMk9QVktfVW1rTUU4NDR5REdacGQycFVIRV9zcEVTcVFDVFo3YmxONHdCM0w2UmlYSFFvc3Fxa0F0dHZoNUE1cjdZR1BaeEw5blhkVmo2QjgyYUxRUzZIMmYwSENfMzNJ0gG0AUFVX3lxTE9IaGNLdy1ZZ3JpRS1hMS1ib3lZa1B3OURHcnpCcHVSeW5vbmJPMzdLdXF1d2E4YnZsUlowbVZ4QVpGa3J1M1dkOTRsLVdpelp2bnVmVzAza0FMa3BvWlVqT1hPSk1lV2I2SFl4REh5TDRiQi1LZ1NxRUVUcmNwTkRJbmtza0JYc2tzX3VlTDJsdkFlRGZUTl94UHVMSy1CdGxQZ2pxRGtuUkZZcGlYNTNoc2YtNw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250179760
-    },
-    {
-      "id": "news_NATION_Trumpapprovalratingsplummettonewlowpolls",
-      "title": "Trump approval ratings plummet to new low, polls show - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVkpRMEtVYjcyUlVjUUx4RzFpc3NmR0xyUEVxLTI0NDlZbTU0VE9wX3djZG1GYktDNmgtS0s1OGYwYlNlYk9tSXV1SWlFeFNmY0tXOGE0SWZqd2hMUUltOUtiYW0xcU1ZZUREVmN4cWxQd1EtYjNlWHFQQ0tmR0p0MTNfbw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250179760
-    },
-    {
-      "id": "news_NATION_TrumpissendingACAandMedicarechecksArethe",
-      "title": "Trump is sending ACA and Medicare checks. Are they enough to cover rising healthcare costs? - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BazEwYjlybHZ6X0s0bUI1VjJjeHZpMjF4aE1obHFxeWpwYkNIaXhKelc2UlJYWjBSd096UW10T0l3SFh3R3BpNG1yZTVfVVBoNjU2c09XQ1RCbHRuNTJuOEtWZ0N6dXREY1pIWjIzSkg4VUEzLWNKTm1HbDk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250179760
-    },
-    {
-      "id": "news_NATION_ChristaPikeslawyershadwarnedexecutionwou",
-      "title": "Christa Pike’s lawyers had warned execution would be ‘difficult and perhaps cruel’ due to her veins - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFh2STZRNGZjWG1QZUtOclZINmJUTm5zSWQ2X0J0bWlVcGtSMkRXRFZSNTNZdVN0LTdmbWtzRV82Sk5rOGoyenB3S0JBaDdFY1VnRnRDUXdhZHVLRmV5T3Nnb1RSQmlBTHhDZW1LT0FieUVKTVYyc04zcC16dlh3MFVOYWZRSjI2eWRfNzhJZkJ5c0p3dXhxdmh3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250179760
-    },
-    {
-      "id": "news_NATION_7yearoldstabbedinChicagoMomofShavonGayde",
-      "title": "7-year-old stabbed in Chicago: Mom of Shavon Gayden, charged in Chicago stabbing death of Eddimar Paola Hernandez, apologizes - ABC7 Chicago",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb21rOGlETmxEUWtWNldaMnJ6elNHVHh1cUNuZDVwZjdOX29ubXhsOE04TTVva1pLSFBvQl9GdzBzZWl1SHg4RE5tWXM2X0N6Qmd4YkRmUXZ5UVdGQ1dzaUNYS3dMUVNSVzJDV1k2LVBoMnVOREthSE16RGY1VjQ5NmFmOGZ4blBUWlVvaVhjY3NoYzk3U0ZyTm5KSjFlQ1lfQUdndEI3NFN1eGZWNUlKbzhkQlRQWnNvYzlfNWo5RzhfcVYzcjlacUlCV0MzTUd2RXJfU9IB2gFBVV95cUxNMWluTTA0YWlia18yVDZJX0VvTFo3Z05fWXdiZFhWNjdBS1VvYVdmbUE3ZWxEc2h1dDRYQV9tTjU3X0Rqam9qY1ItN21VY05kUXFKdWJEcEowSDNzRTl6U01SdVdxS3UtZWJuZ2FjMDlub1JRblpHVWNKYzMxd0FjVVNKckJ4Q2c1SWVQVGg2cGhYelo1ODZfUHZuMWU4cDV0OU1MZ3UyUmUzN00yLTdkUXFwS3huSnVMN0FjSVJFamoxdDc5UFVpeDJxenJXbFdFcTlNdzNPT0Fpdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250179760
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T22:07:59.030482+00:00",
+  "updated_at": "2026-10-11T00:58:12.561687+00:00",
   "signals": [
     {
       "id": "news_ENTERTAINMENT_LanceBasssaysNSYNCgot35adayatheightof90s",
@@ -1199,6 +1199,94 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_government shutdown_Trumpadministrationsettlesunionslegalcha",
+      "title": "Trump administration settles unions' legal challenge to mass layoffs during shutdown - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNamVuLTZxc1dRd0pOMy1tNmFxRUhXcnJxalBhczFNRzZiRE8wamtGZmVPMmJwYWpQQzJMa1BtRFAzVDdIQi1IcHc1TGFJbmhwYloxNGZpTXdvSnQ2allVMXBMdV9kYTZyR0djZXdiR0tPbTVOVURuNXY1Ul9EY2lmb0h1cnNLa0R1UjZhcExDSFZUMVV3d1hscTRiUVhiVlVIVEFCOVdYazduWldFTTFsUU04Z0tkRUo3dEt3THdvMGhTTG81Y054OHJ0eTk1Zw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791680279157
+    },
+    {
+      "id": "news_SPORTS_AngelReesesmanifestingoneyearagoactually",
+      "title": "Angel Reese's 'manifesting' one year ago actually worked – she's heading to the WNBA Finals - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHR6ZWdVZGRrMTBPLWVXczMzbFZYT0lNaU0yNFk4WEpmYWQ1UmRFcUJBZ0JKTGxBVm5qSHozVG1VNXFVSEFlZHc1YzFxTVg3dlZuNG1STWNyS24yOU1tc2I3ajV2eTJpTVpaLVBOUGFwRGdYVFBKeHBIUUZWd1RUdVAtUDRmaTJqeFZGQVFYLTJuYUJ6Y3p5M3pjcEFMdDVYZktCeQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791680264551
+    },
+    {
+      "id": "news_BUSINESS_ScottBessentrespondstoElizabethWarrenlet",
+      "title": "Scott Bessent responds to Elizabeth Warren letter requesting information on rise in the 10-year treasury yield - Fox Business",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaGdMOFN5dzlrZjlvLUpmeFE0YnZ0QTV0ZkY4YXNmckd1U2lJdm0zWXgzY2o4cXRyd3d6R0kxcU51cjV0RVI3RzQ4aGxNclM5Y2J3bzhad3E4S0JjUmdTMEtMbnQ2MWlRd0ZyOE5teWF5eExrTUt3UjBmUGRoN1lqb3JFZzR4bFFNUzhQUkVsaGJ1V3Y5T0cwWmRacFF4UUdVTVVRM3BpUXF5cGFzN3VXQ1Rwc3lEbDdGcGdzZjREUF85eGF5eHNPcXUtQXliSDA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791680261840
+    },
+    {
+      "id": "news_BUSINESS_FACTFOCUSTrumpsaystariffshavebroughtmore",
+      "title": "FACT FOCUS: Trump says tariffs have brought more US auto factories. His numbers are off. - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcVRfSDVDT3Yyb0ZYRXJ4TC1jS0ZJcG81bXRGSVpTYlNDbUdzTXhFRXR3WHdSTUc2bXJrQ0NKRkRZMFdfVVFyQThydmp3RTR3NTlUQ0hEckRPQTdkSW92OE1iQjQzOXZSNHRQUUpqN1FXZldIWTFpa1FyN3pRREdTQzNtWlVaYjQ4MC1tVVd2RjRCVU9SbTkyZGh5dzVxb20wQUUtZDZOOWFkd1prZjNR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791680261840
+    },
+    {
+      "id": "news_NATION_HouseRepublicaninvokingReaganmovestobloc",
+      "title": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT0ZSVG5SSkJWekROWFF6Q2NVU1lXWGR4c1hzcUZfOTN6NFIzeENYUlJFX0lJb2xTTk1uVE5ITGhPbUJNUlJ6VkJaTmtaNXVYU05uZE5ydHY4bnlUbG5CWXRSTzBzb2ZjdHVhczhKVmpuNEJnZW0xWVlWSXpsRHdGWmYxVjhMMGZNRzhV?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791680261008
+    },
+    {
+      "id": "news_NATION_BillMaher70DefendsTrumpCommentsAboutBomb",
+      "title": "Bill Maher, 70, Defends Trump Comments About Bombing L.A. - The Daily Beast",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdkxzYm5keXBUMDkzbnVPSVBELVFkcnZMNUZockptRkVzSnBHRDd3UkhSNjYyOC1UMUFwUEJUaFBvdUpEOElVb1VJa0lMNV8yZ2lSQ1VTR1NoeTduN3FOMDRrWjJQM3lzb2pIeExPMVFNY1pHWVNka2d5VXZQMDhLYzh2Ti02UVZkVWU1MzlNUkx0UjNEUWxF?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791680261008
+    },
+    {
+      "id": "news_NATION_TrumpsaysUkraineshouldgetanewpresidentaf",
+      "title": "Trump says Ukraine should ‘get a new president’ after U.S.-Russia diesel deal - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVzQyclJRckNHd2JzSkhSY2FPSmR4anpVRzljNUkxVFRlN3JNSnRvTWNqRDJ5dS1HTXJ4R3RlLWNZNW1rRkdZLTVjU0UyM2YzcmRnTHVETXpMYlktam5KR21GLWc5RXBxN2dWWVFjdmxROC0xTFpraEdLQ2dDWER2NW8tV3owVjdBdXJidFpLbUFKR1NKQmFVbXVEVjYwWWRpTnZDX0xyVl9HUC1oVmRiZmp0Z0hSdmZzQWhMOTZubjI?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791680261008
+    },
+    {
+      "id": "news_WORLD_LiveUpdatesTrumpsaysheisconsideringwheth",
+      "title": "Live Updates: Trump says he is considering whether U.S. should join fight against Houthis after Saudi airport strike - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkRLWlFxeDRfeGxUcGJ6dTM2X3l2cldSWlB4MDJIN3lpWXlRUE1sdE8tbHhtQzY5Ul9WRzJ0bk4taEVCOF9JVGkwN2d4S0xIQmJHbmlFZFlDZ3VDdXk1U3B6bHE4SExtTWZIcURVWkFmaXdNZ1QtdWdoNVR3Z2FBOHNxVmFwQTY2TXpUOWlja3hvdXdLekhv?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791680260119
     },
     {
       "id": "news_tech ceo controversy_InsidetheTechCompanyPoweringTrumpsMostCo",
@@ -5412,94 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791250182812
-    },
-    {
-      "id": "news_SPORTS_TyreekHillreportedlytosignwithteamthiswe",
-      "title": "Tyreek Hill reportedly to sign with team this week. Chiefs players welcome reunion - Kansas City Star",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOFB3Y01HdjdvQ2RxdWNVaWlTdW9xdE5Tb2dpeVpfXzFEZGQwNHpWN0doWi01bUJzQlhqUjlRUWhDWm1kUUd6N0ZOYkRzUTBNbTlVQXU5SmF2Y05ZeG5jby1oVlEwcjMybERCMGdNNWQ2Q3BNaXZ3anNfOEJyNXBXbW5uQVTSAYQBQVVfeXFMTU51Zi0zb28wYk51V2QxYnFZOG5Fbk44ZWJqNVI2Q2VlVERwcXZLblpudkg4cDA2TUR5bXdtVzNaWlktcUE4MGQ4MXUxV0FZTjF0SlRNT0xrTzQ1NW1xbEk1OXR3WGJ2eFFiY0FubTZabV9QVFZ2NXlWV2lSSmhjd0VTRWg1?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250182812
-    },
-    {
-      "id": "news_ENTERTAINMENT_DiggerisTomCruisesbiggestopeningweekendf",
-      "title": "‘Digger’ is Tom Cruise’s biggest opening-weekend flop in almost 20 years - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVGNoVlVXSWgwVHJtOEtRRmdIWHRZaG9ROHFuS1JOSmJVSTlxT0dBVGp2UFVORFZQTzlxeTJVbVBzYzQwT0hhUjBFMVBsUzdxMTgtc2hBdEtYRzFKcEtobWJuTHhSZmF5WWFyTUJ1VVdaam16TUNqVXRpV2Nra3JadUJpYktqN2FiYkduRnVwblNTT3dsWTdveFB4SzFZMm9nTWpuT2xJelV1alVURVc0X25FMUxaNHpnaWxZZnlYYTI1UDB1NWVtb25B?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250182055
-    },
-    {
-      "id": "news_ENTERTAINMENT_PhilCollinsgivesupdateon24yearriftwithPa",
-      "title": "Phil Collins gives update on 24-year rift with Paul McCartney - Entertainment Weekly",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3RSNDR4WWJHRmdfX1lRUXFqaWVoWXoxWDJOZlBEM09DS2FJeHh5UWNSNDNwcF9ZTGE3NmVLY2FKN3hWd3p3cW41emdNT25wdEVWUXlBYWRHOHlCSWt6eDhHYk8waWNVVlg0U2RwODZKd3NtWVlYeTY0eGZSNXhROEtEWQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250182055
-    },
-    {
-      "id": "news_ENTERTAINMENT_SNLColdOpenBlastsRepublicanMidtermAdsDon",
-      "title": "'SNL' Cold Open Blasts Republican Midterm Ads & Donald Trump - TV Insider",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODk4UFhxZVpKSklSeEk5VGpDM2FwY0daVVlSbk1wTnlIdHdOdjJ1cHhpMUx1c0ZHanp5TS1qckRfYWYzcEhta0tHUEtJbVhDZGVESVVfbXE3ZnRtX2JHX0pMNXZUOWV4U0lncWQwRUxjUEFoSlJRVU5wNHloTVVtNzNpT01HbGxSMG9sVDhVWl84NVBpOVE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250182055
-    },
-    {
-      "id": "news_TECHNOLOGY_NinjaTheorybeginslayingoffstaffaccording",
-      "title": "Ninja Theory begins laying off staff, according to employee posts - GamesIndustry.biz",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGxDLVQ5N1lmVXlDWkdqQlBHR2V2bGlQS3ltYWJJNTZ4eVlwQzdYaUt3YmZzbTRELWZOeHdpTTF3c0hMS0YzaDJpM3BBZEJUU0RIeTFVV1BjMEpKam5WY3JKTExyUFNuejdkdU1qWGxseldkRkNpVzU0c2tHTjBpalV1SDI2TE91cGd2T3daRGFORHMybDJnaTF3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250181245
-    },
-    {
-      "id": "news_TECHNOLOGY_NBA2K25sSinglePlayerStoryModeWillSoonBec",
-      "title": "NBA 2K25's Single Player Story Mode Will Soon Become Unplayable as Servers Shut Down - IGN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNFMwVVhHeXlQSm41cXRBYmpTWS1GUEtqWFcxcV9Hc24wUGpXYWpBeE1MUlJlcGVFR1ctQ19HaDBUbVM0WThpbDNid2JHc3YxUm91NDRiTzJ0QXJZSUN2amstQjVaZ1hhclptbGJRblBjRFZCSjhWM2c5MVkzTGI1NENPOHhJQlJ6Qk10S3ltSmlKUWhyZ1d0cUxMUjdPcllzdWVmZ0ttTmEyYjFzRV9LTE00Z0JGelJPRnYzY19iOWtlWXFOMUxZ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250181244
-    },
-    {
-      "id": "news_BUSINESS_Over122KcasesofGatoraderecalledduetounde",
-      "title": "Over 122K cases of Gatorade recalled due to undeclared food dyes, FDA says - ABC News - Breaking News, Latest News and Videos",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée; mots-clés viraux: breaking.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnpyMUxSRVkyX3loSDB0N0VhTWFZbFVEczI3T2taLWNVci1ySFo5dWEtQ3RGZFFKODhudmVTSkV5WUt4Z1FZRFlXcV93cjEySE5ya3FaMDNDNXZWUFhxZ0k4b3QxZTA4ZlZEYTRIdTdEZjhsTVZnSFdfUjRfY0hIc1hoMXY4SFVsUG1VTEFkZUk2REFKX281ZjR3cnpmdi1jYnRR0gGoAUFVX3lxTE9XaFl6TDdra3FTY012dHZqYlpBTDBiVzgzNlNZZkE5ZDN3Zko3YlFNdkRmVE91TlNHdHB1WnFkTHhjRjdiaUNtUUdsYXdqSGdVUHJOdE1BNHUwOGl5ZXpNRHVFMmxhXzFIbV9YdWtJd1dYT0ZSVFBCeXVGYmVvNHB4Sy1kbmk1X1Z6MHpNem9jMTVUQzRBeHF6V1lYN1hhZlhOelJ6R0tlMA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250180512
-    },
-    {
-      "id": "news_BUSINESS_Trumpplansexecutiveorderseekingtobringdo",
-      "title": "Trump plans executive order seeking to bring down high diesel costs - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXNZRTRyeTZ2eklHS29WekYySFhZVW1LQ2RQZlM2eVoydXN3ZTRSS1J4UEhpd3g2RkRZSXM1NGZ1d3dpdlpOY1JFYmtPYTBWNzFSUWl1V2I0VUpRMFdWc3k1MVVGazlvUU1Yb2ZKSFhibFdtR2V5OU1hV0pGc2k4VDJIMWNuc1J3b19QcEhn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791250180512
     }
   ]
 }

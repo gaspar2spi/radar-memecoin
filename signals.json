@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T22:56:12.090456+00:00",
+  "updated_at": "2026-10-14T01:34:53.509116+00:00",
   "signals": [
     {
       "id": "news_NATION_DOJlaunchesantitrustprobeofTVnetworksAnd",
@@ -1210,6 +1210,171 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_HEALTH_GotyourBRCAtestmorethan13yearsagoItmayha",
+      "title": "Got your BRCA test more than 13 years ago? It may have missed a cancer-linked mutation - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTZUOExGXzhOR0FSUzloeU5EOFZDcWhMWFEwaTVJS3Izd1dQMEhadHVqbm1MTk5zakN2YW1zNlhSRzFldVp1UHh5NnB6Z2l0RmhWaFJzbXBCN2wxa2dYUXUyaW96MUJqV0ZkS3lMcGJXNUxKX2Q5aU9NN0lFdDFPSlBoWmtMZUdVM211VS1TNDV1bWh2LXhlNA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791941667609
+    },
+    {
+      "id": "news_SCIENCE_Dinosaurfossilsittinginadrawerfor100year",
+      "title": "Dinosaur fossil ‘sitting in a drawer’ for 100 years identified as new T rex relative - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0NPWlQ1Z2syUDBReTdabDdiNDVpVTZHS2t3QlRyZThUZUNlV3NjdUZQdjItM3pXQk43YS1zUWFscVFZWVp0bjdRWmRQZXM2OEluTTVQRlk0UUNYUEdQVHBlTVJ6WGYwcUVPOFZwVGM2WmRucE1kUU1MU2FUU0RJc0YweElDZWVqQ2RuSW1tUDhYT3llQVQ5Y1lUa2lyQW9PcmZtaQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791941666855
+    },
+    {
+      "id": "news_SPORTS_FantasyfootballWeek6waiverwireWoodyMarks",
+      "title": "Fantasy football Week 6 waiver wire: Woody Marks, Germie Bernard lead top pickups amid byes and injuries - CBS Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT3BmaEdaQUwyZ2tYWFZ2RGhpMmMwYll1R0hzTzIya1hfY01lekYzSFJMMTg1b3ctUEdWaUxzdWZicDhNTHpRcjdSTVBoeU9aRkZZUkZtYkZxVmVPXzc4N3BuUFBldmtBeUNoWTlNTFl3REFNQmJpYWRRY2tIWDhFSVFxaWd5QUdsSTZUbHpDU0pPTWc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791941666062
+    },
+    {
+      "id": "news_SPORTS_ManchesterUnitedfallstoAtléticoMadridBay",
+      "title": "Manchester United falls to Atlético Madrid; Bayern Munich stunned; Barcelona cruises in wild Champions League action - Yahoo Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWDA2d1pkMUhnejh1SUdJbE41S0U2R0l0ekQtYW9MVVJTSlNYQWY4YUc3TEllNDRjeU55LWtwT0FSQUpObFdzY3liR3pvU1ZtaEtpMC1ic3NvZUQ4SUp1OFV2RF9rbVRqcWg1MmMyZW03SmZNcDVkNXZWcm9XUWFlb3V6WGJBSUNQdkxrU1lROTBBMlZ6TFEwazF1VE9MYWFLTDViUzNqcmpLUlF1Uzh6UFdMbV9iaXpwaFNiMm5vT1lVXzFoUFo5akIyRENHMHBzZEtacXRyQUV3Z0ZhRzltQUY2ODIwQjBpdjNjTEM3Y3h0c0VRS2JPN2hsak4zZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791941666062
+    },
+    {
+      "id": "news_ENTERTAINMENT_Exgangleadersentencedto40yearstolifeinpr",
+      "title": "Ex-gang leader sentenced to 40 years to life in prison for Tupac Shakur murder - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUg3aUR1SllPV2ZGMm0yaU9ORTdRM1liR3NRQWhZX2JVTnkwaGZsTGY1ZmtkWFdPOFRPZWlvVEpMWUhHSjY1azhqeERrUUhkN2VvV1FlUVc4VFpCbUxWZVRXUUt5MTN4Z2ROd1VDc2hLcUJvaklWdXMxLW8yX0JaeEVxQk12eVFYSjN6UFpsX2RfM1NkYXFwcDJPOVZhSnNXYWhGaHl6dTkzYTFuMnJUVHEyNkktUzQ0V3JuNkJB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791941665260
+    },
+    {
+      "id": "news_ENTERTAINMENT_JoniMitchellBecomesaUSCitizenAJourneyTha",
+      "title": "Joni Mitchell Becomes a U.S. Citizen: ‘A Journey That Began 62 Years Ago’ - Rolling Stone",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR0ZHT2lZUlRkRnV5WUE5UDRjT29tODU5OGtQSDFZMXEydENzaTJldDNydkpUaDJVMFBSR2pWMU9saFFrUzEyWTlySWR0OXp2a29HaXB1UFA4cnFuLXYtb1VPcEtJWEV3bU5tTXRrUjJreEVFcDNCbFpyWko0cnB4c2hEREFUYTkwaDFxV0EzZjZtc3BQN1lKMWlqNUV5dw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791941665260
+    },
+    {
+      "id": "news_ENTERTAINMENT_BillyCrystalsayshenolongertrustsGodafter",
+      "title": "Billy Crystal says he no longer trusts God after losing home of 46 years then his longtime friend Rob Reiner - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZUkySUp2T3B1TWF4S2hUbzhudWEtUlhsMVNVRjY5WnFXel9vZDhjSHpUdTNQS2NEWnU4bU42dDNJRUxvbTJRVXY1N1hKWk5Td1VGb3FKRGtmNms1bTFzeDgzQ1I3MmJEdnk5by1vUnQ4RmI2bXJwTVExdzF2ME05YTFlaWQ3NU56LVFtUFpmUEVwWUFXSnFLVFBBRGx4dWF6R1o5dlU4MGxrZ0k0ZmF6cXNUUFJKcEJtdzF5dzl3bjNTMUxydXZ0MENjOEJ5d096Q21WWdIB2gFBVV95cUxNSEltbUFxU2ZwelUxR2hkUjFhNzlTZXFMdkE5Z1ZOei13X3A4WG9zNzRQWGdmX3k3MVkzendiTGtTQXlUMjNSR3diSVdFSnp1M2hqWU5lZDJCSm9SZjh3QlBSS1lUTi15TWFLVHR3d0FkVXpiYlVUSTdLOTVTcS1kZmhHRmxPa1N3dHBiNWNLY29lNUJDVDRIZGowV0UwVnlUSk1uckgzYnNuWXVOb1ZaVDF6bURLX21uQ2JzZFpXMDhGOHZWOGs1WC1ZbEV4M3FPVy1HZHBfem9oUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791941665260
+    },
+    {
+      "id": "news_BUSINESS_FBIArrestsOpenAIEmployeeAccusedofPlantin",
+      "title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée; figure/entité tier-8 (openai) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXdjcW9mZmQwckRKN1MyRmJrSWRDc0p4b21STDBDSnFnMlMwbWtIVk9LUHRaTFlnaXdsbzdRS3hPRV9Ea3hDTi1IUU1VUjk3YUNhZWhUZjRWMXh3T2NTSkg3cWNtUjZqOTZxeVpNeFctazhFVU5leWk2OFBzLVcwanI1WEVFQ25H?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791941663756
+    },
+    {
+      "id": "news_BUSINESS_IsitOKforjobseekersoremployerstouseAIBBC",
+      "title": "Is it OK for jobseekers or employers to use AI? - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XOWg0Mm12ZGJtQ3Q0bXZ5TGdPd2JiZC1hWjdXaWtMUXUyanYxUHdzaDVxQnNuRG5ydFhvenBaTzBVcmUxUjJtQnoyOGIwWnVSQldTMDBhY1FpRnc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791941663756
+    },
+    {
+      "id": "news_NATION_Trumpdebatescallingofflivestreamoffiring",
+      "title": "Trump debates calling off livestream of firing squad execution after learning Fort Hood shooter was paralyzed - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWQzWUFBVFdmU1BaazhTdkY0aGtWdnZkOU4tUWFacmVqX25ScW1HUG93UzBOME90YUNreEtoUzdmdU9sTF9Bb0VqZFhwT2ZwMkd6T0tmdjEzRGhfWHlKdjMxQ0JJV0JrLXBCeVI0cC1zVjNkbHNRR0RUYTdFTVlNUnpYLWZXTlJBZUFGcA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791941662987
+    },
+    {
+      "id": "news_NATION_MoreRepublicanscomeoutagainstTrumpsdiese",
+      "title": "More Republicans come out against Trump's diesel deal with Putin - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUaDBzRGN2NmJCOUp0VzBkZ2s0WGczREx5SXlXdWRjQUNOcUFQOVp2YnE0ejB5RVotMjk1WU15bFNUaDZnaDJ4R3hRUVpVZ0xFclIyd0FmNXJCcnlmeXlZb183M2Rldl9ySnpTdTF4VWVORkNidXJv0gF8QVVfeXFMT2pOREhteVlqQklNNDF5c0hyRlo5SUt0aWFKeW1LR2k3WXVIN2pTTnQtM0JINlNkTC1sVGJZNTdCcDNmRTREUzQxVVlxV1lueFdMMnFkYUdSN0EtNTBWMTNKemVZN0ozdURRWU1UZWN1TUd3ZHJYcU1aSkNZRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791941662987
+    },
+    {
+      "id": "news_NATION_Trumpflies3400milestoAlaskainhopesofsavi",
+      "title": "Trump flies 3,400 miles to Alaska in hopes of saving a Senate seat - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmpCYm5xVXBZY1pKNkVvQlV6S2hlS1BUbUFmeG5ZMDY1NWlJRHNVNUUzN3d0dl82b2pmY2w0b1ZSTWtmYXc0N1lkNEhPcDgtSUFxZG1pczVfbW02QWJLb0JiNEZtREg4ZjQwV2c1ZVNyOV9ta3FJLVJqUnFlMUZaNWtVY3hVQ3IxRmJaVGtIOXVKdmluUUxmRWVRb2tsMnk1ME42cGR3UQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791941662987
+    },
+    {
+      "id": "news_NATION_TrumpsaysHouthistryingtoincreaseoilprice",
+      "title": "Trump says Houthis trying to increase oil prices before US elections - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnhObEQ2MnVjLTVvdlR6LVJISzFWMlVaNS0tMS1ZYUVzbnkyZ2hXQXRMUzc3VFdIczN2WmxKQUtrYzVDRmZTRHJ6cDlzel9PSHlUSWl6cmlvVkRUUVVGalNPd0ZtWC1rMmVpQ3BKS25XcDF1aE5lOFRQVTh3cUdUd2FUdFQ1WWd3Zmx1NjhzVzFlc3VzdldVUzVBcVBOUFQ0N1pncTRlTUVIUU5pSGo40gG0AUFVX3lxTFBFYUNzSFNHLUF3aTBSSXFwMmV0UGV6T0RIZnFRT0dTOUhUZm9SMlhkNmI0RW42Qlk2NW9oT3FaQzJJVlJtdGgzZ1o3TW9GaEZ4dmREdk10c1hDYVViTTVyNVVHNzl0NERZWHlDaHVkemNRSTR2UlA0b1ZZNERMSEh2Z0FfU3cyVG5mMXQ2NXBpTFRnaXI4T2xBbGRUUml1a1lNNWxpNzVESlhpaWE2bWQ4WTFUeg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791941662987
+    },
+    {
+      "id": "news_NATION_Trumprallyprotesterattackedinactofsensel",
+      "title": "Trump rally protester attacked in act of ‘senseless’ political violence, Ohio mayor says - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHNwdi1Uc3B5X0wwUlhGNHViVXdtYk90c3dwaHJobFNETEl1TmZ1ak9QWnpkUm1xRHRfLXBrRXM3TDhCMFREdTRBRXZVZDA5UWI4US11UDRXQkRxdE1LLU9BTE1ZYjNrSU4xZWxCLUJGNl9xOW41cVQwNWJDWThCYWJoRURjOHVZT3U3OHpYV0lSMEx6c3U3MERiTHBocktiMDFwMmJ5N0JfOC1mX1daSWtJaUZJRVN0UHc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791941662987
+    },
+    {
+      "id": "news_WORLD_MissilesinterceptednearRiyadhafterSaudic",
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NTXliU09wdmZTVFFLc3dfamVjQlRpUnNuVXY3QmpLLUVGYjVXZHBZNm8taks5cTJaVUNndmNFZy01WGxNcFp0YzFlb0NZcXBQclBsZFF1T1o2SGM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791941662225
     },
     {
       "id": "news_SCIENCE_100yearsagoarogueWashingtongeologistface",
@@ -5335,171 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791490557041
-    },
-    {
-      "id": "news_NATION_GreenCardUpdateTrumpAdminBlocksTechCompa",
-      "title": "Green Card Update: Trump Admin Blocks Tech Companies From H-1B PERM Program - Newsweek",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUZxUkUtaVNDdnIwenZKandKOE9LOWEtVEprdERHMEFCMU5DZzNIbkVSNnZGbHZFaHNCM2dPSm5fSTRjaktQTW16bERXMkdZaE1qdjdiaEkyZlh0V1VZV3RmQ0ZJcEk4VUx1NzBkZVVhSkdTWEtMOWdldVBKNTkzOEtWRHB4dHVtUy1MOE5ldU9qMWgzZlBHd3UxUkVDakhud2VYeGQ1WnMwcHZZRmNXbjg4Y2NySHJldVE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557041
-    },
-    {
-      "id": "news_NATION_ChristaPikenowwalkingafterUSexecutionwen",
-      "title": "Christa Pike now walking after US execution went wrong, lawyer says - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0teGdqeXlGMXM5cVRMQXg1SnRzazFtdDhQY0NCVlZ2X3kxbkpJdzcxOFZhRHdvR0tEQm14WVVKSE9PSmQ2bVVfQVVON1hBWG9lSUxUQ2FfYzRXVlU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557041
-    },
-    {
-      "id": "news_NATION_TrumpUSwontattackIranbeforemidtermsAxios",
-      "title": "Trump: U.S. won't attack Iran before midterms - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14RFBvYzVXa3RmREx2eGVTVVNwMDZCclJsZzZPVkxiR0lieFFwZDRncDFSNkxaUUk5UHFlRUUtSm1sWnJOM1VNQ2VSdFlGNkg1UFJTekJMN1JUVWw2aW0zZUVIRGx3RENQSHp5d21BQWtmX1FCaUVySg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557041
-    },
-    {
-      "id": "news_NATION_LiveupdatesJudgehearsCNNMSNOWandPolitico",
-      "title": "Live updates: Judge hears CNN, MS NOW and Politico’s request on Trump’s press ban - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5MnZVUE5KMVZMYXpHbWR3a04wOUZDLXdVUWFqeFJGWmgtUjRQQXJZLUJhYnRaWkZ2NFJ5ckpzWXU5SFhCSjloT2pOVDVvYVBaVXdKYVdnNDVyMmgtclAyM1k4VHB1d1JudE9VZTVTLVZHdjhOUzFvVFNWOFZRZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557041
-    },
-    {
-      "id": "news_NATION_IdontcareifIgotojailNewlyreleasedvideosh",
-      "title": "‘I don’t care if I go to jail’: Newly released video shows 6-year-old defiant after Virginia school shooting - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSnptRloxOHhXb2RsUDRmVmgxa2h0OWF3bWZpR2I5cWxfLXB4bVRPTWtoX3RpUXVsX25wZFpDOTlLeUtlQ05ZWVlVWFFwaWd5RVVXSlVfOWNOXzlpMUxpeC1KN2Npd2Vwd005X3dJckIwM0owSFdDWW1iZ1gwSi1uVDBWM2FDWFd5M0c4WnUxVnZlVzFuVHZCN1oxbnZfajliZlQxcWNn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557041
-    },
-    {
-      "id": "news_NATION_AlleyesareonthisnewElNiñoforecastforCali",
-      "title": "All eyes are on this new El Niño forecast for California - SFGATE",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2s0WG9tb3JYLVE1Vkt4TEtwdnpiTTBlXzA0blNaV2Q5NW8wblRfaUZXOE9BV0xMVUYwOVh6VE5fcVBJRGUwMmRkR2hNUVZ5cUZtVGxPeXVkN0FNXzVwbGtGN3FjMFBHbGwtRS10OTdxU3lJenFRZkRpdFBERnBOZjhEbXpmVWVRVjBmSXRGdG4?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557041
-    },
-    {
-      "id": "news_NATION_FirstThingTrumpenduresprotestsinTexasasD",
-      "title": "First Thing: Trump endures protests in Texas as DNC sues over adverts - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUpHRURYNXRtZElHOHNpOTZGZDA0VWhBS2NlMTlGTGdpaEF4aTZDbW1oN3JmZ1Q5Nm13U3BxcllOUEdwTEZEVE9PNWh1YXduZ2FXX0pXUkF5eDJwUzBVbWV5alYtSmRFZ2Z1dExZc1J1Y3pXb1l4TDd5YnR6TkJwdlpZMTE5U2Z6LVN2VG1ENDNYZ1JZbUp0ZWhGU3RlWmNlclN2ZEFpbkttTWJnUVF1U252Zw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557041
-    },
-    {
-      "id": "news_NATION_TrumpAnyonesayingAIisTHEENEMYTheWhiteHou",
-      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557041
-    },
-    {
-      "id": "news_NATION_TrumpcallsforPaxtonTalaricodebateasTexas",
-      "title": "Trump calls for Paxton-Talarico debate as Texas Senate race heats up - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlljZ3U3UVVBMHEtTGl0Z2hkRXFLNW1xVk9tREotcWdndGxCUlVmVlRzZzJQeWZoUUxzVkxnV1BodEplOVB3QjhVVWI1REZwdlFTYUFYY1Q0V0Z6ZnpKd0N6ZTEwY2NsbmtpeXhQNURDeUNNTjNfOXVybVctbGJkcXVidzFVSldTNk9JaWJraEQ2ejJXM1dnUV9OeWtQUlhISEZDcU54YURWbDNObnpKZk9oOA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557041
-    },
-    {
-      "id": "news_WORLD_WhocouldbeatTrumptotheNobelPeacePrizethi",
-      "title": "Who could beat Trump to the Nobel Peace Prize this year? - The Independent",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGhhVVR2OGpwQ3VtaHdqcTM0VWU5VDBBTnlmdW1IbnBuaFEwOHdBVTNOSG5KMnhjQzA4Yk1MWVNRX25vNEdBQi1lME9EYkU1SVM0QkpuUnJrRDRfWFhwMW15WjBYbVBOTUdpUGptNklMYXNrYnZhbmZDa294OVk3a2pIUjBwXzdjaEN2TXZ5X1NJeWdEc0ZSeld3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490556344
-    },
-    {
-      "id": "news_government shutdown_Trumpsignsgovernmentfundingbillavoidinga",
-      "title": "Trump signs government funding bill, avoiding a shutdown ahead of midterms - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcHNnS1BoVmlMUkRQLTBfcGxoZDRCQUlFamg2dl9oOHF4MmloNHh3cDZSQ0VCeDFaOWthb3Fvd3E0Nmo1NFJHeG5lMnl6dXpOUkhLWXBzVTktTTlMRGJSYTRzR0dSc2ZDSG1DeHFEeGszRjNzbFMxaHFRRjJ1aFY5aGJ3LUtJMXNfTDlBZ0RMejY0STNwMGlEQl9kY0F5QWFyeDdF0gGoAUFVX3lxTE9xcVNNYTJoUFI1WW1rQkU5YXc0NXFxaVk3bFBjR0ZzMHBncWdRR0Y5ODF2Y0hUTjBCeDd1eFJwd1NYU1FjQkl0TkdWVHdaTUFCLUFnaDRDdjQ3YXk5LUtSQ2VhRmZTVnllWDhWaG5IcGJoQUd6M1pycGFtWndBSk5lWjJJYVZNZU1RdkhtUFAweUllYkpDMEZLc1AwSHRKT29CMVBfamowWQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791471097247
-    },
-    {
-      "id": "news_SCIENCE_Radiogalaxyfrom125billionyearsagomaybemo",
-      "title": "Radio galaxy from 12.5 billion years ago may be most powerful ever found - Phys.org",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TSjJTeV9HN1oxelFxMXpHYmMzQmNxdHZ6VVRMVUtxc2R5UjlkS0VnVHdKMEt3ZDhMcVlRREF4ZEFRdGVfSGdaUk5YWmNiY0hiVFRvNW5MUmExdHBURXVybWVKUWhGQ3lZaEZoalF4Q3FCd2FFUE90eHVB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791471083458
-    },
-    {
-      "id": "news_SPORTS_ThemidtermelectionswontkeepTrumpfromcoll",
-      "title": "The midterm elections won't keep Trump from college football on Saturday. A hurricane might - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3FxbkJrMlBOams2OUV4S0xUVHVqVU9hazRGcW5OUVUyX3VkaC04aDhUUjk0d2NOMWJLLXhzWi1PV1U3VzBRR20zV0o4aFRBLTdYeG9iU0cwcVJ0Q1dfTGx4aXZFUEFLb1g3UzRCVjBCV1hfc3VfX0c2RXRmeHZQWmpzMlV0X2ZwZDRTOVhDV2VEMDI4QVhSOXpRY2Z6bk1FZm9v?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791471082671
-    },
-    {
-      "id": "news_SPORTS_CommentaryHefinallydiditDodgersAndyPages",
-      "title": "Commentary: He finally did it! Dodgers' Andy Pages ends two-year postseason slump at the perfect time - Los Angeles Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeVlHZUNNXzUxbGJfSXNJMGFra19abGF0Z0J2Z1AxazJZUkNNZllNUnlmMjB5cEhSWlU4a2lCVXNVUUxhbTJ6V3NWR2FSUkx5Z2tTVDh0T2lMQkllWXJJbGxMdUhNYjdLYlNoSWFWWVhob1V5MGNHMzhKemZwdzFXZVA4aVY2ZFFYenpz?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791471082671
-    },
-    {
-      "id": "news_SPORTS_PresidentTrumpannouncesRogerClemenswillr",
-      "title": "President Trump announces Roger Clemens will receive Presidential Medal of Freedom, calls for him to enter Hall of Fame - Yahoo Sports",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVDVqalh1YU1aSUR0cDI1LXlMVE5JaUJLTHZQUkZ5dlhvRFE2M0xyUFJnRXZuZGpQanJtTGhrcV82b2txbUFyTS1aYnJjOGV0LVhaQ0U4LWhPYXBoWFB0T2F6QmJPZ0Z5bmhjTHI0SkduQWlqblUwQjk3SURFLXlQY3FWSEg3LWVsblNod3Y5dFhRdEJLSFdxdk9CSUw3ZjgzVFRSY0dtMXEtTHBraEtjeUdjY1kxRVZPbzJ6eHVkbnIwZ2FaQzF2eUswcWJVSUE0SWtETGdCd0NwdUJvZkJ4MXVfYV9WMUY0WkduUmhSTDI1SXIwQmtjazJETFpEV3M?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791471082671
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T01:34:53.509116+00:00",
+  "updated_at": "2026-10-14T06:40:43.863414+00:00",
   "signals": [
     {
       "id": "news_NATION_DOJlaunchesantitrustprobeofTVnetworksAnd",
@@ -1210,6 +1210,138 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_election crypto_BernieSandersAccusesElonMuskCryptoLobbya",
+      "title": "Bernie Sanders Accuses Elon Musk, Crypto Lobby and Others of Buying Elections, Says America Has a 'Corrup - Benzinga",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOR0ZvU3JmOFBETHgzeURXUndZd3VaSkxTdnI3dEozNWFyUXlhLVRweEJ4dHRPdkJVLW9mR2NCUWJYbHBqLUM2UkYydUh5TFMzUk5iNXhwWGd2eFhhd254Mko3UDZNcWF6S3NhSlJyS2xIa29IWURwM3lZV3pOVEYtYmlDa1JrcDROdkVZSmNsdUxBbmhpVUlhZFVuQ3IwT2oxVFNmSGFJNERGOTNOTE9leTBqZlRJSFB6a3R2ZnlvMGRSamNjTmg2NTM3Wkdld0lsakZVVWRfZDExbHNoSVZVQlNkOFlFSmd1SUw1M0lRRE14RjVYVkdfNjByZ1ZRUHRRRC1CMHBBcHdfVFZjekVTeHB3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791960028861
+    },
+    {
+      "id": "news_HEALTH_Researchersfollowedglucosemonitorusersfo",
+      "title": "Researchers followed glucose monitor users for three years and found a possible kidney benefit - News-Medical",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdm8tbmJBRDNSYlBNc3VfVm1qd0hjNmtxalJUWmFSSVVHNHJWTy1YMXZlam80aU5nMTFhQzVfYWZrcDYwWXhJbnpsQjh3ZFJRc21WVEIwQW44ekJmOUtXbVVLOWFyNkFZejNjU1Y4QzZxeU5VcW1Va2d0UzJjMzZXS3BmVjY1dEpZN29OYWdSSkV0VUFaTElNWGFYcWEySzh1enVDZU9kcVdVY2ZETjdGWDBDVzNYR1FVTmhpQ0dyZnhBb2RhRWZhRmhmX25OZmNDd3lhQjVVdEZaUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791960017951
+    },
+    {
+      "id": "news_SCIENCE_ScientistsShockedtoDiscoverDrexaGiantFun",
+      "title": "Scientists Shocked to Discover ‘D-rex’, a Giant Fungus from Chinese Forests Dating Back 65 Million Years - Good News Network",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ1dfUzVxZFI0cUJYRzdJdFM5OUR4SFlPdm5VY3FrWi1Ra3ViUWtaWktlWjhsLVVERm9ZRjVYUWFiYXNzcFloNkVEdExnYS1Rd1pOLVFXblh2NHYxZm5xY244U1R4dmlQZXpmcmNwcUZPN09YT1IzQ0hqZFZCQVJjb1didloxTTczUkh2SDR6LTdJbTdpMFZMNmJmQ3l3eUdTaGxPem1tc3E3WW1jdHFERVdOUk12STVQM3RHWUxyWU9wdE1RTm1FQl9ldkVOXzg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791960017214
+    },
+    {
+      "id": "news_ENTERTAINMENT_Exgangleadergets40yearstolifeforrapperTu",
+      "title": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHdNcTR6ZllQYkNxdXVZT3IxTDhVdHhWeWxkU1hhYjRjNzB0RTQ1NzVkdWZtdXdpT1ZaTElnbGtueVRMal84RVRRMlZXbVUyd1puMVVUMDNKeEtwV01VRGk3Y05iSGpHVmV3VUpCVUYzVXNlWmsxX1ZybHVNMmRqQ0tEY2drYXRVZzdPSllndlFFOUZLTGRXYlFBNU9JYWxsdGl4VE13azZfNW1tUmtqZVNONUFjQdIBuwFBVV95cUxOdXUtZlM5ZXRWYXBnYjZXVnJSTFEzNERUdm9mbngzakxxb190QWEyLVF3eFBYdW1fYkpIZlB6RzM5NmptN0R3QXhQODFZaEUxY245TGk1bTVQdC02VXRHMEpKTkFiRFZFWlF2LVlkVHZ3Z2JHVHNBR3NXN0R5d29XWW9uMUJzZm9maGQzT1h4X3dmaFhFQzkxVDdWVWJkT0ZxNDdLOHhlckFGaWExaGlnSTM1aWtZMk5pbHNR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791960015733
+    },
+    {
+      "id": "news_ENTERTAINMENT_TheoJamesHoyeonChristianSlaterThrillerTh",
+      "title": "Theo James, Hoyeon, Christian Slater Thriller ‘The Hole’ Lands Summer 2027 Release From Orion (Exclusive) - The Hollywood Reporter",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWVSaGVUQ2kwM2hkZm9PWHZRRzU5UXdvMDZ1YkNKdzlVWkVCZnlqeEsxOG9iV2JtZm91R2w1VnVUVmNlT0ZFUHNnTEVON212LXdLS3hUT25mVkZrbnVvZENYSGcxZTNuYnJteF8xOTVLYm94Uzk2VHg4Q05IMVZZUEp5aXc0eEFSSld4UTg1OWxmaTFEdGsyUWRpUUJidmFISG5xV1FVZE5qX1Z3dEo4NnN6RUR6ZnlwOHpKYmpn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791960015733
+    },
+    {
+      "id": "news_ENTERTAINMENT_NCISOriginstoReuniteMarkHarmonandMichael",
+      "title": "‘NCIS: Origins’ to Reunite Mark Harmon and Michael Weatherly on Screen For the First Time in 10 Years - Variety",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSWZueUxqQnlQMEpGS3djQkI3UWthR3U1eE0wU29oQmhNSXM4a0N1NF9YbFh3LVEtTHZKTG56bjhfQ1ZsdlRHcWdBeW1iM3phZGcxUTcyejVUSUFtbUtTOGw0YUF4dFpjZ0VfYVFGQ0IyUUhjYVVjX3Zad00xUWJXa0V4SnhFX2FtR3IzelhuVkVUaWVzX0ZxR3hpdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791960015733
+    },
+    {
+      "id": "news_BUSINESS_OpenAIEmployeeArrestedforAllegedlyPlanti",
+      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room - The Hacker News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée; figure/entité tier-8 (openai) mentionnée; mots-clés viraux: hack, arrested.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeTRfZllOdFFNWDk3UDJBUzdKNFVfSEhPdDllMlJxWkNHZ0Z6ajAxYUxVYzNmWXNUVzMzV3Q2ZUI4bkF4OE52anVoXzdBRThDUHRlaGFScE44Q1hPUEhZUGZhMkFJMWZrZjBOVzFEamV5RC03ZFlwVWdKT3NOMGlGN0JCbw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791960014284
+    },
+    {
+      "id": "news_NATION_TrumppardonsdieselmechanicsforCleanAirAc",
+      "title": "Trump pardons diesel mechanics for Clean Air Act violations at Alaska rally - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzhIMjBYVGNMOUVIRVM4RjkwNmlJcThPZVVQWHdPam9UbzdOWW5uTTVJWEFDS3k3ZUs3T2FQVExyWVR4cFllSWt0aFItV1c3ZE8wSGJ0RkV4V2RaT0hheWp1Q1VFUkZWUDNWZk9lNXhzYkJIanExeWVaOGw1RjFBbWFpdGJHSVVKbVFWT9IBkgFBVV95cUxOcTdSY3V0MGZiYy1wbmtfRUNjTUNOcjRwajBhOTVBaUxGQU4yeGJFcGlxcTdob3Nqb0dhT3M1OUVrdVp4ZV94TW8xbzI0MnRFcV85TjBaNFN5RWJzUmMtLS1wRWtQcjlCakcyeUIwaTJiTGxVTTVDSnphdC0yRGRHYTZpLThGYnAzT0pJaDBBM3pfUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791960013585
+    },
+    {
+      "id": "news_NATION_Trumpsaysmassiveoilgasandmineralexplorat",
+      "title": "Trump says \"massive\" oil, gas and mineral exploration in Greenland is \"getting ready to begin\" - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WY3BGUktqdGg1Y3hwMm1nWkc0aC11T004NEtsM3FrRkRKSWwzcVM5SjhveGQ2V1lzOEZ6N1FKM0dFaFd0d2g0S1A4eEZ3eHFxLUNnTFVrQzh6NGpERGp3TkpLZXhHYW1QVnFvdUhQRDJKUHZNQ0xaRHRFOGIyekk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791960013585
+    },
+    {
+      "id": "news_NATION_SenatorsUrgeTrumptoReverseDieselDealWith",
+      "title": "Senators Urge Trump to Reverse Diesel Deal With Putin - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0FUM1hGN0oxNUx0Y1dtbU9yUmt0alVYMjJrLU1xd3dYeWdwdjNJcjI5bklRb3BkY25VcjM2MXFWeUprcmVYNFIzVnA4SlladHRKeFBJMkVUQk9xTEhHMUdYZy1JcDNMMWxySjlTQXZRQms4MVhqcnhMWTBrWnlJWkhOWUdHbTdkWG81ag?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791960013585
+    },
+    {
+      "id": "news_NATION_HowElonMusksMoneyIsShapingRepublicansMid",
+      "title": "How Elon Musk’s Money Is Shaping Republicans’ Midterms Strategy - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV0dsdl9jYXVFUlBGS0Nod1B4RlNCcmZ4Nkdtemhvbk5CaU9IVkFQbWRTUDM5aW5vcl9EM0xhbEZhV1RSaGpVLW5QTmdUSW9pb0plMXRpYmoza3VmN0QteVJqSGtWbkNNMHZZSVYzREVOMmh6blZoSlZUMDg2WmlmNG45UDR3SU9yY3c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791960013585
+    },
+    {
+      "id": "news_WORLD_TrumpPostsVideosOfViolentAnimalAttacksIn",
+      "title": "Trump Posts Videos Of Violent Animal Attacks In Warning To Never 'Mess With Nature' - Forbes",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ3NYYnVvWVl4ZFlKQ1c0RTk4VGUtQ3RmVEpOYmxVRFRaU2tOa1diLWpVWXZRZ3BlUHN0UVBSYXdIT3J5QVMwX2phMF9vRl92VUxxSnVLXzMwajBJYzRjZ1FDMUFVdWVjdDJkREE5UFdjMVJ2TXd6aTd6T1RtMTRnTkt0TE5CTTBEcm9mT3kxSnNybHNRcFZWdmlrekU1UEdSSmZZNmJ2MTc0ekRuazBiY0lqdmd1Wm9GdEp3SFpTVXFzZHE0aFBGdTlzT1hJcnJWdGRYcUlB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1791960012883
     },
     {
       "id": "news_HEALTH_GotyourBRCAtestmorethan13yearsagoItmayha",
@@ -5368,138 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791505600067
-    },
-    {
-      "id": "news_NATION_RogersandElSayeddebateforfirsttimeincomb",
-      "title": "Rogers and El-Sayed debate for first time in combative Michigan Senate race - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdjAydXBMZXdCOUJLSG41X0g3LXJGd0ZzS2FlUEViREw3aFlQVlVsSVltX0N3aS1nYk1aZURoamdhZmdEZGY4VnNZMUdjNDcyTVJBd2paa1g2ckFZNHBZTllrR3ZYUHVQLTA2YXlibTRHTVFrc2YtN1RjcXk1b1pvSV93ekpEUXBtb1FKQnZGMlFCVjZyS1RKZ0l5am00QQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791505600067
-    },
-    {
-      "id": "news_WORLD_TrumpsNobelambitionsfadebutNorwaystillfe",
-      "title": "Trump’s Nobel ambitions fade, but Norway still fears his wrath - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPal9wX1UzMW9ZMmtBVHUxV0dyelZUNnNPZVJBQTNoR1NsMV9majNyMTRsYW1pR3pCYjdaX2RITjZ6akpJazlFSGFkVTVlc1hkclJpQVJYZzR4VnB5V2NLMFJyTnAxSFRGdkJLMHJGVWRLeFJoN2ZPaHpSdmkxWlVSZ0xlNHRhRHhmc2hYRXZxNnRsS2RPQWJfeGR2UHdNRVRESWNaeElZZjVQcTFneTViaVhLU3FQOW9PVWc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791505599274
-    },
-    {
-      "id": "news_own cryptocurrency launch_Trumpscryptocompanygetscontroversialappr",
-      "title": "Trump's crypto company gets controversial approval to start its own bank - Scripps News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa0pDV0o1NXByZHZKSlgxTHdZa293M3luMGI5RXA2UUVfTnp3NkVtMVB1X2dJbWJEQS1YT0k3NVg1WmNOV1R0WGJ1S25YbVY5bG5Tc3h2MEdPT1B1SVEtRzFfZ0tYLWZzb214RmYtaWZpZ3hDaUt1bnZmYWtVUUpPdkNGazJiS1BDUzgyclE1NHRCV2JkUTN5eVRMZVpwaW9tZWs4Z2tseVdaNVZjUHMxMVA1dV9YdUxFRnBKbTBDVQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490567223
-    },
-    {
-      "id": "news_SPORTS_KentuckyStateplayerreleasedonbondfromICE",
-      "title": "Kentucky State player released on bond from ICE custody - ESPN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmxXbEZULWRGQVlodkNVT1VFSFZIRkFQVWRxR3ZEMDBqNXNoMkxFakZPMzE3SmNNaU1fTXNLRUI2TWtCMnZvZ3V2NjBRYm9FcUFLQ1M1dGVCdU8ydm9pb2dHdnlJdUh1d0JyemhnWS1VUWdGSVlMQlRDZG41WEVHY2JucmhXeWJxYm15b0diSFJrSGtLUnBwRGthSmpMcXo3cDBpTHVoQ2tHTEF3blpOb1VDWXQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490559924
-    },
-    {
-      "id": "news_ENTERTAINMENT_JoeRoganRenewsMultiyearSpotifyPartnershi",
-      "title": "Joe Rogan Renews Multiyear Spotify Partnership - The Hollywood Reporter",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjV5YlFMQ0VvM3owTWNQU1U2dHl5b0I4akRfNEJ6U1l1Qmk3Ml9ieDVtakJ4UGQ0OXVHUkRHa0Y2U1NOQWNlX0RCd0FoNW4tRm1hTDIwbXJuRnJKMENtVFVxY280WWdvdXRmcU1XTllsS25fOFBnM25Lam5ZU2VBaEpfcnVmMGFJSW03TDViRE5NRnNfeVhJMlRqLUZtNWVlSTBSVA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490559140
-    },
-    {
-      "id": "news_BUSINESS_USjoblessclaimshovernear57yearlowforfour",
-      "title": "US jobless claims hover near 57-year low for fourth consecutive week - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWFoUC1DSlZwckJETlF2WXdjTnhwSkt5UlIxVzBMQVoxVXJ0UjNTdjBDdmlwUmR3V2hQWDBGaTNnLTd1X2VIQVhBcVFmZGJHNGtCODU3RE55eHk2Y0FBbVBEUXF1S2lDaW42Y2VnUk9aRExvMXM1TGFIYjNpcnhTSUc5S1V3Nk1KWkZrSDlyTUFpNTZqYWxraw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557746
-    },
-    {
-      "id": "news_BUSINESS_TrumpadministrationprobesWellsFargoovere",
-      "title": "Trump administration probes Wells Fargo over efforts to boost Black homeownership - Yahoo",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTVsMEhaSGVCZHQ1RE5iTm9kREhmeUFodUR5SWo5WTlVMTNZTU9DQ0lodFl0NThyNDkwX2xlQ25CM3l3d1ZvX0tXMXIwQ2ViQkU0SjZCZjBkNlBTUlExOTl5eUFLQm5odnk3R1FfeE5YUDhER2dBV2FOQmFSSGtSRm81czhaMnVqa2dUZnVTa2FIbURHdEsxak1HWm1pbjd4?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557746
-    },
-    {
-      "id": "news_BUSINESS_Techfirmspledge24BincomputingpowertoTrum",
-      "title": "Tech firms pledge $2.4B in computing power to Trump’s Genesis Mission - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVNkVTBZSlo4UE9WMW5xUFRORm1LY21kbExjMEF5cDgzdkF3R0RDV09Zcm9PeEVkTXRTUDJ5cnp5X0tza1pNemVWWWRiNnhabnFzcHotaDdDYVNNN0hKR24tbTRleXprX1VFaWF3RkdqLTloNGFUeGxQbEtnMEZWYmcyMHJzYmNQRzBQSkRWRm9OajdKdktRbEV1QkRFcnJlVVptbTN2dEFSTUZFV1hTN18zOWttYk1zTEdYcC1XeGJyQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557746
-    },
-    {
-      "id": "news_BUSINESS_HighestMortgageRatesin3YearsChillstheHou",
-      "title": "Highest Mortgage Rates in 3 Years Chills the Housing Market - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdWdGdXZlUEhMOW9raDR2Y0p4TExiUlpqdmRQQm5mbFJXS3VwaUgzMFNzcUZ4ZTVfS1gybmJUenZOQW9DWlJySU9RZ1BCcFJQbUlOa2FaWWtlTFF5VEg0SmtxZnlMekhEakxUdVA0RF9hQWhKOTRGQXRCQXlEa3dLVURRMXo?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557745
-    },
-    {
-      "id": "news_NATION_Cornellgangrapeaccuserwasmisledaboutcrim",
-      "title": "Cornell gang-rape accuser was 'misled' about criminal investigation, her lawyer says - PBS",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOHA4N1U5bjNqQW5BaUxJdnpZTER3OWJBbldNR2NKbGk1TEtsMFVaREk3UjJoZlVxUUNpdkYzX0VRekFQb09rVUxoREN3cHY3bzR1cXViUEdHWGRuMjhVNjY2YW1OUk1vUDJQLUtMLWN1Zmx4aVF1SUsyZHlEdXVIRloyOGFXaDZZY2pSYlJTSUVUZFNfUHpBN0lSX1BDNTNTNVM5U2NzSnFPX3ptdmk2bXplZGoyZWhj?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557041
-    },
-    {
-      "id": "news_NATION_PresidentTrumpSaystheFBIMayInvestigateNo",
-      "title": "President Trump Says the FBI May Investigate Nolan Wells' Death - TMZ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUzgwd255ZEo5b1hiMzFzTkhKeWkxbDFROElDZTItZXdLZzBWN2VoTVF4aFA1MnZQdW5LZUF3ckRaYm5kbkw3LXBjVkMwUlNYMk5rQmpNV0pUbERYNm56VkxCNDJ2a1ZNY3B0a3ZDNndfcC1XUVBXQUZ5aGV4MTFxNGFRdWp5amZVb2tVeW5sS3c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557041
-    },
-    {
-      "id": "news_NATION_TrumpinterruptedbyprotestersatTexasrally",
-      "title": "Trump interrupted by protesters at Texas rally: ‘They’re paid by enemies of our nation’ - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUlfLXI2YXQtWkprNHhDNkpndGJwWk1rclNqLVlVTUhTMjQxWXNnODVua3ExcXkxbHpZN2RUQmF5N1otYjNORlVGV2MwVldYQ25wOUFaM2o0d2pidGo5U1dmWlNFaHVNejRhbXNXblRGVHMyVk5Sei1UMDZITXBERlp1SWI2WFB5NzR4OEhsYncyZjJ5QVE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791490557041
     }
   ]
 }

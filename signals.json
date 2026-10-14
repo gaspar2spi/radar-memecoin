@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T20:50:49.354052+00:00",
+  "updated_at": "2026-10-14T23:31:18.143360+00:00",
   "signals": [
     {
       "id": "news_WORLD_LiveUpdatesHouthislaunchnewattackonSaudi",
@@ -1221,6 +1221,138 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_MichaelandSusanDellpledge625billionforki",
+      "title": "Michael and Susan Dell pledge $6.25 billion for kids' savings in 'Trump Accounts' - ABC News - Breaking News, Latest News and Videos",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbnBtbkFPSkRqR2duNDJRcU56QjdCejdaMnlTOExFNDdaNHFtc2JmSWN0aWpCdHB4dnRQNXlHalY1RUlCTENaNE5MR19QYjk5akthRTZYUm1URkRfci1zWXpOYVpuY1BzSHN0V250QUNSTUE4YmlSMTc5R0Vya213QzVhbnFZQ0ViNHY2QWR5ckZ1aXdDZFE00gGcAUFVX3lxTFByUWVqU01ueUlnV3ZPcUgwVmdoYUlNN0lGZkZLR1pEOTFjNjBFNmgyaVNURXVwd01FUHVwLWNzaG9DUEJSa0ZDMEdnYkhvVm8xd3BDd0FHSll4S0ttdWZvaDIwRG43TmVOZEZoQ2ZnS1VlakdSLTh2TW02WGJHU196dlppQk9hVG8yQTdXUzV2bG1kQ0tXS1Ztb2gzTA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792020664021
+    },
+    {
+      "id": "news_SCIENCE_NewdinosaurspeciesaTrexcousinthatwouldha",
+      "title": "New dinosaur species, a T. rex cousin that \"would have chased us,\" identified from fossil found 100 years ago - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1dkc2hQU2VPVHhSSHJ3aTVHWnBoZXp5QVF1YXBxZ0ladGQ1bWxTUWdQeGFHR3BQMENpZTVfQ3c5ajVYWFJPRndUUnk2ME1LMGxRTlF4eUxzQUtmdFFPQUhuVjJYMWFKa0xfYnU4SURUX19feENmTnlQSUFqVEoxVXFuUGpHSHpHUEh4LTN6RFZ3d0JwSE9HTUNSOWs5ZGRERzVFWTFxSQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792020647509
+    },
+    {
+      "id": "news_SPORTS_USWNTshowedtheyhavedepthagainstSpainSudd",
+      "title": "USWNT showed they have depth against Spain. Suddenly, Emma Hayes’ core group is under pressure - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU29seUZ2OUp4dW43LXZTVFFkZFpzUEFvOTg1UVpYelpsdG84RGN1U1RzRHZoWTAxek1PVnY4Y19XcTJxU2VDVGpUbDg5Y3F5bjdMRVJvVmtWY2t5aXk0YTlkRWtBX1NYS0VaaVBiWDU0b1ltOGZ2VVFwcm1wYkYtNTFta3ByYnd1OGlsMlBvdDk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792020646603
+    },
+    {
+      "id": "news_SPORTS_WhatthisyearsMLBplayoffssayaboutbaseball",
+      "title": "What this year's MLB playoffs say about baseball's future - ESPN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmZ0ZlQ5ejBROXVqS0VpNWhsZTFkTlNMRDVZR2lhWVJKc25fUjVxaWpVam1HY2lQWXVXN3ZKM2JqME1jMnRkc1JVMWtVdkt2TTdoTThILUtQN1g1X1Vva3VZSW1TN0dEUEJEQ0x4TjZxM2xMQmlvLTJtdDRRbUszb1B0VWNPZzV4S0xiR2hCRTNRSGhYa1dBR2U3M1hmajQyQ29DQnpJRExvWlVieEZ0Z0hOa2ppcDNHdGFrNEFR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792020646603
+    },
+    {
+      "id": "news_SPORTS_LIVgolfOrganisationconcernedbyDPToursatt",
+      "title": "LIV golf: Organisation concerned by DP Tour's 'attempt to interfere' in player discussions - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Mdi1FZ1pNNnBYbWhkdWhkaFFGOVMwOG5LVk1hU3QxUDNfYXRZRTZIaUdyelJsYlR6Ylk4bF9odDdPZFhYZnpPYmhEYmV2MUVZeWZGVUdCWm1NY01henkyNVFGZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792020646603
+    },
+    {
+      "id": "news_TECHNOLOGY_HomeViewwillsupportvideoappslikeYouTubeN",
+      "title": "HomeView will support video apps like YouTube, Netflix—if they say yes - 9to5Mac",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDhzdFVXWjRYUzF4RmpDSXBaaWxEM1hDMkxNTTcyVk9FdWZWeWxfdkdYa0hRYjU0WVNINWlYa0FiVXA0ZjZES1VTZERPMDRNQjFGamV1NEVTTXdRaUpTSDE5bE5DOVBSZmFVUVRzcGQ4S2RPRVp3S2lGOWhLUkpDeWNFcjJlRHQ3RmQ0V2RZa0QtM0hJXzlxQTFDemlaeVpjRHIw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792020645016
+    },
+    {
+      "id": "news_BUSINESS_OpenAIemployeewholeftforAppletookfilesab",
+      "title": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée; figure/entité tier-8 (openai) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjgxdHhRZV9nbnF4cVNBbkg0ZGJGWXFTZ2hDa2dTMXVCT3R4OWF6aDNZSjVnaDJEYm5pbUJqSzdtaDhPei1VbXU1SGlsZHFIOFhBNEVsaUZ1WlFsYjJ6ZGNPc1NVNk9fVVVQTVlYMEtPbjdKZ2hNcG9xM0VBLUpTVFlHSi0yTVZtNGpTODA2SGpOb3JLUXQ1S1E3WHZ6RzRldnZkeF8tamJodUZjMUc1OXN2dWI2QmhfUUk3bkZzR0ZaXzZnd2lNMndLMUZGamRhMHo3LUVfdm8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792020644234
+    },
+    {
+      "id": "news_NATION_TrumpsaysTaiwanagreedtobuy30percentofgas",
+      "title": "Trump says Taiwan agreed to buy 30 percent of gas from Alaska pipeline - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbVJXM1FCY0YyM0lNS2JKRVVHWFlOdnN4WFNRcUVHOF9XaTZvazhmRFFJN0xkcGpfclFLMWk1bEQ1SnFsYlV1T3JhQUh2b3RvWWlOeWFQbHkzM3lqNEtDMjZ4MzlRQUlDQTFSb09JemFaX3RxV1N5TUxSbXlqYUN3UNIBhgFBVV95cUxQRFl1QnpQTnh5TlpIS1hBLXBlYWw2ODFlRmltUHp6OEkwX1prc1hITFFGdElhd2JxVmJHRlgxTl9IQzRfLW5nMFg1MFU3ZVNqeERJaF83WW9lbDVydTI3NHpfVzR6bDhvaUNidTlIWHVKeHZMVnFMV1NIT0hISzY0em9LSmJIUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792020643441
+    },
+    {
+      "id": "news_NATION_UkrainesStarlinkrestrictionsraisesuspici",
+      "title": "Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWHdxWXlmN2ZYWklDT2FlREFOVjhVN3VqWTNJX084YW0tVktrMVY4UTUxa3hMa2Y5M1BvZkRHdUhmSjE5LUNsbTJUSGQxZDJEdF9kaVB2T0l3T0RUSFZhTW9iODktOVZpMmpTMFN3ZXVRV2dfWXY5Vy1iM2FxSm0ySXN3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792020643441
+    },
+    {
+      "id": "news_NATION_DonaldTrumpToAppealJudgesRulingThatSidel",
+      "title": "Donald Trump To Appeal Judge’s Ruling That Sidelined White House Ban On CNN, Politico And MS NOW - Deadline",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZzFXMXBtYUtzQjVmcTc2UGY4Q0pWQUZuWHo3OTNWemFnRkdwR0ZDaVlqUTBDVHdPOU9qazdJbkF2VHdBR1hrMVpQWXlWZUR3em40SGNJTEVvUjVTSjk2VGd2cEtlcFB3dUgyUzdJMzNmX2c0VGR1ZUNVNDdrS3dWUVhRTQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792020643441
+    },
+    {
+      "id": "news_WORLD_TrumpsDefenseofXiHitbyEmbarrassingNewBom",
+      "title": "Trump’s Defense of Xi Hit by Embarrassing New Bombshell - The Daily Beast",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzVaSVd3UWVkVE8wbDZqZmk4RGZXd0VORHZFclhMczNnZ1ZiU3ZCelRGTFVZR0FYdXJLaWtSWWZ4SlRXdXhFd2dEOExqUW91MXJMa2prRW50VVJtUjJCRXExemJOWC1Ea2ZiZVd0cUdlbWxfZzVYbWoxVWNaUWROY0pENkpHU0RGOUZLRnYxRVZrZENHbldV?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792020642532
+    },
+    {
+      "id": "news_WORLD_WhyTrumpislikelytojoinSaudiwaragainstHou",
+      "title": "Why Trump is likely to join Saudi war against Houthis - Responsible Statecraft",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YcmhsNFZOa3ZkQ3cza2IzNFV2WlFQckNVX2ZyVEJub1Y2ZW9GM3AxOHBDa19RTGZjNm91XzR2RXVuZEkweTdiN2R0ZGZFWUU4eWROc3dsYWdtTS1RWHV0SU5zcjVNU29QU29sTFNR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792020642531
     },
     {
       "id": "news_HEALTH_SenateRepublicanknocksTrumpadministratio",
@@ -5368,138 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791572401216
-    },
-    {
-      "id": "news_NATION_TrumpsmemorialarchfacesanewlawsuitfromAr",
-      "title": "Trump’s memorial arch faces a new lawsuit from Arlington County, Virginia - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: lawsuit.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeXd1UWljZktXOWFlSDBhUENRU1NQX01YTFZTSjVfRlgySi0wd3laRll4ckxTT1BjZkRKZ1RMMHhXcktZdXVLYTZDS1Z1WnpmV28xVkUzSXlBSDFEUzA5ZVF6MGY3ME9hV3ZVUGJJUnRMeEVDT0Z2cmVCS1dqdUc4SEY0Vmc5bWg5TVJGemFCZno5c2Zt?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572401216
-    },
-    {
-      "id": "news_NATION_TrumpsaysUSwontattackIranbeforemidtermsA",
-      "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQalhmck5wcTF4VERITW41U2xVWTNUX0NEelJ0b2VObGhmQW90cW1RcGx5VnpQMU9rajBwS1dKbUNnOUNPcnQ2ZWdlTE9abVJIV05UZEhDUnNzYzg5WUdjTDVFemxEYkVYcUpVaFRScGpvQmZvY3VOd3lwdl9UMFF5ZEFib21qYTdhNnp4aFpFMkxITEFvQTdJLUcwQUhPUGF4NkNVWkp0SVpKNXJQMlg1NlA1Q2ZVb1MwMnc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572401216
-    },
-    {
-      "id": "news_NATION_TrumpsignshistorictaxfreeorderforallAmer",
-      "title": "Trump signs historic ‘tax-free’ order for all Americans as fuel costs soar — potential savings of over $100 per fill-up - Yahoo Finance",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakNjU1puNG5yalhIOWtWMUpnTGlqMF9OMEpZZ3R0clpJcVk0QmgwbjBrdXBvXzk1SmZ5Mno0R1RPX2o2ZDlXT3RVRkFRSjJibHJQejZjSEZvdzV6aFBLWTVidExORGtUdi1UTG9nSGtDeGxHWG1Qa0p3RFB0UVRXWmJfQVZ0QnplcmFnOVR3TTJOM1g3Ry1IVkl3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572401216
-    },
-    {
-      "id": "news_NATION_WeShowedTrumpsTaxpayerFundedAdtoaFocusGr",
-      "title": "We Showed Trump’s Taxpayer-Funded Ad to a Focus Group. The Results Were Abysmal. - The Bulwark",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVkliOElHNVhYM29vM3dBRkJTLUxCaThVX0dYTGU0aUdrSnE5NndkejY3WnhaNFFRSHl6aVNDMExqeXN1VWVNT2pCRlV5ck1XMXB5aERyYTJxQXhyN1JNRGszcDRsQUFCXzc1RGNqbUs2dEFrWlhUTjBINVlNS3IyT0gtUE0yQV9QeFE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572401216
-    },
-    {
-      "id": "news_WORLD_TrumpAdministrationHitsInternationalCrim",
-      "title": "Trump Administration Hits International Criminal Court With Severe Sanctions - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHBFOGx1NzFvVkdzQWlHbm5vTGFlNFNBSm5fWWVPWC1EYXNoVmgtd2ZXSWJnaFZtSjhvRU5pd1YtMUVUV1FMYllka1hZQm5pck04N2pza0hZRU5NZXZtSEVnQWFGemMzWk00WlJaeVlDajNmQk0zNUg0RlhGYVBRX0dlYzBVS0w5aEJXLVdSMVdjZUxQalpnemtrRlg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572400290
-    },
-    {
-      "id": "news_WORLD_LiveUpdatesIransHouthiallieskill3instrik",
-      "title": "Live Updates: Iran's Houthi allies kill 3 in strike on Saudi airport as Trump rules out pre-midterms strikes - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkRLWlFxeDRfeGxUcGJ6dTM2X3l2cldSWlB4MDJIN3lpWXlRUE1sdE8tbHhtQzY5Ul9WRzJ0bk4taEVCOF9JVGkwN2d4S0xIQmJHbmlFZFlDZ3VDdXk1U3B6bHE4SExtTWZIcURVWkFmaXdNZ1QtdWdoNVR3Z2FBOHNxVmFwQTY2TXpUOWlja3hvdXdLekhv?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572400290
-    },
-    {
-      "id": "news_gaming leak_GTA6leakedfootageteasesmajorgameplayfeat",
-      "title": "GTA 6 leaked footage teases major gameplay feature yet to be mentioned by Rockstar - GAMINGbible",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (gaming leak). figure tier-10 (ye) mentionnée; mots-clés viraux: leak, leaked.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUGRJSjFabU13WFgzYUNicVlpaDFXeVE0VWhOTlRQVEtGbElTcV92SFJNOGhoRVFMRlZwZ3BWb21rclBRcmVFdjhpdHZPeHZOZzZHenBabEVldTZLNFBUdlJ6OEpsTjRlSlNVTnZtVHI2VnM2amE0X3FhOFNET0NxLTU0WWJISHg4?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553139846
-    },
-    {
-      "id": "news_memecoin launch_HowTrumpmademorethan1Boncryptowhenmostof",
-      "title": "How Trump made more than $1B on crypto when most of his coin's investors lost money - ABC7 Eyewitness News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (memecoin launch). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmNRamtUY2NCSExkU0NTTU0ybHlURUlZb051OUFGRXp1dmEwWnl5ZU80UEhSQTBmODJKOGE3NXhya196aHl3TF90aGY1Wk1XYjgyY0F3LWJ0ZjlPbHdneG52cnNZMDZpMUhQYmd6bWxUU1RJNVNrcDhOcWVQcFBfTnlQX0luYTR0Z2J4SmZTTTFEZFFrenhIeFVfZGpFT0QzUXhkbm0zdlN4RVVO?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553123107
-    },
-    {
-      "id": "news_SCIENCE_ThisyearsNobelscienceprizesarereallifesc",
-      "title": "This year’s Nobel science prizes are real-life sci-fi - The Economist",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2ljS1ZwOHA5TDNXS3VwQUpnbU5WaW9TdlJpVE0yc044eVJSNkw3RXFKdzdKWTZyMFVaQkxRMnhLMDBzZ2Mwc1hKNXVuUzlJeEVuTklVeXJXWmtOTXpOM0VVRVVfaUM5RkdGa2c0UGtkejlteHZmUUhCVWg4T2xYTERBT3BXd0tleGJROXRTLU4zZmMtVW9mQ1FjeWszbkF2QUxkUkZ0MHJlSWs3UEk0Rktn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553120996
-    },
-    {
-      "id": "news_SCIENCE_Astronomerspinpointtheoriginofa10billion",
-      "title": "Astronomers pinpoint the origin of a 10 billion-year-old millisecond signal from space - The Conversation",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTXR2TDh2bFV5LUowQUV3eFRXRG9uSVlCcFpEOHpqNmlITVJSRkRzMGpfRWdVbWVHOHZvaERiUE5PNlFaZGZQaE1wa1BZSDFfOTBKTVdHVUJ4UUxCalFaUklBbV8wNkYwQ1UyT09nSElFc0xQbXRhV0lmZWJacGVWaHZjUXVyQzZhLVhoMHlZOXdCbWxkQTZjUHJ3NEhwbWVTRUhzMnhKblZfa3hTd0FOdGdFWnIzUS1VVDdET0hB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553120996
-    },
-    {
-      "id": "news_SPORTS_NBAPlayerTiersWhichstarsarepoisedtorisea",
-      "title": "NBA Player Tiers: Which stars are poised to rise — and who could fall? - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV0pheDVXVTZoMHVVLW9fRVZrX3g0REUzQmhVU2ZBUnFTWndpUEZxTzk0OUNBRXZjQ28zRE94d2MtVUlVMEFCM0RIYllpNHB0N2ZnRGJHa3hqT2lhVW5DN2lNalNwRnJxMkthbVNoLTFaUzBaR29qZzQ0UGJFMGlnUXdieHpIdU1BRDBPZ1hxUnJUa3M?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553120128
-    },
-    {
-      "id": "news_BUSINESS_Trumpwantstoreducethecostoffuelasthemidt",
-      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work? - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wV21CMDdwcEtIV3hPbzFGR0lBQXo1QWtoYUZvczd0TEdxUjZwZU9pWTU0WkduVjhRWU1ONTVtOEFxbjh4Si1lSkFDZjdmQjZUTGVmd3BOdldibjA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553117301
     }
   ]
 }

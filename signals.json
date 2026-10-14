@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T17:24:31.567108+00:00",
+  "updated_at": "2026-10-14T20:50:49.354052+00:00",
   "signals": [
     {
       "id": "news_WORLD_LiveUpdatesHouthislaunchnewattackonSaudi",
@@ -1221,6 +1221,138 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_HEALTH_SenateRepublicanknocksTrumpadministratio",
+      "title": "Senate Republican knocks Trump administration on measles surge: ‘Get vaccinated, you don’t die’ - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3I0bHV4emk0aWNQVlRXTHljU2pNcVN5VGZqcl9RU01YSFhncTJSeUV3NHNyeVNCVk9xUlpzSHJlLVpXZ3VYdVpoRUlXZkF5aHRIcU0tQnFwangyVExyVTVVNFNRaldRNXBuRVIyLWFtQVFXdkVVSFVmbHRROEZYZDdDUkpjeDR5RjE5dWRFOEhmVW1ELWVuX3VEbjVUOUNh0gGmAUFVX3lxTE5PLXQ5OFhuWTMzNVFJX3JIRkQ4OTg2R3FkMWNHeHVndTlwMFU3UEpRenBPS0FXUzJJejBuczJweExGU3YwR0lFN0YxaDZkQlhOUC1XRHJhLXZQamRvcWhZT1Y0eEhsY01sZ3ZWV3piZ0MtVklmS05mZWhLcWdDT21NdXdzQmZvRmw3aFFJbElESmdyVVFuMUJUQ3c0aUlZeGpWMVRSYVE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792011012938
+    },
+    {
+      "id": "news_SCIENCE_FouryearsagoNASApunchedanasteroidEuropes",
+      "title": "Four years ago, NASA punched an asteroid. Europe's Hera probe arrives this month to inspect the wreckage - Space",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQm5wbVZOeFBib3JKeWg0dE55bG1zckwtSUVSWkM4dm8ySFVJM250ejBodHItMjIxclNkaV9keGdubVIyS3c0aHRKS09LQjJaeGx4LXBwcy05QWxHQzFrZkQ4TnJXYS02amYwZUpxWVlkZE81Wm1tRDF0Qi1aMTRsdDduNzJ3ZHI1MmxkUnQwcjNoWjRUY291Q0JWa3UyZXlLMWF1TktyQXZvbzhjN2hlbEh4VXl3c1ZNOUtBdE5FSXEtcldITnhHWFBUSWgtOGRQLXpGbnNHQUFlM1JVbFNGSEp1VmNEZ051WVpGWkFSU0JiRWRueEJIUg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792011012069
+    },
+    {
+      "id": "news_SPORTS_PhilliesnameDonMattinglyasfulltimemanage",
+      "title": "Phillies name Don Mattingly as full-time manager, sign him to 2-year contract - The Athletic - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFJtZ2c5UnNTRFRLUnFBV21lX0tsT3ZmOE9zMmpGckxOZzdlcFlzclFhaDVHdmp2c3h5Y2ZsTEpTaWFEWDUwM3VLX3NtY1pVOWRlbXUwTTlYSkJTUU9ZeDB1aXByaWdReEhacTA3S0F6bVp5OURCWS1obTRwbkxER1pJZE9TN0s2b0l3Snp2LXI?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792011011270
+    },
+    {
+      "id": "news_ENTERTAINMENT_JoniMitchellbecomesanAmericancitizenafte",
+      "title": "Joni Mitchell becomes an American citizen after more than 60 years - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZUZhdUwxRDJYVTBoOVk5Wm5JbjlySmN2NUNmWHNQS2x6bng5UndCa0tLd0MtbnYyRjg5ZExEdlg4QTFCMXM0RENBLXNkR3VOS25aMDlheDVkc1ZacS11MG1nSzNJM1ZnQUhrVUFtMERxY2I4MlNNZDYtWE96SkFBaXBCcUxOWlRFR3FwVjdzZklBT1hSZGxZN2pRQVZURS1xQllQUlRuSVZuQVZGc1RESQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792011010451
+    },
+    {
+      "id": "news_BUSINESS_NetflixTVLayoffsIncludeDirectorofOrigina",
+      "title": "Netflix TV Layoffs Include Director of Original Series Carolina Garcia, Who Exits After 10 Years - Variety",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORTJnQjhGR2VFYng5T2dORFF2Wm51VzRrWEhhZEFQU2ZhSlFPanprZ212VjdHaGRtbUkyOWRFTTA3eGk4cTBvT1hGNngzaHdLb2k0M0lvX1h3QnU0MTY5NEdGZ3dFUWo3d1NUbEktak9Jb1VMckNsdW95cUU2dnFzQUJrWTY3Z3pVWFdDSHE3cndUemFXMEtSTHk3ZmJ3RkFQMlZZbVRiZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792011008750
+    },
+    {
+      "id": "news_BUSINESS_LisaCooklawyerdoubtsTrumpcommitteesfairn",
+      "title": "Lisa Cook lawyer doubts Trump committee's fairness as president calls her 'automatic no vote' - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Pb1RiMU1kM1QwcU02SlVOa1Q0MkUwMklpaWNJUk9nNnNFUE9CaG11WFRsSzN4QUcwdTFNVUJ5R29PTXg0Y05kRm1GUzJJWmdQMUk1d2dFOFpiT1lWX2VOYnpfckRrMHFVQVpQSjUxSXRpYTJCYkxwVWFn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792011008750
+    },
+    {
+      "id": "news_BUSINESS_OpenAIclaimsemployeesentsecretdeviceinfo",
+      "title": "OpenAI claims employee sent secret device information to Apple - Financial Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée; figure/entité tier-8 (openai) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmQxZGNTZzA2SGl1TWhwVEhpMnlLeVc3OW1ic2doWFVRZGlsTG03OGVpU091UUVZUXRLS3ZybklUdjdBNHg5djdZNU04bnctYkh0TnY1MHJPUm9SZmNEeThHRFZhY3ZSUFRtRWJ0ZDltczAybU1zQTJiQm5RTEVQbjYzdm0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792011008750
+    },
+    {
+      "id": "news_NATION_ElectionUpdatesPollsShowTexasSenateRaceT",
+      "title": "Election Updates: Polls Show Texas Senate Race Tightens; Trump to Rally in Arizona and Montana - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wNmdtWGQxTVkyNlVEWmd2Yldza3pvd0NpYkp3bHFsWlcxbkNUeTdIQi1qWGlnNlkyQ1k4ZlFuUDdEX3FSRnVUNHBGWUt5el8tT0FGbHVaVjNOVU9STHlrZEV6c3M0TmVCakNCVGo2QlFXYWNxZWc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792011007950
+    },
+    {
+      "id": "news_NATION_InblisteringrulingjudgesaysTrumpsgolfpla",
+      "title": "In blistering ruling, judge says Trump’s golf plans spurred ‘breakneck’ tree removal - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMVkwMENqUDU0c1RfVF9YYzdHMzdkaFJ0REpVN25yNGs3dFJvd3VTQkcyYjJSS3dnYV92d0lSY1MwaFI2QzdlR241NGIxMVptTzM2WGN0dGo3V05JUE1odnY4OHp6V2MyTHlBNEk5UWF2TVJOMElNNFFGWE5oQzUtTi1YYkw5SDM0RS1GSVR6R2JHODNTWUdLU2l3azlxRzRmZlpWNGNxTWt3LWI0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792011007950
+    },
+    {
+      "id": "news_NATION_VolodymyrZelenskyyfeelsbetrayedbyDonaldT",
+      "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQellhWnJjLTNZb2ZjM1ZhcWViNXNybmFnLVFRM055dUNlN3Ezd0t1dkFreEhhSkNyQVEtdVQ3UUpaRDg1T3NNc3pHSzRlRnozdnpSUkZuX296Rjhyd0MyUkFvSm02MzY2bVlYNDBHbEViWHdXNHJKSl9ObnYwZEpBYndicGVXN3JCVkMxNzNuU3BUdGdfOXhMT2JCTmN2SWc2S040cGpnS09SNmFFU2oxcWZNX2RjVVpy?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792011007950
+    },
+    {
+      "id": "news_WORLD_TrumppostsAIvideoofhimselftamingtigeraft",
+      "title": "Trump posts AI video of himself taming tiger after fatal UK zoo mauling - USA Today",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWGdJVGZ1ZTc5bmxhMUV5MDl5UXZnSkNDUDFGZW9hV1YxYVhMc2pVM0hMQldKUDVzcmxWaTMxeGU1OFNYN3RCSFJERS1XTWZXWFAyYm9QazllSk5uZUNraVV1MFBfekhrT2E3aXE0Nzd5TmxaU0lyZnZLSk51dm91OVJpM1ROYVdkbWRKd29ncVFPWGFvNjI0STcyTzZmMmpmRVNqbEphNnVtOTU0ODRXYlpnNEQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792011007071
+    },
+    {
+      "id": "news_WORLD_BurnhamtreadscarefullyinZelenskyvisitbal",
+      "title": "Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wTkpha2hYakFfbkFlY3F2Znd0QUFIMmZTSkxUZ0xvbndxRTk2THBtNVNPU2I2dzdzRXZkZmtQZUoybnRWaUVaeEY2V2RjQjZ5c3dmU0ZXaG5TVEk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792011007070
     },
     {
       "id": "news_rug pull crypto_Fayettevillemanfacesfraudchargesincrypto",
@@ -5368,138 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791553117301
-    },
-    {
-      "id": "news_BUSINESS_DeltareportsQ3earningsmisscutsguidanceas",
-      "title": "Delta reports Q3 earnings miss, cuts guidance as fuel costs surge 62% from year ago - Yahoo Finance",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN3V5T0RFUVBJbzJtSTlmdjdlTzVEbFlJNlJsaDMwNWRtTDdzLTBNR2ZXNFV1dVZwTFpFYjFSR3NxTXU4bVgxZG83NUVTQlhLNENvTFM1ZEgzQjg0UXotQ2FIMWZZQUlTZXRLbHRwZ3ppcmFXMDNJNVNsOUhHb1dvSjRqNWpNWEpYak0yQUJGRk9aVVo0UnhsTmlZT21QMWU2Mi1STFpwUGVtTTI2SVB5LUJSM0cyYS1aOWxqMTBKajdIRlVyVUdFdVdvOC1EX1UtRzBSaHYtZWQ5NlNqWUE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553117301
-    },
-    {
-      "id": "news_BUSINESS_US10yearTreasuryyieldsriskhitting6forfir",
-      "title": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says - Financial Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzZ1VU1pSkxJVm1rbnJETnpxMUFTalNBRnNIVEplMmJHVGh2ejBuUk9CckhBb1VSUS1fSnVDWmhualhMcWpIZ1VtaXU4WU9zeU9wT2dDWXhWclBjTFd0bWtTT1A2cDNzYnJtSmdySFJIZUZMaTdFVjRoUGpGOUN0c2VqRGc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553117301
-    },
-    {
-      "id": "news_BUSINESS_HistorysaysmidtermscouldhandtheSP500ayea",
-      "title": "History says midterms could hand the S&P 500 a year-end rally: Chart of the Day - Yahoo Finance",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS0ZxLTFzaFFta3RZVk9ma0ljbjhfckJRZVBIaEJxd01EcUZZaWRIVE1QSDEyZ3l4UVlocjk5cXJEQ05ib1EzVmpZMGNVeklUZWRDa2g1MTlRWk5fRDNVNWhKMnBDVlFDU3kxandTT1dUVEFhci1WVXJDWFRabjJHNmVSaU1LckdLSGpyWGdYelpRQzRZMXB4Q2Y3VWhzN1hoV2JuZkxMRTlpMjVzYms4QlhtRlY4Zm9sX1F1N1NYd0JTdTh6T3NXMEJ0RlFiU0k?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553117301
-    },
-    {
-      "id": "news_NATION_EvenTrumpvotersthinkRepublicansshouldspl",
-      "title": "Even Trump voters think Republicans should split from the president to win - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFVFSFVOS0huWEFnTkVVT0NXWXhhYm5GUTE4Rkt2bmhST0FiNHVCcWZQeHhMU01CNHFseFVNUUlvXy1aV1dxVVkyRDJoaUY2cGZTc2x0Qk1fSHNXUjZFRm5TQXNyeVE2V0JOb29Pdi1fd0Z5b1owM0Q4YS1Ua19VYUxwNmNCZ05tVUx0TnZTUHRUd0xGTDFhNU1EOVZBUDg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553116320
-    },
-    {
-      "id": "news_NATION_HungergripsaruralcommunityhitbyTrumpscut",
-      "title": "Hunger grips a rural community hit by Trump’s cuts - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmc0UHFQVWtQQUZvbjRPMlh0WjM2cHNEUTdsNHNnTHdiaDl5RTA5bF8zUkZxR0VjQVpaeVVCX0V4bUxTZXVnclRlekdfdWEyZ1ctSHpmSE5EUVRZMGNkSHJQOVFYSHRJdHFhNGdHUlJ3V3g3bWZndkJzdXZUTWZQRUVKMWNSZ3FRRDBZZWRiY3c1dWJ1bVg1VGRfUE9SZ21YdTl2RWdyUC1laGs?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553116320
-    },
-    {
-      "id": "news_NATION_6takeawaysfromtheMichiganSenatedebatebet",
-      "title": "6 takeaways from the Michigan Senate debate between Abdul El-Sayed and Mike Rogers - WLNS 6 News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV3BtZUFVdW9lYnhPMDhINGVUTGNUdEljMGFOejBDMnM1NWtYNWI3cmFQdGVwVUdNSVJsQ3lDQlRqdFZhSmg4bC12SFRiekhjLTBMYlgySlRrTnh1ZzlTNTFJQTNMWjZSeWw5d29oU2t5NHc3blZQWDZjY1YwcVltU0dBX3FWQlhMeFMw0gGQAUFVX3lxTE8wSlgwVmRLLTM3RUg0TnRiZWMtd0IwZ240NFdPX1gybkVILUZ2bDQ3TVdfQWZkMGh0OFlkUWVIV1B2TzJrYVFnUkpjZEtXR25ybkZiRFJ3cUhUdnYtX2l4VDZLaVJIWkxDVUpHSkVkV2JpSHVKcXJJOUF4UFROT0NJTWppeVU4UFdWVXo4ZnBxRw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553116320
-    },
-    {
-      "id": "news_NATION_HereseverythingweknowaboutTrumpsvisittoS",
-      "title": "Here’s everything we know about Trump’s visit to Syracuse today - Syracuse.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd3J3UWV4REhaYnMxbEo3VFc2eTRhb3RrN2VsbFpXT2dQMUNRVWtzX0NSZUFRWjdON3M1NmE2V0ZTQmlsSEZPejV2a0NtWFh4clVRaHdSZkxYZ1A1UVNUWnFtdm1tUnVzS2JuQ0tyTFJkbFhRdHBPYnhNcHQ4cmZ4ZnlzbXdEaW52Q1BpZ2xaY0p1XzMybGNFSVE4amNIRm91WGFHYjhZMXh1UQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553116320
-    },
-    {
-      "id": "news_NATION_ArlingtonCountySuestoBlockTrumpsTriumpha",
-      "title": "Arlington County Sues to Block Trump’s Triumphal Arch - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmxnODZPX05mNnUwSUx1RzNDYUFMN1ZhdEZGSFpjN3EwME1pM1NFY3llbEEwcDhSS2ZlaFZES1MyWWVzZXI3ek10WkhHT3ZTV2tZNVRueko0Q2ZxRHJHVXlKTDN1R1pjaVBTcUx5ck55eVdRdlY0LXJ3dlRyQW9oZjhzOE5DTlB4ZGk0VWdfT3A?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553116320
-    },
-    {
-      "id": "news_NATION_LawyersforaccusedmaninCornellcasewantLet",
-      "title": "Lawyers for accused man in Cornell case want Letitia James removed as prosecutor - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXNwdjBaeVVDY1o0azhLZmN0SXJaT3hKQWFXNXlEVG9FQjdBNHF3dFZpRzhacGtBQ0czeldVdTF0bkxUdWExZTNrQnQ5THBmVkE2VzVMZlFaWFNndWd4U3VadVY5cTkyd0U1djRONjFDT1VJZlh5QXA1NlFwak5udWl6enE5MzRaaFZsVkFXV1VVWW5kei1RcDdWSjIyNjVleUlvNEhUMG5KbHB0aU1xWkF4UXNDU2lTTHBtTA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553116320
-    },
-    {
-      "id": "news_WORLD_DonaldTrumppassedoverforNobelPeacePrizeh",
-      "title": "Donald Trump passed over for Nobel Peace Prize he's long coveted - USA Today",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX21FanZ3Wnk2TkxWS3NrNW8tdFBoc1h0VF9pWDRWOHVLRHlrVlVVT3dwWEUwd241QzR2SldONFNWUjhiZTY5cmR0WFZDVFRETHd1U2lBTWJhWDk1LTZwVTlCcEdYZFZUNmRxUEhQV21lSVppcmp1dFNYMzFnS3JSd1psY1Bid1duR3dGYTIyRWpFS1NPUVN4OXp5M3VGSmN0c2xiLTVfWQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553115453
-    },
-    {
-      "id": "news_WORLD_LiveUpdatesHumanRightsLawyerNaviPillayIs",
-      "title": "Live Updates: Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0I2YUlxVWh4S3g2WWpQdW9lQUlnSWpmOVdfWUtGUnZLbGcxQU9FSFFvOGpaN1RVZmhXc0h6NWE1aDNjbTlwXy1ZQ3BUczBkQlRYd2REam45cUJjY2szOWlXUmFRWG9UY3g2b2EzRWJscmw5aE1BN2VXbHNCSm9ONg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791553115452
-    },
-    {
-      "id": "news_billionaire announcement_MichaelandSusanDellpledge625billionforki",
-      "title": "Michael and Susan Dell pledge $6.25 billion for kids' savings in 'Trump Accounts' - ABC News - Breaking News, Latest News and Videos",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbnBtbkFPSkRqR2duNDJRcU56QjdCejdaMnlTOExFNDdaNHFtc2JmSWN0aWpCdHB4dnRQNXlHalY1RUlCTENaNE5MR19QYjk5akthRTZYUm1URkRfci1zWXpOYVpuY1BzSHN0V250QUNSTUE4YmlSMTc5R0Vya213QzVhbnFZQ0ViNHY2QWR5ckZ1aXdDZFE00gGcAUFVX3lxTFByUWVqU01ueUlnV3ZPcUgwVmdoYUlNN0lGZkZLR1pEOTFjNjBFNmgyaVNURXVwd01FUHVwLWNzaG9DUEJSa0ZDMEdnYkhvVm8xd3BDd0FHSll4S0ttdWZvaDIwRG43TmVOZEZoQ2ZnS1VlakdSLTh2TW02WGJHU196dlppQk9hVG8yQTdXUzV2bG1kQ0tXS1Ztb2gzTA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791527356864
     }
   ]
 }

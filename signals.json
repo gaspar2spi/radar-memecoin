@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-14T23:31:18.143360+00:00",
+  "updated_at": "2026-10-15T01:45:19.870254+00:00",
   "signals": [
+    {
+      "id": "news_ENTERTAINMENT_Kimmellaunches3wordtakedownafterTrumpsla",
+      "title": "Kimmel launches 3-word takedown after Trump’s latest tantrum - SILive.com",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeFhKVzFraU95Z2ExYTA5NzlxZmYxOTROa254bGFZcXM5OTJNQUIxQlJoTlZFeHB5WUtWa2JMZjFyWlVkSW9Oa3pmR25mbFJnY3VGaXNQdFpsc0tZalJTeTZwdzgzazBocS1oeDNmYzB4VFNDS2tkOUY1UEdEZlR5WmI4VFBicEg2WDZzV3RCZWE2SXUtYWY2NmgxQTdkYjM2MTNqbXQxTQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792028687963
+    },
     {
       "id": "news_WORLD_LiveUpdatesHouthislaunchnewattackonSaudi",
       "title": "Live Updates: Houthis launch new attack on Saudi capital as Trump mulls U.S. role in Mideast war's new front - CBS News",
@@ -1221,6 +1232,127 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_election crypto_TheNewMoneyedInterestsCryptoandAILeagueo",
+      "title": "The New Moneyed Interests: Crypto and A.I. - League of Women Voters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS3NORUdpZVhHMjFabFV0X2c2M1ZjYU40X0JBYVI0V2w3Qm1DbjhQbkhPeERfTHQzYmFPMWJLdVFqdm5pNjVuMzNXbkRjcEVJcE9mdHRBZ2tBNjRVMWYwLTJYLVFqQWxPem1hZTlWWGZfS3RUanVKblU0UEtTOTgwSA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792028702876
+    },
+    {
+      "id": "news_election crypto_BitcoinlosesTrumperagainsascryptomarketv",
+      "title": "Bitcoin loses Trump-era gains as crypto market volatility signals uncertainty - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMC1ROFdDZ2paTU1aSDRvSFFlVUZZRnRpN2tLaWxvZzZvT3cyM1ppc1pVeHU4RXpaRkRhTGpwcmh3VTdSNzF2LTZScWRFaXhsc2NtTVBaLXlBZ0dYcUIzRHUyajhDaVFUbE1FaGNkU29ZRDV4cGt4Q1c5ZHJpLXR4SkJzcXd6X2NkU3c1RERmRlFRLUU0ZkI0VHpCNDlPWTJSTXlXbmJYT19ZblNFVE9wTXE3ZDFtVlRaN1M0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792028702876
+    },
+    {
+      "id": "news_election crypto_BreakingviewsCOMMENTARYDonaldTrumpwillba",
+      "title": "Breakingviews - COMMENTARY: Donald Trump will bail out crypto holders in 2026 - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc3pDUHc1UmxoajB2YVplRDd0cldpdW5lQVhqczcyVnlFellXZjZaMlJxMmFWajE3elJCaHNpVzdNN3lnYXF1cFF1NmlFb3RhXzBYazViNmZtZ0RHYWpkUERZLXhxVDRTSy1xcFM0VlVsUjhsYjh4WUFLVjJNVEd3UTdRa0s5Q091SC12cHN2S0hmbl9oMXI5MzlGaUZmYjMtZmVuckg3aWRBem8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792028702876
+    },
+    {
+      "id": "news_AI controversy viral_WilliamChapmansfamilyslamoffensiveviralv",
+      "title": "William Chapman’s family slam offensive viral videos after Trump tiger AI post - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (AI controversy viral). figure tier-10 (trump) mentionnée; mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUpBN01TWjRuTDNUS2xnRmV3Nlg4eTE0SC1EY1JvZmp3VG1zMEVfM0pTSU9ha0VHNy1fOGYzTVlrWXNmMzlUZm12QzF6dC1laGNtbTFIeGtPczlnYUpJdnI4Y0Jvc2tjMUdRc1FSTkp1NjltNmVmRWhYOVFmUEE3RWRsZkVRaDlVY2NBY1Mxb3NFUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792028700462
+    },
+    {
+      "id": "news_memecoin launch_HowTrumpmademorethan1Boncryptowhenmostof",
+      "title": "How Trump made more than $1B on crypto when most of his coin's investors lost money - ABC7 New York",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (memecoin launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmNRamtUY2NCSExkU0NTTU0ybHlURUlZb051OUFGRXp1dmEwWnl5ZU80UEhSQTBmODJKOGE3NXhya196aHl3TF90aGY1Wk1XYjgyY0F3LWJ0ZjlPbHdneG52cnNZMDZpMUhQYmd6bWxUU1RJNVNrcDhOcWVQcFBfTnlQX0luYTR0Z2J4SmZTTTFEZFFrenhIeFVfZGpFT0QzUXhkbm0zdlN4RVVO?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792028691850
+    },
+    {
+      "id": "news_SPORTS_FourarrestedinconnectiontoFebruaryshooti",
+      "title": "Four arrested in connection to February shooting of 49ers player Keion White - NBC Sports Bay Area & California",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée; mots-clés viraux: arrested.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1RfUWo0SmVDZVpVT1lmOFctUlc0cWtSdldBSnRDMnU3WTJoWW95OXZ1U2FNSzZpam9TOVRLUGhScDQxVWYyUmxsU3lUM1VlWWlpQzdkRmJGdVd4Z21rdEVGLUxFQ240SW9kbWxwODlyUXZQNF9EUE1jOHI2bHRSYWp3RXV6dVJJODRkNmlmRFBTMFA2cU9oSjRiWTZhX2J3cDRvQkhjX1FqVTV0dTRHWWZpb9IBuwFBVV95cUxQbmF2UTFCSkRIVHVOMWtiX09oSmdKcDhiXzFxRXhybjNIY0pVNnM3TE16N1kyS2Z2X2N0eXlEUlBPS3BQS0Joc2tjX1Ywbmx2WkZ5Nm9SVTlqRC1WQzJkS2p5R1dPczFVZlNCWlVFbUM5cjNBejFCd25RM3BsM0hkNGdoSlpKM3ZRQWs4bGR4eFBYZkFydG96MFJiZHpKek15Qy1zYjhYWklSdlQ3UjkzTmhCS3UySy1Qby13?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792028688858
+    },
+    {
+      "id": "news_ENTERTAINMENT_18YearsLatertheMCUJustKilledOffOneofItsO",
+      "title": "18 Years Later, the MCU Just Killed Off One of Its Oldest Heroee - Polygon.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iZGxQWC1HaUFmVHlQV0JuRENubG9Cb18yRnQ2OFRSMkxwQnJwS3Zjc05yNmZjOG8xTkdydXlBemZSSkhMZmllaTlwNkZtYkdSdVlzZTNMN3phVDY0R0E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792028687963
+    },
+    {
+      "id": "news_TECHNOLOGY_NewXboxNanoControllerisdesignedforyounge",
+      "title": "New Xbox Nano Controller is designed for \"younger players, smaller hands, or anyone seeking something portable\" - Digital Foundry",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVTFKSVJ0V2g1T05heDJ5S3diNVBLTjY1b0JERlBYWU02MnBReVdHVXRzRHZuUXNmOG13MlZtbGUxWEIzcHFDZGtsM3JlZGNvcEl4RVlfeHFkbVVETC1fS1NOUVJYVE92S0RqTTA5NVR5WXFJckdQSndqLTBnc2ZWLXdVbm9KWW9LQzlPZ0EwOTZKU3N4Qnk5WU45MDdfMmlXeTloSXZQSmg4RFJiXy1xTERTM2xzOVNRX2hBancxckVmWUlTNzJvRUNWcEtKbm1tVnI2cTk2UmNONXQ1YWhFcXZPN1BPUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792028687015
+    },
+    {
+      "id": "news_BUSINESS_PimcosBondKingSeesFixedIncomeReturnsasHi",
+      "title": "Pimco’s Bond King Sees Fixed-Income Returns as High as 8% With Yields Near 25-Year Highs - Barron's",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnBqaUpQNC1DR0k2eWJ2ZTRnQm95bWFoZGlkaC1RbVdTUFpOd3RrMUFXekxKMjJMQlo2bVRobEcta2xpbkNpRVk3c1J5cFFHcXFhQml3cFNQSlVmRkVBdXVqT1RTMWhJbnoyQWwyVnMwQW16dk5vcHRhR0hPMWgyamFsSVNZMEk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792028686101
+    },
+    {
+      "id": "news_NATION_TrumpsaysTaiwanwillbuyAlaskaLNGTheprojec",
+      "title": "Trump says Taiwan will buy Alaska LNG. The project is still in flux. - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb28zRTRabTR6UjhNbklINlV3MDNLanVsd1RhUjlOYXJxdlFnTnNZalIwRlBzalIwRHRHNjVsSjY2Vm1kNHhJellzUFF0QnNwUkdEY2xDMS12a3Nrd1VDTjVta091SGlHQ2xQY19lTlVBMk80NDNiWmQtS1lZSUpMcGFYZEhLZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792028685153
+    },
+    {
+      "id": "news_NATION_ICEofficershotby72yearoldFresnohomeowner",
+      "title": "ICE officer shot by 72-year-old Fresno homeowner now faces 3 felony charges - SFGATE",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbno0bzYzZzF1WFF1WWZTWEtqcnYxWFRhbU1MNTBkZ3o4UHhsMXAtRGtRSjR5YmJPbXk4Y0l0dGNPNXhxV3F5bExmVk43TVVIN3hRTW1McHJSWnJvUXZldVEyRFJrVFVqb1l0eDdvRFZXenBtUnBQaXB5eVgybXVkdEp2SGU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792028685153
     },
     {
       "id": "news_billionaire announcement_MichaelandSusanDellpledge625billionforki",
@@ -5368,138 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791587328096
-    },
-    {
-      "id": "news_SPORTS_The10PlayersWiththeMostatStakeOverthe202",
-      "title": "The 10 Players With the Most at Stake Over the 2026–27 NBA Season - Sports Illustrated",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52MkdxcndYYzZ3WjBXaTJRdWk5aUd6cEIzYS12RExkc0NFdmEtU0t1QlotaDI4ajZxNGRfNHFTckdsVUhwWGdQbTNqWGxHUWFROTN5ZTdOcU5nWjFlMGlHNGZkZ05INFc2ZnIzb191WWNDSGdqWEdCaWFKWQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572405036
-    },
-    {
-      "id": "news_SPORTS_StewardsissueverdictoverVerstappenyellow",
-      "title": "Stewards issue verdict over Verstappen yellow flag incident - Formula 1",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUFZJaDJRVDZnQUhBQlF0cTgyTEtHRG1oRGxxWkdBWkk1S1F5N0FiZDhoQmk0YlBva1hiSVBjSENmSlE5bmNHQVQyaEVRZ1VRejgyUUdqYXprajVsV0lHNmRXT1phZ18tLThpVzY5Q1B5OFpMQWVNZVg3SEl6STljTmwybG91WHJsSjFIM29paHpmZUtUWWRWQ0RsMDZnRXpWdTRjVC11QzdvOVVSLVRtejE4WEFiSExyTWcxVk9ybC1Yd3dvQlFTTkJCWVZVR1dNUzl5N3BFcFNVRVAyeDJZSWM3MW1hMnltaWNwZV8yQW5CWkJNVy1oWUhB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572405036
-    },
-    {
-      "id": "news_ENTERTAINMENT_PrinceHarrypocketedeyepoppingamountforem",
-      "title": "Prince Harry pocketed eye-popping amount for emotional MasterClass on grief, depression: report - Page Six",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3NJRTJ2dzhGMlRlYWNiUXZiaVo0X0RHSnNIMWt4MVBBUzY3WVNjcTJULXYtUm4tRkNHQkMwQk83aDRKMjhnS2ROTVY4TEhTNVFjbVFaY1NWOGZWVjN4RU55TnVKckZJV3NGXzJpSXctWDFFaHFhX1pud1NLZ2taUy1QU3RVcVZqUEFkTllSWE45YWpaZ0VRSjZpMEJsZC01NzhzZGxfSDE2dWxXVVg5LXJmV05LcFhRUmJ4UV9MRHVwS0NUNnZVd0J5LWpJVWtfcUVBRw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572404104
-    },
-    {
-      "id": "news_TECHNOLOGY_NintendoofAmericaChiefBreaksDownHerFirst",
-      "title": "Nintendo of America Chief Breaks Down Her First Year: ‘Zelda’ Live-Action Movie, ‘GTA 6,’ Third-Party Game Goals and More - Variety",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée; figure/entité tier-8 (nintendo) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaVJ6RTlmbWsybkp4bEtfemtWS2IxYmoxMHFZOVJRUHlhb2hNSTFLZHpUaklEQm9oY19SYjNQdTlUZi1UZ3FmWWFLNXBsMWx2ZS1ONlo5ekt4T2FqT3JUVTMwU1BzcnRNRHhtd2kxMWtxS0Y0c1dvTVBJbE5YaFQ5U3UydUZpenVETzdNMTJOUnViamFhUzBmdkRLcVBua2tteUx6MnFmeXI4Ym1qaU5FRw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572403179
-    },
-    {
-      "id": "news_TECHNOLOGY_FyreslayersinBattletomeKhazaliteHoldsWha",
-      "title": "Fyreslayers in Battletome: Khazalite Holds – What you need to know - Warhammer Community",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3Y2T1d0MG0zMUFnTEg5SXdNMzJWOC1EQk9udU40OG9TYldKalYxS0stZWxIakducDlsdEdSbWVyUDJNN1RBTVVDeWtaR29jU1U4d010a0hFejRBWl9MRVlOSi1oVG5GQXEtZzFQTURaX2R3VnFQZXQyVlM0UEtVU0J5Y2h6R19UUEZERXRBeHZOLW9LaUZydzBtWF9sM2gzc3djUlNjakw3MHV0WjFaMUdsVHNmd25sMU9sZXB2ZWFxdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572403179
-    },
-    {
-      "id": "news_TECHNOLOGY_CallofDutyModernWarfare4revealspriceyspa",
-      "title": "Call of Duty: Modern Warfare 4 reveals pricey spawn options for DMZ, which offer rich players an enormous advantage over poor players spawning on foot - Eurogamer.net",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT29KckxNMmdVQWZiRk1ISzFmQWQyTVhFSkFuR0FzZ2xSY3JVYmR4RFYwZldaSTdWX1dpYnVlUlZGeGlyTVdoTnV5ZkgtbElXT3M3cFRCa1BwWVBDY2ZienQyMkpzQ0tWTHRGV1lZak54U0c1VE1OM0ltYmRsLVRCRTlqdmpINUdhTWtIMw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572403179
-    },
-    {
-      "id": "news_BUSINESS_Trumpsetsupcommitteetoinvestigatepotenti",
-      "title": "Trump sets up committee to investigate, potentially remove the Fed's Lisa Cook - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUxOZXh5bm9ERlh0ckdRLUx4bFo2QTNpbHFKcmNHRzJiWE1hME8ydkVyd3hwS01IN1pFeWdYaXh2ZnVxc1BBNHZaMlBnWGZGQjhKeVlGb0x1MmhxZEhmanZTLVBnNUJUNXAtZVdabW1xWTNGWEJtYkxpcjBvRUZHYm13TEtpd2h4eXgxUlBUNUZvODk5?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572402192
-    },
-    {
-      "id": "news_BUSINESS_ElonMusksgrowingSpaceXempiresendsATTVeri",
-      "title": "Elon Musk’s growing SpaceX empire sends AT&T, Verizon and T-Mobile shares plunging - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1lkSVZ0Z3Z3Zl85SXJZM2FCLXJpTXRiWUhhdGFQZWRyNmtEemNpdHMwWm8tWmtGdXYwRHhFM3N0a2FXdGh0U3FyeW1ZcHJFSWN1X0RFZnZORGR2OWNXVVpqZlg5UXpqOG9OeWEyZkp2bF9sR09MNnRGZWtsQXdmMHlFekZqdGpuSHFHamVydWVpRTZENUJidQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572402192
-    },
-    {
-      "id": "news_BUSINESS_USdieselpricesremainhighdespiteTrumpsmov",
-      "title": "US diesel prices remain high despite Trump's moves to boost supplies - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSC1DZmo5R2daREU0YTBRSFBZTE04NW92WFQ3eXhLeGhiRlFyTEZBbHdWT2xuczBRYmtWcmlqMVJKTUo0Vk9KTEk1OU1jYUo1NlQ3Zi1KTzhmc1pmZkhQS01OajhXWHR1aWpQVEpuRTllX0RSd3ZmR3ZKMG51MlJRNGQtX3BkdUpfOHFGejVtbnhMUGlGNVdDa2lISkd5dFdmNWc3dFpRZnJuNGJ6M3duQ1pJcXo?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572402192
-    },
-    {
-      "id": "news_BUSINESS_AffluentandOlderAmericansGotMuchRicherin",
-      "title": "Affluent and Older Americans Got Much Richer in Postpandemic Years - WSJ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVBkV3JrdDlld0JzX1pMLW93MmtRZ3IwNnR6amRHMHIxSnAtSGEwbXJpT0l3RV9PdXVPU09iTHZXSWtiUVBsdHRjRkw5ZVpab1U2bVdjaDJZejNCVVRjeER5bFcxbVF4eWVEMnpybXp5TnVPN3hkTmt1WkpXSXVobGJybUVOZ3BVU0UzVVR2bllfTlE1TFBCbkNtVjJnUjVCYk9ZUk80Vm5tSFE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572402192
-    },
-    {
-      "id": "news_NATION_AbdulElSayedWouldntLetMikeRogersWashOffH",
-      "title": "Abdul El-Sayed Wouldn’t Let Mike Rogers Wash Off His MAGA Makeup - Rolling Stone",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcnBOOGNLMURJbU9aVTFKUXhZSlRGdnA2Y2dodW14dkxlQ0JLY3h2SHlOcHpuV2JkU054RG1EaEF3NjhRQV9lam1pN1FLWXJPMmppOHNUckl2LVpaamdWdTg2U1NUZkE3Vk4zcmh3dzBSbmcwblhzVzZvMnVES0paaXhFeUhaaXUzNktaRnY3ZDRPT1lVbjJhRmlUXzczdXE5QUhmZ1g5cFFBZ1VVWjM5bEM2bzBhTGFNRFJWSg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572401216
-    },
-    {
-      "id": "news_NATION_OssoffwantedtotieCollinstoTrumpinSenated",
-      "title": "Ossoff wanted to tie Collins to Trump in Senate debate. Collins did it for him. - The Atlanta Journal-Constitution",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUlrX25GUUlKdFZMNTluNnBnaDZ3VGdCd2syY1phY2VORnFZWGpxQ25Cb2EyeFh3cG9Zcm14T2hKaVNOYmUzQ2ZjUzctMmRDUm5oYUM5N21oTzhFVWVKZVVhR3BEUDlJZkFvV3Mwb2ItVDYxNGYxbG1JeVlDWUY1cmpsbjVFZl9jUkxmMkNwNkJFZmRsb1c3Y1VPTi1OYllFeGdOT2QwX2UzQkZMdHZhMjlDRWFFUkFRLUE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791572401216
     }
   ]
 }

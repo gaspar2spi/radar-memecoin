@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T21:32:57.657712+00:00",
+  "updated_at": "2026-10-16T23:51:02.102216+00:00",
   "signals": [
     {
       "id": "news_ENTERTAINMENT_StreetFighterEyesBoxOfficeVictoryasBuzzy",
@@ -1243,6 +1243,105 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_ShivonZilisannouncedhersuddenbreakupwith",
+      "title": "Shivon Zilis announced her sudden breakup with Elon Musk after the billionaire had told her he loved her - Informat.ro",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT2hsWE1TVnliSXBhbFBQcVNkNnhPQzNKUVZ5d0JDa1ZMNW5HX0VoUUJpUFF6ZTYzcFg2Yjk1OXM5SUsyV3BhV193ZjU2a1hMYjhqTTV1enF1Xy02MHpVcFBfU0dRSkhHeFNqV2x5UmVOODhMMFJKZUhGSGtTdzJkNHkybVpiNk1SSnNsQ2FDWjYzYmFPSVEtQkVyZGZQU0toMjI5eHREcUNPNk16M2IwR0llM3ZlczduRVhlX2RR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792194648252
+    },
+    {
+      "id": "news_HEALTH_FluactivityisstartingtoriseIsthisyearsva",
+      "title": "Flu activity is starting to rise. Is this year’s vaccine a good match? - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWE5zYlp3OWpSUS1jTkQ1c04wVlhwZjNwc2d4eHVrdGp0TW0yZVZSWXN4WmFHazY5bklxX1BrRU8tMzNOcnJtZGFmX2ZQd2trc3VUZFBGWHBSTlQ1UERoV042N0wwSmF0d21qUV94Q1o5a1lncjRyZGxkVDB1bFJGMmx2cThuSDZVV0k4cEZBSURHYmxaenVVVm50NllPbHFUU1RfbFl6SkZxdnV3aWc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792194627443
+    },
+    {
+      "id": "news_SPORTS_Week6FantasyFootballRankingsStandoutsXav",
+      "title": "Week 6 Fantasy Football Rankings Standouts: Xavier Worthy And More Players Higher/Lower Than Consensus - FantasyLife",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOTBzUDhKTEVUM3Z1eEh4aTdPT1hNbGR5akVnS0IyaUw0SC1TTlhkaTRmeTNPaXQtZjRfVEEweHNfd2tpN0ZSUTlQQm5Vd096dUdCc3A1YllrNC1uZWlDd2NheGtpcmd3LTRTdEs4a0JmeENKSUg3LVJYUlpqU0FjM0YyakFkSUJhSjZvbUp2X3N5QWotLVJPVWRVT05GbURfbWFESHdiU1pUUUpFVFE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792194623606
+    },
+    {
+      "id": "news_SPORTS_Collegefootballplayerdiesdaysaftersuffer",
+      "title": "College football player dies days after suffering traumatic injury during game: School - ABC News - Breaking News, Latest News and Videos",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM3lPalUtdVZVWHYxazFUTUNvUmVoeWlZZ2pDTDJjVlNET2NtSDlkRWlSTF9QVFJkczRnbHowR0c1NnkwbjBkQzJrZm1vS0hXeFlQaXh0cV9GNmJJcnVCUDl4dkZ5d01mbERKSmNRQ1pwSUcwQXUwU2gzOFh6UEp1YklrdWlHYldsNllUNmJ3ME53TXNaa2N3bWk2LV80bUMtQWRPNdIBqgFBVV95cUxOcW9qMTBINWtxQkRjNjczVUY4MElSbFlDRkpSTnBkY3lFZXlDWVg5cVNnSHJxM3lPX3ZFcDJXd001UUExUk5XdVliRjkzLVJLdmI3WkNWLUMxaVdFZmtPd21JcC1RYVRDVnlNeHdyQWwxa0o1dy1jOXZEdlhMb19uVkxmWUY3Mm15SmdIaEJFVHp3Q201YUpfTjdqR21aUW8yR3lXWFBpNzJrQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792194623606
+    },
+    {
+      "id": "news_ENTERTAINMENT_ExclusiveBillyRayCyrusandElizabethHurley",
+      "title": "Exclusive | Billy Ray Cyrus and Elizabeth Hurley engaged after more than a year of dating - Page Six",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmF4Vy14WHJmcE41NkpLTDZ0dENzX3dkb1lFRnhQX0JnZUlpMnJqWGhEVGdvOFp0MTRRV3RmMWNwTlhlcDhLOUhsZGhpNUpES1BjWjUzakQzRUViZ3NzSjA5SzJmWXBIbXBZRmlfTTdBVFVnYS1lY2FZa3RwNGZXZWYyNDdOUWtnTnlWaUZXSTFsTXdPcFBMNzJYSQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792194621460
+    },
+    {
+      "id": "news_TECHNOLOGY_SuperSmashBrosPlayerMew2KingBannedFromTo",
+      "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns - IGN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée; mots-clés viraux: banned.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd2ZFMkx6MFRiSGVBRzFWZFI5bkpIekZsRTFaa0R5SWFOTG5GYTFtUHVHdWYtUTNXdm9KS1JnbUFYU3hBU1ZqSnB1LWIxaTUzRURtNXhRd1FSZGVnRDg5b2Y5UVYxalpoNjR6cjJZa0tHampFckc5RlprTmVFekpldDlUTzh2NjdzejM0clVFRS0zcWJRMS02QUtibEpFb1VlV1VlVWx6SWxaOG9ZWmFaYjJqQUt0aXNFalZ2SnV0TQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792194619406
+    },
+    {
+      "id": "news_NATION_TrumprallieswithtopRepublicansincritical",
+      "title": "Trump rallies with top Republicans in critical battleground state of Georgia - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeG9neF9UWU8xalFMQThHbW1Hb2o3Z29WeGtuem1Dc1hVWGhCOXdHMENnTHZmcWEzODBVQnBmSV9HZnRHYVVJZ3FpdXVwM0tGSk5hd1hnVFlfSG1FclBQWWd4YTkybGRuLVl5SFhzeWNnX2V4NkY2cGlNYVJ0eUhSc1A0WUR1djM1dHhCcHk2Qnp4WDJxYVhnMi1seEszX3pkVzJBTVR6dE5oWlNS?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792194615983
+    },
+    {
+      "id": "news_NATION_AppealscourtappearsskepticalofTrumpsatte",
+      "title": "Appeals court appears skeptical of Trump’s attempt to shield presidential records - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHhEdGVaZjR4cnZmak9haWVLOTlZVXZjVG84ckVQMzJSMGF1YzNuZTZiVnlWWDNuLW10ZFVHVjkzN2NqbkxzaU5LdDMwc1J3bTV2R1dmTC1MVFVwNUpJdzhPalM2OVVQTGszVUdfQ1JxYVAyS2E4b09kTXExa0xZaG5JNFk0YllmeHFBNnBuTjhLQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792194615983
+    },
+    {
+      "id": "news_WORLD_MetaemployeessaidLulasaccountswerehinder",
+      "title": "Meta employees said Lula's accounts were hindered during Brazil election, Folha reports - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0p1V2xfQXVzaVlPdVhQdWxra2NPSWtJRGZoZ3ZqdHd1Z1NZOVFpQUhxY2RKU2g0VVo3T280MW9rSXhJZW83TTk3M2hXSDFJcWs2LVhoblM5eTdOQV94NVk1b1YwWVBRN2hOcXB2enRBY3haQVpZd2tNZjExZGVWOTlFZDA1VkFINU5Nb1RIZWpISjVpc3pSN0MxWGxkbG9saDVWNmI5cWVVak0tTWNhZXBraGxwTXl4LWF0cUdHMFFOLVI2c3BV?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792194613799
     },
     {
       "id": "news_government shutdown_USannualbudgetgaphitsnearly2trillionlarg",
@@ -5401,105 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791768224921
-    },
-    {
-      "id": "news_HEALTH_Hiddencluescouldhelppredictawomansbreast",
-      "title": "Hidden clues could help predict a woman’s breast cancer risk years in advance - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamFxbEZBRDMxYnRidkppeDJEcW42VURmT3ZrWlY3am9kM3d5RE5obnp1X29nNEkzQlJoelM4d0JDRkJHaUM3eW4tTkRiOTJJVFFHM0tuWHhocV96RlZ5UWM4THZkbU5CSW1DcGpWWWpMNXJ4WHc4UkUxa2FvWU0wZWZBWmRYNWJieEROdTdSNDRCMTRWeUk3ZGJKYnQtdUEzUDdGbdIBqgFBVV95cUxORllWNkhaOGItZkJYTWxOSXNvUndrOExOclJ4U1kxM0swTVpHdkdGT2FBUDFOSmFjbG50UGJGTnNheW1JX2RpRmJmZDlSSjB4dlo0VHQ5cjV2QTBoanNtcXYzajhEZDZjbTl2cDFTNE1hRkMwRjVNWjA5T21Ra093UWhCdUhmOV84SWQ1Q1dBVlk2a1djUFFhQ2c3cjVONTFCcHF4ZFc0X1Jqdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791768211582
-    },
-    {
-      "id": "news_SCIENCE_AncientDNAidentifies146000yearoldDragonM",
-      "title": "Ancient DNA identifies 146,000 year-old ‘Dragon Man’ as a Denisovan - The Brighter Side of News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX3ZiMEJUOEZ1Vm5TTzhYenRhaWVrZF9ObGJrWVBzaHlnRGhtYV9pWWVvXzNITFV0ZlhYSUFWelkwNXp1Vy14QTZlRmJXcFZLMGZfNEZoc2RsM3lINzhBdEhYTlVKZ3lNcnNQbElIZEFWUVE4ZlFmRjNwT2tHMFhMb0M4NGktbWMzMkhKQXoyRzIyNVJCWllRZWhjMnluQnBXYk5ZRmJ3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791768210715
-    },
-    {
-      "id": "news_SPORTS_KarlAnthonyTownsonKnickstablingplayerext",
-      "title": "Karl-Anthony Towns on Knicks tabling player extensions: ‘It was news to me’ - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmxsSWdPMzNvZTBmM09URTdBM3hzM2NJb2FMQ3RrZFZ2V0VYZnYtRUh6OFlxTUd6TDFYRFplWUJvRVdlV3dCSXNOaG5UOFRlVUFRckdCM0g3TS05elBsQVplYWFzci05WngyWVhIQTE5b0ZHV0F1amVkWm1WZ0VZVDZZckVYSHZYbG1KUFpaajMtMWkxWnZSbzd3VnNzUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791768209855
-    },
-    {
-      "id": "news_BUSINESS_Trumpsquesttobringdowngaspricesaheadofth",
-      "title": "Trump's quest to bring down gas prices ahead of the midterms is not going great - Business Insider",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZVRCRVlPdXByalpjMUVheHY0MVVvRTVWVEFuWUc1UkVrZEdRLV9PcVZKMTV0SWdMeHI4QnJkX05jQjJKaC1XV2lvSVF4Y2t4cjZuWS1sTk4xRUYyREJGZVV5ZFZCaWlTVy0yTi03MmhHd1RzUVowYVpEVkxidGozZk8tVV9RMUJEczRqNlpuZzNCNGNfNGpmUTZrMmdYWFZZSmNvRzNR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791768206491
-    },
-    {
-      "id": "news_BUSINESS_TrumpAdministrationBringsTheHammerDownOn",
-      "title": "Trump Administration Brings The Hammer Down On Microsoft After Vance Said The Company Laid Off \"6,000 American Workers\" While Getting 6,300 H-1B Visas For Foreign Workers - 24/7 Wall St.",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPMFQ4anV0MTN4SV9rSUtTNUotM2ZOendycU5iS2czZ1VTb21tM25mbnp0WThrTEYwdmtQYVR1R1lJbEFuQ25jMy1WT3Z5bFM1WmVGRXc4eFN1Vzh2aVpKMTRhQ1hraUNXbmR5UGQ1OXhubHBmZXptUUtDeW9WcG5KN3Nrd3cyUVNiRnBqeGVGczRoTmVWR2FaanB2d2diYmhfcVBTaEtOMUxGdE1xaHI0U3JwSUFQSWgwT0NiTW82a0VuOUgyVnNGMk5VTjJfQjdnMl93NGxWMUhyQjNBNm1MYnpZN2I3bDh1QVRDZ1VFd1hhSFdpM2pPdzlEcG5QSjF6OW5iNV9GcXRQZ2tzSzBsSUdqNDlSLU1uQXd4NlVVcTE3djNPV0JrUURuaDFMRWNYN0w5LQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791768206491
-    },
-    {
-      "id": "news_NATION_JudgeorderstheTrumpadministrationtocance",
-      "title": "Judge orders the Trump administration to cancel taxpayer-funded promotional TV ads - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZSkwzeFo3TmJLRmpQNGtfX3F4ajZsRlhSb2wtaWEyc2hrVFBrQ0RtbEE3ZjFjVkpiMFdkWjA2UTdHUWxwQW04dUVEY3ZUNnNabWFnb1NORV9EVlc1SlhnbURkU2FEdGdzNFVCeU9SbmYyV2I5bzlacjVLSmQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791768205505
-    },
-    {
-      "id": "news_NATION_TrumpandRubioweighfiringKimberlyGuilfoyl",
-      "title": "Trump and Rubio weigh firing Kimberly Guilfoyle as misconduct and donor bailout allegations mount - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS01HNERkcW1sTHAwc214T2NlS0JaSW1mYW5yWHFob0Z3ZkRnbnV6NkJrNnlxSlNiU0owRWJpa2J1SElDYVR1MXFtVHF0ZUJGYXhhU0l0czg4UDRvaTNDWXlqX1BkS3ZFeDBOSk1RTzVJR194OGpRdDdVSHJVd3NPbzVScFJtVGdlMmlkVndCNGJYWGswMnlMZjF4TWlEQkpmTUtCUndacmpfWXBTakhJTkZsZlRTMk93amRN0gHAAUFVX3lxTFB4amduSldwMGRWNXlQT2JsYkotY19PNndLZXBqMHRiakdlQXJPcUplQW1weVFicTd1bFFBZUdzcFdZb2l0Tm4xOU56TVBKX1o1TmhlUXNSVExFZVlYa3pjRUxabkktTlZUeUtjY242dnlkTjcxazZaX2tGNFRpWXVHalhmZ0xBQU0xU2ZOdTNWMTZDZ2lESXlJRjRna0tGWDBER2p4ZXBFbXFxZU1RSVM4M2htUW5oYmRPMHdmNkhCLQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791768205505
-    },
-    {
-      "id": "news_NATION_TrumpbearsdownonZelenskyasRussiakeepsupa",
-      "title": "Trump bears down on Zelensky as Russia keeps up attacks on Ukraine - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHZpRnVWRlc4eWdqQzRGNnFiY2xheFhYb3Z6QXFrWGFQNk9aUkpuemc5cmQxSnFYMi10YjJPRzQtWmtVRkZHNWJlM0s4S1VvdVFFT19vdndGYWYzUFdxOVRvQk1laV96VGFkN29oeHpNMWItUzR1MW43R1dVd3I0ZWFTd1hNRUxqUER0TmhvcENYNGs?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791768205505
-    },
-    {
-      "id": "news_NATION_SiliconValleyisfallinginlinewithTrumpsat",
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI - The Verge",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFI5aTdXbnUyZ19zc2RLZ1ZZZi1pcVhYRlJSR0tXZU9RaUZSYVRxM0JnY0E1YU5hYXFYS1NLRTRpNmRITFE3N1IzZVZSeFRJbHpxWkU5Tng1TDR6ZjVudm5MMGpQa1ZVbzJobUFhUXRwaENJVmpyR21PYjc3Tl9tc2llWlA4OENESTdHOU52c1lQOEJSMG5GLWFnZGc3TFRFR21iWDRqbHV6YjcxcVBFbi1xWEFVRThxRExTSmY1RUdUX1c5?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791768205505
     }
   ]
 }

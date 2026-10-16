@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T05:49:58.959771+00:00",
+  "updated_at": "2026-10-16T10:10:43.391212+00:00",
   "signals": [
     {
       "id": "news_ENTERTAINMENT_StreetFighterEyesBoxOfficeVictoryasBuzzy",
@@ -1243,6 +1243,138 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_Trumpaccountswebsiteisunveiledwithbillio",
+      "title": "\"Trump accounts\" website is unveiled with billionaire Ray Dalio as its latest supporter - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NcFhabEg0LU81U1FONnRSRFZTc25UWWszRUE2ZWltRW4xV2s1ZW55T1hHcEJMUmN2LXEzR0pNRW5PV3hlMGhLT0g3WVlRZEJudkhfUzlqdUFYVFQwWXN1R2ZRRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792145428768
+    },
+    {
+      "id": "news_government shutdown_Trumpadministrationsettlesunionslegalcha",
+      "title": "Trump administration settles unions' legal challenge to mass layoffs during shutdown - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNamVuLTZxc1dRd0pOMy1tNmFxRUhXcnJxalBhczFNRzZiRE8wamtGZmVPMmJwYWpQQzJMa1BtRFAzVDdIQi1IcHc1TGFJbmhwYloxNGZpTXdvSnQ2allVMXBMdV9kYTZyR0djZXdiR0tPbTVOVURuNXY1Ul9EY2lmb0h1cnNLa0R1UjZhcExDSFZUMVV3d1hscTRiUVhiVlVIVEFCOVdYazduWldFTTFsUU04Z0tkRUo3dEt3THdvMGhTTG81Y054OHJ0eTk1Zw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792145426589
+    },
+    {
+      "id": "news_HEALTH_3NappingHabitsMayBeLinkedToDementiaYears",
+      "title": "3 Napping Habits May Be Linked To Dementia Years Before Diagnosis - HuffPost UK",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792145413133
+    },
+    {
+      "id": "news_SPORTS_CollegefootballplayerTylerUlrichdiesfive",
+      "title": "College football player Tyler Ulrich dies five days after ‘traumatic injury’ during game - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2QwT2djVjNOOEEyLWVZRVlQOTRsSHNuaS1HWlNncms1QUtzc0EwM2NqOTd0ZWtTR2VXV2tOYUpyOFlrb0NhTnc0cjQ3ZzI3Uk8xTEFadkRsV2dCR1VtMENZR2NDbHByU3B1THV0RjJyc1BpR1Z5LWdYcUlfdXJYTlEzUTlFY0J3VHhZeHZoUlMxNHhUMXJoM05tYnloTlpiRG1RY2VKakN4QktkdFlv?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792145411228
+    },
+    {
+      "id": "news_TECHNOLOGY_ConsumersMustHavetheRighttoOwnACongressm",
+      "title": "'Consumers Must Have the Right to Own' — A Congressman Is Introducing a Bill to Get Rid of Digital Game Licenses and Give Players Total Ownership - IGN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdkhtNHNCSmFETE9GcDhsclpPaEUxZkVTY3dfYVB6TFBaQi1HdTBmWlRjbk5PcTNHMUJfRXpOSEF6NXBmekdUSDN6Z2VMankzUGZ3cTlHVXlnb1hiTVN0X2tzak84ZERxWGZodGtLX3AxNGZyWmdFUGhLaGJqT0ZXQ2E5TzhiUUVKN1JSQV83MWxjeEFRZUxFWnpTS0p3OXdkcTRxcWo1eHVLd0tSTmhzUGZn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792145409329
+    },
+    {
+      "id": "news_BUSINESS_Asianstocksriseastechbouncesfromrouteyes",
+      "title": "Asian stocks rise as tech bounces from rout, eyes on Warsh - Yahoo Finance",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWmYxVlpsTnpEYkhzRkR0V3l0cTIyX2JKc1Zvb1pOeXc0RFpUb1JuT0t5WmhSWFJIaV8yNWpRcVNMWUpvUUVqallPOU00YXFiVzlCWUJqQlRWV0F6LTg5RzRzYlFIMXpQaXhQSV91QkFtclp1LWljTFZmSjFLZlZybjExUGhUVnZrT29RbGctRnBuRG1HQmphSzFyRVlPb3NqSlktYw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792145408397
+    },
+    {
+      "id": "news_NATION_TrumpRejectsHegsethsBidtoStreamFiringSqu",
+      "title": "Trump Rejects Hegseth’s Bid to Stream Firing Squad Execution - Bloomberg",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkc1MkZkVlBqWUp1WmxpT3E3V1VyeFNhWVdTdzFNUWg5T0QtSjZFaXZLY2NfcFIyTmFpcXBEN0VJOGRVT1B1c3RKVUxEdWlRVWdqU040SkZqSHJ0TTlQM05GUkhJRUdic2RhZjRpYXZud2pnOEo3bF9RRVU5MnRIWU56WUZIQnNqc0xfYUpwNEw1NHUyX1hOOVF4OUp2d3hhMkpuRDloRUlSYUliQUZGd0JtMGM3Zw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792145407445
+    },
+    {
+      "id": "news_NATION_TrumpadministrationsuesCaliforniatoblock",
+      "title": "Trump administration sues California to block counting of alleged noncitizen mail ballots - PBS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc1NPdm1TZE1LeUh4X0lZd01tM0FwWWpBbDNtNDR3YnVmWE9PblJoX2RnMXdGQXV0VHpxbGFyRldITHZvUlNnZUFucmdqamZlbnVyUWpISFljc0g5M0dWQVFQaTZld1YwNDVmRHhtbE9OdVZpeFFlYU5IbTV1bzJMRFFFeGFiZUlIeVQ1aXdlMksyT1FJemFBT3hFaVc5QlVKemllN2t0dkg2QldMRDlmMHU5cGx4bzVLR0dlQ1M0dUVlV0tOc0E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792145407445
+    },
+    {
+      "id": "news_NATION_WhyTrumpisgoinginwhenthemoneyiscomingout",
+      "title": "Why Trump is going in when the money is coming out - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSy1oQ09PVW5xY2Zva2ZGSnQ5dEo0Q3k2aUlBc3dnajhqVWE5UVVLS0wwTGFRUkZncHA2bk5hakg4cHhPR1F1MlRlXzRsdDEtSVJjUGhIQXVNcC1EMXg3SzNyWVZVb0gya3hhZ0ptdEs3bzE3VXRyYVRTNEg5bk9LeDN5dk02MUJ2Y0lOV2NjY1pFcnFtLUpNVGtOZWszdmFtZGc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792145407445
+    },
+    {
+      "id": "news_NATION_ElonMuskgave158milliontoSenateGOPgrouphe",
+      "title": "Elon Musk gave $158 million to Senate GOP group helping Paxton - The Texas Tribune",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkZzYVlsTHMyU0Y0VHRxSWlsODVfQkZRc0V6TmdOQjd1ZGlWYVlMOThKWjBvRnlPY0tZSEM0b3hnM1RVUThUSE9rMUl6NFV6LVZldk04a2t6cXpFbEdwSjFQRVhrSWtBSk0tUG4tSFdteTNaMWMyNVNkX0I4aDNaMld4bFMzRzBvNTRXajU2eTI3UFp1bG9N?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792145407445
+    },
+    {
+      "id": "news_NATION_TrumpnamesscapegoatsasRepublicanssweatin",
+      "title": "Trump names scapegoats as Republicans sweat in Texas - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xV0JXWWRwbXd5R3pvd1VFX2NQQmh6RXZNSlduaHRrSUNrTlpVUHRtNXNlcUZtcHVSckgzMDQxSjNjNFVOTk5LWGVrNnJWZmZvOXZmalAyYUU1TndrdFd5dTE1bFhibUJNOXJSUGR5OGJCWXh5TGtQT1Z4eUE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792145407445
+    },
+    {
+      "id": "news_WORLD_UkrainehitsRussianrefineryasZelenskiysay",
+      "title": "Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce - Yahoo News UK",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzdsOUhkNExlWXVFYU91TDVfWXY5TThyMU9SR2hQMnBLOU1UekJQM0ZrdnY3a2MteERlNGZKbTYyNHp2Um00X3pLaDhuWlFNZFBHNlI0YzdzUmNMYXJYLUVlZnZHV296SU9QWXd1WEN0UnRhZTRYQV9KY0hRcDNPWmpyUVk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792145406502
     },
     {
       "id": "news_AI controversy viral_Graphicdesignersaretryingtofixpeoplester",
@@ -5368,138 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791701520597
-    },
-    {
-      "id": "news_SCIENCE_Scientistsexamineda165millionyearoldfoss",
-      "title": "Scientists examined a 165-million-year-old fossil from China and found a broad swimming tail plus bony th - The Times of India",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQYXN3UEMxWHkxcEl4VGxSVmVNY3RVa21JakFLb0FPRkM2VG1lM040N1locUNPeVNvSnFHLUVoSkdMMFBBZ1BmWDY5MUJHU2xzQ0l1RjA0SlNmQkNJMWhQb3lIZlNkQ2NMWGJPLWZpWk9qTDR0cFZYOHZsYWpmOEpMWlhKaGwtajJFSU5kdFlVS1FkVUl6am5HODJRX1p3ckRDa1VLOHp2MXVfSGlncC13WUthdjVMaE1PWHNUc09tSW9VeUpvUGctUF9Va1p3c3NnZkN1VWxBaVpvbnRoTWc2Z3dFWHkwOVpTRW9oTGRDY01lRmpSWmZmcHJKNEdTd2VTVnhhejZrM1BZVHBHUTExWW9XOVI5aVNPZXVFcFhGY0lpalpIVlEwMW1tVUhfYmdsdTRvTGhYemRuWUxBQ3I5ZW9ERDZtUFFvckhoQUJ3R3ZfYk9kSXI0bEFPU3lIb1JyVFNiWFRpeVZZeXZfMzVqazFhRnV0elJ0eE1yb2RtbmNnY3BUX0JvOXplOTZFcElOZUg4ODFUWlFqYXlx0gGiA0FVX3lxTE1GejVJZFA1SUU5OUFWNktRcjc4b1RYa0xTc0d3NFNYTkRHd3owenloUHJvZXpIZEVuTGh1dUUwcU9EVmhjUEt3WWRnb2RRNnRjN0NjRmNscTVaSmE0SzdiaHNFcTV1T1JSNjZzVWFnNGFTckVxUUFQVkxWVktRN2JxTmxUaUJUMTd1M29UZVZTdXhqRGFNRmFrbFBtV0l4SU11Y04zYllqSUM5QjBRSXdxSEhJTHZtQ0Q3OHJZX0o2eVpsbWk2WlYtMjdydlpWeUxKZjlSdzRQR0oyUHJUVExONUtlQ3pzc0F6QXhpNmhKNExUUG9fOVRWbF9kLWI2djJZclN5RTRpdUM5Y3pDMmtQRTIwcFdLSENKZVM4UW1iX3kwd0g3dEgzWTVuYTFUV0psLVE4ZHJqMG14YXFWM3A1T1JYcTE5SVRrSzdSUXktdW9HRmlKczcxbHlqajJzZU12QWNTOUxrSWZWaVBORnM4Z2hzV0JBcjlDUVYxdXY3RHlFcDNJZjFFYlhiaGVMbVQ4WjEtYVpxVjhxV2F0ZXhpc3c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791701519801
-    },
-    {
-      "id": "news_SCIENCE_SeesunriseonMarsinbreathtakingnewNASAima",
-      "title": "See sunrise on Mars in breathtaking new NASA images — as mysterious, billion-year-old crags come into view - New York Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGtkUU5ENllHemIwUGxsLTRhWUJpRk5YM2prU0o0ZGJVYVk5S1A3TDZJRHB1WGZkV0tXbENvTjg3T3ozZ3NhV1gweTU1VnJVa3VjX01qdjYzWEdQSUMxN1hxRndxNlhZelpfajhLMzEyT2VLd2FuUmtFSV92VUJrZDYyMl90NWpPOVBDS1RnbVl0UQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791701519801
-    },
-    {
-      "id": "news_SPORTS_WarriorssignBrandinPodziemskito5yearrook",
-      "title": "Warriors sign Brandin Podziemski to 5-year rookie scale contract extension - NBA.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcUdiaGt6QWcwMlRaWVpqeTdsSm54T0pwaVZoOE0xdlNZUm9YQ1g2cVFZc1NqVzJzdUhkYkZoVXEwY1V5V1N5ZGtrM2hJVXN3VUFmcTZoN2J2VEprMkdYNXZienRwdWRSajVXNDE0MV9FMk82QUZGMkNMV1FQcjBVSQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791701518683
-    },
-    {
-      "id": "news_SPORTS_AlabamasKalenDeboerincensedatplayerwhoju",
-      "title": "Alabama's Kalen Deboer incensed at player who 'just cost us the damn game' vs Georgia with boneheaded penalty - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1VBQjlHc3NFUXVWS3AwU09ZZUxPN3FkTl9ndm1zbERxQUN3NWRIdThNeXZMUVBFUE03OE9uNWhPR0JUU3drV3FadEhrRnlYWUZzOXZoSHM2cUFfcXFtY2k1RTRUd05fczdpMEhIb0hsbndrMEpfaGhMdm1IQUlXdmkwdDRnekVJaG5JeWlkMGxkNE1IREtKbXVkaDdWX3BsR2sxNVpyYUhnQmhFbFQxNFpoRF9od0VvT0dLblNxQ0hvUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791701518682
-    },
-    {
-      "id": "news_ENTERTAINMENT_AmalClooney48andGeorgeClooney65RevealSec",
-      "title": "Amal Clooney, 48, and George Clooney, 65, Reveal Secret to Their “Very Happy” 12-Year Marriage - InStyle",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZTRwWE9EOTZCZWdDUVlyWDVjVXZxV2c1djlhNFJ3N3ZweXUtb05vTUNEd1lFQThuYUVnRHVVbnRhM2JwY0ZCcVRlMEZ1ZWQ5Y010dm5TT0MyNG03bFprQ2VVVndLX2R4aHJrVjhDcEdxcWlEd1hHWGRlbG9UQ3FSZHhpT2hKRmVHWVZwOUhsdk16dEg2WmVFWXd1UQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791701517895
-    },
-    {
-      "id": "news_TECHNOLOGY_ArcRaiders20UpdateandSpiderManGrapplingH",
-      "title": "Arc Raiders 2.0 Update and Spider-Man Grappling Hook Drive Player Count to Reach 7-Month High - IGN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnpXM0VRbUZTR29EVzhHM3lvVDJ4Rmc3NVJqbTZkMnBKSjVTaFJLQS1CcE92NVhISGwwVWhQdUZHNjhtOFV1NEZMMVdUMGdaMnZqdzRtMkk3SFVkTHJpUWxOVUtBcDFMd0lPQTUxOEtlMDMxdW4zWVpRSkdKQ0ZXOUxpOWtsVnNuT0FHVlpoM0dQMS0xNlFNcHJLc01KUmhlX0hPUkNlb2wtREIzU2x6TGFWMnk1SEljLUYtRE1R?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791701517099
-    },
-    {
-      "id": "news_TECHNOLOGY_XboxSalesAtAnAllTimeLowWithPlayStationIt",
-      "title": "Xbox Sales At An All-Time Low With PlayStation Its Worst In 13 Years - Forbes",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSDJKaGpILWdWVFVhRWtMT3laTnJsY3plc3VaM18tM09vLURMQzFOQ1hCb0lfZkRYTXZBYWlWM1pmblR1TndWRzRVWFV6X2FWOG52eDE5eVViRlNrdHYyLV93MW5ZeXJ6dlN6dk14djlpc3lfYmhSTUVQQVVKaFJ5ZElmTTRnREZscTh0Ylluam5BYzAzMHliVWF1SHd4UEVLbEtGZWFQSnhUY0ttaDBfemJNVVNCRTVCUDBJ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791701517099
-    },
-    {
-      "id": "news_BUSINESS_500winningMegaMillionsticketsoldinYellvi",
-      "title": "$500 winning Mega Millions ticket sold in Yellville - KTLO",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa2JlTXRaTGpqSlZRR1pZZ3ZEazJOSDRQX2dCX255Z3lGVlcyMjh0c21qZWRERlpxYzFuWHl5MkV5dFc2eG05SmpuVkU2RkE2Z0ZqbXhlbXBUU2FwMGhvUFZpelMxUFp4ZndiMWgtdnRnTlBUVGpjRVladjdZcnhKb0Z4VzZiTjk2UWxJ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791701516233
-    },
-    {
-      "id": "news_NATION_JusticeDepartmentinvestigatingTVnetworks",
-      "title": "Justice Department investigating TV networks over suspension of press pool after Trump media ban - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS0E3ZTZnNjhlVDdGTEljVUl2eldKdzB1OFM2eGxuaTVneFBxQm5oOVNqT2RUVW5CQ0FKYW5BaENHX1Z0ME9RTTg2SmVpUFZTU2ZDeFdlcUZDaVQzSno1b09OV1ExM3FVbC1OaDhkTVZYdmFldy1jaWpiSGxON2Fqc0pWeEVaVVRSbUpuTlE0cFVPTHhiRzNjMkY5Q3FDQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791701514916
-    },
-    {
-      "id": "news_NATION_NotPleasantbutNecessarySupportatTrumpRal",
-      "title": "‘Not Pleasant’ but ‘Necessary’: Support at Trump Rally for Public Execution - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdm5GVm1QRzRoaFp4MEhLM2hHanlyWjkzQTR5OVpQbURySHVRRTg2UndnRXEzcU9OVk5meFp4SnlTMVF6bmhlR0tqaktOanlRbi01dFpZZEctUGt4dXhFaVJFcFRwT2NSZEtEVmZUaDNCbnNTQ0F4RlZxcy1ZTVNDVE9wRnA1dUw5akI4am5rX0VPYzdU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791701514916
-    },
-    {
-      "id": "news_NATION_OfficerkilledanotherinjuredinWestPhillys",
-      "title": "Officer killed, another injured in West Philly shooting; suspect ID’ed as water department employee - Inquirer.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1F2WE9TdkUxLU55VnlIaUJxSDVMdTZnYWo3VURzanRIc2VISW5GU1B4Z0pRaUdoeXItTDRPUkRmS3Roc2ZMVy1CZlpQd0p1bEhiblk0TEc2a1NCVnExSERzZXpvTFZGdi1VdkxVNGRsejZ0WnBQaDRaMDBsUUdTMjFmMVdQVUNqWWtF?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791701514916
-    },
-    {
-      "id": "news_NATION_BracingforthemidtermsTrumpsayshewillbebl",
-      "title": "Bracing for the midterms, Trump says he will be blamed if Republicans lose - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTHZaQTA4YXg1R192NTFHZTBncE8yRmFiRFJXaVREd2dlR1JVTE9HUHZ2YXpXcWdqYTR2b0wyek4weEV4NnhKME9LTWpJQ0NFRVZJRTN5SndaQ1VtelU0VTlweGUwMnBNS25Ja09tX3FvUUg5UHI4YnNoejU4bWw2VTNidkFOY0NDeW1vdlRMSlFCenhWZ05zcjNqRURDaDQ3RTNUcW5ZWlU4VC14SGxfY2ZUcw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791701514916
     }
   ]
 }

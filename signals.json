@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T18:28:10.360377+00:00",
+  "updated_at": "2026-10-16T21:32:57.657712+00:00",
   "signals": [
     {
       "id": "news_ENTERTAINMENT_StreetFighterEyesBoxOfficeVictoryasBuzzy",
@@ -1243,6 +1243,127 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_government shutdown_USannualbudgetgaphitsnearly2trillionlarg",
+      "title": "US annual budget gap hits nearly $2 trillion, largest in 5 years - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWlhaU90MklTU2wtZDJ1OC1wcVZIeDF5Y3FGRGsyam90X1VCNF9NcGRSUFNwTG1PQ21fZXZndjN3WXM4UG9LSW82OW1xLVQ0Rng3ODZLcjdwRWZtYVEzTm5oYjdlZUZhMXVmVUhubUhuWVJrMzVndXdUN29sQ2h1SHRKMnF0UkdXQ2dkWXppOU50bDV2WXhLM0tHZjk3MGtiTm4xQWNkc2FpU0dXOUE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792186363911
+    },
+    {
+      "id": "news_SPORTS_CFBPlayerTylerUlrichDiesat21AfterSufferi",
+      "title": "CFB Player Tyler Ulrich Dies at 21 After Suffering 'Traumatic' In-Game Injury - Bleacher Report",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmR4azFuWVpLQXdiSmszUnBkNklUVXRQUjNaNElpR05yMGlpZVVvX0xLbV9RV1lRTVh1RGdsak5yd0Rfd3ZSRzVsUW9EMThXV1ZzcUpya19YM19FaGxGTDg3bV9ZaGVnMnVPb1JzaGdhRlB3SlJiNjJsQTdEbm9hV0hVWXdYZWQya0M5c2lMcXRjT1M3clFnak0tanhrclUxcVFLUnV1Xzc2WlJzb1RLbHBaSEk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792186350366
+    },
+    {
+      "id": "news_ENTERTAINMENT_RussellBrandwaswildeyedmaniacwhentryingt",
+      "title": "Russell Brand was ‘wild-eyed maniac’ when trying to drag woman into toilets, court told - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXJiNXVoc0xuTGJGZWJTZk9nNkxfX2xSRV9jbjNxREV0MkNGMGtBak5RRUxLRVNHYUlhajZCRGNvV3RiMUdSWVVfM1Y4RHdiOXlhaEJSTkpGT1htTlJoLXgtb21TRzdaNE5MV3pic2RtNnpEckVHOG9TUHY2cU82eHRYejFua3JtQlIyU00wZVlzd0tnZFB2RDZqejk1SXlmcEw5aUt3R3JJSm1D?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792186349653
+    },
+    {
+      "id": "news_BUSINESS_CentralbankerseyehigherratesasAIboomfuel",
+      "title": "Central bankers eye higher rates as AI boom fuels scramble for cash - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUtKN0pzRWNldm1acUxBY0o2M0h6UWlxVHNpT0pWcmQ4c1VQdG8wVE5iaTM2RWVocXN3MDFKMUZwblpDTWNFcTZiUFhNSkpYdlRwMGZhc0Q1UUNCZENPVm5CcDZjYXFZQ2FLaDV0eG5lak1qZ1hlSDZXT05leFQtZ2FubWhKbXlrNWNqbTEybGo5V0dESzk3U2VhbTl4WWNQdHBRc3luM3F4cGIyMEI2RjFYVQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792186348227
+    },
+    {
+      "id": "news_NATION_TrumphitsGeorgiatorallyRepublicansdespit",
+      "title": "Trump hits Georgia to rally Republicans despite party divisions in battleground state - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeG9neF9UWU8xalFMQThHbW1Hb2o3Z29WeGtuem1Dc1hVWGhCOXdHMENnTHZmcWEzODBVQnBmSV9HZnRHYVVJZ3FpdXVwM0tGSk5hd1hnVFlfSG1FclBQWWd4YTkybGRuLVl5SFhzeWNnX2V4NkY2cGlNYVJ0eUhSc1A0WUR1djM1dHhCcHk2Qnp4WDJxYVhnMi1seEszX3pkVzJBTVR6dE5oWlNS?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792186347422
+    },
+    {
+      "id": "news_NATION_ElSayedrespondsafterVancecallshimaweasel",
+      "title": "El-Sayed responds after Vance calls him a \"weasel\" as Michigan Senate race grows contentious - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSEhxdVBTRm9kRWQ3UG9rLWx2TGh4ZWRhZVBTbkd4LUd1M0lWQ1RRVHZiUDJVdEpSeXZmVFZlU05Tc0dRbkFHbkQxUWx6cFN4SXhDTm9hOElScEF4Y3ljeTRhR1NwRVRuQkxUaXZab2NRQ2dQWXppNVRsTlNja3BUUmdxUVBPM0MybXc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792186347422
+    },
+    {
+      "id": "news_NATION_TrumpdenieslimitingUkraineaccesstoStarli",
+      "title": "Trump denies limiting Ukraine access to Starlink network - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EcmRSMzJmSWxkQkViS0ZMWms4TGRJZ0RpSW5kaGxrdnFDQ1ExWjY5YkVKY2pCTGJEQnhXeEs5WmhINS1hZktMQ2V1QmdVcmZvRnFLb0pmVDN0RFE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792186347422
+    },
+    {
+      "id": "news_NATION_Electionlawyerssaytheyveneverseenanythin",
+      "title": "Election lawyers say they’ve never seen anything like the DOJ’s lawsuit against California - San Francisco Chronicle",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée; mots-clés viraux: lawsuit.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYnpydDd5X1d2OXl3Z1hlcm0wSTJhTllZQ1VYaWtPMDZnSUQyMUg3SjhLWlhvUXE2WS1OVHV3QnU0YWU0MkxYYUw0dEV3X0dZYXc2LTR5Qm55TDhwZG04VUVkdjg3bG5GMmtEcDR6WUJpQXB2QlNJWVZfX2pBRzZTVlZBaHNsYmNSbE50RUljb1pNVkZzNkVjdkRXbzc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792186347422
+    },
+    {
+      "id": "news_NATION_NYCmomchargedwithmurderingher5yearoldaft",
+      "title": "NYC mom charged with murdering her 5-year-old after confessing to 911 operator: 'I killed my daughter' - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWFVGZXJtWTF6NF9uNkhjMFk2djAxclQ4VmFVQl83RXNJV2J5VzlRVGpRM2xTU3ViRmljbHBGRlVVLVNOVWJSR2xxRzhxU3Iyc0N0aTB2My0zM21XMjBrcWM1MEJ0dzlSWEotQUM4X0dJWUpNV2cwU25HWDhGbDZwVVo2UE9HS1Q0YXBQT3Ffa2ROMVlaUzRoNjNUbEVqbjVReVZoc2JHc3ZneHhNSUpHcWFKX3FhUGM5NVByekc2V19IOHlLMkd6ZTg0Ty12VlZaZ3RvVw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792186347422
+    },
+    {
+      "id": "news_NATION_NewEnglandishavinganelitefallfoliageyear",
+      "title": "New England is having an 'elite' fall foliage year but there's majestic views elsewhere too - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRHF5cUo2d3FBdW1vc2N1UEJ4M0VsTUc1Y0VHMkN6Y1JrVkxnOExfV2lIZ0RieHJ6YWNMTjFzQVJ3NU1YVm9OSTZKMjZ5QkJqbEFpR05xWG5rQlFaUlRkdlk5OFFkQUJ3cU5EUFpuSUtMOWZFcHNIa3Jva1lWV091d3BpTGRuQWZ1VmpINkZtQkVJSkI4d09NS1FHNEt6QkpuM1hZSllMSldfX1lH?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792186347422
+    },
+    {
+      "id": "news_WORLD_EUssupporttoUkrainemattersmorethanevervo",
+      "title": "EU’s support to Ukraine matters more than ever, von der Leyen says, as US relationship sours – as it happened - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZExjaHNmcDBZOUFuWlhxV2FjVmlPYmUtSGlINkZDMktpMk8wUjBMVTRfNnZEOEh2aVp2Uk8yOTRQMHJTRzg5TlVjUEdGYnFuVmI0Wkxaby05OE1maHcwTEhINEFGdUZ6aUJDM0xRdDRZMWp2c1FTS2JPOFhseERNQ0xPYVBSXzRkb1ZtaGZ3SWlza3kzVzZaOTdrbl9YdDhhS1V1R2xtMkxzc3VXdXdCcjMwZUgwZmdsVFVDTk84bHlBLTZJUEtENW90SHdMMnZZM3RTWjExSFlWSzVXQk9EVk9meEJjUDFqQ2E4Q0FMMnhVZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792186346709
     },
     {
       "id": "news_billionaire announcement_IvankaTrumpjustmadeabigannouncementabout",
@@ -5379,127 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791768205505
-    },
-    {
-      "id": "news_WORLD_TrumpsaysUkraineandRussiahaveagreedenerg",
-      "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire' - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04QUtQbDZLV05uX0dPcEwxc3poa1BGZGVYdmVjM2NzQ3pUMkowOVd6ZzBMTGRZNG9KVlhUNHNqR3o1SG5sel96Rnd3YVJQMjEwZ09zRnoxSFcxQ2s?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791768204493
-    },
-    {
-      "id": "news_WORLD_HouthisandUkrainePutTrumpinTreacherousTe",
-      "title": "Houthis and Ukraine Put Trump in Treacherous Territory - WSJ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSzJfTUlvdU9oNE96N0gtX2YyYTQwRVVlQkFETlJTRkRfSGx5R0xyVkVlVzFSOXhBZjdCZ3VHZVlsWVhwN1J3ZFpxSTliWkRqbnJDakVMSDFZUDZXV1J5QlZsTl8zWWs3ckMtY01XZkMyNnB5bmQxZW9hcjVQRUVsVXFGdzh1TGJPUWFxMEc0LTV0ZklxdVVTMUtPQ2JHdHJG?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791768204493
-    },
-    {
-      "id": "news_WORLD_NobelPeacePrizewinnerroastsTrumpafterwin",
-      "title": "Nobel Peace Prize winner roasts Trump after winning award - The Independent",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSmJGSUxuT2ZleGNLaVVqdy0wSzFLSEJSSkl4cm1WN1JkV25NZ1dscFNCYXhaVmFkbkVxT3BlR19ZQXRwb21WQnBOeUsycUtLWkZKSWFyb0lMdG5jbTQzSFlrVS15MHh4cDcyUFU1eFo4Mm1CSFlWRGwwRzNvRmpvXzJsVWJHS3V3cmpwUFJqd1NhR1lhRlow?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791768204493
-    },
-    {
-      "id": "news_billionaire announcement_ShivonZilisannouncedhersuddenbreakupwith",
-      "title": "Shivon Zilis announced her sudden breakup with Elon Musk after the billionaire had told her he loved her - Informat.ro",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT2hsWE1TVnliSXBhbFBQcVNkNnhPQzNKUVZ5d0JDa1ZMNW5HX0VoUUJpUFF6ZTYzcFg2Yjk1OXM5SUsyV3BhV193ZjU2a1hMYjhqTTV1enF1Xy02MHpVcFBfU0dRSkhHeFNqV2x5UmVOODhMMFJKZUhGSGtTdzJkNHkybVpiNk1SSnNsQ2FDWjYzYmFPSVEtQkVyZGZQU0toMjI5eHREcUNPNk16M2IwR0llM3ZlczduRVhlX2RR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791756989638
-    },
-    {
-      "id": "news_billionaire announcement_TrumpsBigAIAnnouncementCollapsedUnderPre",
-      "title": "Trump’s Big AI Announcement Collapsed Under Pressure From These Billionaires - Forbes",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV2lsdjhnalktS3doNzhKbFhzZzNQVkNQakx2dmtoc2pYTWVaZVVtYW1NQ0hCSjNhakUzLS1lYWRiaGIyVlk4ZVdLTGJCUWM2MXFwVmdWbGo4cEkxcTlteFpNUm5MT1loQ1VWamRjVjIwZWViWnBIMlpDVldFem5DNFYzZ3RJeUVPQTdDSk5wc2ZNV3dmdUZ6QngwM0VQeTZvRkxwZThBOXNxWHBIRDJ6N0wwQVpNYVMydGZVU1JFSkV5amRwTndPSGNybFZVdGdOaEpN?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791756989638
-    },
-    {
-      "id": "news_government shutdown_FederalWorkersNotchWinAgainstIllegalRIFs",
-      "title": "Federal Workers ‘Notch Win Against Illegal’ RIFs After ‘Multiple’ Labor Unions ‘Sued The Trump Administration Last September Over Its Attempt To Fire Thousands Of Federal Workers During The Government Shutdown’ - WNY Labor Today",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQdDN5NTlGMko5Q2RWRDZMWDZOTEYtN2JDUVNDT0JnRTM2Z1Zobkt4ZE1rb2JuNHRvLVg1ai1ZQWJ6UElTTFdOS2ZOc2ZBd0JQSG5UWEVFbGV0SHJTTkNLb3A1MDZqT1FKTnRoNFlUb1RhM0xjWW5INEZMczBkNnVhMWw2alJTc0ZhWXNXLVloOF95N0NJX05wNG5WaHU3b0JXSi12VC1maFR2RFFoS2x5bDdCRnUwZmRPWWdkYktIeVNiRWVZc1FlVWVqbzVQUzk3dHBRN0FkSFlsenhET3BMR0NjanZfQUZGNDNha1dTdjdzQ2JJWEhncFcyQmFqQm1uNFd6VFVqUm96bDlXRTZCMnlCSGVZam5xR0ozeEFxMXJRazRkZlMxZ0wzUGhHb0dtcDJjUUw4azRxb2FPZ2hsLXdvUzhFSXg4QVd3YXdkUW1OSjJyQ1RhLXp3dVFEUS12Y1pBVk9oLXFwVjBzd0t5R1dOd25Nb00wRlU1eHotYlVMLTJhbkVQV1hONll1bjY1TzRvZXp3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791756987310
-    },
-    {
-      "id": "news_HEALTH_GLP1drugscanreversebiologicagingbytwotot",
-      "title": "GLP-1 drugs can ‘reverse biologic aging’ by two to three years, say drug companies - New York Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbVAxeVV0MG1IaGtTWXdweWZWMzdkUTE5eVZGTEZHV2c0WGltQjBzOGVUd09sMnBIRDQtQUJFMVYzN2FqMmVRR3BlVmZoUVhpVklCVWxWa0dYYUhJYUotaWpaeEIwSnowM3hNRmxKYkdXTk5vQXUwTmZ2bVhtTXlHVlR0eDJPS1ZWZlRXSjNFRjdZelJlOWFMUHF4Uzl6YzQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791756974331
-    },
-    {
-      "id": "news_SCIENCE_Oneofthebestmeteorshowersoftheyearisunde",
-      "title": "One of the best meteor showers of the year is underway - WKBN.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTXR1N2lSajVQT21PNGwzSHdYVUlabHQzUWZmMkxYWDJLTkNTR2ZJa2lEcm5lTWJWd3JmbG1zNUotREZoVGpHVTFheVVUdTJpRzFhNVF6UXZ2c3ROZ01feDBaU21WbUVvN2FGVW1wd3otRzE2UmtfRlRHRThKOWRTbE15NTlnWjFVS0Q5bNIBkgFBVV95cUxNdllJSFlWVHMtdWJMNFp5Tl9IOHNHMDhzYnFUalNBUGh4a3Q2T3Zld2dEQWQ2b1BGWVNfdzhMNGRkd09jWmg1aW1TOXhyRTBNNVBiR3p4SlRCZjJYelZ3b2VRRXpBZjFxNFcyc2stV0hPSlhHeUR0TGVvclpxM20xQWc5ek1hV0h0d3lEVEZSLS1yQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791756973082
-    },
-    {
-      "id": "news_SPORTS_MaxVerstappenreactstobreakingSingaporeGP",
-      "title": "Max Verstappen reacts to breaking Singapore GP curse after years of heartbreak - Motorsport.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée; mots-clés viraux: breaking.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjZ5c3hVaWNsOGV5SkRBX0luNTJFX0hsX25JdHZ1elBRWUM1MWNzbEl2TDhVSkdEa3h0S3ZGQnc3UEFrVlVpdUNlR0EwSG5BdGlrZjdPYkdUSUJoN2lLZ3NHQmdQZWRSS0gycVZXOGpBcEZuX2hkMUN3LW04N25Td2tQUElsb0JFTk50eEYzRVB1U3lHUjZkMGdSUHNJRFVBcF9qMUhGSkF5S3BBMDRaUmM0OWtOZ0FmMTJlcjdtX2M?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791756971943
-    },
-    {
-      "id": "news_SPORTS_BSJGameReportPatriots45Raiders17Maye5tot",
-      "title": "BSJ Game Report: Patriots 45, Raiders 17 - Maye (5 total TDs) stars in a blowout - Boston Sports Journal",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWVZIMWVHYkxvOTlqZ1ZqQWtQS1FCNi1md3lyZVcxNlpPQU44LTJnWWlTeXAwdlppYXZqQWVGaTY5dFZDTC10TnliM2syV3FneUlFajlvTVF5N2RVWU9tSWV1cTV0SXo1WThqNXhuS0hSQzZiN3dxclJqZkRyeG93RWxLU1VCS1NQci01N1ZtT2h1eHJycnhOVWlXcDVrQktURVJtM2xMRE5IYldDSDhEOEZwOUdxT2F3RWpjZ000YUw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791756971943
-    },
-    {
-      "id": "news_ENTERTAINMENT_TheBeachBoysPlayedTheirFirstPublicConcer",
-      "title": "The Beach Boys Played Their First Public Concert in Three Months With an Alarmingly Frail Mike Love - Rolling Stone",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaG9Makt6UFJOT3NPWC0xVGlDa2pYNjRZSk1fdVk4aVZuSzN2bEpFV2cxcnU2R2hxTlNlZ3NWclJNQ0lkb0REY2o5Y0Y3VmNsa1otS2NNZTBjOGxkbWVBUVlqSHdIdjdmMXNJUUhGSS02amoxSGlkMEZnUHJyV0RXSUNzMGNaWWsybG9pS3BHaE4zd2hab2xoYVg0NjlYMUJjZkJsOS1jd1BNa0E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791756971136
     }
   ]
 }

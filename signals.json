@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T06:10:54.753091+00:00",
+  "updated_at": "2026-10-17T10:40:40.587350+00:00",
   "signals": [
     {
       "id": "news_own cryptocurrency launch_TrumplaunchesmemecoinTrumpdaysbeforeretu",
@@ -1320,6 +1320,127 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SCIENCE_NewdinosaurspeciesdiscoveredinLondonmuse",
+      "title": "New dinosaur species discovered in London museum after 100 years - Euronews.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWGRfU3VIYmhXc2tzQ1lxS0ViOUJxaklISngxVDBWeTEtWnRsaWl4cmx4YWUwaGxKbzZsdjZNQUVMM0ZhNnlMZW82N0U1ODE1elJHQllVcG0wUHQwUE9oZV8xZzVYQS1nQUdsVTBNWXFaRzVRQzNqYllMcUxwMUd5STE0RFdNQUtQVHFud0J3RjhrRlVwdkwxcGxaNURvR29Jb1lxa0Z3S1JndXhBN0dtcnFTbnVad0hrZ1B3SVNQY2RDOGwy?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792233611129
+    },
+    {
+      "id": "news_ENTERTAINMENT_TheElizabethHolmesDocumentaryThroughtheE",
+      "title": "The Elizabeth Holmes Documentary, Through the Eyes of the Reporter Who Exposed Her - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée; mots-clés viraux: exposed.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYjJDR0lGSmU4c2swYVpvb3p4T3dOODdlU2E3ai1MS0FQOE52dlBIU0M0LXhPMlA0X3M0MHRsZWhXdGk5dEhzcTVCN1hmS21YWm5Zb01MWGl6R0YxdXVDMXhrblVSY25JeHU0T19oSmxIMThreG5iZ21jM3NGT0V2MlhKOWNQcDVBT0JvZnZyYndzMzBOOVlF?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792233609235
+    },
+    {
+      "id": "news_TECHNOLOGY_Windows11slatestpromotionisgifting25free",
+      "title": "Windows 11's latest promotion is gifting 25 free Xbox games to new PC buyers - Windows Central",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSllqWmlGMDRZVmx5akh2YVpadm9tdUZCSTNvQUJ1UzdrdlNBV0FabkR5dnBRQ1dxaFQ3a1M0Y0ZQTE5rNnlVQjF4cFBWaGwzSi05Mm5QcG5NSHNvRTR6alFhV2NOcHF0M010Q2w0WUxkbzVnNUFXWlpPWDFoaGYyT2loRTZkQ0k1ZkNMVkRNMnFCb0VENlNMakdrMA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792233608013
+    },
+    {
+      "id": "news_BUSINESS_USBudgetDeficitNears2TrillionaRealityChe",
+      "title": "U.S. Budget Deficit Nears $2 Trillion, a Reality Check for Trump’s Cost Cutting - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uZE5WdlEyNzh0Y2owUWVyajViRG9vUVRqcGhoVHpOdWliVDVzYUY5UzBLYmdVcThKMERKOExqbmhPdS04SmZySzQ2b01OVUdqcS1FRUYxT2xKUi1UeFV1ZWdnalFzOUdWWVJ2Zlp5cEhBX1Z2?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792233607080
+    },
+    {
+      "id": "news_BUSINESS_TrumpSuffersDoubleInflationBlowWithin48H",
+      "title": "Trump Suffers Double Inflation Blow Within 48 Hours as Midterms Loom - Newsweek",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEphZmppbUNoV1Z2LXczSlE1dFQ3TEZGVHRfM0sxcDZYNzVYNC1RNC01SHRHM2xRTW53eGV5dHYtNDJ3M2x6azk5ZkQwVWpYbzVtN0JVb2E1X1NvZ1lrQVJHZTg3UmJLZDZzVHgweU54OHktUVVDWW1FSW5rMjl5cDVQR1JDQWZpd3Q2X0xvSGVvb1IwZkg1Tnl4X0NTM0FrMmJ4Rg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792233607080
+    },
+    {
+      "id": "news_BUSINESS_OpenAIsbluntwarningtoemployeesaboutprese",
+      "title": "OpenAI’s blunt warning to employees about preserving company secrets: If you’re getting hit on, it’s probably a spy - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée; figure/entité tier-8 (openai) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaWZJS3NyamJTZmJrU0M0ZkpnLVAyY0xRZ0xzRWJmd1liWG9tMzZrZDZGSUMzUlVHZXV4TGhKQy1Kb2t6eGxzdTN0TEN4aUhKMkJ3bUxjeEVYOW15b2VTWHU5U0FQNFEyVTZINGNkbDE2X200WFpuQ29Lb2gwOGF6YzdURWJlNTFGWXZmemk3UDNham50QlZmUXh5dE14UHFsbnIyTlhJTUt0RmdvellRXzZhbnZqQnRxWFBxbg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792233607080
+    },
+    {
+      "id": "news_NATION_DonaldTrumpexemptsRussiafromfurthersanct",
+      "title": "Donald Trump exempts Russia from further sanctions mandated by new law - Financial Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXNIdDdhLWJTcFJ3TmN4YUNHRGZSWmxRcWZ1NUVDVmYyLVBWNE04NWdCUExyTG1Jd3VDYW5BWVlFQWtlaFZEQV9BcjFyY2tkUmpxYWxMZjAtbGtfbGtCeUxJVmRJcDMtMk42N0hMSUFHRDdlbC1oYXVUTW13NC1Za2h2LWo?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792233606160
+    },
+    {
+      "id": "news_NATION_RepublicanseyeapotentialopportunityinMin",
+      "title": "Republicans eye a potential opportunity in Minnesota in a tough midterm climate - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzhKcGMwMHE0ZU1Wb1F4UWE1elEzV2tzaEZCcG9xN3BYSG5jVU1tazVFNzl4ZmJaeHV0MXk0LUcydks0WnpvdzlsNHpIcWZiUU1MX3ZWd00yQ3RUOWx5YnBKZktKYTVUQlBQckNFNWxGZWFuUFN3REFxMVBoUVdvVllYRlJSakRuZ2RKVlJWbHVuM3Nyb3BTdXRNZTBXbW9aYTl6c05WYWQ2MndpNG4yaE5oWUR4TTNZM2R5SkprWmxLQ25wWlE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792233606160
+    },
+    {
+      "id": "news_WORLD_HouthistrikesonSaudiArabiashowtheYemenir",
+      "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels’ growing strength - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVE5nRDF3WG9JZEEtTWpyWVUyaVR6MlVfbTRxNVZpNGJFdmdXVHlXZzh6WXBZazVCcDdfSTNjaFpkMmhlZjhObHJRVUk5RkYxdFhicXhmblhpWkVBc2ZfX1FRSWthVnBDUUxPenVjSUxsTWJMS3pNX3RWS3BZZmJ0LUxnTllfaTVZYnpRVmt0SWI3YXZyUHZWQ2dMcDZ4V1VrYXlpbWZPMjM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792233605249
+    },
+    {
+      "id": "news_WORLD_ThreeMexicansjailedfor158yearseachforkil",
+      "title": "Three Mexicans jailed for 158 years each for killing Australian, US surfers - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbmtyTUYtcHJ3SDFJM21aY2ZRcHhLaXhYWjNUSWlwU2JiYWtXOGltRVNfMVYwSjhadnl1LWNUZU5rZGV1eGltaEsxR3Fxd2N4M29zbUlUYUtia0FxcFp2cENDdnVadTJ5TS13VVlQSkJ6WC13c0Z3WGp5Ym5TYXlhNE5GWGM2YWhXT1BIUTF3ZENvSi1iWmoydUNKeFp0SXIwUzh6MkpjbF83dDZuYjFiRG9kN3dIdzjSAbwBQVVfeXFMUGloS1BMMGZhOTNYaTBJaXdQRXhVZi10U09ESHpLZEVUcXEtS2hpNVktaWR1SUE4THRVeGZ2UEdFRkpwS0poNlpLcXY2Zk1DdFNIU29CM2pseGJDLTZzMVN3dV9IUDhmMW0xWU9xRFVHNnFBMmpyZTMzejRuR21nNHdabjBhaU9uQWRwM0RHWFlJaTBPYWxIbHRMZVoya0sycUxoZ05reTFNRGxOdEtoeXVMRmZBblRSbkl0Q2I?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792233605249
+    },
+    {
+      "id": "news_WORLD_MetaemployeessayLulasaccountsrestrictedi",
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb09tNHpiRm02LTRUVlpHWkRVTEN1REItNzhPYUlfb0NJUzB4bllnaEhzZ19JRDIyd3RWYlpFcVVjRWMwMUZXUmdham1NZzBXRlJRM09Sck90X2FJXzJxTXM2SWxoWElxaUdVWHllSkphdnRwN01DWHN2bXFBeGdRdHVVMTVCajRmbWZscWJWYTExbWFoX2UzUnA4eUQwbHZSdjgzbncwOXhOR1Y5ZUdWXzVqZFNKZ9IBuwFBVV95cUxNOE9JNWQyZHhaRWtZeWlZQVNJVXlqODBKSnZmc0c3d2RSM1BpS3lmaVJqLURoelB5NXEzZGo1NUtLcllEV0NELVlld0NpeHBaa0k0cVdHYzZUdmF3NXJabVppUkNQcEpDUWpKM3VIeGRNRGJsclJOaW81RDFwLURyd0V3cEFRV3BIR1o5V3FNV3ZFbE5SbklXVTZSQzZaOFBQdWJqbVJWUy16WTg2ZmZpcU5CN21BZzVJOFJj?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792233605249
     },
     {
       "id": "news_central bank announcement_Japanraisesinterestratetonew31yearhighto",
@@ -5379,127 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791847948542
-    },
-    {
-      "id": "news_BUSINESS_EnergypricesriseafterTrumpsenergyceasefi",
-      "title": "Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGFrRDRZWWhPUnEtNVNhbnBFZFc4cS00MmhuZC1hZDJzc0dROWpwU18waGpMY1hRNWFGS19LZXNUc0ZhSUgwRDUyR0hnaHhHRkRZbXRXVlN0YUU2MzVTbVo1cVBESFgyQUdfQUs5d201TUJ6YW56NVB3aDVLazNnZUlLdHowVHpPLUI5MFk4Tk9yMkFR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791847947797
-    },
-    {
-      "id": "news_BUSINESS_Thebullmarketturned4yearsoldonMondayInve",
-      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTR3NnlJdzBsTnFQaTY4M1ZINmtfUTdmVmZYalhzQlB2aGI2VFhMekVyMXR4UGUtVXhJNzF5WmtmMHhITGQ1MTAyWXZaUDlNVWFjSGZIQ1Zrd21zbW5pbnlZandyZHJ6Q2hxTTdhM3phcVZBYnVuY1o2SExCdWFXaW5IUmJUT2lwLVB0RVVFVlZjcVZ4SVNkTWJLTjJSUjVaZ2fSAacBQVVfeXFMUDlRbUlqOFZmV3RGOUozQmZ4c0d3Y2xjem9LbHFwUVN1eFdLdmViZ3kwTDd2Tkx1Nm9aQzlpMWpjcVF2dE1DVGRFTEg5dy01dVphUENBQWdLSjRVRHhJNXFwMTcxOFRYRV9pNE4zWHI3bXk2UU5DRWdaQlAxdTByemhzenpxQWlhYTVIVi1ST004Z0VTRDJUSVNheUVrWUNCUGpNUzZEVEk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791847947797
-    },
-    {
-      "id": "news_BUSINESS_Nearly70millionkidsnowhaveaTrumpAccountb",
-      "title": "Nearly 70 million kids now have a Trump Account—but parents have to claim it first. Here’s who gets the $1,000 - Fortune",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa2o2VG1sQnhuNkY4a1ozWVVaRllBQmphUjAwTkYtdmNQSXVGcEtkdElmRjRDRUlDamFMRElHYldwQkpiT3RTZUN6eFJTYWIwc1UwcVozZU1OZ2I5NUJ4RjZiMms1OHJhSFhlUm1BVTdNYzAtdGZNeXl3S2ZEVlZHTExfaElManR0Zi10NEdUdXlXYUxVWk9Pc2lB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791847947797
-    },
-    {
-      "id": "news_BUSINESS_SocialSecuritycommissionerpredictsprogra",
-      "title": "Social Security commissioner predicts program will last ‘for another 90 years’ - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2traTFsNGZyZVc5clM2ZTBaOVBoRFJNRmhfUWt3S013TEZkdDJCakVOZS1EMHg2RzJEdUc4N19neWZoNldVdm1wdEdZcFhoNGYxT1J6SXpqRENRWTM0WFFYQnY4Z0VyRngxOW9xMGxtQ2FzRXc0QmQzU25uN0VpQjFJeEd5cms5bVJfdHlqa2EzUdIBlwFBVV95cUxOclVMYWFXRG9ab1BIRE5WVVo2ejZRQlNrMG1MUnEzNnJ3dFFLQWQ3LVJYRjF1VXhkQWNBcXJXNW9kZ2dSck5QaGMzcXVTNEIwXy0yVGFEbm1UcVZxQ1hTTG1ibEU2ZXBvWWkwcHhXYlgyZHdpZWhrbndZRzVJakg3RXQzVmpJdlF3YU43MTE4ZUZZUW1Rdk5J?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791847947797
-    },
-    {
-      "id": "news_NATION_TrumpsayswerelookingatfiringKimberlyGuil",
-      "title": "Trump says ‘we’re looking at’ firing Kimberly Guilfoyle, the U.S. ambassador to Greece - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ2ZURS1hSmcxSHNFMmx3akJmbjZNQXF2azJyVktaRUxmUnNEanpLRVhPYk50bVJwdGcxT0gyc25DcmplUEp4cHBXSmtHUl85dkRHRFA5Ni1RVkczVlNCd29Vd2xIOEJqRVNJdzdxdWN4UW94VFNmNy10WFFtV3Q3NXhMTlV1NElGVFhTSEdhU2FpdzdYUDlvU3dkRU1XN2NjY1JIcUdyQUNxMUZLUmhLdHMtdGxieDR5MU4xTkhRNmNqbXZMQU5Fdm1IRXVEZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791847947023
-    },
-    {
-      "id": "news_NATION_JudgeOrdersTrumpAdministrationtoAnswerfo",
-      "title": "Judge Orders Trump Administration to Answer for Tree Removals at D.C. Golf Course - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FdHlKcnl4U29sX1o3VTNkbTZFVWVSOWxWMUhQUTZmTlZwZ0lVQzBKdUIyNDgxSmlpU3hwOTZhVjNHbmMwNjhZcHczaGhUWndPeThpSWkwQm9VM2tGT1hqSFJTampVU2hhLTExMXNvcnZWeFFrRkVMZHJRMkI4LU0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791847947023
-    },
-    {
-      "id": "news_NATION_Emergencyhelpwasdelayedbyconfusionafterf",
-      "title": "Emergency help was delayed by confusion after failed execution of Christa Pike, 911 calls reveal - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2Ty1FOHJ4eVQ1N2FwNVFmNTZyNGhyT1E1UklMQzk3dVlBck11U3N5d1g1UE50VkpoY2sxTC1pREUzZFdOd19fd0JzV0hxRXIzYWdjdDlyS3hBTTR5X1dtalV0Qzd5R1NUeFpudjZxNA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791847947023
-    },
-    {
-      "id": "news_NATION_TrumpdefendsRussiadieseldealafterbiparti",
-      "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice' - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93UFZXd1Y1dHhaYXhibC1rWWp2V2Fwai1TanhZN1loN0d2cklLVUJxWkxTMkN1bXFpUGZsTGY3Z2d0UkstaHZ3cTdFeTV3a3FyYVRKa3VtZlY4R2hxUFVERXhEYnkxX05oa29MN2NYNNIBdEFVX3lxTE9EaVNwZm1QVE1BT0s2dzduTXlSd3NnTENSQW8tQUlLSng5UE1hT2JWbGs5c0NEUUx5b1BuTkFFVzMzUmlOMU1tcm5IdmZsdmRBVW5HbDF5ZERiRmNmenBlb3Z1aTRpNHQwSGhQbFNYRjljUldf?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791847947023
-    },
-    {
-      "id": "news_NATION_Trumpblewpastdeadlinetohaltrunningtaxpay",
-      "title": "Trump blew past deadline to halt running taxpayer-funded campaign-style ads - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMjVuTkluWm8yWWhmV0ItdnVnUEFYVVo4Z1QwUDdFaHVDaVp4bG10YVJSekUtWE5TT2xGVjhrOUFmTmpjRTJpWDFUdWFtTW9MbXp5MkdGRFNvTjU3eS1QVkxjTXQ4MTBtN3prVV9yaXJyT283NHJaYXFjT0luT2lXYUo0bTd0UTFRWUh1dENmdWItSXJwUlNfV1hqbWFXbXFsb1RROFlLQmRpMmZjS1k2RXNqMk16NjlmQUlRR3ZzYk5yTnZjX0E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791847947023
-    },
-    {
-      "id": "news_NATION_InsideElonMusks276MillionMidtermRescueMi",
-      "title": "Inside Elon Musk’s $276 Million Midterm Rescue Mission for Republicans - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80Mmg3bWR5UmhKR0tTaTZOTmREWUJKZF9HSXZoNEYxVjJMRWNKa0lTNFFzRWZCUmY1Z0dPRWQ5RjBlWWJHeElFRzhleURGcTNhWXFkVHJmOE9YTkNuMHZtRG1XbDBZODAtb01kbjNsWXdQOWpfNXNEY0t3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791847947023
-    },
-    {
-      "id": "news_WORLD_NobelPeacePrizeWinnerPillayCriticizesUSA",
-      "title": "Nobel Peace Prize Winner Pillay Criticizes U.S. After Trump Rages About Losing Award - Forbes",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée; mots-clés viraux: rage.",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU0RLc3AzSmVIVU1tLWFiaVh4aDJ3RkRIbFVyVTJkbFFJUUpiOUdFa1A0ZndEcnJJdV9lckV1Zk5YemdJUHItUExMNTVxUy1GTVdDcmRaeWVUbjRYTTFxb1g2bERqY0V2cVg5eEdwU3ZwT04xV3M5aUNGOUJ0bVBjbjdRNE9mOEh2Q095TVY4dm5LYURRSFEwZWllZ0JPdGxtbXBJZ1lxSHZ4aU44cENOWWJvR2hvbk5TMDFacnZwR1VzYlNGNVc4azIwQ2c1MXBHVkx1VlNHMmNyUGdhQzBwNEUyWlhuQ3JGRDdxMWJ3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791847946293
     }
   ]
 }

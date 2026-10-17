@@ -1,6 +1,72 @@
 {
-  "updated_at": "2026-10-16T23:51:02.102216+00:00",
+  "updated_at": "2026-10-17T01:39:03.621330+00:00",
   "signals": [
+    {
+      "id": "news_own cryptocurrency launch_TrumplaunchesmemecoinTrumpdaysbeforeretu",
+      "title": "Trump launches meme coin, $Trump days before return to White House - BBC",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) + lancement explicite; référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Nenl3ZFZSQWg4a0ZUVk9iVUFyUkp2SWpLS1hQRVpPZWRVSE1nakJnSnRVcEVIT25rb3VRdEhaNms5N1h3SVo5UEhoMXoxeEhRNVltOG5fbENWUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201118765
+    },
+    {
+      "id": "news_own cryptocurrency launch_Trumplaunchedamemecoinanditbecameworth72",
+      "title": "Trump launched a meme coin and it became worth $72 billion overnight - Axios",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aeHNYckFkeFVZYjBwU0pIZVExR3RZTzFRdHR5enZpLUVsV2FlWFJ2OHpGUnpiTGNNcUVlM0dDNWl3aldHN0w3SlZJUDJ4RnI5Z1c4NkpsS3Z3Qi1zcDFTMm93cFBZa3FWb3R3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201118765
+    },
+    {
+      "id": "news_own cryptocurrency launch_MelaniaTrumplaunchescryptocurrencyoneveo",
+      "title": "Melania Trump launches cryptocurrency on eve of inauguration - BBC",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) + lancement explicite; figure tier-10 (melania) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiVlotcVpvSE9Na2ZYUzNXVjN0VHFReWYtSENxdm9UQWRPWGp0N3dzTnRXdl94OXdEcFVfdGtxTjBtc3JNbHZJUk9PazgyR1BpSlZHdUVtbFdBZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201118764
+    },
+    {
+      "id": "news_own cryptocurrency launch_Trumpslaunchtheirowncryptocurrenciesahea",
+      "title": "Trumps launch their own cryptocurrencies ahead of inauguration, setting off ethical alarms - CBC",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GLTE3cnJ5MWQzNFkxYlkwYVlpZUdPLUlIWHJibXhKOEtnc0JFM002TWF0Tm9sM25sRmF1b1c4LVhFWHJvZS15cVJNV2Zla0Z5bk1wT2JNcjJrN0R1SkdOSm1YX3RiRjNaaGtSSw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201118764
+    },
+    {
+      "id": "news_own cryptocurrency launch_TrumpFamilyAmasses5BillionFortuneAfterCr",
+      "title": "Trump Family Amasses $5 Billion Fortune After Crypto Launch - WSJ",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX3lpemh0a3R1Q1drWVl2ZDNtWHZJSGVBMUxKYUFCd2FfcVBVSXJ4ejI4NXFBdVNtV3lOU193TVBjOHlhcHE1clVpTmpheTNKenVmSk5vWEtHcV9sTDFPTkpLUklCaUU5YjZTZmdFMW9CLS1KQnRuWXc1QlZDU2lKR1FNS1lZUU15WXlnQWI3THBkLVpHU1JrRnI5RXR5QTA2dWJ1R19zX25Qdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201118764
+    },
+    {
+      "id": "news_own cryptocurrency launch_HowTrumpslatestcryptolaunchenricheshisfa",
+      "title": "How Trump’s latest crypto launch enriches his family - NPR",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMUxCWGJXWGZ0M05veXJTOUtOS2xmWmpCSGlWZGNBVTU4Yk5FNzBHb1gwSlFtS3dmUHNwdkExbEd6dmt4dXRHVy1yTGV2NzJnSzN5NkdoWmkyX2pEcUc4WVhfSzJ3d2RJVGpyakxEQUtHV0FLYWR1QzctYllzVk45QlIwVFB2cmtlS2FzSzU0RHFXQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201118764
+    },
     {
       "id": "news_ENTERTAINMENT_StreetFighterEyesBoxOfficeVictoryasBuzzy",
       "title": "‘Street Fighter’ Eyes Box Office Victory as Buzzy Elizabeth Holmes Doc Heads for Strong Launch - The Hollywood Reporter",
@@ -893,6 +959,17 @@
       "ts": 1788339079251
     },
     {
+      "id": "news_own cryptocurrency launch_Trumpsnewmemecoinsoarsonhisfirstdayinoff",
+      "title": "Trump's new meme coin soars on his first day in office, lifts other tokens - Reuters",
+      "cat": "macro",
+      "heat": 9,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée; référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaFI2cGc1bGtybC0wQ1lXcmR6SDZEZXZXS3IwNy1QVTMzX0tMY0JMcjNRMDQyVjdXaERVdHMySVZvV2RyM3huWjN4ekFpSjhNSjY3Z2VuVkhrLVNJa3Q2OVl1bGF2RDhQQnpxU2J1RTlEZUczMy1QNFRvWnZmUWM2T0NxRTF4c0Q1bDBvZTk2cUdoRk5za3dsRFpoWklCZEE4?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201118765
+    },
+    {
       "id": "news_memecoin launch_HunterBidendeniesLAPTOPmemecoinrugpullsa",
       "title": "Hunter Biden denies 'LAPTOP' memecoin rug pull, says aim was to mock Trump family - 디지털투데이",
       "cat": "macro",
@@ -1243,6 +1320,116 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_own cryptocurrency launch_EXCLUSIVETrumpsmemecoinmadenearly100mill",
+      "title": "EXCLUSIVE: Trump's meme coin made nearly $100 million in trading fees, as small traders lost money - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZUV2YnVpQmdsQ2Vpd3FWeWJ5OGo0SkRqMmpxa2RuQ2FJbU9vM1dXdWRPMW51dHlxS1NIUFJwdGxIXzFaLVVQS09Qd0VNVHBlSURfa21zLTBQUXRLMjg0dkJxdDIwakp4aW0yUWNkcHFLZXZYTFd5cThFZXdfZWsxYlNLWTFCV0EycGpCRXphLUFpNzEtbTBOT2NaS09zcDZxbW52bkpfRUlqSWtXYllCcmViNlFKTmhnUXBvc0h6NW80M0t1WkxoeFZ2ajBmZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201118765
+    },
+    {
+      "id": "news_own cryptocurrency launch_Trumpandsonsstakeincryptofirmworth5bnBBC",
+      "title": "Trump and sons' stake in crypto firm worth $5bn - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zN09WeG5BcUJZRWlFWU5KcGI3ZDBlODl4by1FUlZCNnRMOGdCbUVjLVJrblBqa2NpMlJtN25peW1GVWdDbTdvLWY1STV1aUJkNFpBN2x2dU5mZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201118765
+    },
+    {
+      "id": "news_own cryptocurrency launch_CryptobankpartownedbyTrumpfamilyoffersde",
+      "title": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUnZMM2x0clh2NFZJOHFSbENBd3FDUHJkRzU3ekRhd1VidUUzYUFodkJnbU8tcXF0QkpoYjctNENJd2wwNngwQkdzZlp4VmZpYURaSFlYbXI0Nm9STlJVenRZN0N5ekVwMDlnUElmbHNrRGVjTl9COFFuckhjX3dGVGlNbU9GTGJkeDhHZFdvWmZhU0ZaaEtINA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201118765
+    },
+    {
+      "id": "news_own cryptocurrency launch_TrumpRollsOutHisNewCryptocurrencyBusines",
+      "title": "Trump Rolls Out His New Cryptocurrency Business (Published 2024) - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUxsRHhjZHVSQ05nRmRhN3pyV1h2eEJ3MWtoMk5WdGpUNVJoUXQwRlN6bXdGQV9XYlZpVGJGSUl4dG9WWDQ3MjUxVk5fbnBkME1pNjhQd29aUDhoaWt6MXZrRWFtTE1QWm54T05acUV5RWViYWVtTHFRXzExd0RzLWNfLVpqTHJxMThTMTNRenE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201118765
+    },
+    {
+      "id": "news_own cryptocurrency launch_HowTrumpisbuildingacryptoempireoutofthin",
+      "title": "How Trump is building a crypto empire out of ‘thin air’ - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZTlBa3VreGdnbGw3eDR0VmU3V05SSzRzc0tPU0poM0QtZVlIQ0pKSWMwdEJ4Y0F3aDB4U2tEWm4tVjdfRUNpS09aUUUtN3NfVlY0M01IWTN6UXdvODgwWlN6ZTJ6aV9yMnA2NWNtVjJhWUQwa0t6R254N2prWDRKWnltWWlGNlE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201118764
+    },
+    {
+      "id": "news_own cryptocurrency launch_Herearethe4pillarsofTrumpsgrowingcryptoe",
+      "title": "Here are the 4 pillars of Trump’s growing crypto empire—and the key people running the show - Fortune",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQTBhcDdzN3RBcnNLbjgzV0ZBVlV5S1lCMXdWaGgzUGFSYmdLSlFaNkEwUU84c0pOelBXaUgyZ253dmdHZnl6QjJqM2FBUWhnVFZWRHNubDBFNGZ2SHJmLWRaVTVnNWZSS2lUU1Zhd2JFRnQyTEhoYzl4dm92QzhEaWRSQ215bm9HSHdDbXF6V2YzbjUzN3VfZ3c2LURzcktCdUtCT19LcVZsTDYzdXFpYW90dVY2TGl0bnNLYlBpZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201118764
+    },
+    {
+      "id": "news_SPORTS_ESPNtopayCollegeFootballPlayoff345millio",
+      "title": "ESPN to pay College Football Playoff $345 million more per year for 24-team event: Source - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVN1YWthS1hOaUxXa2l2OXlSd3A1U0ZRVnEyUFdEQnJjYS1ISTlrZUNySm5IbmJra1libFk1UVRfTHAzenJKMVlCOVB4U0x0MGdYN19WQkRST0t6dEt6TDBibkpheG9MUVd0LWx5bnd6d21vQnZ4Tl85by1TLTJmQy1ReHd5amFtUUdkN1hNUjdxWTlaUEE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201110935
+    },
+    {
+      "id": "news_TECHNOLOGY_SFleadersslamgrossAIvideogamewhereplayer",
+      "title": "S.F. leaders slam ‘gross’ AI video game where players shoot ‘zombies’ in the Tenderloin - San Francisco Chronicle",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNW9ELWV0RzhkamlFdmxFRHhGbGJGZUExbVhfVFFGSk9kTENYRDFLMi1iRmNrMTFDdVdHalN6b3UwYm5QZnE1ZVVBY0hzRzFDdXBrS2k3RU1pclJsS3Z1Ni01MnduZHdfS3dydHZERWlDdHlsQWZybklKMUlOaGplNHZLOTUtcXFjSnBqd1ZEaHVVX1A0a0lMRkF4Yw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201109053
+    },
+    {
+      "id": "news_BUSINESS_WithflyingRoadsterTeslawavesgoodbyetothe",
+      "title": "With flying Roadster, Tesla waves goodbye to the car business - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMjBmLVRhZVNzRjA1WXZxYnJXNEtSMFUxMGg3QXFnenVpaTE5eTY5dnM5MzBXa2RtYXlTUjB1bWR0eXlXVHZqQ21MNnFlem1USk5uRHJpTXFfRkh4cVExOEN4ZUJJa0VDcW1IVUhaeVJpZ0h3bGp0NG1kdjByRl9iNw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201108116
+    },
+    {
+      "id": "news_NATION_TrumpinGeorgiafalselyclaimselectionofJon",
+      "title": "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQelE3eGRzSWs4ZXZMOFhWcVhOYlg1T1JrcWk5Vks1VjFhVGhmbl9tVlBHbndKRlRDNmFfN25WTFZOOFdid3A1VU1HQlBkWndDVkhubEtFcUFLTEY1MXhlX2Z4UUVsakJ1RV9VM2Fqbm5JUVlzeVJnQWc2a3RoZjJ2VVlhVTU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792201107219
     },
     {
       "id": "news_billionaire announcement_ShivonZilisannouncedhersuddenbreakupwith",
@@ -5313,193 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791824295868
-    },
-    {
-      "id": "news_NATION_TrumpsRussianDieselMoveDrawsPushbackSkep",
-      "title": "Trump’s Russian-Diesel Move Draws Pushback, Skepticism - WSJ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdjZzT0FCZUplM2NBNC1Yek5YUkZvR0dFT1dvMUlwV0hfeC1UOElKMTBzbzE4LVUzQVg3Sjl1QnZyWmZhRk9NVDRiaHlwX2pjVU1ZelRNbmdzQlNuSzJyZzIxVXJQYjROQm0wM0ROMkd5UDU1MmRIS0ViY1FBX3VpNENCaVZLcGpxRGhNN1Jqc3NQQU9IMXRYY3k0cWx6NTQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791824295868
-    },
-    {
-      "id": "news_NATION_JudgehaltstreeremovalatDCgolfcoursethatT",
-      "title": "Judge halts tree removal at D.C. golf course that Trump has proposed overhauling - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHlnbGZMVFFDWmpMMzI0UVluQThuZUMyRUhWM1FxcG54LW4yaG45dWR6cUJVOE9MdkVyZFhhU2RnZEpocGJLSm9QT0NENDZrOThzVGktSXRWSE5OaWdpc0VVeGloVlVYM3RxcmREZnBmX2UtaHF4VnFYTXRNTXVRMFRvYlJYeGtBb3BoV3ZyWjNuYjhuVEJ0aF9Bam5pdVI5cjBXeVdVZTMzc3BfMnJYQ3RraHJBRGFwVm1PRGdqYUZUdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791824295868
-    },
-    {
-      "id": "news_NATION_Trumpprivatelyexpressesdoubtsaboutlivest",
-      "title": "Trump privately expresses doubts about livestreaming execution - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvTWNKd1hwa0ZZOU8xeklwMGhNZHpHU2NONGtSdHBkYjd4NVM2bDJkZ2tFd3BSbl9vc0lMRTFVMmVVN2VuX25NOGp6aklkT1ZuWThubjdteFMzMnZjcUlwUkw2ajlDUVVlbnZr?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791824295868
-    },
-    {
-      "id": "news_NATION_RussiaUkraineliveZelenskysaysRussiahitUk",
-      "title": "Russia-Ukraine live: Zelensky says Russia hit Ukrainian power plant after Trump declared energy ceasefire - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHc2Vacmo2RUlfNTBHbF80U3NiaGgwbU5hOE14dE5LS1J0cXB1VWxPN0huVTJuOFI5eFlqZ2RiU29naTRMMUNPQWF3a3JnNGRBcUNVeUpn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791824295868
-    },
-    {
-      "id": "news_NATION_TrumpsmidtermroadshowrevealsGOPtroublesa",
-      "title": "Trump’s midterm road show reveals GOP troubles — and his own priorities - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWDNqU1BXaWxra1U2bExkdTBZQUxGekkzTVJpUEVCVTlUYzc1NHAwTXRpYVRibi1sR2MycFdBNTdOQnZ4dUpYN1JELU5LN3ViWGs5LVByczlwUU00WWNaQlMtU25jai1kUmFheEU0cS15ZERabW55UXpfOHpVTk9WRVVXVTh5QWE0LW1tUVo1RTQwQ3dLSTJPeDhEZmg3SVJkcE1raWRwamc4X1RfR1VUeVlQSVFPdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791824295868
-    },
-    {
-      "id": "news_WORLD_TheywerepeoplewhotookchancesTheVikingswh",
-      "title": "'They were people who took chances': The Vikings who reached the Americas 500 years before Columbus - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZzRkR24tN0lnZm9yaFZ6d3ZCNjExUER0cUVyZFhxbGMyT1JFLWtKSDFDb09nUXA4bWRUQTl1WmVnTHE1M3pUbzVpVkhPM3hyYmRmdnVMdnZUR0RBRVpvTWMxTnhQNGFpcUFoamcwckQwMjJ2RDA3UmhQcmptSDhXVkxGYWJMUlJWbV9XV043MmxFZEdUWUdCb3Bn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791824295151
-    },
-    {
-      "id": "news_WORLD_KyivsaysRussiahitsenergytargetsdespiteTr",
-      "title": "Kyiv says Russia hits energy targets despite Trump ceasefire announcement - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWxLV1J6R2V3UDNKc2FwUU9oQ2dvUGVXd2FQTTNQdFM2QVVBLU54eWN0SFktR25BT0l3U3NIRldielJHYjBLY1lfMTk1OGZGVUZtOG4yMXhINzZSVDhwdXZScWtCUDdVYWxjSkF6RThTcHhyMWN3Z1hrWjNMSFJFMm04eVRKZ2luSkJjWUpKM2RYSXdXa2ZKbk94MjRjaXFDRDRtLXd3c3pMbk1Ld21LOE13WEZMUXp5YWdEcnNYMzc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791824295141
-    },
-    {
-      "id": "news_WORLD_IranWarUpdatesDeadlyHouthiattackskeepSau",
-      "title": "Iran War Updates: Deadly Houthi attacks keep Saudi airport closed as Trump considers U.S. strikes in Yemen - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjJxRmNFWVFOVlEtUl9td2J5VXowU3BKQTJJd28ybW9EZ1VaRmlLZTgtbFNLTEVldC1RQTE0NDIwMU4teThZUmF1WkpsSDNwcjh1WG5vYWQxNGtMQmdydUpPSFdYeHpUb1pXVEFBRTQweFdxbkpEZlBQb2Vza2EwXw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791824295141
-    },
-    {
-      "id": "news_central bank announcement_Japanraisesinterestratetonew31yearhighto",
-      "title": "Japan raises interest rate to new 31-year high to curb rising prices - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (central bank announcement). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhNkRsZVl0OU5ob3FDR0l5WTZsM21feGs2OWpJNzlqMjVjT09RMkk0MDZOc0NZTzZyQzB1T2xSZTM5TmxMRHZXcElrTU5FNDQtVEQ5R1VGc2YzUnM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791790454865
-    },
-    {
-      "id": "news_SCIENCE_HowaPittemeritusprofessorofphysicshasext",
-      "title": "How a Pitt emeritus professor of physics has extended his life to an active 100 years old - Pittsburgh Post-Gazette",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUURjRmoxT2xwZFRCN1g2djlCWFl0VmtocmRxVk95VzM5dU55aFVQcERYdGpXRXJDYU9SbnpPRmUxa01kRmZrVTlmMEMyaC1QZ3pkTERfMGpGUFFhWllCeEZSQkZrTmU5aFdxVDlOdzU0dzFPNDRDb09oZXZJXzV2MzFSd082RHpaOUpBdXJaR0tDZUtUcGQtVWl4by1vaVk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791790440893
-    },
-    {
-      "id": "news_SCIENCE_AnEarthSizedPlanetCouldSurviveWith2SunsJ",
-      "title": "An Earth-Sized Planet Could Survive With 2 Suns Just 16 Light-Years Away - ScienceAlert",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOHJCS1NDUWZ4WmJ1V2E0RzZ1WFNqTXN3RTR5bmRESUJfNW5KcC0wSHpqMUp3YXd4Mmt1UGVWTkRxLUI0dllOaEI4b25WV1hDM3lPcXhhZ3hHbkpDZTZnSzAwVFlYVF9UbXhZMDRDUHdmTXNnc0t5a2Y3RjJvVmxoN21qYWRMNjFtdTVDZWpwTk9QTzUxeWNUQm9aQm9xbm5MRlNZ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791790440893
-    },
-    {
-      "id": "news_ENTERTAINMENT_DianeKeatonRememberedbySarahPaulsonOneYe",
-      "title": "Diane Keaton Remembered by Sarah Paulson One Year After Her Death - TMZ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRURRZ0gwQnpCS1g4QW1TXzVzTFZLNUluV0lDeDl5TVU0eXhDMGNTcjRJQ0NjeHZiRDU4MTVYZ01TY2ZKT0RMek41NEZ0SC1VNmxYOE51bERjOUlfQkpnSXhmeHNVSVdZeXZMc2RDRUZpdWJfODdsSUxudWx5M1BrWTZ3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791790439364
-    },
-    {
-      "id": "news_NATION_FederaljudgeordersproTrumpTVadsfundedbyt",
-      "title": "Federal judge orders pro-Trump TV ads funded by taxpayers off air immediately - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON1pBMERGUjZ4cG5DX0EyQlZWVG1KMGx5NWFCcHUtRnJac28wMmx4ME9kdmpRN1dqRDQxTTRSU1UzOEhNRHRnMUNkVEdSdDNRaTRUSkhSVDRWaHhDUnFTNmY5elA0Zm5UMXlZZHF2aGZGRUNuSmJLTlpSV2hwNDBuaTVOQWRublJOSU9EaVhrZGVVU2l0Wk5mYjhTOUVDSkVxckRWT3VVNG5iM1dFZC1xbzkxXzVGS3AzY2Vsc3o2TzJmZFpIQjJlaTRNMA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791790437144
-    },
-    {
-      "id": "news_NATION_Trumpfacesgrowingbacklashoverplanstoimpo",
-      "title": "Trump faces growing backlash over plans to import diesel from Russia - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JLTdMMUNzbXZyUlFqRnlfNHdiazhVZnp6V1FOQWxBQ3VFRDAyZTZMb0hnU2dveFVNNmc2Ti1yUm00RVBUclg4cjZOclFfcVVnQzRMU2tUX3FEWUk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791790437144
-    },
-    {
-      "id": "news_WORLD_OilpricestumbleasstocksriseafterTrumptou",
-      "title": "Oil prices tumble as stocks rise after Trump touts 'energy ceasefire' - Euronews.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMnhINXRsZVZacWt1VnZWYkkxZlRSeUU1QVZoM3E2d0RVM00tWElyMTVKNzdNWGN3dmViQlZfb201MnowQ3dwSW54ekEyLTRmOUdVSmx4OHBORHlRZEVodmR5RjJrN3FwRVRWY05qeEVSYk1qbnhidjVKeGVmUmUwT1dPcm42NnlHU2FETm5ycU9INDVpaC1QNlZYbXZabnlLODktOXln?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791790436378
-    },
-    {
-      "id": "news_government shutdown_UnionsTrumpadministrationreachdealNomass",
-      "title": "Unions, Trump administration reach deal: No mass firings during government shutdowns - Courthouse News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXhvQ3ZYOS1HQlNkTXdvWTd1ZnRVRncwaW9GOEFWcUplVzl3SXYyUExYbm01cHZOMzl3dDdSTHNkNXdFVVR5WEFzSGthWlRtRkpUTUhkR2RrcnZNRFJ1U2VXaHIxZnpOaWRtZlZibS1uNF9MTFhrOEM4OHNKVGJKcUs3dHFvU0lqY1NQTWdOb3E3Q0I0bTB2d0hicDBEcmpMZS12emNZdGd1T3d1WlVWYURXSQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791768224921
-    },
-    {
-      "id": "news_government shutdown_Trumpsignsbilltoavertgovernmentshutdownb",
-      "title": "Trump signs bill to avert government shutdown before midterm elections - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTJfTlZvbUVhMkVhSVQxSlFOdXM1Vzk4aXo3TTRwalJWVVF4bmU0cHYwRDBVaGYteDFoZy1sczEwOGNoeFlmel9GS0Y0cGlwdXRXNEFQVTR4dXhVVkRFQnBxUFhUUDMzaDh2R29VRVVpTW84TXVwcVV4TlhoY0tOdFF3TUxlbXNmbmVwNHh0ME94WlhVVHVxMTdjbkllQnFjOW9VZzFqREF2OHFUWmJOZ1E4OWFoVzYxcy1FTg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791768224921
     }
   ]
 }

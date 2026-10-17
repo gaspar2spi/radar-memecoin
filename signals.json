@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T16:51:02.247202+00:00",
+  "updated_at": "2026-10-17T18:54:21.076628+00:00",
   "signals": [
     {
       "id": "news_own cryptocurrency launch_TrumplaunchesmemecoinTrumpdaysbeforeretu",
@@ -1320,6 +1320,83 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_BUSINESS_DoctorsandLawyersAreJoiningAIs400anHourG",
+      "title": "Doctors and Lawyers Are Joining AI’s $400-an-Hour Gig Economy - Bloomberg.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNckZWSnVtMHFLWUJWZXhicy1QWEtCMHM1R21ETVNlYjdLSDVsaUFzbVpIQThhS2hlU2doR3FnZmRydklzdXI2X2J1dHNXV2xqNUtpOU8yMmFhdGEyNTFlOTlRTTgwbmJfaWV1N3lSYXBQSFk3QlU4T0VyTC1QYV9aWU02dHZUQXBXdGx2UlRMX1dvTThVYTU3NEI4QThkaDVCeFo5V2Y2UFQ4RzRwV3R1d2Jn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792263231716
+    },
+    {
+      "id": "news_BUSINESS_Everyonelaughedwhenhestartedapumpkinfarm",
+      "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGlXT2s5c3VlRzBXQUFPTzJPekJkOUNUdTkyYlBCNkZva2ZFVWxCQkhjU1Q0U0pNRzJ5Wmt0cTI3MFBuTWRiSTNwOGJmOUZLeG4tZjQwOWpnRmJLYVhkVWZYdXFMZTRKWVR6RDlRWmVfR2Rzd19qQkFfSnlzTmR4bHZ6cGJuc1FDWUdrTnlFNEk1enNC0gGaAUFVX3lxTFB2YXgwa0FkdG9KS1VtUUNSNVZoQWplZU9TZ19VWTNRYmREVC1vbXpVaDV2NkVlZ0pKb1NFOWt4VDNsWWlYM0lIMThTOVZwRXVRZ0w0WG94al9yWEdpY1hKTXd2YmNQWmo5Q2tKajJYSHVJYzM5cUZnUWdzNEQ0bTFTSlRUalRtcElYb2dyWTRfekNrbnR0a3QtSUE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792263231716
+    },
+    {
+      "id": "news_NATION_Alligatorkills71yearoldmanfishinginFlori",
+      "title": "Alligator kills 71-year-old man fishing in Florida - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYeWR4NGpOcmMyVmE2Zlh1bWgxQV8zNjVJZkhUM2luTlRXSWI1SlhHRXFOSzk5aGd4bV9SUEk3VUR6YkRfVlhDX0hwRGd4TV81LWNDY081QUREdGM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792263230936
+    },
+    {
+      "id": "news_NATION_IlhanOmarslawyersdemandthereturnofproper",
+      "title": "Ilhan Omar’s lawyers demand the return of property seized in house raid - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFFqRlNtSUFCNjVsMjRSV29CSmZFZGIxR1hWTXNpSEQwV0RTSno0Smw0RWpyRjNFRjg3UDIxRkNFaWJNTFk2NHgtbU1HRVhjdHU4ZFpuRDhTNWVrSS0tMlNMRlI4NUpIMUwyWnhtT05TX3JRZ3lvb2dWYWFabnlJSTFHdThiMWFodG9ULTNVbjNxaFEzLTQ5UXVaMWZMLUlNOWtXeURZbUJMNWdTdHlqdG5n0gG3AUFVX3lxTE1MdmJUSzZVMWk5LXNIYThnVmJZYURaOTFqLVpmSUw2eGRDdzd6YkE0clhxUEMyX0VMWWRXZHRVNkVaYUtvemZ0ZGRfUE5QQm9Ndk4weGU2RGJvQXRtaEFSS1E5LWpURVBvTjVKTDRNYk5YOVRlTEdGWEEzWXRIWklMTUE2MnRoSjktR2ZIaFM4YXhpUlhUYk5Ma3ZtWTJvQ0Rlc0VQTUVsd2hJWG44eGtlc2dFZDJpdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792263230936
+    },
+    {
+      "id": "news_NATION_ADropintheBucketTrumpsDieselDealWithRuss",
+      "title": "‘A Drop in the Bucket’: Trump’s Diesel Deal With Russia Is Desperate Political Theater - Rolling Stone",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0p1c3FDNlBkcnZNYldRa3pvQXhRMVh3MWgwUXNYWHBLR2pnN003cmFhUkZnd0FwZTF0NzRSZnI2T0tXWVU5OF9QUzFhSnpWbi1NWTRPMk1pRTZDR2hwTllCRFVfUDY5QzBZbWZnX2E0Y2d5WlVoZW52V0M4MXVuSUhRN3EzbllnSGZGa2l2U1BBd2NVeXVuUC1NUTBqOFhQdE83Z2ln?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792263230936
+    },
+    {
+      "id": "news_NATION_PresidentTrumpholdsrallyinHighlandHeight",
+      "title": "President Trump holds rally in Highland Heights Saturday - Cincinnati CityBeat",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS3pWVi1ZYmtMZGk3Umk4M1BydVJTTDdPYTdwdnN5eDNjUElWcTJNVS1UdUJJeGxIVHJaQXhNSWU1MDFxb28zenNFbDFFSkp6eHNyZndQMDZGRHY4eHdnTWRKbGR6X3UyZEhyeG5rdVd2d013cGh4Y0tsWUNfZ0ZuNmI3NWxoNTBpRTVSLWlKT00?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792263230936
+    },
+    {
+      "id": "news_WORLD_SarahHelmdoublesdownasproIsraelgroupsurg",
+      "title": "Sarah Helm doubles down as pro-Israel groups urge police action and Zack Polanski praises her 'bravery' - Middle East Eye",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE9mdGZUT2JaQkxzQ0l6Z0p4aHd3RWJHOHdxLTZBWmUxS3FHX044cUoydXcydW9Ud3dxZVl4dlNPT3FJOFRDa21oMHBDbHY4NTFNNmxmbUZyRV80YjhQa0xSNjZRcGVGbHIyWlMxM1VnOUJ1SE1uRlVhUmJnVTlMbDQ3YkxkTFhaUXpCMXJBdTJTUWQ3Z3E1aTRIUDk3RkZQZGVHNmN4NTBiWUFRVlNkYl9xaUZvck9mZDgzSmNfVTlCSFU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792263230239
     },
     {
       "id": "news_HEALTH_A26yearoldfeltherconcernswerebeingdismis",
@@ -5423,83 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791889914162
-    },
-    {
-      "id": "news_BUSINESS_ChinagivesgreenlighttoVisaforlocalcleari",
-      "title": "China gives green light to Visa for local clearing entity after 9-year wait - South China Morning Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTkhPdVdVLVBFOFlfanZrYU9MMFpDRWhUU1J4TXJFYWhBSHdlQ3FUOVJKSnNlUXVkUjcwTTFVYTNOSWRYQTdDRVNfUGFrbFJCdmFvY1lkb1NxeVl4czByMUhsV0Z6LUdXU3ZlbUc2bWEtcDZVbmNPUU9QTFF6dmpXVXpNbWZGNTVobGpwSTJRTWU5VTh0ZE8tOWRkbTM5RWozRVhlWVdWTEhFa0FsdURNYnRCd9IBswFBVV95cUxQbVZUNHVob2tXenprOER4THpnUFNJSkVLdUREaTlzWk5LMDNJMUdCb2NkU000b3VfekdSc1pZQTdpT0YwVk9nY3dWck45S2Rxc21FX3luWkphTUEyUlVmd2ZtZXAzYmpRVmpvVXNOcW5HUGtGLXo1RkY0TWYyOEJybjdTNk9leTNDN2ZxRFhRTjBmWlpaM1l2ZGpoUnExbU1DZjFuZ0RBa1VOSGZKcWZjMHZjbw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791889912075
-    },
-    {
-      "id": "news_BUSINESS_MicrosoftplanshugedeploymentofitsownAIch",
-      "title": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791889912075
-    },
-    {
-      "id": "news_NATION_TrumpsaysheslookingatfiringKimberlyGuilf",
-      "title": "Trump says he’s ‘looking at’ firing Kimberly Guilfoyle from Athens post - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnJrVlBvS1VGNzFhT3MwVDZqZUFvX3J0Yk1iWDFrNG1ZQWxQVGxXdUJWVTdnZk1rVXNPYUtmYlU1aHpCLTd2UVVwaDBEQ2RzLVhYZVR1NV9US1cyQTVWdlkzZ0xTTWlhTDNRUnduZk5mX2ZfUXkyZTRTUk50R3QtcVNzX2kwZ0wxZ0s3MThwZmNod21YX2RFR3FWWWpvcWloTmx5aWlfdy0yam5sMnc1RjFJU1lTaWdk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791889911225
-    },
-    {
-      "id": "news_NATION_ShetotallyblewitHowKamalaHarriswastedaye",
-      "title": "‘She totally blew it’: How Kamala Harris wasted a year to make her case - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbGNnb1BiRm5zUkZrTFJGMEo1RTdzUHVJbGRzNDIySTV1eTBZSkFlU3J1bW1IeGg3NUxJbThKYzdOOUZwWHluZUxhVUFRaTBwZnB4UDdWSlRjbThJNC1RZF9wZ19MM2JqLWw2TmJwdElmcUhTbkJpa3Zob1ZHZEpXRQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791889911225
-    },
-    {
-      "id": "news_NATION_TrumppicksfightwithGOPsenatorsoverRussia",
-      "title": "Trump picks fight with GOP senators over Russia diesel deal - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kd24zX2ZBaHFxc0t5NXpXWW9HR0JRSXVadWhHVHZfSDA0N0FVRU1WV0k1cGptcC1kcnY5T0QzLUtaemozZWd4WkZobVBwQ1A0cDBaSy00WTc4NldpWEhNYi1mV19vOExLenR0ci11SHluOUR5SFpPSNIBfkFVX3lxTFA1dzhoOFZteHlpU3pnWmdYWXJSdFJiSm9CZHVxcDdLTE1naHJlWEYwV1V1ZEhQV0JZRXlDNnRudEdINm12UmNnQVJUX0hTNnJZTnhGTjBHOE1oV2tjRVRXSVBkSldGSjdiX3ozOWlvcmcxSlB4MUlEWDU2SjR0QQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791889911225
-    },
-    {
-      "id": "news_NATION_TrumpPlayingDefenseinOhioTriestoShoreUpR",
-      "title": "Trump, Playing Defense in Ohio, Tries to Shore Up Republicans in Tough Races - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80MlVNMEZTRnVCd2F3Q0tlYldHalBNY2FWemdkTEY1cTRoYmtRWmlmLWJFbXQtU1lteXY2Z2EtNlBNcU42VlBaOURpYkNwOHk2RnNoeEEzRlhtTXFOd2N3MlB5WXY0TnpGYmZSQU9sZDJiWXFGX3NvTWZn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791889911225
-    },
-    {
-      "id": "news_NATION_JudgeblastsTrumpsDOJoverinexcusabletreer",
-      "title": "Judge blasts Trump's DOJ over 'inexcusable' tree removal at DC golf course - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzlmNS0zRGdkRGM4N3E4WlhJQnR4UW0wX3REdXU2RW9ta1FnUUFMQVhjRnJGbGNVMlZ1czdsVkN3d051LWRKUlhubFhyQzR0RGZGZTc1QzZiZXlGNThUOTFsMk5qME9QVjlBbjQ3OTkxZnU5eEUyTkluSHV1QldWR1pjQ3QxMm9sUl85WlA0VzhsZ0ZzbEJYeWpwT2puV216OGF5MTRwcl9ScGlsSHJtVkRhZTNEVURrOTZMbWFR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791889911225
     }
   ]
 }

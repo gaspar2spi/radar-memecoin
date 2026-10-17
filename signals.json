@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T18:54:21.076628+00:00",
+  "updated_at": "2026-10-17T21:09:45.000366+00:00",
   "signals": [
     {
       "id": "news_own cryptocurrency launch_TrumplaunchesmemecoinTrumpdaysbeforeretu",
@@ -1320,6 +1320,94 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_own cryptocurrency launch_Trumpdisclosesmorethan14billionfromfamil",
+      "title": "Trump discloses more than $1.4 billion from family crypto projects in filing - The New Voice of Ukraine",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZV8tV0lLVUpHaXdaZ3Z0b0phc2tMY0hwVTBRSlM5NnRTd3pYcXczbGZtVTBFTVI2d1pRaTlxVUQzSlJZd3FJMktQRFp5ZXM3WHc1TWNnc2Z4QlNSNzhFM19Wc2UtZ3dxdFJmell3eXFkbndjSHlzMGVCMVVwakVRUmh0N2pDRUx5cVRUNVlYbmxUUDZpZnVhUFpoREJYMzJJcWQ4UlZaVldkRkNzLTVyR1R6QnQxbXYydnfSAbYBQVVfeXFMT1V0WTczQm5HYWJGN2N0YVdqYTF2b0FZSXk0NG10d3RYNGpNRXNVc2VyQ2tKUUlXa2dMUWNEOG1sUlFmdWxsQ0NBVlExQ2FtSDVYWllTb1hvdEZnVlhTMkYwal96YWxaeWRaVU50dVhMQU1tS3hvUFlEZW5ERDQ5cFpHcC1RVHZfcnRRYml1bHJpaUxYYjA2UzF2X3FRcUktQWcxdzNxNXgxTlE1RFdyTktxWXgybXc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792271365669
+    },
+    {
+      "id": "news_own cryptocurrency launch_TrumpMediaScalesBackPlansforItsOwnPredic",
+      "title": "Trump Media Scales Back Plans for Its Own Prediction Market - WIRED",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTG5aa2NRX0x0WnhHVGRrQi1mWnNKRC0wOWcwQmVtZGk4c3NIeFJzV29KRzdNa0U2Ul92VHpSR2UxZXU2UjI4SzNHV1lJdXpraHJaR0VHTmpRbG9ZLVVnMUVqeGwtaEpVNXlWcGRnb0E0RUJxWFVfMmFUUzdTemQzR2lDRnh0eWlhNVJpVXhhNGh2UQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792271365669
+    },
+    {
+      "id": "news_SPORTS_ManCityplayerratingsvsIpswichwiththree81",
+      "title": "Man City player ratings vs Ipswich with three 8/10s as Erling Haaland good but Marc Guehi struggles - Manchester Evening News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWJ1Z3VrWlNDLURlekFQQXZpV2lOdnNEVm11bURDRHl1cjZYTTZqamVoZTVyMnRwY1kweUNiUmtVQTJrYWpVQVZOZXUtNHB2S1dYOG5nc09NbmVIN19DdGtkUVMxLVRKblMzWW5NcXg1OXVsWWFFank5UkE5MzBhZ0FJbEo3SkNiZXdycl9WZm81dW5qekdVOVpmWmJGUjBheE9CRVB3WdIBrAFBVV95cUxPNDc3N2xFUE54UGJZd1ozM245aEU4aHQwQ29oXzY2eHlUYU9JWFdzMWJZdGl4dTNjeUlHdUhzNFJkek8wN09HNzdKc0ZjbjYwXzhkRDdWamNBRjNaaGJLTGQxekcwMWxhdk1YZjJ5OERqdGlxWXlCLVJKU3E3LURod2hLMHgybEpqSnl2cHZ4YTkzMG9JRmhyeDRoaTM5RzdEOGE5SFRCMFdwc3Qt?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792271358793
+    },
+    {
+      "id": "news_ENTERTAINMENT_ElizabethHolmesDocumentaryYouCanSeeEvery",
+      "title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Eyes $12 Million-Plus Opening Weekend - Forbes",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcGVJYnMzbGdCeTkwdTJFckZWdTJJUXN3QjNiTWwwTlhMX1JrV1hFVnNoR1h5MDhfN0puWHFRbXZjQUpERHBxTm8ycHAxQ2N2ZGZQVHp0RUwwM0U2WDc1VllCSkxDNTV6SjdqNzZhNVB0VE9ZR3d2QXA0enY3Y013RVByZENMTlZoQ2dXQjFlaTQ3aTdSSXRjUWl0bm1YSmNaNlFfQ1JMdTJObjgyOUZxdVZfd1I1WGxNN1FIWFpTUnFvUHR3blJxVExWZjVNSHg2?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792271357991
+    },
+    {
+      "id": "news_NATION_MidtermelectionliveupdatesTrumpstumpsind",
+      "title": "Midterm election live updates: Trump stumps in deep-red Kentucky as GOP tries to hold its turf - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenRhZUU0MWpKRXpVdlBHZzN2YUFuVXRMNHVRalBuaktmdWxQTEQ2WFR3OVpHMVVMODdPc3pCUVcyeDhKbDItSEd5YlJveWwzWng1YmJyRkl0R2R2ZjBrYy1qYkFXcXpyVW9mSkU2Uy1hOHJua1BJUk1PX2RnOC1Sdg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792271355796
+    },
+    {
+      "id": "news_NATION_DonaldTrump80ThirstsOverBeautifulMAGAMen",
+      "title": "Donald Trump, 80, Thirsts Over ‘Beautiful’ MAGA Men in Bonkers Rant - The Daily Beast",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTDZ5LVZ5el9fZlVoTENvaGRCQUdvUkRUbVZVa05JdExfMlpoOUFnU1NIUjM5a1NVSnQ1WElPSHdUYnJoMmxiVUJJZ01GWkJBN2VRbTBNeTVFMl9zUkd5VjVSZEYyNjVPRTZNLXpRX3E0NERWRlNOMmVRdWc5ZWRtQ1hzXzE0bHBUTzZQYXU1bUpMbzRWS29jMA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792271355796
+    },
+    {
+      "id": "news_WORLD_Trumpselectionfraudtaskforceisgoingafter",
+      "title": "Trump’s election fraud task force is going after the people who investigated him - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2ZGc1NIWVAyLXYyZGFKSDBNWUZQb3R6V2x0Q1Ffem00OFBfaHlId3d1dUpkNE9CejlwYS1yRG1ycUUtNk1XSU5iekJlVWtjZlRvTmRvZUpiS3V1ZDUwSUZZdDFOQmE5YkNtX2x4S2JZRFZOZWtqNlpuUU1Nc09oMEwtV3hqaC1UN29aWFU4M3ZBQl9DbEt2SUVjUkV4cWJWLWZYQjN2RS1KYnRLN3RlbG5OcHBFUUZtZkFraUx0U25iTnN5Wmc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792271354982
+    },
+    {
+      "id": "news_WORLD_Threemenget158yearseachformurderingAmeri",
+      "title": "Three men get 158 years each for murdering American and Australian surfers, dumping bodies in Mexican well - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdUVacFBUYmtWRkxOZk1VYkNJel9fbzhTR2pqY1JWUFo1cGdVcXI1T2FkLWh0bnMyWUw3YThDaF8zWl9wVEtjQ0ptM0JrWmkxcFQyMEJvV3AyU3V4c0FWN1BnRmgtSi1LRktEaEVjRV9fdWhjVVBEWnlHZFdJVVllTTB4ZDFFOG9vd0xENDhxUWJzRXNYTnRpNWxLb2xsMnJSUDlrYUlpTU9PanNGSno2TTJWcnJuZ9IBuwFBVV95cUxPOEY0TlhQZU51ZDVqdHk0ZldiTF9PRUpqV2xyY2R5dEU5S2w4NjJDNDJxd3pPLWdqY19iQm1FLTFWdFZYWDR0c0RBY09aYlJTZHI2ZnczM0t3dUIya1VZSHgwV1BLV05YQzQtaTRKUFVlZHJlempMZ0ZCY25XemdJTjBhRmdkd3pSX1Z3cmljbUhwbDNqbzN0b3NvT1pyRnExcGoxS1lXOWt2a1hZQ3k0WmJEYmxTSDVET2F3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792271354975
     },
     {
       "id": "news_BUSINESS_DoctorsandLawyersAreJoiningAIs400anHourG",
@@ -5412,94 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791915504609
-    },
-    {
-      "id": "news_WORLD_EUtolimitChinesehybridvehicleimportsto35",
-      "title": "EU to limit Chinese hybrid vehicle imports to 350,000 a year - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX3FCZHdXYnd4eHZLdlhwd1RTZmJuZDh5Q3RlVXhBM2RhQzJtTDJFWVhfeGZCR3hVOHZXdDJIUzJFWVFVMFJNTW5mM0lKVG1Kc2hVTnpPYlg1dHA2QmNwbnBqbDA5YjZ3dm1TamJfTkc5cnRQSzFQLWxnT3ZVd05RbDZXRDEtTk51Q0d6S1o3WERlNFhiZ19pdUZaSFBBZFVpRkd4M29WNA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791915503742
-    },
-    {
-      "id": "news_tech ceo controversy_ExclusiveExemployeeoftechCEOAndyByroncla",
-      "title": "Exclusive | Ex-employee of tech CEO Andy Byron claims he was a 'toxic' boss before Coldplay drama - New York Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFc4djVsQ3VMeGc4UUdZY0VkRG84MkJiYVZNQkE1cW5uY01uYUZGYmJMQ1FnU0ZaVDloRFplZldYcHJXV3pKMDM4ekx2bENFckd1ZGVQUGViYW5xbUdpYlhiMWJVZ1dQM0xoZmVoV3NCd1pIYmg3UWpFTWNjdTl5dkNHTlV6MndSVGZFZVdUQ1VjWWlKSDlfRE52dS10ZXBnemY3Zzg5LXlyc2hzT3J6M19RUDNqNXVqeFRWQ3pGRnU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791889933537
-    },
-    {
-      "id": "news_internet drama trending_Chinadramaqueenlambgoesviralforplayingde",
-      "title": "China ‘drama queen’ lamb goes viral for playing dead when buyers approach - South China Morning Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (internet drama trending). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOXzBhcE5fZnY1N2p3QnBSTlpLU3o5VmQ3dlE3eFh2ZzVqOHp5bnZSMDJEQjg0MS1pNXZyeEFqRnlST1VWM0tnX0xMU1N0RXl2TFpmS1NtTTF4Ykt4NDBnM1lNdk84a2ZwV0c2UFFRVXdPYWRPQU5pOEJ4UGJmRWo3eEh4MUtCN0E3eHp0TWl2YngteUxSVlpRVTFxOEJKS3k5SjhUT1AyYjMzNjRjSjZTNWxaRXBqZEI2LTFyZ3FPZG9tcXdQZEZGd2wxelhvUjhnRnhxaWJOSkJIdVY3Qm1pTDhxSVc4QVZNMjBr0gHrAUFVX3lxTE83Z2lkcDV3VFh2VkN2dlJYaVA5dV9YTkRodXN4amVJNlVQQzdkQ054SkY1alo2M3RXRmVjaUVXcXpwODFKb1hHNVhRdEJfWEh2M3o0Rkp5aHEycGszUXRfaFU3dGMtcjN6clNPN0tqTWNtemlybXBYTFAzSW9HQUx5T1IyUS1Vdmp6c3o0M1Z4enhsdjFIWU5EbWVmcjdFTEhobXdGX3dTQ2xqSWh6S3pLVUM0TUhqTy1udEZDM3p0SnZnZXRwZXJzd0RiUmQ1RTcySTQtYUlCN2tab3RFV2gxaHEtRFZJVlZvTVE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791889927777
-    },
-    {
-      "id": "news_own cryptocurrency launch_OKXsXLayerletsusersbuildtheirowncryptoma",
-      "title": "OKX’s X Layer lets users build their own crypto markets - Crypto News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1B3YmxGN2pBN1g3eHp4a0FLdFl4WmpxTGdidkhhWHp6MC1VNlFDM24yQUNDS1VmWEQ3TUg3ZEhGQ3p6WkNOaDhoT3BDUzhpd3NKSS16ZnV2czg3VUJjSGZjenVKNEZGR0p5XzZJZXhhSU03NlZtM2puR1VnWFJJcw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791889922882
-    },
-    {
-      "id": "news_SPORTS_DanLanningrespondstovideoofOregonplayerp",
-      "title": "Dan Lanning responds to video of Oregon player punching UCLA quarterback - OregonLive.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdE00Unh2b2JwT1FWQndJN2x3TVpuSzdMYlBlWjdwMHA3aXNQVlUxQXRDajVxSFc4SmNBQnZwWFZBWkF3OFZBN2FrcUdESFhWYjBIUW5XTHNyZjlRbUlIWE5tOVlmZzRFYi1TZC1rVHZFVHhacDlTMGUtZE5McXVLdVVoQ000ZF9CbWtwajBoeUdRX2xuSE5ybUdMSUdWNFpLUkVMdV9xdWtuZTFkaTF3Qmk5VzdjYUtsR0E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791889915047
-    },
-    {
-      "id": "news_ENTERTAINMENT_AlexGibneysMuskhasalreadygottenunderElon",
-      "title": "Alex Gibney’s ‘Musk’ has already gotten under Elon Musk’s skin. It goes nationwide this week - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ29TZGJub01zTmhtWjFaV2pES0pNMlJTVGpGRlppRTE3WEpEc28zaVhMM2JVWVRsNmNJa3JWTDVFUXdYX01MVlgyZ2JWVmdyQzFiMjJDZ2l6X1liQ2JwWWtZVWViOHppQkZ0b0xZdll2aTlEMjBjTUNFN3FIQTh1RVJiUGxDbk5FVmo3blJVNzgyckYtUV8zQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791889914162
-    },
-    {
-      "id": "news_ENTERTAINMENT_HighPotentialGetsPostSuperBowlSlotEyesGr",
-      "title": "‘High Potential’ Gets Post-Super Bowl Slot, Eyes ‘Grey’s Anatomy’-Style 2-Parter On ABC & Disney+ - Deadline",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc08tNDY5MzFxMTVFaTdNelRGTHhySVVJTXY3bnh1N1V1N2s3aU5zWnlTeldRbVpLNmo5RUdIU0NvVm5QbWR2cnU4RGRXX3RnZmFreGZyMUtzcHQxYnl1YlJaZHBEdlhlZmg0MndvYXo4V2VMdkI3TTBIb2stMmpEcHpBZWJ6S2ZKcmgtbFM1UUQ1ZzJtSDROY2ljSUFPM1dM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791889914162
-    },
-    {
-      "id": "news_ENTERTAINMENT_JimmyKimmelTeasesTrumpOverNotGettingtheN",
-      "title": "Jimmy Kimmel Teases Trump Over Not Getting the Nobel Prize - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS3RXNnhxY1diZXFYZkhnVFNwSWF5VzJhQXljZy1HRFZGTHhFY1ZRQUdmdHExY0pSZjJhR2ZMbFFSUDRwVGpXLWxKbTA0a21TVk52Y1lFWUlwUC16dGJoWFJ5cU1keWVvb3JzZWdqeHpXUXdDSmxHS1BKODlqbXg5TGdaVVBIbEdwMjhrUi1ZQVFYenU3SFVn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791889914162
     }
   ]
 }

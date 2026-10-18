@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T09:50:48.908781+00:00",
+  "updated_at": "2026-10-18T13:38:21.885849+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_CoreWeaveIsProjectedtoHavea63xGrossLever",
@@ -1331,6 +1331,61 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_BUSINESS_BraceYourselfforthePriciestHolidayTravel",
+      "title": "Brace Yourself for the Priciest Holiday Travel Season in Years - WSJ",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONzFTLXJUNU5kNEd4Vm10M29IVUhqUmQ3UWtQSzNhSmJsNnVjeDEzYmVIMEdMVjhOM2ZRbURaNkRqYVYxQ2QzNUtvNURZXzNKN3FFX2M0cFdkQVpXd1pFVzNWM253R3pycFRRUGs0Rkx5RW96c1g4Y2Q1SUFiOThwMTZCTGMwS2xXa3JVbHhsSUlfeFl3bHhSRWF0YmkycS1aQUl2bkszQmszb1Fla0E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792330669657
+    },
+    {
+      "id": "news_NATION_IlhanOmarTheUSDemocrattargetedbyDonaldTr",
+      "title": "Ilhan Omar: The US Democrat targeted by Donald Trump - DW.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmlyUGVoR0RBNVpnR0EybGFKNjNVSTlFYkpEWkJ0RHhiWkFtd1p3LUZLN2FNU2U4QW1HaVl1a2dfQVc3ckh3VkFYM2o1d0JuUWVrbXNZT1I4OVdURERKTmhTTy10am5wMkV5TkxIb1B6RzI2MXVPblFLV1BINUVpZXV0QnRpOVAxSWlCNtIBjAFBVV95cUxPejd3OHdCb0dHbTVucy1kODFCYWU3dk56RTBBWWt3VmJ3SFJnbDQzUGdVaXkxYnMyR3lKVXUzSDQ5SS1rdlA1QWZfb0E4ZkxUMmlIbzE1OFAzX052NzdZUElBelZTa0tKdTA1eGlRVW9hVFFlZm1lQWdvdWdWQ1QzMlY0cjhGVmxjUGMyVw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792330668867
+    },
+    {
+      "id": "news_NATION_16daysuntilmidtermsTrumpralliesGOPasJohn",
+      "title": "16 days until midterms, Trump rallies GOP as Johnson predicts Republicans will hold House - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObm9FYWtTdVB6dUxkVDlaY0c1NFd2X21QaDNVRVZ2UUp3X0NkQTh5YTZPYW1qR19obGEzdWFENjNnWno4WVFlRjdxbW9nSG1pMFBRQlRBOUJ2QS13TnhLM0VEdXZZcEgzcGZMSzRIb2pSNWVibVhuOHRoNjRrWTNSeFhVV3ZGMEVfdVN2R2xqNFprbkFYTkd6UWE1NA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792330668866
+    },
+    {
+      "id": "news_WORLD_3mensentencedtomorethan158yearsforkillin",
+      "title": "3 men sentenced to more than 158 years for killing Australian brothers, US surf pal in Mexico - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLWtlNGpKX01kNWJmWHlwdC0xb19aYmFDTUJNOWdpNWUzMXp3S0YxN29LTGtncWNRRHRLWm1IZEhhQTlXWE1haWZYTG1td2xWUlc3V2hMYWhadzdRRVk0NGR0TkVZSjc4WXR3amQtNzdJa1hYTmc0NXdKNWRybC01OUFCNUhJdEVSR0FVNjZDbnBoZXFORFhySDlhOWc4VkR0SzMzTTFuRXQtOFRYM21PQ0NSeHJJREUzQVlIRG1PTlVweWpiZWZhSWJ4N3pXeU9iaVZOc0JqVUlpNUMtWTM2RA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792330667974
+    },
+    {
+      "id": "news_WORLD_FranceReelsAfterLargestRiotsinYearsTheNe",
+      "title": "France Reels After Largest Riots in Years - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbDl0aUQzYnZTSy1WSWJVWmhjWHViby1VRnFxSjFwWWZGQk1CUjhCNlpPM3IxdXUzUnZIWlF5X1NBZ0traG1FZ2dfOVQ3SjhOU3pqcFpDME9zUzlhMjFReVhSaVZOUExTWVNSckNoVmpIUmZvVnUzdVVpSEJFQmdQUzJuRU1kZU0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792330667973
     },
     {
       "id": "news_SPORTS_OhioStatesgrittyroadwincamewithagreatcos",
@@ -5445,61 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791932143841
-    },
-    {
-      "id": "news_SPORTS_WhatchangescouldtheFlyersmakeiftheirseas",
-      "title": "What changes could the Flyers make if their season continues to spiral? - Daily Faceoff",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYzhMcndXT3Zpb0VLWWVFU2hTSkNuTkVadVRPUGJvMFdGbk92U0cyMUxPdGVQUlFobk1FWHBBcFpxRXhZeDVWREVkd0pJNDZ5MmtRVzlGdE9ESVNpamlzbUdFT2dQY1lESDVCMWkyemVKdy1mMHVrbEgtR2MyVEtleHU3djE2TjM5Wmc1MUJqYXVmaGdlbEhHVXIwaGlHa1pNMjFmUGFoZUNxRFVXSEZ1c2NGbENpYktr?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791932143841
-    },
-    {
-      "id": "news_SPORTS_202627FantasyBasketball7playerswerefadin",
-      "title": "2026-27 Fantasy Basketball: 7 players we’re fading in drafts - NBC Sports",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlc2M0dPczJXd0xyOVhUbngyTjJUNEx0RXBZM1NVZW1iYUMycmd5ams1SS14dWVEbDhVNGF3bXA4ZDAyNVhzOC1FR0Z4ckhWOFloOTd1XzFmSUxfTGRVbzdNZUt0dnhvT1dmSUl6N2FNVzkyazVQNzVxc0Z4MWtWT3RQYjgwZWJFclUxWnVreTVKNGhNcFJyYjNVQzJkRlJkeWc0My12b2kxTzRD?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791932143841
-    },
-    {
-      "id": "news_ENTERTAINMENT_DuaneKeffeDDavissentencedto40yearsforrap",
-      "title": "Duane \"Keffe D\" Davis sentenced to 40 years for rapper Tupac Shakur's murder - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtS3FIQnVkWm1qeExkV1phaEliRlJRRHVndlNCWk81T2VURy1wMDMtTllzeTczS1BXdEwtQzRldndDeS1HUzhNMmJuZXozYk5UMEp5THo1UHBhbEU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791932143150
-    },
-    {
-      "id": "news_ENTERTAINMENT_JoniMitchellSwornInasaUSCitizenCappingaJ",
-      "title": "Joni Mitchell Sworn In as a U.S. Citizen, Capping ‘a Journey That Began 62 Years Ago’ - Variety",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWdyRnFXd0FkS2RNXzlabHp1Z3l2Mi1wdVRVSzFqd2ZMcm8zR3dNeUh1amxJTENyZE84cnJhcE9Uc0c3M2g2Z3d5S2c3OTZ3SW9RMHdENnpaZ3gza2lYZnlFUXRxQ3JfN3BPZXpQVE1kSGdRLU54Z21BN1haQkd5cE5OZnphUW45d29zUUlxYlg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791932143150
-    },
-    {
-      "id": "news_BUSINESS_UnitedAirlinesismakingithardertoreachits",
-      "title": "United Airlines is making it harder to reach its top frequent flyer status in 2027 - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFlocnA0Y2lFXzRQNWt4dXpzeTRFb1A4TEU1aHdaXzRoMkZ0bThWR0FzNVVEanpOSGpkaEdRVk1yVEJ1cHl1a1dEWkJCdlEwdW5GN0hDR0pmQXhUUnNJTEdKU2ZjS2lHQ3BNV0tqVUhJa1BXTTFDQm5ISFA3cnJGWXgyVdIBiAFBVV95cUxOQ2l0VHgwUWdVeW1BaUtuNW5vY0d0aGRFX3BnX1ZBcEhIWmhDQmdUTzhReko4bG9sU3dBYzU0QjVpei16TG1uOFFaaDdiZ1Flcmh4bDFZcU9NeXpQNVVIVmF3SXF2TVVpdjEyRkltUExDSkd6TlJuQ2tiQzlHM1E0OVMxSWcyMlhr?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791932141708
     }
   ]
 }

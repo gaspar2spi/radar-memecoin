@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T13:38:21.885849+00:00",
+  "updated_at": "2026-10-18T16:53:45.776938+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_CoreWeaveIsProjectedtoHavea63xGrossLever",
@@ -970,6 +970,17 @@
       "ts": 1788339079251
     },
     {
+      "id": "news_memecoin launch_MemecoinoutlookforQ42026Canthesectorfind",
+      "title": "Memecoin outlook for Q4 2026: Can the sector find lasting buyers? - Crypto News",
+      "cat": "macro",
+      "heat": 9,
+      "desc": "Actu détectée (memecoin launch). figure tier-10 (ye) mentionnée; référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPelI1bmNpZkE5ZVZ1Y1VrWjFienJrMF9RajNFci1OX3otX09VN1hRb1Q4UWE4Rm5TdGJwVWZVdExtaW5ZelFSREoxem1zREZ5eHM0d0RsdmhzM3RjcG1OeDc5Y1I5Qm1KWFdtM1JTNFNhQ0JVQm5sazdYMHVZVTVGaTduSUY4emY1T3dUSg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792342398241
+    },
+    {
       "id": "news_own cryptocurrency launch_Trumpsnewmemecoinsoarsonhisfirstdayinoff",
       "title": "Trump's new meme coin soars on his first day in office, lifts other tokens - Reuters",
       "cat": "macro",
@@ -1331,6 +1342,72 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_NATION_TrumpsharesplantooverhaulEastPotomacgolf",
+      "title": "Trump shares plan to overhaul East Potomac golf course amid court fight over land - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjdfRmFtX2xmZ241Z0RHMWdRdW1TbjgtN1hGUmljRnVYaFRGVWdscExsZlItMDJGa0NZYXhpU1VnSEJTbjJzSHlrU2phNFlxWEgwNlowRDd6TEZZX3c3UlM0akRVaDNXNjdFWnJ0UDc5ZzFheFE1YUt6LUJlUW1PUzBnQnBnbE04NlBka3ZrSFp2NTVXZjlqdmtjYXA3emhI?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792342390214
+    },
+    {
+      "id": "news_NATION_Iworkedondeathrowfor18yearsThisiswhythel",
+      "title": "I worked on death row for 18 years. This is why the livestream execution was cancelled - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSUZBYXA2RVpJaE9GUGZlYTdIWjN1LTNUcGZhNGZqTjNaTF9XeG9VcWFDVTctVjZQRE1LcVE3dkZ2TzFUd0I3UGRPY1hhSG5KYkRVbU1od3hEWm8xTjdBcTNBNy0xbEF4dmdnRzVzU0dwYVVLWWJnWno1MU1UV1NGS0x4X21DWmtDNGhFaVRpSEFiaDJHanZXdVdoNFRuSVlOQmU2VTU1SzFmSzg1VXdvVUNYc0dqSlFTMk81WkVmcjdxaGE0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792342390214
+    },
+    {
+      "id": "news_NATION_YesSusanCollinsyoushouldshutupaboutbeing",
+      "title": "Yes, Susan Collins, you should shut up — about being a moderate - Daily Kos",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUFZ6M1Z4MDNVdEFleEFUZnhoeTVfUEZlanN1ajVaZDVEejFHUlNkRmRCeTdpaDdGYjhDRTR1RWI0TVYtbzdSSHNUcVhPZFl0YTBYSFRHYzN0ZXd0Tkw5cnZWT0lEMWFBWlRZNFJKRkxhNmJuMFZrTDljcDZQckRzV3V5dHFtQlUxLWxnWC00TldaZFg0TlZzUzNfM3FSMkVVWVp6aTU4Z1N2M0cwQW9FaDMyLW5ZMUpGUHFFd3RSOGs?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792342390214
+    },
+    {
+      "id": "news_NATION_TrumptoutshispoweratKentuckyrallytoenerg",
+      "title": "Trump touts his power at Kentucky rally to energize voters ahead of midterm elections - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHB4YWgwWHRUS2RUWDd2V0hFVXF3dGVuRk5xRmR4MUtaVHVGaVhoWUVLZ2lIUGFjbkY1Zm5raXQzekI5QWZ1UUhEZ3QxV29QX3dtSDhmeDM4QmJMTzNDOGpucDFsZUMwRm9idGdFSW45NEUzb1BPSXpEWUZwanlFZzFRaWpwMl9WQmtMR2kxUlMzVkU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792342390214
+    },
+    {
+      "id": "news_NATION_2026MidtermElectionsTrumpRalliesRepublic",
+      "title": "2026 Midterm Elections: Trump Rallies Republicans - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObm9FYWtTdVB6dUxkVDlaY0c1NFd2X21QaDNVRVZ2UUp3X0NkQTh5YTZPYW1qR19obGEzdWFENjNnWno4WVFlRjdxbW9nSG1pMFBRQlRBOUJ2QS13TnhLM0VEdXZZcEgzcGZMSzRIb2pSNWVibVhuOHRoNjRrWTNSeFhVV3ZGMEVfdVN2R2xqNFprbkFYTkd6UWE1NA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792342390213
+    },
+    {
+      "id": "news_NATION_RubiosaysTrumptotakeupto60daystoweighRus",
+      "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRkQlBQYXFvck1VQUYxcVpwM2dEVDMwQThIY3ZHRldBd0M0dmV5NXFnZlBXMnpuUnozQlhLbkg4ZjZCT3kzVW5mcnl3RVEwUXRpdUJsZGViRlE1MFdJbHZWZ3pRTXNOUDQtOTRsQU5nSzd4a3d5Z3c2dTkzZWZSNlZsbXZBamFSMS1qVEVnaHc2MTZJUHZ4YU1zS0hfNVM4eVE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792342390213
     },
     {
       "id": "news_BUSINESS_BraceYourselfforthePriciestHolidayTravel",
@@ -5423,83 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791941662987
-    },
-    {
-      "id": "news_NATION_MoreRepublicanscomeoutagainstTrumpsdiese",
-      "title": "More Republicans come out against Trump's diesel deal with Putin - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUaDBzRGN2NmJCOUp0VzBkZ2s0WGczREx5SXlXdWRjQUNOcUFQOVp2YnE0ejB5RVotMjk1WU15bFNUaDZnaDJ4R3hRUVpVZ0xFclIyd0FmNXJCcnlmeXlZb183M2Rldl9ySnpTdTF4VWVORkNidXJv0gF8QVVfeXFMT2pOREhteVlqQklNNDF5c0hyRlo5SUt0aWFKeW1LR2k3WXVIN2pTTnQtM0JINlNkTC1sVGJZNTdCcDNmRTREUzQxVVlxV1lueFdMMnFkYUdSN0EtNTBWMTNKemVZN0ozdURRWU1UZWN1TUd3ZHJYcU1aSkNZRQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791941662987
-    },
-    {
-      "id": "news_NATION_Trumpflies3400milestoAlaskainhopesofsavi",
-      "title": "Trump flies 3,400 miles to Alaska in hopes of saving a Senate seat - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmpCYm5xVXBZY1pKNkVvQlV6S2hlS1BUbUFmeG5ZMDY1NWlJRHNVNUUzN3d0dl82b2pmY2w0b1ZSTWtmYXc0N1lkNEhPcDgtSUFxZG1pczVfbW02QWJLb0JiNEZtREg4ZjQwV2c1ZVNyOV9ta3FJLVJqUnFlMUZaNWtVY3hVQ3IxRmJaVGtIOXVKdmluUUxmRWVRb2tsMnk1ME42cGR3UQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791941662987
-    },
-    {
-      "id": "news_NATION_TrumpsaysHouthistryingtoincreaseoilprice",
-      "title": "Trump says Houthis trying to increase oil prices before US elections - Al Jazeera",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnhObEQ2MnVjLTVvdlR6LVJISzFWMlVaNS0tMS1ZYUVzbnkyZ2hXQXRMUzc3VFdIczN2WmxKQUtrYzVDRmZTRHJ6cDlzel9PSHlUSWl6cmlvVkRUUVVGalNPd0ZtWC1rMmVpQ3BKS25XcDF1aE5lOFRQVTh3cUdUd2FUdFQ1WWd3Zmx1NjhzVzFlc3VzdldVUzVBcVBOUFQ0N1pncTRlTUVIUU5pSGo40gG0AUFVX3lxTFBFYUNzSFNHLUF3aTBSSXFwMmV0UGV6T0RIZnFRT0dTOUhUZm9SMlhkNmI0RW42Qlk2NW9oT3FaQzJJVlJtdGgzZ1o3TW9GaEZ4dmREdk10c1hDYVViTTVyNVVHNzl0NERZWHlDaHVkemNRSTR2UlA0b1ZZNERMSEh2Z0FfU3cyVG5mMXQ2NXBpTFRnaXI4T2xBbGRUUml1a1lNNWxpNzVESlhpaWE2bWQ4WTFUeg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791941662987
-    },
-    {
-      "id": "news_NATION_Trumprallyprotesterattackedinactofsensel",
-      "title": "Trump rally protester attacked in act of ‘senseless’ political violence, Ohio mayor says - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHNwdi1Uc3B5X0wwUlhGNHViVXdtYk90c3dwaHJobFNETEl1TmZ1ak9QWnpkUm1xRHRfLXBrRXM3TDhCMFREdTRBRXZVZDA5UWI4US11UDRXQkRxdE1LLU9BTE1ZYjNrSU4xZWxCLUJGNl9xOW41cVQwNWJDWThCYWJoRURjOHVZT3U3OHpYV0lSMEx6c3U3MERiTHBocktiMDFwMmJ5N0JfOC1mX1daSWtJaUZJRVN0UHc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791941662987
-    },
-    {
-      "id": "news_WORLD_MissilesinterceptednearRiyadhafterSaudic",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NTXliU09wdmZTVFFLc3dfamVjQlRpUnNuVXY3QmpLLUVGYjVXZHBZNm8taks5cTJaVUNndmNFZy01WGxNcFp0YzFlb0NZcXBQclBsZFF1T1o2SGM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791941662225
-    },
-    {
-      "id": "news_SCIENCE_100yearsagoarogueWashingtongeologistface",
-      "title": "100 years ago, a rogue Washington geologist faced ridicule for his ‘catastrophic’ theory. He was right. - Yahoo",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMi01TFBVZWVuX0FvOFB6a3pyLTloZjdVYmhzQUV1Uk5VUGVCN21sMnVfNkVYVnA0ZDctRmlqbS1rdjFwSlpCQ0dieDF4ZEtRTVU1YmxaOHBEeTVSRXlDNkEzdVdFWmYwSzZrY1hfZkE2VWphdGx1cGZLNElQeEZCQVJXeXhTUkktM00tc0hnRU1kaWs?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791932144617
-    },
-    {
-      "id": "news_SPORTS_49ersreportcardgradesThedefensivelinesav",
-      "title": "49ers report card, grades: The defensive line saved their best game in years for the Seahawks - Niners Nation",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbmNPX2l4OVZTT3U1M2VpVzIyNWwzVzIwT24tbUpsazltdXg2Rm5WTzRQb0pJalFQVGNuRzNfWDFzbDhhc0hlYmlMTWJabDRmaFNnYk1rUzFkVXhhdWg3NC1fdzRDZGxjYUdPUU4xSlR5R1JpQTNnclh1V3BCWEF4Tkw0TlRDQVRHcUN2bWNLQ0xzNV90M3RWVXp3VTE2V3pvcGhtSXZuMTliYWl4UTR5c05vck92ZmVRSGpOTWZsS3NEODkyYXl3c1RpRWdlaFJUWFJWbmRxOGk2S0FtU0RYZjdSREpCYmdBT3pyUw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791932143841
     }
   ]
 }

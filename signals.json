@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-18T05:30:49.134434+00:00",
+  "updated_at": "2026-10-18T09:50:48.908781+00:00",
   "signals": [
+    {
+      "id": "news_BUSINESS_CoreWeaveIsProjectedtoHavea63xGrossLever",
+      "title": "CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worried About the Neocloud's Balance Sheet. - The Motley Fool",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) + lancement explicite; mots-clés viraux: rage.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1Y3alFvU3ZCLUxDQy12enFhUV81N2NicmtYaFBFSEVoeXdjQWZyVXRUeDFKLTRUMGJsWVhaQUlEWG1IM19TMmxYN0hDbDhUbmxBanJZSVp0M011d3BjLTNJUXFLdzJTVzBuS2RkRzhqaXlrMU90SHVCSTN4MDEzVTQ2S2JhajdscTdqcWxsUlVJcVJUazI4bA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792317014152
+    },
     {
       "id": "news_own cryptocurrency launch_TrumplaunchesmemecoinTrumpdaysbeforeretu",
       "title": "Trump launches meme coin, $Trump days before return to White House - BBC",
@@ -1320,6 +1331,94 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SPORTS_OhioStatesgrittyroadwincamewithagreatcos",
+      "title": "Ohio State's gritty road win came with a great cost. Now the Buckeyes have to try to survive without star QB Julian Sayin - Yahoo Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdW1xOGl1OG9EdzFvY2RFZjlXRUEwamFrRVl3TFNCcm4xaHdsY1djUEExSEs1Vlp5cGd3RTB6ZFIxbVdUNDc2WkRWckQ4Z19kR1J3RnVUZ0dOMEdqb196V2xKdWd4bDlaZ09neXdYWFBPUGpNdnhEZ3NhbE9JRDlvd0xxQnNtOEtOOHFuNzliUzN2TXhKckFDNnB6VmsxMXQySUdXSGlhcEJvSXAtSUZPTWhBeFRMTWl4Ynd4QllpalNqWm81VDREbTBKUE10aGZuZnV0NVlRdmhjOGJVUWt5TGlGTUg3blNLTUt2TGFjSDhTNFdSZzBCYXFlRHVGdGtFNFY4YVBuVzhaMTRS?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792317017713
+    },
+    {
+      "id": "news_ENTERTAINMENT_ElonMuskcutexAshleyStClairschildsupportd",
+      "title": "Elon Musk cut ex Ashley St. Clair’s child support down by $80K after she spoke out about their son, doc claims - Entertainment Weekly",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0tGblA1dUZmMTBGcEJUeDlZbHgzRDNIWTRtWEpCNkY0MUpaWWdQS1o3dVNkQzAwX0M1V3NsUnMzWkR2U1phaFVBbk51RW9qR1JDWWFDd3dpblhldFlWc2VUTGNVU2czMlJWRHljN0ZaWjFkd0pqZ2NkX1V5RFBuSEVTZDNzWVRYUDVWYlVn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792317016357
+    },
+    {
+      "id": "news_TECHNOLOGY_SFtechbropullsplugoncontroversialvideoga",
+      "title": "SF tech bro pulls plug on controversial video game that let players kill ‘homeless people’ - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlJKWTFkOTBaQi0zQUgtaWNjaXB3NEpFVDB0ckdQM211QTI3R2lWNlFtRzk3T24tUTNVME9MUkw4VTBYMFZ5Sl8yVGZMdkxiNjUtbE0ycTAxRHNMdWFNT0hYV1l6TVZDblpWN1lfckJRbER1d2ozcmtJUjZnQ0dZUTJNY1VoOFJ0eGx0dWxRa2o0a0ZlSVpJTER6dG04NXlvZzdadS0xcmVLUkNhT1dITVpOSQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792317015451
+    },
+    {
+      "id": "news_NATION_StandingupfordemocracyAtlantaNoKingsrall",
+      "title": "‘Standing up for democracy’: Atlanta ‘No Kings’ rally draws Trump critics ahead of midterms - France 24",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT1FGV3kwazBuclI1aHNvak1DSjk4eGR5SnllejVwaWNZMnVvQS1zdndmUlVsTnU4aWgtNU1iSXBvOWF6al9DRWctVmVaYWVEcXBqU2ZhNV94dHZKVmF2WHBvZWM1b2ViM0xHd1Y3bEF1bTV5UkMyM0pMSFQ3dWREekotT0NOSDlzSy03eUNlaV9LT0JhRWlLRm9qdUtvRGRkOGh6aG1xUzlRb3R4dkhVY0RPQUFQUnB3OHZmSV9Ib1NoR29pZTVXZWdCZ3N0and0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792317012828
+    },
+    {
+      "id": "news_NATION_TrumpfacesbipartisanbacklashoverRussiasa",
+      "title": "Trump faces bipartisan backlash over Russia sanctions waiver, causing top Republicans to break ranks - Fox Business",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSGJSRWFMRkZCVWlmd0cyeFJxOF9KSi04Ym5DR2FyazRyd0dFdzNuTFR6dGllVEpId2VXUVhkRkhqR3NuSHNsRWVRNXpTbHV4eUxzM19ueWxqeC1RY1N1WEtLVU4wUmF1UF9nQ0NVODBVT0JZcGt6U2Z3VlJMaHZ0Ynd4MzFKN3NfVkNxRWpQX3ZoR3JhVEdEakdGUHpDeWE3R2NuVHRpVGpEVjdtZ1QyUzUtUDQ0b0R1VFg5QjYtTkNEWVVSYXd6M3lnVndrQdIB0wFBVV95cUxNV3dxYndIVVVqendpTGs0V09hNlVRenA0QTV2X2FlSFdDSVhMbEtXQUFkLXZxYnRGTHJoTDlhN08ta1FrLVJ2VTZqZGVZUU9ZUFpQTm1IR1BpMUx6ckNlYnFqbUQwYVUtNGhXWEpzRHk4QWlzRnM1eGVBTVNXNnBNMGdtOFphQ2FfcVhwZUlselNVcEQ0WDRCTFB3MUVQbThDcHpKVllrdHloWWpvNEtRNG5oLTdKTGdSaFJhMTRkT253UUpsV2JCdmRKZG4tV1ZnX0Y4?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792317012828
+    },
+    {
+      "id": "news_NATION_IcandostuffthatisunbelievableTrumpboasts",
+      "title": "'I can do stuff that is unbelievable.' Trump boasts about his self-proclaimed power and tells voters DOD will revive a Kentucky drug plant if GOP wins - Fortune",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX3pEM2I4RlNOMm91TDlJZTJUeEIwMVBPLVFhd2JfZ3NtaHhNU2ppaF9RNFNVanpzN09PSW5nQW9iUlJoYktfOEN2Yl9faU9wbkNLdjdMREtQUUpfVG8xYTkxZzNoTC1IcWl6LWtwRkVoUVY2cmM4NGdrdTJQX0ozeDVQUVhnRmFUNWk4bm1wdkNBcUQ2V3hUR2Z2dzdKQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792317012828
+    },
+    {
+      "id": "news_WORLD_WhatdoyouexpecthimtodoAdiplomatexplainsw",
+      "title": "‘What do you expect him to do?’ A diplomat explains why European leaders didn’t pressure Zelensky over his criticism of Trump - Meduza",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWXljcWlHRC1acl9ONm1vTk5jcVVSX09JUnRYY252TTMzRDNiZ2RKaDlKQ0pLaWh6d0ZCVHIxaUdwX2E5U3dLSmVHWmcwYUlJUkxHc2JGSW85UmJxRS1ORHRVVi1fVk41TEN0dnhGbVUtUFh3UVhxSzZ1T0JTUTd1RXFYMXBDWlYtV3FCMmRDeGdiRVVnYUhwUjY1SGUzQmgtb1ZmdnJpRXFFWXRfVTJ4NHVfV1M2ZDBSYmdQYzJ0NFM3dnk2R2hVYy1OR3hwV2JVUDJNT0FmVlM2NlA3UUJEdS12MUZFRHI1SmRpRWZiVHHSAfYBQVVfeXFMTVVaNF9keE9aYWVINGh3X2ZpS3lpN1pzZWgzZDVtWWNick1GOHZDRTU5cVlzTzg3OHhITGpfcHhOY0NoOGRwazRMeGtFNV84SndtUXlzcUlsRkxUUnFxRG1LVnJnaW13WVFTWWhDQ3NiS2VvaDd1WmNIMi1icl9YaUpwb0pxbEZGOHBROVdBYW13RFBaZmttMU5oRXhvblhSd1dyVno5SUoxdkNCNXpoMU1UYnMwMV9GX0dsUVNidURweFo5SXpDcG1mbzB3aTVfUGNrdFlHQVhXM3hNV2VzYW1vV2N4T1RGcGxtVUdJdU5XTENvaGZB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792317011912
+    },
+    {
+      "id": "news_WORLD_MexicanJudgeSentences3Mento159YearsEachi",
+      "title": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3Znc0NqYlJ2Y2MwME81SURwLU5wTkJwcDdwdTBXaG1XRlZmQVlmRFcwNVg1T3lFekhIbU9HT3h0UUVqUVNkRkppSnh1OG5EY0g5T3BiTFNTQXh0MGk5Yk9FMkMtZmoxNzVVNFFVMFJSMEUwWWUySkVSQXNqeUlzYzFXY2JuNXBiZnRrdTlpR0hRd3BtSFFqZzVKaVRlVnlIQnRPeXlJb2RIS3VhOVpITlZBVWJVYTBKYWJsRC1n?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792317011911
     },
     {
       "id": "news_tech ceo controversy_Howatechbillionairephilanthropistgotcaug",
@@ -5401,105 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791932141708
-    },
-    {
-      "id": "news_BUSINESS_SocialSecuritychiefBisignanosaysprogramw",
-      "title": "Social Security chief Bisignano says program will 'be around for another 90 years' - Fox Business",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb21rZXd1RjBRSk12VXRQaEdLVGl5NmJ3RjBZSzcyLWJzYTNWaDJjTnVDQnJwN2lueWdUQXhaenNBYnZPYllCMVNiNWRLdjNsT2M3ZmJjVlUyaGF4MHBEUzlSTmRBYWR4T3ZlUWdLY0lmUlZCZEVHdGpPMlFXd0JBem5ab1JZSmlHNlB0ZlBQMWZFbUl2cGZZOHk1RnYwcXNybmxORjJoMzNBV3My0gGyAUFVX3lxTFBTbXNMSGJLcEd2QkNWOEpFekNXWFMzUmR1SXdEZmZ1QTFxLWdPUERnSkY4bDlXV2ZJakpOUnBfY3U0WEtfbDAzV1c2ckdiUjN5dXRhZEtORU4zZjNIWFJUMkV6anpfVDFrS3dtQVR4a2JNOFhZQjJSWXB3a0k0R1p0VlptRW5PeUtRbFROYTFBU1c4OXpIckpsUU5ONlNWcU12eGxOaWxXSHBrSXZ6YkZCYlE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791932141708
-    },
-    {
-      "id": "news_NATION_BipartisangroupofsenatorscallonTrumptore",
-      "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjBYNldHc3Z3cDZCdTNHSnRIVFFZRUlHenRPWDNiUUkyUU5xYVBiaG1Tai11QjF5SEdCWHp1Xy1PMjJJTm5wQlZVczJ3T2tzc085bWpzRlQ1ZllfemFHYmt3Y3R0MGZ4bll5amdDNmZKMnVVRHRaSGEzZVlHYWpoRlk1YkVxajczZUM5aUpsMm00SnZs?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791932140994
-    },
-    {
-      "id": "news_NATION_JudgeordersTrumpadministrationtohaltwork",
-      "title": "Judge orders Trump administration to halt work on historic DC golf course - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUkhCZmpmRDVvUk5fbDlQclpBT293OS0teEhMb1d4MmU5S2QyRVlqQlhvSlRFeTFIdk1OMG8yMHV2RzFTaDRBSGtLSzQ1STIxdTVvUHoxTkpZcFRSdVlybldKMzRTQ01HTHZjeHE3dVRBWmFCT0QtV29YLUlLdUt3LXBkWWozdHM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791932140994
-    },
-    {
-      "id": "news_NATION_ElonMuskbecomesbiggestdonorofUSmidtermsc",
-      "title": "Elon Musk becomes biggest donor of US midterms cycle with $366m spent - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeWhqeTV0TXZ0T1dJZFJvakpvbTRMUlR5QW9XMTYya0QxaTRpMldzN1hfcG9DSWtwbXphaXNKQW50V0dQdnRCM1ozNHRLYXBoXzNNWFJpUjhpTjBCSm9ZVk95a0xXc0k3SHdHWE5DYmRuSWdCeTZ4NFdYckpQOXIza1RPWWlhcjlKMmFXU0RQUlJIR3dvTkE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791932140994
-    },
-    {
-      "id": "news_NATION_BenJenningsonDonaldTrumpandtheenergyceas",
-      "title": "Ben Jennings on Donald Trump and the energy ceasefire between Russia and Ukraine – cartoon - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONTJldUlFOG1hVm9VdVhncDF5TEhWR2EtZ0JqV25ocG5TM2hqSlhJb3p0eUVNb3d0c1gyVnZNOXBvMy1RWFJxU2xuOTB0OUF0WUU0ZUlHV1kwbDZaSUZlQ1FhWndnNkt0OE5TbkplMGU4WnAzVVlHd0ZsMkRhOHAzeDRTX2RFX3JKNkI5Z1VST2wzZ3I0ak94Y0JXc3B3Zk1iQmxETklOdmtXR0N6RzNpRVkwZjV0RU9YeUFpdmxyVUJsYzgtN2c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791932140994
-    },
-    {
-      "id": "news_NATION_Trumptofly3400milestoAlaskainhopesofsavi",
-      "title": "Trump to fly 3,400 miles to Alaska in hopes of saving a Senate seat - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmpCYm5xVXBZY1pKNkVvQlV6S2hlS1BUbUFmeG5ZMDY1NWlJRHNVNUUzN3d0dl82b2pmY2w0b1ZSTWtmYXc0N1lkNEhPcDgtSUFxZG1pczVfbW02QWJLb0JiNEZtREg4ZjQwV2c1ZVNyOV9ta3FJLVJqUnFlMUZaNWtVY3hVQ3IxRmJaVGtIOXVKdmluUUxmRWVRb2tsMnk1ME42cGR3UQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791932140994
-    },
-    {
-      "id": "news_WORLD_TrumpaidesparswithLoomeroverZelenskyTheH",
-      "title": "Trump aide spars with Loomer over Zelensky - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONzRNTXJwX0hIbnBIN1NBdGdpZTZsUGhWYUJGM1o1b3M3bUUtRVlGNDAzLXR0UFI1Y1lFRzU5QmtVUHFOeGRCWXVfZmhNLVEwMjV3Y0VXM3pvMmVxcXV3TVhEWE9EOVlpcDVIUWpjY2pLTF9fUTVqZS1CNklmd2t1b1NDUDBDT3Q2bWpkdXln0gGTAUFVX3lxTFBPMXJFVlVET2RMeFlkVy1lcURHQTN3bzZrMnk5Y3VIVEhOZWlhZjJZZlVHeGI0VVQwWjdZSzdDYXpxNEJJSHlLMExjSXFSU3R1ajlyOTRKa1pocUoxZ29UVm1XMEVBNFg1aDYyMmh5Q0dRUDFDRGozcmRzdVk2SHA2c21GczFtaW04RF9lNl9hUHZXUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791932140297
-    },
-    {
-      "id": "news_WORLD_TrumpHandsVictoriestoPutinWhoOffersMoreW",
-      "title": "Trump Hands Victories to Putin, Who Offers More War in Return - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWRJSTY1Zkk1S2dxdzVIbWNjWUk1QlVqOXBxcTV4Y0hzQmNrTE5HVm9xZXdkbE9fN2NwRFhsaWlqbDJhY1dqVFdwQ01xNS1JY3BQVmhmT1NES290eHNOcTMtUzJvSmo3Sy1COHM4RW03bnZNSDA0WHk3SEEtQlNXcTZiZW96RmtRcGluNUlsbw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791932140297
-    },
-    {
-      "id": "news_election crypto_WhatWillHappentoBTCifTrumpLosestheUSMidt",
-      "title": "What Will Happen to BTC if Trump Loses the US Midterms? (3 AIs Analyze) - CryptoPotato",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTlVuRGdNNmQyazcyRzI1ZVhhUmhLOWsyNldVZ0p6NFpwam9Lb3hfMTJ0eTdmNDFLUUNiS3BTNkJ5djlJZVBtOEFmNUVvR2U3NUlQOHNtOWlEb0RFUzZUVzJHZ3Fud1dwQmZvN2R0V3IxaGRrR1RUUUppZnF2RHZQeHU1c0VBWlNDWFgtUXNNZllwd3dvS1N3eTRB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791915522140
     }
   ]
 }

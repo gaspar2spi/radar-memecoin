@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T01:01:17.403030+00:00",
+  "updated_at": "2026-10-18T05:30:49.134434+00:00",
   "signals": [
     {
       "id": "news_own cryptocurrency launch_TrumplaunchesmemecoinTrumpdaysbeforeretu",
@@ -1320,6 +1320,116 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_tech ceo controversy_Howatechbillionairephilanthropistgotcaug",
+      "title": "How a tech billionaire philanthropist got caught between Trump and San Francisco - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYlZOSFBwa1RXTXNMV3c0RVBPVWFXTTV1Q2JJMFNWVVlLSDlzVUtnNEd5RmptbHpacGRjZ2ZObTNXS3JFVFdFQUsxdmFGbkVKUFprZFNwejB1SDNBOE1nN1ZYenFoN3hMWk1ONmJGU0JlVlFQT2ttbnRybFkyem5IRGxSLXR0YUY5aUxJTDJQc21DenZPbzB3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792301436223
+    },
+    {
+      "id": "news_billionaire announcement_TrumpsBigAIAnnouncementCollapsedUnderPre",
+      "title": "Trump’s Big AI Announcement Collapsed Under Pressure From These Billionaires - Forbes",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV2lsdjhnalktS3doNzhKbFhzZzNQVkNQakx2dmtoc2pYTWVaZVVtYW1NQ0hCSjNhakUzLS1lYWRiaGIyVlk4ZVdLTGJCUWM2MXFwVmdWbGo4cEkxcTlteFpNUm5MT1loQ1VWamRjVjIwZWViWnBIMlpDVldFem5DNFYzZ3RJeUVPQTdDSk5wc2ZNV3dmdUZ6QngwM0VQeTZvRkxwZThBOXNxWHBIRDJ6N0wwQVpNYVMydGZVU1JFSkV5amRwTndPSGNybFZVdGdOaEpN?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792301435013
+    },
+    {
+      "id": "news_viral scandal internet_KeyConsiderationsforEmployersWhenWorkpla",
+      "title": "Key Considerations for Employers When Workplace Issues Go Viral: Lessons Learned From the Try Guys Scandal - Ogletree",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (viral scandal internet). figure tier-10 (ye) mentionnée; mots-clés viraux: scandal, viral.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNzdvSEpiN25fU1FXdXpwMnA0Y0t3b1hHYWJ0SFhBa2FIbXlHNTI5bzA3VjBqSUdWazJfc3AzUnFVRGZ0TEJna0paX25BTFFaY3pQYTRKSjlzOTZzTWZtS3hxSF82eUY4TDdna2hNaFdJYlRvdi1aZENCWEFpTGhGRE5MS0ZzYnl2WXhEMVJDN0tsbVMzekx0TzdDcFROY2QwOHRDOTU0OVRoN1ZOVFNqUUdnbXpOTzVORldMVllLdEl4RzJVNWVTT2ZRWXBkd1Fva3Rwb213V1laMEh4V2tHWTVTeDFoUnhSSXpyaUdn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792301428484
+    },
+    {
+      "id": "news_ENTERTAINMENT_ElonMuskslashedexAshleyStClairschildsupp",
+      "title": "Elon Musk slashed ex Ashley St. Clair’s child support by staggering amount after she revealed their son, doc claims - Page Six",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMjZnQVFsbC1LU2JBT0ExTnpDNTNPazI4SUpkSm5tYnVZdk5hQzEwMGgzOVpGM2ZwR1F4ZjZIUGxEMzZaMjUySHdJUE9IcGs0YjM1aTNXaWh2NWhUcG5JWFg5Ym9PWDNfNkgwR0lvcVZudFo1OEdWUFA4WTBnSUdQWjZqbW5oV2NCWmIzbmVNaVREUnNVZG10T1RNZUtVc09kdWRrU1BfcU40U29SWTNMb3hranRlMUhJRnVCeEZvcVRDNVFWZGJhUjhKNjFDQ2s?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792301418678
+    },
+    {
+      "id": "news_NATION_ThreetakeawaysfromElonMuskslatestpolitic",
+      "title": "Three takeaways from Elon Musk's latest political donations - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tQW1xWUtwQlN2Sy1wMnlkcm0wd181Y0VtSF94Z1JKUmpBUGpOYWh4OVhuQ0pGMkFSUTJPbGowcEg0Qk02bzFsalpCeV9pZGNveEszeXBoc2R1ZHM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792301416462
+    },
+    {
+      "id": "news_NATION_ArizonaNoKingscrowdschannelangeratTrumpa",
+      "title": "Arizona No Kings crowds channel anger at Trump and Republicans into early votes - Arizona Mirror",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcU9iR3dFVG1JWlVLWTFBYUxVYVJEU2dOZVBHeE1YaGtJbWlBRTdKR25ZNTBiSU5aeDVoQVZ1TVRLMkEtdWc5UUhKb0JZLU4yNXRUalk1c1ZpazhuSnlQMjBDclJjVXBzNjZCV0oxalRTSlJHckR0YXJQeEFDTTBValJRZEhOWjFCdDlONF8zQ21ZbUV0NkVEWkRQbERqdHcyODBvSVJXTF8zdGtpUHNXaUFB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792301416461
+    },
+    {
+      "id": "news_NATION_TrumpCaliforniaofficialswillgotojailifst",
+      "title": "Trump: California officials will ‘go to jail’ if state ignores DOJ voter roll suit - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXRzM0JHNm1LUlI1dFRyTm9OeElPVFJGZk0tQjJJMThkRXdZSHhSTzV5T1dVZ0s3RUo3UXpFQ1I3VXJkRFlYcEs2d29oR3pNaDYwM1V6QTdMZFpOWFRkZy1WNko5N0paRDUtQ1pHcmptRmNwZlY0RFVDVk1Zb2tzajVoN0doazY1MUpUMllfRDdieTJQ0gGaAUFVX3lxTE0yVTdQUHBBVllyMFRrbVdCNjRmSGhYMzZIU2Z2V3pxanZFOXlnU194UkJ2a2VCZHduTmJYbFFteUlUNDRlRTVIa1ZSOXlpVUpkUS04SGxmaDdlcUliamxuVEdFTENYMUJydWdGSzBxYzBRSUlPV0dTcnAyUVF6d0pBenJDZHdFUmVsMmNuM3BsUFA5alA3OS1LcVE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792301416461
+    },
+    {
+      "id": "news_WORLD_ProminentGuatemalananticorruptionlawyerk",
+      "title": "Prominent Guatemalan anti-corruption lawyer killed in shooting - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0t3bFVkTnk1U1BqQXZkQTBlM3NmU1FmNmtaV0xOMmlVTVpIanIxcnBHWjhCNGdnS0Y3T3ctRHJWNDhHdVJEVS1KOFdicHJDeDZXMVdVbjlkbDlicVB1TjNhUXYzaVB0My03NzROeWhXVHhieTNuNkZvNklPaW9Sa0poZjcwUmpRM3JJa05DSE1sV2J1dnhGOWc0SDNGOGN3b0tYM2ZTS3FpU1dpS0pJ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792301415724
+    },
+    {
+      "id": "news_WORLD_ZelenskysaysUkrainehasrighttodefenditsel",
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace' - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wdkJoU2J5N0NpM1lCSW1aYldmdXdCQ19XZVg4bGFwNkRmUFl1c2tzbDdZcHJjdVNDRnJ2enExWnptV3Y2S2l5Y0kxZjJqWEZtekFSZnNSTjNPU1U?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792301415724
+    },
+    {
+      "id": "news_WORLD_TrumprecyclesDumocratsattacksatKentuckyr",
+      "title": "Trump recycles ‘Dumocrats’ attacks at Kentucky rally but is privately ‘blaming aides’ for gloomy midterms outlook - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSUpvSXdwdGFwOVJWRVlfZnl0TFZreDZpVFhMa1Q4OGVtdzJ5YzlPRTBTZUFJQjZQeWt5cW9BRnREVWJLMWVyV0xpcjdmek12Zmw5bTNuSkwzYmdBMzdhRDhJVUdFTXJ1QXl0UU9OUWpvaUtxQ3o4NmM2a1FaVGh1a2V0YUlleENtVlNIS2ZtNVhUUWdqNmdsQWFLeHY3S3hoV090MS03VndlcUVubDVwaWk1d0piQnJY?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792301415724
     },
     {
       "id": "news_tech ceo controversy_ExclusiveExemployeeoftechCEOAndyByroncla",
@@ -5390,116 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791915522140
-    },
-    {
-      "id": "news_election crypto_ElonMuskReportedlyFunnels276MillionIntoR",
-      "title": "Elon Musk Reportedly Funnels $276 Million Into Republican Midterm Effort—But Crypto Punters Don't See GOP Winning - Yahoo",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVk3TU5OQzdscDQwQW5BdXJ4UFU5QkhsellMN1lSZzU0RTdLVnNJblc1cC1weHRmQl9YRFBVeUJQUmJXTjIySUtMMUxqVEw0eXB1bE1mVlp2SlhnOTAwaXk5TnJubG5vN2VuZ1ZUNDJHTGI5WGpkbG9KQlhFakZ3TkU0MnRMQUE4X2FMMjdTMWN4X1UxYy0w?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791915522140
-    },
-    {
-      "id": "news_own cryptocurrency launch_Trumpmediafirmtoissuenewcryptocurrencyto",
-      "title": "Trump media firm to issue new cryptocurrency to shareholders - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ba2VWdHlvaFBEN2gxVFdQMXNBYTAzS0JYWkFkNk43cWxJTERoanZDdkNkMklzOXQ2WW13ZG5hWWd5ZzV5SU5pUDhya0JPcWl1eEMtMVVmR2JRdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791915516207
-    },
-    {
-      "id": "news_own cryptocurrency launch_HowaTrumpbusinessdealwithacryptofirmexpo",
-      "title": "How a Trump business deal with a crypto firm exposes potential conflicts of interest - PBS",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnR5djFTRWw1NnN3ZDRQbmhtVm5wVFdMZnFUbFNSUEFTVDRzOHBSQzBJSGgwWk5rVFlWOUhCOXdMZTI5N3FFVndXNHB3T0gwTXlWemhmd25tXzR1eGYyR3owNXJaazY5QThGa0VCRmFRXzhHQTlfLVZhNEtGLVlVSXhwVlRZdUFNcnJlWGV3c0k5SHhTNkNtYWtGOTU2WnRkR19wY21UQ1B1cDVRS0oweXdTWGJBdjBSbGxmV2drONIBxAFBVV95cUxPUEk1SklzcTJPdHIzY3ROZElPN2NJaTRJSU1ac3FhaWEyS1BveHQ2MjVpMlp4aHJqRGFPSjVRd2tJLTQ2Sl9CSUpXeDUwa0FDM19mVVZvSzEzTHRmRUw3c0VGQlBHQ1JSTEtvNjFtRVZGbmNpbHZkTllSY09PTGcxVkYxV1JIQWgwc1FJTFZ0SWdRVUR2cmJBWWd4bEZ1QU9VWXRaTUZITlZUdlVka3pUOGtkRFdZa1Zvd2pxQ3E1TnM5X2JN?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791915516207
-    },
-    {
-      "id": "news_ENTERTAINMENT_JimmyKimmelrespondstoTrumpcallinghimalos",
-      "title": "Jimmy Kimmel responds to Trump calling him a 'loser' - Mashable",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55Ml9GQVV4czNhZFV2RWg4b0VLM3ZERG5KcGF4U0VBOWlXY1BIZ3ZfZjdveFFxaXgxWEVNaTJaT2M2YkJGdmJIVHJuQS1UNXNjUkc1Njd5cEN5bG1HMFY0R1RmTWphV1lGMHVMQlU0UXhvcnZ4VnpF?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791915507621
-    },
-    {
-      "id": "news_BUSINESS_IMFraisesitsforecastforworldgrowththisye",
-      "title": "IMF raises its forecast for world growth this year but warns of risks from AI boom and debt - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMzZQN3BqRGdtMG5KMzFoQkx5V3BKcVdxcm1kNXVBXzRIYzJDVzRhdVF1eDl2ZWl2VkRncGc0dldHQVRjQ1pZQUFXWklGNlJOam8yUmVKNnVpdUJnUklDWlhra3ZVQ1NvS3M1enB1SEZiRmtDZGR3R0J3QlpObUJUVkNaSnRjRG55azN3VzBUaURBc1E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791915505540
-    },
-    {
-      "id": "news_BUSINESS_Highermortgagerateskeephomesalesstuckaro",
-      "title": "Higher mortgage rates keep home sales stuck around year-to-date lows - Yahoo Finance",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcGpKYi05RWFWazVGQkVGQkdjT2NBaFFRdUx0bVpvVEFGUXhmY3pTUHJ4cDhITndtRlRsWUQ5Z0stZHpmd2FDaDRWZ0ZrbTJobDhiaHF1SHNaa3loOWZFRzlYellVdnJWLTBsR054aHlLVjFmeENnU3BvLXd4RUhrRE1HNkJvYk1lTkk4SFR5RXhOQzRwWFR4S1cxaElnZ00yaFlFenpYNFNPLURwSTV6Ull2N3pHMS1xdnJnVGlNQ3ozOXM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791915505540
-    },
-    {
-      "id": "news_BUSINESS_Krogertolayoff3000corporateemployeesover",
-      "title": "Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence - ABC News - Breaking News, Latest News and Videos",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée; mots-clés viraux: breaking.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXFhM2tEUlFrZXBCZjNoT0VmY3lwQWdDS1prUkhQb1ZkNHJfQ3o1Z1dESnR2bTF0ZjNKMU9kRXFvYkhKbVpJWlV3U1ZwNXh5N0Q2TkRzN0RnMzFlLUtlaldiQ0VSREVGWk96cmhNNzR0dEd2S0xERFk0ei11RmMtcVlIbzZCNjBvdkltd2N5RXA5djZodFdfME5meXHSAaIBQVVfeXFMTjRYYWJHSFk4MWxad2FxanFuSzd3SGhaVHBzYzJQRWJPZ09wSkpnUUpqaDVoLTZpWnp3SEh2b0lEcy1LQjhoOEVuaHF5MFdUQTBYNTVpQnRXQmRXTjU2VTl6NFhnb0F1NmRLUDNSem5VenlabW11TXZ0QzdRVDlwbFFuTlB2bXZPNDR3Zmxmdm13NVhDSkozbUE4a3RpTk80ZFVR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791915505540
-    },
-    {
-      "id": "news_BUSINESS_WalmarttocoversomeGLP1sinhalersandinsuli",
-      "title": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWXotQk5KcGxxckYzSjJhdkhsX2pMbXZJUlR1djg2Qk5OUXF1UUZxTTZuWVFHUXJaZTk0ZnlKUHhlOTIzOTdkTDhaSmYxSGFtMlVQTU95RUxOa3lCcTlGYmdqUlAtcDVvX044TTR6U2dUNDduOERzYjZmYXZITEo4RThQWGxWMGVTWVcwdWhCUdIBlAFBVV95cUxOUmwxWGtjSGV6aDR2NElVeF8tZEJ1SU1iSW9mdjJPRGpSN0NUSXluU05SZk1XYWhJalRBanRGejZ0d0FWdjVfbFZiallXcElobjlIeEdYUUE3ZUY0WmRaTWVyellpQWRsZlRoV29kbDY5TGlJRkpzOXFaTU9mVlp4b3VDQW9pS3VhOExQTUc5ZEpjVm5L?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791915505540
-    },
-    {
-      "id": "news_BUSINESS_Just5yearsininteractivechatbotplatformCh",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy - TechCrunch",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTTc2Z2lUZjIzemFoczkxQWJZSXlzS1FRR2VUSEQtUVBsSXRsYXRRbEI1M3VBVWphc0R4eGdJY3VfSHR1eXN0QnZXa2dYeGlmOS1qcTUzeE1VdXB0YWY1cVIzV04tLS1FRlZhd0I0QTVGY3FMNGxTM1hBSllGQ1dsQU1KS1pLOW1UellyaUw1U182YWg1dU1fQThfLUQwWkwzRWotSlB0UmRSa1FIcjVHbWZTMA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791915505540
-    },
-    {
-      "id": "news_NATION_ReactiontoTrumpsenergyceasefireandjudges",
-      "title": "Reaction to Trump’s ‘energy ceasefire’ and judge slams tree removal from D.C. golf course: Morning Rundown - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOckVoSzhORmtBZ0hmSU5NZmlfa2s2OU1mTHFYR3ZzY3BVbXdyaXpuZzdrOWNDaVQwemhtM2xDdDRZOGItWDQ1N1R4Nkl2UERqbnJxV25pcVhQMVN0X2pPTzBxZVpRajIyRkF0ekdqSEtpMGVyM2hpYms5SG9icXQxRnhvZkgzTDFYVDlXd0hXQ2Z4R3V2WXBFVlY5czdpSHFMWXEwVGFVeHdMUk43cDU2VEVzOA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791915504609
     }
   ]
 }

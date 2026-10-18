@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T16:53:45.776938+00:00",
+  "updated_at": "2026-10-18T19:04:06.390144+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_CoreWeaveIsProjectedtoHavea63xGrossLever",
@@ -1342,6 +1342,61 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_ENTERTAINMENT_HarryStylesDedicatesNewSongWhatIsEnought",
+      "title": "Harry Styles Dedicates New Song “What Is Enough” to Liam Payne Exactly 2 Years After His Death - E! News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQclpvYjBqWV9iRFJ3cksyd2JzXzdwOU5pcmZpd1F3RDRVdjdpallEYTF2NGMyTEx5VWFkMVNqNnNXZllFZW5YRWQzZHpJSjFKYVBHYjkxU2VkRnZWYUx0akRSV3JBWjRtQmpVV3JRSVlXREJHMFkwd0M0eGVrZEVkOHh1N1g5TjlkaXhDdGxMaTdYSXdGdFBfOUE3cWtXa1NlTTFuRks4VlU0UQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792350216024
+    },
+    {
+      "id": "news_NATION_TrumponcequestionedObamascitizenshipNowO",
+      "title": "Trump once questioned Obama's citizenship. Now Obama is speaking out for Ilhan Omar. - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZnpTV2JTem1PdDZiYl96aklFcGhLLXNlNk9QZGpLZHBuUjF3ekJNT1FvUGNRMHN5dUMtdHgtX21ZeFBvWG5YZF90TkdVeTQyVGE5dTdlT1R6dkhIRlY5ZTdlbjd4Qk9BX19jdnh4ejNiNExnVnZDeHU1dWZNWHpCOUE1b0ttOW9xOWJhMW1jZ0VTLW1VblRSdjBn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792350213313
+    },
+    {
+      "id": "news_NATION_TrumpEndorsesNetanyahuasBestUSPartnerinT",
+      "title": "Trump Endorses Netanyahu as Best U.S. Partner in Tight Israeli Election - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVpDck5KVXpBcWpYMXZJbXJVOEppbUY5MWVjcTkzZVB6VmJnUUJWUVhOYTB5X3dkdmdNNjY0OVEySnRGMlNfcWFBSDk3NUhtVXFjM09GV2ktS1BsU1lVMDVSekE5OGFOMFJfMElkT05zbm9kWDNHOTVYVDRfVFdrVXhocGo4T3BnOG1EQUJNblRLU0xoNENR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792350213313
+    },
+    {
+      "id": "news_NATION_ElSayedhastestyexchangewithmanwhopresses",
+      "title": "El-Sayed has testy exchange with man who presses him on Muslim Brotherhood - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRG5ELXJWdm5NVk1VRmctM1U1cmZvUnd1NHlkMzFEU1VwS01XcXhYbjBPanNHbnQ2T0xROVNEakZ0UkdEenpyMkZWVmN6TDNDaGMwbUg5VkY1ZGhyQ0M4Q3h5b3ZQN1dQMG1oS3dHMDJVcF94a3BvUEZsTk9yQU9DZ21HSWdtcUZSN2pVd2k1TUdQaUNjb0hLaXZuc0tGOVdpb3RYQklua1dEZFpqX2JlTUVhSWdNUFFSeDdEcw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792350213313
+    },
+    {
+      "id": "news_WORLD_TrumptellsAxioswhyheendorsedNetanyahusre",
+      "title": "Trump tells Axios why he endorsed Netanyahu's reelection - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlUNWVNcFlkMnV4NmR2TWhvS1daNVlab2RvY0FCQU5DU2pwSGtWMEJpcFNRY0FESFlmSThHbzljaE5ZVndfOFRfZE1kZG1taGtiS3hTMnNPNzRrTm16dEtXLWEwcE1LMUF0TjRjNThwR2dCbm02cFJjdWZWSjlGU2RvQzE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792350212350
     },
     {
       "id": "news_NATION_TrumpsharesplantooverhaulEastPotomacgolf",
@@ -5445,61 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791941665260
-    },
-    {
-      "id": "news_ENTERTAINMENT_JoniMitchellBecomesaUSCitizenAJourneyTha",
-      "title": "Joni Mitchell Becomes a U.S. Citizen: ‘A Journey That Began 62 Years Ago’ - Rolling Stone",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR0ZHT2lZUlRkRnV5WUE5UDRjT29tODU5OGtQSDFZMXEydENzaTJldDNydkpUaDJVMFBSR2pWMU9saFFrUzEyWTlySWR0OXp2a29HaXB1UFA4cnFuLXYtb1VPcEtJWEV3bU5tTXRrUjJreEVFcDNCbFpyWko0cnB4c2hEREFUYTkwaDFxV0EzZjZtc3BQN1lKMWlqNUV5dw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791941665260
-    },
-    {
-      "id": "news_ENTERTAINMENT_BillyCrystalsayshenolongertrustsGodafter",
-      "title": "Billy Crystal says he no longer trusts God after losing home of 46 years then his longtime friend Rob Reiner - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZUkySUp2T3B1TWF4S2hUbzhudWEtUlhsMVNVRjY5WnFXel9vZDhjSHpUdTNQS2NEWnU4bU42dDNJRUxvbTJRVXY1N1hKWk5Td1VGb3FKRGtmNms1bTFzeDgzQ1I3MmJEdnk5by1vUnQ4RmI2bXJwTVExdzF2ME05YTFlaWQ3NU56LVFtUFpmUEVwWUFXSnFLVFBBRGx4dWF6R1o5dlU4MGxrZ0k0ZmF6cXNUUFJKcEJtdzF5dzl3bjNTMUxydXZ0MENjOEJ5d096Q21WWdIB2gFBVV95cUxNSEltbUFxU2ZwelUxR2hkUjFhNzlTZXFMdkE5Z1ZOei13X3A4WG9zNzRQWGdmX3k3MVkzendiTGtTQXlUMjNSR3diSVdFSnp1M2hqWU5lZDJCSm9SZjh3QlBSS1lUTi15TWFLVHR3d0FkVXpiYlVUSTdLOTVTcS1kZmhHRmxPa1N3dHBiNWNLY29lNUJDVDRIZGowV0UwVnlUSk1uckgzYnNuWXVOb1ZaVDF6bURLX21uQ2JzZFpXMDhGOHZWOGs1WC1ZbEV4M3FPVy1HZHBfem9oUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791941665260
-    },
-    {
-      "id": "news_BUSINESS_FBIArrestsOpenAIEmployeeAccusedofPlantin",
-      "title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée; figure/entité tier-8 (openai) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXdjcW9mZmQwckRKN1MyRmJrSWRDc0p4b21STDBDSnFnMlMwbWtIVk9LUHRaTFlnaXdsbzdRS3hPRV9Ea3hDTi1IUU1VUjk3YUNhZWhUZjRWMXh3T2NTSkg3cWNtUjZqOTZxeVpNeFctazhFVU5leWk2OFBzLVcwanI1WEVFQ25H?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791941663756
-    },
-    {
-      "id": "news_BUSINESS_IsitOKforjobseekersoremployerstouseAIBBC",
-      "title": "Is it OK for jobseekers or employers to use AI? - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XOWg0Mm12ZGJtQ3Q0bXZ5TGdPd2JiZC1hWjdXaWtMUXUyanYxUHdzaDVxQnNuRG5ydFhvenBaTzBVcmUxUjJtQnoyOGIwWnVSQldTMDBhY1FpRnc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791941663756
-    },
-    {
-      "id": "news_NATION_Trumpdebatescallingofflivestreamoffiring",
-      "title": "Trump debates calling off livestream of firing squad execution after learning Fort Hood shooter was paralyzed - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWQzWUFBVFdmU1BaazhTdkY0aGtWdnZkOU4tUWFacmVqX25ScW1HUG93UzBOME90YUNreEtoUzdmdU9sTF9Bb0VqZFhwT2ZwMkd6T0tmdjEzRGhfWHlKdjMxQ0JJV0JrLXBCeVI0cC1zVjNkbHNRR0RUYTdFTVlNUnpYLWZXTlJBZUFGcA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791941662987
     }
   ]
 }

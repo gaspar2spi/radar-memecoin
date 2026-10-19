@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-18T23:28:30.526601+00:00",
+  "updated_at": "2026-10-19T01:32:46.712729+00:00",
   "signals": [
+    {
+      "id": "news_NATION_TrumpsayshesnegotiatingPeaceasUkrainelau",
+      "title": "Trump says he's \"negotiating Peace\" as Ukraine launches 1,000 drones at Russia amid continued back-and-forth strikes - CBS News",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmpzT0JqMHd6elRCQmR4Z1JKWWpycEc4UXI0dXJfQkN0NGlvOENSdjl3REZ6SndFSVRaNUo0cV9hX2hKNEN1bXFwbkdmUTlsUlQzUDgwLTFQUVdJWnRHTm5IMjZPSGw5M0xRTGtvZDA5VFhLeHRLWnVZSGZ0d2dxVklrTU8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792373531345
+    },
     {
       "id": "news_NATION_Ukrainelaunchesmorethan1000dronesatRussi",
       "title": "Ukraine launches more than 1,000 drones at Russia as spat between Trump and Zelenskyy continues - AP News",
@@ -1353,6 +1364,94 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_election crypto_BernieSandersAccusesElonMuskCryptoLobbya",
+      "title": "Bernie Sanders Accuses Elon Musk, Crypto Lobby and Others of Buying Elections, Says America Has a 'Corrupt' Finance System - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3FQaEFsSGlpc0RwaHhLc3Y5bW0xTldqdERvM21KSFg0WmlaQnloOWlQRjRBdm9udEExMEdjVjVET2RtWXAyOExQaVZtWEo0ZnFsQWQ5M0xHcmxyel9nNzNyZDlib0QyUmRnMi1BMDlWMTRKUEFnQVlWbFc2UGtVcGQyX2pCeU93SzdsVlJfTVVqb2R0OG5j?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792373546828
+    },
+    {
+      "id": "news_HEALTH_Asingledoseofpsilocybineaseddepressionwi",
+      "title": "A single dose of psilocybin eased depression within days, but its edge over placebo faded within a year - PsyPost",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTENyb21ndWV4TjI1MEktWVJlR3BaeFM3Mk9oR0wyWkNpUFcwXzhEYVBiQ3paanZMdGhlNUxKdkhBaTVCbTJVV0t2YVUzR2M5T0h3YXZNWXRmNHNBSlJmWGVNeTFDZHFWNlQ1Um0zWm95aFFfbEJrYVJTU1hmdGhLb0NvSlVsOG8zclpBQXpMSnRIQ1JOUktUelNQaC1DZVhZYzgwS3N6Njk5NHl4eW5PeTMtX1lueE9rS1pFSmVTZmJKODFkM2c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792373535780
+    },
+    {
+      "id": "news_NATION_TrumpplanstobeginDCgolfcourserenovationi",
+      "title": "Trump plans to begin DC golf course renovation in defiance of judge’s order - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ1NhS1lmelhfS2hqNDhMejlnVjVfeWNnQjBjZ3phTUJsMHlVcWlBM095aC1EWnU0TnZKdmtRek5mZHZUMnk1OG55Y2lJRDBVTVRldDZWTUNObmJGMTFCbHV6RE1vVjNQRkdoRmdQQnFGTjhZVGgxaEozRERsQlpqM3drR1B6QQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792373531345
+    },
+    {
+      "id": "news_NATION_ObamasaysTrumpofficialspursuitofRepOmars",
+      "title": "Obama says Trump officials' pursuit of Rep. Omar should 'outrage all Americans' - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: rage, outrage.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVI5WXYxeGxhX3lWS1pMVkpNaGZrWmNMUGlvamZkMVN3eFRNQ1dCSUp2bnY4MUJrS3Q4Ymd4ZEdnV2ItaGtCMDZMVDZqcmhvX01ZUlk5bVB0WWVzODFUa25FSmJ1VzQ3ZFBTWFRZWW5FWHlHOVZzTmJPdF9wY0RacGpaYW8ySm04TmdudXowc2lkVC0xVFh4RlFfbmZHRUZYc0hEcWdBTlRyRDdWMnF3UHYwRHg3YnByaFZCckJhSTRjQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792373531345
+    },
+    {
+      "id": "news_NATION_SpaceXthrottledStarlinkinUkraineNeitherT",
+      "title": "SpaceX throttled Starlink in Ukraine. Neither Trump nor Elon Musk wants to own the decision. - Yahoo Finance",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON2xkY21sNjY1X29qLUtFN0xNVzM2OUdqV0N5VFhYRXh4cFlSaFV3VU04LXZqMG5KWldEaURoY1U5Z1I2TVNsVHBfZVo2akRhSjExSElpdzZaMVlLWGVJRlFUaGFIVDh1TFdfX09tVkhzeGVRY3FwUV9Ga3BzUTd0S3hLQjY0cXYyVFVIUEx2VnUzYjRVVXVTNm5UUjNKQkwtZy0xVEJObmNEUWVQVXU5TXo1MTZJLTFWUk1ITGF1YVloU1k5TFN4T0ktNkJyQk5rUkFjX2V1cUxieWIwRlJ1QTVhQ0Y?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792373531345
+    },
+    {
+      "id": "news_NATION_TrumpDefendsPlanstoEaseRussiaSanctionsan",
+      "title": "Trump Defends Plans to Ease Russia Sanctions and Hints at a Hostage Deal - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWsySUdqRXczLV83Nmpna2E0aGNFVUo2YnlQV2pkdTFSeUI5ZmRSTHhZWjh1WnpBeG95WmFhNkl0bW92MkEzcHRhZ04wdUVOTDd3OXhkOFpzT19YdnJocmlOSkZzMHlNRlFRemlOci1OTEVUZG85OTJrZHZQS0cxUXA4T1lZZTlxUmhFMjlqNGtEZTNOTVY5NHozOA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792373531345
+    },
+    {
+      "id": "news_NATION_TrumpsdecisiontoimportRussiandieselisani",
+      "title": "Trump's decision to import Russian diesel is an 'incentive to end the war,' energy secretary says - Business Insider",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSENMXzlCZUEzR1FDcE5ZcGtrSllRLWRpaWgxUWtyeEN3LWoyTzdSMklRYThpbE0zSmROY3lIeldtbWVfLUllLVhqTzBvQnBzRVkwSTQ5aGgwYURuLUdPOU5sTFJSTlFIUFdMR3dxdjNlalJOdWhVX1RSd0QwNGZ1cDQydWtXN3hmWjJNSVBnNW1mZlk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792373531345
+    },
+    {
+      "id": "news_NATION_CBSreporterapologizesanddeletespostprais",
+      "title": "CBS reporter apologizes and deletes post praising Abdul El-Sayed heckler - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWjZiMUlCbXpfa1NzUzZ5T2NNOWRqdVZROFRaa0x0OXg5cmRaSlNIclNZWjNYdmI1a1pJUVVpRjM1V1Zjci0xUXRhZHpJRjBidzRMVHRtZWRtY0lFZmE2ejNBalNpNlludDhwZHBiWFYyYlBJM1NjaVg1TXQzTnNfTzk5VVY5Qlp1RlJfc05GbVZnRjg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792373531345
     },
     {
       "id": "news_gaming leak_Shrek2RemasteredLeakShows4K4PlayerCoOp20",
@@ -5401,105 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1791980587682
-    },
-    {
-      "id": "news_BUSINESS_SalesofExistingSingleFamilyHomesScrapeal",
-      "title": "Sales of Existing Single-Family Homes Scrape along Bottom of 4-Year Dumpster, Supply at 11-Year High. Condo Sales at Record Low, Supply at Record High - Wolf Street",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOSzcxbzB4Nmg1YndsMWRHSTJ4WkZha05vNC1vMWJUanBBeldLQksxY0UyYWpwWnpMUlVnSmExakE1bzBtWXZnQW9FTzFwaVVVOHNlUi1UdHE1cGJHeFBzQkFmbmswT0FhUXo1WkROQ1NTWFEtUlFWZGEzanhXZmhyRUZMZmhtSi1tTVVJcmFLYXVid1JiZWI0Qk5Cdk1nRkJvMTBELWJMeTgxc0ROX2VJSlBvOWJXUmlMTWxwbk9PNm91dFBWYVpKRlJORG1INl8tbkEzamxXcTFEcnFzcFRDcnhYdTZoZVhILTd0RWtfU0FoVzdjRk1haUZ6cUdibS1ud29sc29uQzM4VjVCcnA0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791980586116
-    },
-    {
-      "id": "news_NATION_Federaljudgeissueslongertermdecisionbloc",
-      "title": "Federal judge issues longer-term decision blocking Trump’s White House media ban - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUkR6NmJzcUlPY0J1eHZvWnVneHhUc25mMVIxR19ZQ1dkOFE4QTNXSUNsbURRaTV2R0p5MnFtSlJrbFJOVWpKRUdSQnJBZ2JqbWVxakc5QUQwVmptY05KZGVFODQxVy1HdHBUTE9wRGx3djBvdnZmeWFnYzN2blYxQy1ta2Y0VUxqRTRyZXZieF9CRmtVZEdVTm5KU0ZIMmFmQmZsc0d3Mm1ZcmZibElva084d29kTU9oWkVwNl9RUjBXVllXN3NLQnRBQ1p1Z1k?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791980585328
-    },
-    {
-      "id": "news_NATION_Trumpsaysoilgasandmineralexplorationtobe",
-      "title": "Trump says oil, gas and mineral exploration to begin in Greenland - Al Jazeera",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODN2VUw5VEVnRlNBd0xCN0p0clZXTUhVWGhxWExoTXhaUUthcnRsR2lIRlB4X2VNZWZ2NF91ejlZRzY2eHB0TEZ0QV9FUzFzejFxaFhIT1FxREN5c2tMb2pfRmY5eUhTT2dYUWw5Sk9ycG4tYmNGcmYwbE80bGtVYTdCOVBqWjlKTG92Qnc2QWdGWWxYOVNwUkU2R2FiT3dxeTVaeHJaOWx2UdIBrwFBVV95cUxOQVJsMGk4RmE4b2dleFZTbHFVa2VEVlN0WnBETDJFblJ3T3Bka2tEc3pUeldUUVVRb2dhNjBXQm54VDdHVmNhSmlTU0ltSjRXd1ZrcVJKUnlLMzlPVFdtQ29hUDBsNE5xbHlJbEt1MnB0Sks5d2pKZ1lzcG5HMDlpSmhDcGotMmdtWm9nSm5QWlB5Y2p2cnpoclJSVjUtZmw4MHZ3dVgzYVpNaV9iS0Jn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791980585328
-    },
-    {
-      "id": "news_NATION_TrumpsambassadortoGreeceKimberlyGuilfoyl",
-      "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: resigns.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU0FXNzZpd0t6T24tN0FzUS15SGt5enNiSVRCQS1WTU82MXhidDdpT1J5YlFfZVRZWXRvZ2Ffa24xaW5lVVNfN3ZyVnV6SFlMX1JkZUE5b2pmbnhVNTl6anZnekRnbEFoNGY1aDljLUtxOExQT084NVAtbGt0UTRRRjMyN1M?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791980585328
-    },
-    {
-      "id": "news_NATION_Trumppardons2autoworkersonstageduringral",
-      "title": "Trump pardons 2 auto workers on stage during rally in Alaska - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc1JYOHFSaWVSZ3BMZWZocUFKM3VZYnI1VzBxM29LQXlfWVdQTXdiTVQ3Q2pKUEJDY1ZEZndrRXB5SjNLM1ZjVVEwYWxmQ05CNlJKeGE2NU1BU0hlZ2hHa0l0NUJrX3JTQzhTZWh5WUhYYUxxNmFjRHJYVllzY3pUa3AyN2NTZmlCUWJn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791980585328
-    },
-    {
-      "id": "news_NATION_HochulandBlakemaninHeatedDebateonTrumpMa",
-      "title": "Hochul and Blakeman in Heated Debate on Trump, Mamdani and High Prices - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnc5YkhhSmd0dlVVaFlQd2UxbDlXanhRMnJ3czZOS2h3MzdfNFEwcTJPX2RIdWZGMU5XRzZGdDRCUC1EVnRJeEpEYTNjNDUwS1ByNGJOc2NOV0Vvc3hlcEJqNG1HdmllYWppMG1zZWxxVXNJWThUblUxLTRfaUkyc2tDMjBJd3BQRG81cWdHTmpSbTg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791980585328
-    },
-    {
-      "id": "news_NATION_FederaljudgeordersTrumpadministrationtoh",
-      "title": "Federal judge orders Trump administration to halt work on historic DC golf course until Oct. 26 - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORkY5UHFTMWx6WkpJYy1mVXhrQnBnZnhTR3piXzZ5bFN6X1BpTnpxMC1GQXFKV1h2OWpaNHJJZHlRWHBYYUV6OEVnMHV0b3lrS0UydF9zOTBTYktsbnI0aWF5WHhQbFEwSFMydGsyRnQ1QVF5a3pkRWhwTWhUNVFtdktyMA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791980585328
-    },
-    {
-      "id": "news_NATION_TrumpplaysRussianrouletteoneveofmidterms",
-      "title": "Trump plays Russian roulette on eve of midterms - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83RlNsM1hUOHozY0VqMWo0VU1HU0o0OTM1NzJ6dE45czA0bXFxUnNwalowQTN4dGhqbDRFMTBteXZyVTgyR3N0VmNKU3ZIclNZUS1icXBFUGs5cGtfc2pxSVRUMDBLdHVPdU9WYkZUbHRkV3RTdHEySUVFZmQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791980585328
-    },
-    {
-      "id": "news_NATION_TrumpHandsVictoriestoPutinWhoOffersMoreW",
-      "title": "Trump Hands Victories to Putin, Who Offers More War in Return - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWRJSTY1Zkk1S2dxdzVIbWNjWUk1QlVqOXBxcTV4Y0hzQmNrTE5HVm9xZXdkbE9fN2NwRFhsaWlqbDJhY1dqVFdwQ01xNS1JY3BQVmhmT1NES290eHNOcTMtUzJvSmo3Sy1COHM4RW03bnZNSDA0WHk3SEEtQlNXcTZiZW96RmtRcGluNUlsbw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1791980585328
     }
   ]
 }

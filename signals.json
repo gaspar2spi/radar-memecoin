@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T01:47:03.141330+00:00",
+  "updated_at": "2026-10-20T06:42:36.881311+00:00",
   "signals": [
     {
       "id": "news_NATION_TrumpsayshesnegotiatingPeaceasUkrainelau",
@@ -1364,6 +1364,127 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SCIENCE_Earthscoremayhavebeenleakinghydrogenforb",
+      "title": "Earth's core may have been leaking hydrogen for billions of years - Phys.org",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VNVdKRDJ4MVg1em1Hang5N1l3NFJzRE1YelZBUFk5Mk1WTUNvVTdyLXFVMlkyTDA5M0YzRHFoRkhQTWlReHZyVklRU1dnRlRXMWZEWnBEYmJXTTU5dVlUT0UtenB0TTVSLVJCSkd4TUpCZjViY2hFRl9qYw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792478524670
+    },
+    {
+      "id": "news_SPORTS_Bedard5keyplaystoavictoryDoubsandDouglas",
+      "title": "Bedard: 5 key plays to a victory - Doubs and Douglas touchdowns; Spillane-Ponder sack; big Maye throws to Williams, Raridon - Boston Sports Journal",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPenB4bm5XNFZXNUo2Rk4xVm03VjVsS3N4ZGVCMzZkUjNhUDFmT2dUdmtkU2JOR2ZOTUZVU0FkY3ZhQlB6d1dZY2dpcG9fbDg0dnNJTmJidmhrNkx5SkdCajc3MzN2aVUzN0tKMmRzWjJhWHNKdjBBZ3JubHRlS0JFVG5TUUFNZEtpOEhCZnJrc3pZdllOM0J4UGZiUUt6ZnZKM0FnWEt3c3FPREk2ejV5N1pQMEVYMTFYS0pkMUpnVzVEclkyU3Nvd0ZZVGRLLWtYODE3ajB3dzg4N1FESHNDOUhCdzZ6bXgxaERxREhlZGRxTEplLUJnZUFn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792478523891
+    },
+    {
+      "id": "news_SPORTS_ToddMonkenmayhavedroppedthequoteoftheyea",
+      "title": "Todd Monken may have dropped the quote of the year after another bizarre Browns win - Dawg Pound Daily",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVWtxRFlhQThub1ZMRXcxVWt2UFJwd3VkelY0d3YxN1ctcDQ5T0VpbzRSRkEzcEt3M1pOejA3ZXNpNUtfb2lMbjdiS2ZPYWQ3eU1zemo1NVhvQ2hJNVNtRzl3UTFrbTdvVTZvd0hlLVd4YVZoWkFTcnh1a195a2VVcHZKTXozLTQtSDVNR2hNQTZsbDQzTWt2cnNORVhVQ2J4dUViYkl3TzJkUVRMQjBYWnBsNUZlcXdaeV9ZandwdWg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792478523891
+    },
+    {
+      "id": "news_ENTERTAINMENT_ApuisBackVeteranVoiceActorSunilMalhotraR",
+      "title": "Apu is Back! Veteran Voice Actor Sunil Malhotra Revives ‘The Simpsons’ Character After Nearly 10 Years - The Hollywood Reporter",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMVU2THl2eC1JZm1fZ3JFdTVGNmdTdlZUZW9vVmlJTGJzNG1XRGhVZ21rZW5tam9paWhpZDQ0TUJpNEh1emZ1WWl4Q1RmaFRHdEV5bzNpS092VHdib2FuMXVXY1JIWm1CS2RCN2p5bjJSc2JOZzVUa0FBZk9UUzRXUk5mWERzQVBUdk0wQ1ZjX2dzR2w4enJUNC12UkpSWjJJSVlJ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792478522953
+    },
+    {
+      "id": "news_BUSINESS_UShomebuildersentimenttumblestonear1412y",
+      "title": "US homebuilder sentiment tumbles to near 14-1/2-year low in October - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzZUb09NNUZyTi1nanEwMHNsSGE4XzB4Y2tFSWVXYU5XU2Q3ODdBMkZmSFN4LVB3NHZjUG5FY2ZDQjJtYlZpbXpkQTMzQnVIOTF6bGZhWkstcWItVWxtbklsTHg4YnhuVkxiXy0td2oxbExYN1R1bjdmeGFkdlU2TDZ6b0Zqb1k3Q0VwbWVZRjdPbm1odHVZMzZ5NDltVG0zampuN2JzMXo?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792478521409
+    },
+    {
+      "id": "news_NATION_Policeusedjustifiedforceinfatalshootingo",
+      "title": "Police used 'justified' force in fatal shooting of one-year-old, says Mississippi attorney general - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lVlMxSjYtdUZjVkthZjFyVGZrZDc1WmtpRGUzNlVzMXpmeXlSMk8zM3pvRnRqRmZqdHctTk9WM0l6Vnc3b21mWC1TLWo4WURrRFg5b3RJQUFfOEk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792478520629
+    },
+    {
+      "id": "news_NATION_Judgeleanstowardextendinghaltontreeclear",
+      "title": "Judge leans toward extending halt on tree clearing at golf course where Trump says redesign should start ‘immediately’ - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY0M5d2poOUFWMFJyTWp1S09OQ0ROajF3Z01YQXlSWlNRTzZTTGJFNEpwczBPaVZMelhhSHVOWlg4dkc4bzVPMUlsbmRjeUxUcDgwT2U3WGdwTlVZbElRZHhmX0JhUGx4VEFZRlFkcklNMHpQd0NaZTRSSkg5anE4TER6dnNVdWI1NWRkZUZGZVlIYmF0VldtQWs4amhfcTMyWDRyOVQ3X1RZWHVkREd6ZTBDSVcyNmJBTGN3a2NYUVJEWGZDOXNXVXlPaV9hSEE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792478520629
+    },
+    {
+      "id": "news_NATION_FactCheckTrumpspeaksatKansasrallyforRoge",
+      "title": "Fact Check: Trump speaks at Kansas rally for Roger Marshall. Here’s what he got wrong - Kansas City Star",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pUXVjUUtsVEZuajlxTlJlVGZQZ0VhbUJPSnV5bEJ4cXNtYWtCV2F5dVYwclFJMS05Unp1bmVucUt6Rk9zVTRfOVV2NTBfVjVNTzYyVGZVSG9RLTBmYUJraVJYZ1dFSVNqc3JMaUNFalZNVGZVWmVna0I0NGU1Z9IBfkFVX3lxTE9PWUdTMWJwZE9kVUVwbjl5Ry1BV2FxS3d5aFZteEprUzQ3T2hROUxhek5IUDRvUFA1NC1CWEhwSWxraUl0U3E1Y3VFRHh2VGEtLWc4c1JYeURQcVZvUU5aclBxYV9UeDROSXY5U2pQdXVKRXlDUXdsSUotYkVHQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792478520629
+    },
+    {
+      "id": "news_NATION_TamaraKeithandCarrieDannonTrumpsapproval",
+      "title": "Tamara Keith and Carrie Dann on Trump's approval rating hitting a record low - PBS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbTFyejJiVUhub0l5WFFzUXVmcFhUWUw2TDE4WFFqQTBKTWc5RVVoUmNEQ21VZlRPY2FZd0czejRxS19sdkQ0UGdGNmttd3F3ZFdVdDluc3R4TExObk5LcnJJRHpaS3dLUk80bWhXN2wtdFlaV2o4ejZfeUdNWGtDRjdzSzc0dHZUM3hIMHNsZkNsdXBiYkUwdlRZNEZDeXFWaDFuRGQ4c2xZNVpac2c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792478520629
+    },
+    {
+      "id": "news_NATION_RogerswrongthatElSayeddidntdisavowMuslim",
+      "title": "Rogers wrong that El-Sayed didn’t disavow Muslim Brotherhood - PolitiFact",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYXlCWlpOYkZ0UExQejFxRmxyQldoVV9EQmdTT0U3eGtqOTBhT3M4SmRTckQ0aXZKVDNkZ0prS0NBdmxfbjBRek8tUDR3M0ZTOXFSTUlnNDhSejBwTXY0aGhtRzVtbnM4UFhaOGJhYmZnSHZUOTlQWXNjTC1SSEl3RF9OZkg5WjR4d2ZYdjZWX002TW9GVG5qN3BQaGh4MkhFU0dXRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792478520629
+    },
+    {
+      "id": "news_NATION_TrumpadministrationholdsupPatriotmissile",
+      "title": "Trump administration holds up Patriot missiles for Ukraine - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnRKRWVRSmwzaFFkcFBLbG1wS1BORl9qR0xSaTkzY0VhX0dKNzc1V2JGbEFtTm1wZkx0VjY2dkRzbGYxWlljZG5zVUY2eGU1RnZiTVRBSmNDYnJNSXo3RWFpT2JhM1ZQcklHVzhXcW5zSXRHemNaMS1PMGJJOHowOVpMQWRqNE54cU11Z2ZNUUFnZFBqQkFsVUNhbl9rLU13eDhyMGQ0cDVGdk5nLWxFOEZVQ0E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792478520629
     },
     {
       "id": "news_HEALTH_Lungcancercangrowsilentlyforyearshereswh",
@@ -5379,127 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1792082353983
-    },
-    {
-      "id": "news_leaked footage internet_NewGTA6LeakFoundOnPhoneFourYearsLaterKot",
-      "title": "New GTA 6 Leak Found On Phone Four Years Later - Kotaku",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (leaked footage internet). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVhJUGZobXZBN0FuX2tFTFNhVWh0MENyM1BEYkh1ZXMyU1Z5Qlp2NUd2ZDdndHBZeDRSaE1QU2t1UU8zd2Z5YVM3NWZHbl9HTVYweDMyWnlUd1g5TThEbzEteFgyVkE5eGpBU0V6d2xKNGpoVkFGeFltX0U2OFFHeHZ6TF9WeTV2SDRvYlAtdlNJTk1TWDBldVF3MmVyU2hqazgxQ0ZEcFYxOWo2ZTZqZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792082348842
-    },
-    {
-      "id": "news_SCIENCE_AncientIndigenouspeopleinNewMexicolivedt",
-      "title": "Ancient Indigenous people in New Mexico lived through extreme climate change 23,000 years ago, study suggests - Live Science",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLXdKZUZkSmtnR29jNUo1cEV3LXJfdXJ4NU03czdhbUVlbG5wcUg0bUEyZVBXcDlXdTZXbURtNklsOFNiSHYxZTBzdU9CX05oaGhHREtESUdodWUzSlNKOTNNWW9PRVZpX1VseXZmN3dCdzNuY0h6QzRuRWtEVWFxX05DYnRPZzFyd2lEMTZtYnhzSE1ha09qZmpfbHFLOURaenEwZklkTkIzNmF5NzFxS0Zhd09FY2t1a1U4WXlsekhoYUtWR01kY1FPWU1fWkhFZVJzcHB5d19MQUdKSW05WHlhdzVvTThYZF9YZ0Vn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792082344526
-    },
-    {
-      "id": "news_SPORTS_BrianSchottenheimerOKwithCowboysplayerso",
-      "title": "Brian Schottenheimer OK with Cowboys' players-only meeting panned by Mike Tomlin - ESPN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdEEzdXN2N0FaZWp5Z2x1YTV5aE85SnFVTXEyZW1WMjFqY1dUdFBDT1B5a0FEeHAzdloyQjJhWFdYVTE4VGhTRUtDWnlYbFhJYWFVejNCWi1IalBFdnZmQ1dpbEswWVdsRUhfOHc5b2dIVmR6OGpURVJ4ZVMzbUMyZHVMdU5NN056QnpBM2pUVmMxaHVnQmdHOGRxTzE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792082343759
-    },
-    {
-      "id": "news_SPORTS_GymnasticscoachwhorecordedgirlsinMississ",
-      "title": "Gymnastics coach who recorded girls in Mississippi gym's bathroom sentenced to 90 years in prison - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeElnc3RSTHpwZGdLdVdxTkhfWFN3aXN1d1lkTXNwYmlYUDIwUG5OSHdoZmRsSnRSaE92MHdSaGJYSnd3b1dha05kZHIwdWtPWGhCR01BMVJSYlpjc0FRczFIcnFHSVZOLTRER0tJeEZNLTExMmowVzR0ckZWM282Q2JKR2Vjd0JGZmRlNW9oOUM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792082343759
-    },
-    {
-      "id": "news_SPORTS_15NFLplayerscoachesonthehotseatenteringW",
-      "title": "15 NFL players, coaches on the hot seat entering Week 6: Quinn, McDaniel, others - ESPN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSm1salpILUdUUWpxbUxRd1kyOF92NGMxeUpuNUE5WVhzcERFekRPbTJIbGpVUjNGd2JrNmtxY2QwbU9ldTNiem1ma3VvSm9IZFM2WnAwMFhXbGsxalBkQnNtUzJYSk12VmdWR191SkNsM1ZwR0tSSGkzVjRRQ2NGeXZMbHdvamFiNV94Ui0xWQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792082343759
-    },
-    {
-      "id": "news_ENTERTAINMENT_TodayshowcohostDylanDreyerconfirmsshesof",
-      "title": "‘Today’ show co-host Dylan Dreyer confirms she’s officially divorced - Page Six",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNamlMbGlEY2pBNmhsWDM2aUh3b3E5bDkzQjBmMXV4VmtMMEFJcTlVQVNiUTRJc3pneF80dlVzRG1pM24zaF9BVUt5OWllMWx1TnJzSGd4VVZPS04xc0tMdHhwUXhKVFdZdTRQM180SkNfTGVCVHp4MU1xTFBCZFJSb0xreV9XRFBibm1zTDNQUHRxUEVzdkp0NjhJQVdfc1JzUlZ1N3ZmS2I2ZTMxQnZRNXdB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792082343056
-    },
-    {
-      "id": "news_ENTERTAINMENT_BoxOfficeStreetFighterEyes70MGlobalOpeni",
-      "title": "Box Office: 'Street Fighter' Eyes $70M Global Opening, First Paramount WB Movie - Deadline",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUZoZU1RdE05UGpGdnpzQzlpTmR2MERxTlFPY3YyU3Voa056YUFZRU4zTEpiaUpRMlUwOUNiSjkybVotVm9BTGpLQ1lFalY0OGZfaEtSbWlDZVRlYTNCbV9wVVR1WjE1ajA0bVV2QUgyMnFPTy1jTXNqdnItdm5qNHR4cjNTanY5ZHdEbEF2dHBGdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792082343056
-    },
-    {
-      "id": "news_BUSINESS_Southwestisoverhaulingitsfrequentflyerpr",
-      "title": "Southwest is overhauling its frequent flyer program. Here's what's changing - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pbDNsc3RZMjZQX2xEeGFOemVfM1lHRGVzRGF3VFYxYl9vVTZPbEwxX01qcE1fU0xPVE12dTlEU3ZPT2JwaXJWOW9HcFVkUDNET2xJVHZ4am1BNnNNNzdPSExCN0VBV013emlXY1JjRWRNS0FBUXJSQ2t4aXVwQdIBgwFBVV95cUxOdWN0Y0hwN2FMQkR4Wk54SUoyZkhCUGF3UlNhUlJwRGFaYld6WFJieW1NV21wd3p3dmpYQVZGdFI5VWdyanNUS1dYMXV6Y2VtckJOSW9HRGlMMEhBYnA1b0tTWEhUSzdab3ZQTWFPR2hqTlVZN3p3OFlGbFRHc1pfWWM3RQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792082341507
-    },
-    {
-      "id": "news_NATION_InKansasanewlycompetitiveSenateracetests",
-      "title": "In Kansas, a newly competitive Senate race tests limit of Trump's unpopular policies - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb3pIc3lCeGI1SmR0WDN1alc2RXVJcmdTejNGZVdoeXNqdTh4NWFSdmFrem9BSVhHZzQwSVpNMjJXRnk2N1NSWlgwYjA0TjJKd2dTdmd1NlpHRGthRlBtYTNOcW9jMUFrRFBUOHAxeGhwdTN6dG9NdnFISUVyWUpNV3pqZ2M2aXJsbE1RX1ZLRVVvdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792082340797
-    },
-    {
-      "id": "news_NATION_UkraineabandonstruceandattacksRussianoil",
-      "title": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOanVvOXBrUl9qVzlNb3ljaFNMclJtU0JkcGMwOHg3WngxQnJhSUc4VzZGV0hvRDBBek9DejBaaTNwWVVSd0thaUt4dXJWZGVEVHdaeXNHQXVpV3pmZVJwN2o2ZDFrTXNGTVdaLTcwY1haLXBlWTRRNnpZSXFFSmllQ0xEdTZHLVRhREJCU3Q3WHlycGhCcEdTSXpjX0VDb1BXYXFiaGp5VjBXQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792082340797
-    },
-    {
-      "id": "news_NATION_Trumpsambassadorstheloyalistsandalliesat",
-      "title": "Trump’s ambassadors: the loyalists and allies at the center of controversy - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: controversy.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2RSUjVyR1Eya21OX3ZnZi14bEJ6YXh5WC1hekRvaUNpVFVkTzNDSlFqV0Q1bUxOUmEwYWRzMGgtYTYxLXZGRGQzZkF6ZzZ6cGNUOHprdjlObG14VERmR3VEV0VXaEkyNWtyZFJhLTFienhWVS1nTU0yLVN1SUFOVXBId2lhejFEMXNONTdObXlLaERQR2x3R0lGQjg5Zw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792082340797
     }
   ]
 }

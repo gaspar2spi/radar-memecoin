@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T23:23:12.343768+00:00",
+  "updated_at": "2026-10-21T01:45:11.138049+00:00",
   "signals": [
     {
       "id": "news_NATION_Trumplaunches25millionwhistleblowerincen",
@@ -1386,6 +1386,138 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_rug pull crypto_HowTrumpmademorethan1Boncryptowhenmostof",
+      "title": "How Trump made more than $1B on crypto when most of his coin's investors lost money - ABC7 New York",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (rug pull crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmNRamtUY2NCSExkU0NTTU0ybHlURUlZb051OUFGRXp1dmEwWnl5ZU80UEhSQTBmODJKOGE3NXhya196aHl3TF90aGY1Wk1XYjgyY0F3LWJ0ZjlPbHdneG52cnNZMDZpMUhQYmd6bWxUU1RJNVNrcDhOcWVQcFBfTnlQX0luYTR0Z2J4SmZTTTFEZFFrenhIeFVfZGpFT0QzUXhkbm0zdlN4RVVO?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792547090386
+    },
+    {
+      "id": "news_rug pull crypto_RossGerberSlamsTrumpsCryptoRugPullPoints",
+      "title": "Ross Gerber Slams Trump's Crypto 'Rug Pull,' Points to Report of 'Over 1 Million People' Losing Money While President Made a Fortune - Yahoo Finance",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (rug pull crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNVBCUVFTbTAzZFR4cFo1VnlxaWc0R2RoSEJDelVuX2JDVW1oWndXSFY2Y0pxQ1lnNmt2RF9kUG5fQy1xLTZQZUxyLUFRTnZYaGhPYVJkbDUwTDRSckZ2SllvaGF0cU1QVWdRNlZFLTF2dUpqendTUmxza1ZIRDJOdXA3U1FtenYtd3Fkd1pMLUttY1FOclRMUWVMSlF6N0xZLXdiV2FWeEViakdjM29JSXdIM2R1eXZBUlFGNWVaWE5HVHJQb25sMUUtcDRrQWlTQWxVT19QRjlUMlp6LS1Rb2hWZHJyMjZKZlBHWDdpdDRBeDdTT0Y1dWtSTnE4T2lZa2tmWmxpQlc1LVdvVzRwX2NlNF9DbUFiR0xR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792547090386
+    },
+    {
+      "id": "news_rug pull crypto_TrumpDigitalGoldCrashes98inHoursAfterSus",
+      "title": "Trump Digital Gold Crashes 98% in Hours After Suspected $330,000 Rug Pull - Yahoo Finance",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (rug pull crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXdhMWdTc1VFNW1OTkRTUnpJZzNpdUt2aUpiYnR2Y0Z1U29TNk9aVTh1Yk5NSlQtSlRoR3U4c3VJaXFnZVhsWDRyNDVQcVYyVmRGVVh2WkN0cS1yQUFBU1VIN3JXcVNzNk5NVUl2eFM5bjNlQUlnYklCcDlTWDZiOUplQ1R4UmJtSGdJbUZ2c2hULVMzLUF1Njhn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792547090386
+    },
+    {
+      "id": "news_SPORTS_JoanGarcia95Gordon6PSG42BarcelonaPlayerR",
+      "title": "Joan Garcia 9.5, Gordon 6 | PSG 4-2 Barcelona: Player Ratings - Barca Universal",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3lRU3QzbWNJODhpMnpDbFZBOHRjSWlXQUtqcUlhNVEwQnhNcWZ4SEIwRGRoNmtlaUR5Rnd1cV9peTZmcjJEeWo1eVYyYXR6VlBEMEtkazFFMGFsMUJsWFU5ZEFBUGE3eGJMWXBYVTVucHZKX1BYS0tEN3QxVEZTWlp6ZDNiVGpYU1ZvMUhB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792547082235
+    },
+    {
+      "id": "news_BUSINESS_NetflixQ3RevenueMeetsWallStreetEstimates",
+      "title": "Netflix Q3 Revenue Meets Wall Street Estimates, Forecasts Q4 Slowdown and Says It Will Miss Ad Sales Target for the Year - Variety",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlEtTzRLRTZNSy13ZjRCdXBSV2VOcURTOU5PVmVDVmkzaVdzSElpaWtvS29oc2xlM0l4LXIwOXpWeDctNEoxRzd3NzFURE5RWEsydDlhOS05SHRyWU5ITXFiMjBQRGZEanJRVUVsdHBSeVJ4YWV6bDNQSnhwZU10dzRjVVZkUVN3VVNrWVpadnFHeXZDUXZ5NjZaX3RUUEtxNFpXUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792547080016
+    },
+    {
+      "id": "news_NATION_JudgeTrumpcalledalunaticabruptlybacksoff",
+      "title": "Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3 - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUlmWHN2WXhyNEpYYjJuSEUxdF90a0t4Zk8zZ2RkM3BxbHB1cHhuVlU5QWVGc21Nd0ZSZmVCVER2MlBIZDNGNXdDVUpkSWxzM3pKYjdQRG80VzBRak5QRVU5YlVrLVJ3ajg2dEJWQVliVXVhSnFGbEExbXVJZ1lEUm1mM3NLNU9JQTBiWDlQSm1JbXdJdWxWNWRyNmpVQjc0ZXfSAacBQVVfeXFMTkJjckY3a1ljdGtobGRRQnhreTBTZEJxS2lXNzNmNTh4ZWhIeHZVNDRzT3JLNEhIUHdpN1Y5Mk9DM2lxMXoydEVORlA5SGpCT1NJTVI4SFBwUTBiblphMVNUbkNtdFlldVJWMmg1YTVCV2VrbTRmMnNwVlpfYTY3Ym00RzlWVmtiVjhRb2VnN1BRaTloSWZYUk16c3pDQjM0Ulhnb0pPNVE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792547079324
+    },
+    {
+      "id": "news_NATION_ADLcondemnsTrumpsantisemiticslurbutfails",
+      "title": "ADL condemns Trump’s antisemitic slur but fails to mention him by name - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVJkMllNblRWYUJvaWpTRFZGemhBeEl0b0N5R0Rtd1Fya0VYZlczYjlrS1VVRVRwUUdLVEF6aktpSlFHX1luNTNqMV9EWGpvZldUTVBBbjJHS0xIVUNHQlFYaXNVdGdOMkVsSE80ekp6SktmRTZXV1FxQ05Hbm1YS1Z2V0ZmREJickVHdEZ4bHNMaDhMR2F5ZDFLN1Z4NEtmOUV1MHF5YVVNZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792547079324
+    },
+    {
+      "id": "news_NATION_HowmanypeopleattendedTrumpsKansasStylera",
+      "title": "How many people attended Trump’s ‘Kansas Style’ rally near Wichita? Estimates released - Wichita Eagle",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyTFRzeVRCS1VTci1aVDIxbUFlRWN1NVNSRTdJQktsQk1tR1VVZjFYNTdYTE96ZkJIWldKbXBWV05QT25rNGlncGswUlJlQTRmLTNGcjZPQUg4RWZxTTlmLVlISDhfdlB1blpQNjYzb0dRMGM5T2pfVNIBeEFVX3lxTE1HZzRtc3BNYmpIdVpJYkNHcnJRLTNZR1l6WmNza01CUkxScjRmNF9NWXRPMzdaU3ktcXd5a2RYejlMOENqSTdHMXBhNmhZTGN0N3h2azZmRUxSSTVSNGN3d2czV21taDA2bEhNUlRvMWdpZzJ2SHJDUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792547079324
+    },
+    {
+      "id": "news_NATION_Trumppledges8billioninreliefforfarmersst",
+      "title": "Trump pledges $8 billion in relief for farmers struggling with soaring diesel prices - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4WnR5Z0RMTnRpTWtmZDJta2pkNi14QkRHYXVER0dWWF8zUTVXaERBcTlnNm5lenZhRFk0SERqbUpCWjIyTXBBeUEzb05MVU1HcC05V1YycjhOd0xrcnM5ZVFYVURJbEwxYmdsYXhzQnZETWND?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792547079324
+    },
+    {
+      "id": "news_NATION_IdontcarehowitsdoneTrumppressuresUkraine",
+      "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaHprb0pxRDJCVXNnZEtEWGluTEQ0WTEtLVgyZUxmSU5ZclBQRUxTQW5mcFdIVjlpRDZoQXVCVzBjQmNmeFRMWDkyOGN6SnpDWHMzam1QTVlxQmJuNVdWRlAxcDlLb3RWT3dxM2V5RXhBcGR5ckNyZ0lwdDNfWGRIU2FfZGJ1cXp0bzd0UHU3VFFXZmt0MkJWM2RwVWk4b19jbW51X0o0ZEpJWm1G0gGyAUFVX3lxTFBYSE9FQmlFLVFmYWdobUQyeG5lWHAwUHFoR2docG5QNl93MG9rbjNVTlprRFRudW1TOTQxZXVhSGswenZiSDJjMmdzVGp4UmJyNUIxVXZVLWV0QktpeV9uREw4dTZYd0lvNmxsWXlLNnhSQWRmUnc3bEJjQ29NVGVseno5OVJjQ2pjdkZNa0g2RVc0TVRrUHZBYXFaTHNWUm9XcWV3YU9mYXBiaTFEblgwLXc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792547079324
+    },
+    {
+      "id": "news_NATION_ElonMuskorderedStarlinkslowdownforUkrain",
+      "title": "Elon Musk ordered Starlink slowdown for Ukraine: Report - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMLWdLODFYcTMzY2tCZ0VzRDVrczRxMTFSMXFtbFdDOXVOSjJFRHpyUXhQanN0M0pKN2plVUFFWERnZElIcW1zdm1TaHJhWjRpdlhxOTROQ0pIVEJIYXctVVk2TnJ4RDNuTmNyTzU3Rzh6MnF2X1J4TnZnSEd4V1HSAYQBQVVfeXFMTmhKRnNMdHlHV3BYRVNwbXN4VVVsa0tXN3NXQ0pzMjFfSU1GZjBURzVjOC13V1lCRU55NF9xRTUwNS1iTktFNXJUNDEzX3l5ck9sSWtydDk2SWNIMTA4UTJ6Z09oVEkyMkxzUzR2NGFvZ0Nva01QN3p4dVl0VGNaclZnS3Nw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792547079324
+    },
+    {
+      "id": "news_WORLD_TrumpadminseesescalatingriskfromHouthisp",
+      "title": "Trump admin sees escalating risk from Houthis, prompting unprecedented wave of warnings - ABC News - Breaking News, Latest News and Videos",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXpOVEcwRGUtd1lTdy1tSE0yZXZOMnRCN3JjYVlSWUE5SEVJMndUYVJSc1p6b0tnOXZPa1ZTNUNmTjVlcU1mZ2NYaC05QkJ6RXIzcDN0RVZiYnB0QlFzZktwQVA3d2hURzY1MmtZTUVvVWtOTnJTc2k5Z2paUGRxSnpidWVBYVdkS0VLRnJ4XzdKMTBEaHNfWVNxMGlXVW1kWmd6NXFvWm5rTm5veUdpY09B0gG3AUFVX3lxTFAzRW95Y1ZGOWgzbFVwT1NwU1IzNFlqc3V2SkVtN2s0QTEyV3lzdzd6azQ0M1NnQXJfc2M2c0VrdWl4UGR1MHV0TWZmYzg3MWFac0NTMkJFQzFVNjhKOVZGY0dDWm5JbjhicDRGZUUtRThTaWlsWG5fd080b2VkbldmWjhDbFp1RmJ4QnhDR3NUQTNjWHM0QzgwT2hETHhZQjMzYy1UeHZ0Z0tZNDRtemJqQk9LUE9oNA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792547078625
     },
     {
       "id": "news_gaming leak_Shrek2RemasteredLeakMicrosoftStoreReveal",
@@ -5368,138 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1792162211627
-    },
-    {
-      "id": "news_NATION_TrumpsaysUkraineresumingstrikesonRussian",
-      "title": "Trump says Ukraine resuming strikes on Russian oil sites is a ‘disgrace’ - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSEFfQWYwNDJvOGJDQV9ZeTF3OVdKTnJUUWVNOXJhbkxsd0laMllFRWhOWTQtNkJMOWhjR3pMb1I0dG9jOHp0V0FZUFdza3hIVkljNXNuWmlzdTQzcTgyVEhvNEFaUlc4QjMwWHNfQTRta3paWUF0Ukgxa00xVkdHYVRTNGtnczlpdkRNbjJuWllIUjNOakhwU2lna2xZbVRyZWs1WEd1eXlDQmt1U0Q0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792162210697
-    },
-    {
-      "id": "news_NATION_TrumpwantsmoreAfrikanerrefugeeswhileothe",
-      "title": "Trump wants more Afrikaner refugees while others are stuck due to his ‘cruel’ policies - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdTdPVGZ0dnRvY0dBQ0ZxQnFCTDdXaHRHdGxjMmpxbnUybVBRYTVnRTZlMHRCbV8zT2tuOFdLUVJOQUxkYURJdmM2MnNYUVExZzc1eXE4Nmd3UjZ0MUxXREtlRk40SHA1N01uQjM0cWdVQ19IdW5XLXFVMDc4SlZTc0ROY3VMN01KYVdSbnNvc3M?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792162210697
-    },
-    {
-      "id": "news_NATION_WhiteHouseReportedlyOrderedLimitsOnUkrai",
-      "title": "White House Reportedly Ordered Limits On Ukraine's Starshield Use—As Trump Blasts Zelenskyy - Forbes",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWjFfZmNfVXVQQW5zcGdvWjNBQ2d4SzY2aHR1bHRwc3lYOEdKNmY1ZW41enFkRW9CaGFJeFZvQlliUmJFczdma2NvUVlqQ1ZUckVCWGEyeXlLR2NCdTJGNzBIZS1UZWVOcTEtc2pGZFp4clFxcXVDZmowd1BJaFVjR1drbm9iYVdheUdLMU15QVNGRkRQTjZINlJxQzB6TVpPaDZ1d2ZvVGpabGNabldjU19xa3c0MmdhZ1VVQlFnVlZkcmNXNktETkQtSFppRXNIU0ZORlpEQzlodG11TjlnVHBrbnBLdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792162210697
-    },
-    {
-      "id": "news_NATION_Texaswomansentencedto7yearsinprisonannua",
-      "title": "Texas woman sentenced to 7 years in prison, annual jail time during probation for deadly DUI crash - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFppM1c2dHRqMGVMMVc5ZkVoQTlJS2N2WlBvLUtvajhkeFpoak5NVm1GMFVTS25MekprM2puMGREUVFvV2hBUzZoQUZ6NmZqOGJvNjVVRloxMkdCNjFtMlczNWxlNGRDaVZZWG9RTUdXbzdXVlhJclZZdG4zMjhFVFVrU0Q5UmNBWWJCeUduZVlnUmxKNUZ3ZFd0MVZLQVIxXy02XzF6T2lGeDhLS2ctbjhhOWrSAboBQVVfeXFMT21qUHJZYkNvUmw1dy1OWTlmVHY5d1JKazlra1pxMmtYSHRLQlZwc3FuWWNPa3JXM0hWM3BlMFVBV3hWTzJNREtKc2FwejN4Yk9CaGtERFgyOUFsb1VnWmx4UmVoMzlsbFppdGdfcHdYQTc0eXFKRG1EcTdqa2VidW1sSmxFalo4TXNnNkMxdzZ5S21zX3czTmR4ajFkSTdENmk2T2d2VlhiMFlDZjJuaEdfOS11eEFjTmNB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792162210697
-    },
-    {
-      "id": "news_NATION_Trumpsayshewontusenuclearweaponsorsendgr",
-      "title": "Trump says he won't use nuclear weapons or send ground troops to Iran - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tVUVZclRnWDk3N29XeWRoV1pvUmNrTVJWZ2NOWEdKSlpMZEJtTUU2eFhXT1paWlZ1VEJHTDNPbElvbzczMjF6NTd5X240T1dyRzY3WGRpNUlocC13amVJSWVxai1ucTZQOGF2X0F30gFzQVVfeXFMTXJ2ZWlobThNeHNpX0dXeVdkYU9aaE9CZHVGeUdvaS1EQk9NQXVCbmJTeURnaEVwQnh4WmVBNjFJMUp1MjF6bTBmaExFdVNEMHdSbC1RVkY0ZWpVSXlRdjBsUng5Uld6RDF0SkNJZVdsaFY2bw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792162210697
-    },
-    {
-      "id": "news_NATION_Trumpwantsthemidtermstobeallabouthimself",
-      "title": "Trump wants the midterms to be all about himself. Judging by the ads, Democrats are happy to oblige - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSzRFUjZWczdDQnJ1SWt4RDhzdTBuV1F4LXUyeGtRcE5IM24zdDU5YUFhSzFqX19kdjZPVjVleWtCTEFSd0ZCSTdsbTdaanh0WXE5ZkkxcmVUQjlJYlBzQkI5OXJYWG11MGFWWUR6MVZXMThFb0JzU0NVTnZYUFN5M2NjWmtqdHhUaTVzOEh4anp2enl4MUdrZ0pnM1RjYk84R3c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792162210697
-    },
-    {
-      "id": "news_NATION_TrumpwillrallyGeorgiaRepublicansdespitep",
-      "title": "Trump will rally Georgia Republicans despite party divisions in battleground state - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeG9neF9UWU8xalFMQThHbW1Hb2o3Z29WeGtuem1Dc1hVWGhCOXdHMENnTHZmcWEzODBVQnBmSV9HZnRHYVVJZ3FpdXVwM0tGSk5hd1hnVFlfSG1FclBQWWd4YTkybGRuLVl5SFhzeWNnX2V4NkY2cGlNYVJ0eUhSc1A0WUR1djM1dHhCcHk2Qnp4WDJxYVhnMi1seEszX3pkVzJBTVR6dE5oWlNS?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792162210697
-    },
-    {
-      "id": "news_NATION_TrumpsMAGAalliesopenlydiscussmartiallawA",
-      "title": "Trump's MAGA allies openly discuss martial law - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUVBekxiV09aX2tTaHA4MUJ4QUM2b1dKQjNMTkhwbkJYaE04eElBV19zWlY4SE9HcWtzQWNVekN2WFdvMFFrNzMtcldka2RBWEotOXlVeUlaRlI1dVN4VGpSdnExTUxwcE5VMXc5NkJhR1U0eXBFVm9yTWNEeEpoU01tWk0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792162210697
-    },
-    {
-      "id": "news_NATION_FactcheckJDVanceattacksAbdulElSayedinMic",
-      "title": "Fact check: JD Vance attacks Abdul El-Sayed in Michigan - Bridge Michigan",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTk0VW84bDREQXF3UVNQaVBZS0NTbk9fQ0x4MzlHV1RtVThzMVh2ZVpCM0N2ZzlISXJkWWdkR0pZRUpmdjVWNjVHYTNOM1pReVVrNTNGVjB5ZDZZQWR1QVFZVnJyRVZ2MTRpa3FBbDdEOTRyYURFa2dleklYN1p4VnhLSWlMRko0RUZBbUdkOGNZWEJBZUhSVUxxM28?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792162210697
-    },
-    {
-      "id": "news_WORLD_EverythinggotworseGenZexpressfrustration",
-      "title": "'Everything got worse': Gen Z express frustration, regret after Trump vote - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yaHRFek4tTlppaU9mb3pDaEt3cGluNWx1Vnp2VktPbUt4TjRPLVFkRTBnNnk4cDVIaG5RN1JwVnJGb3V4dkNhWGpaMTU3czRmYkVUNDNaMGlNdW8wd01mdGYySHdyZ2dPSF9LeXNzR2p6ajRMNEUzcmxVcw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792162209708
-    },
-    {
-      "id": "news_WORLD_GulfstateshavedownplayeddamagecausedbyIr",
-      "title": "Gulf states have downplayed damage caused by Iranian strikes: Report - Middle East Eye",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmNocnlSVmYxR2Vfb0RXcThKVGtnekFlbHJJeG1qQ1VGYmhUcGlIOE9IVDdzbXIwVGEyOXU2Z2lpdUZabDN1anN4RGZucllvb0ZST29EVnU4YVZXZ3lQcHRqdTV4TDNCMnljbnp1eE05ZzhTZG9DNUNRTG9qZmVJN1NKWDNKZ3ZuU2JPeUEyVEluTXVLRXphVDE4Q3Rrc3J3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792162209708
-    },
-    {
-      "id": "news_WORLD_EUleaderstourgeZelenskyytoreinincriticis",
-      "title": "EU leaders to urge Zelenskyy to rein in criticism of Trump - Financial Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDU5Sm1jVF9Rclgzb1BKdVhhaXlwekFsT1FYa3JfcDhjM3V1TGNjbWlIblJqOXNwcjcwNVdweDZ3MVY0amRRRExvbVpTM1cyRUNfQjlxd09hNDNQM01WQWtwUkJHOHdjX3dRRThsUVRuZGcxRXF3SWlBYWotWEhHdHMycHA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792162209708
     }
   ]
 }

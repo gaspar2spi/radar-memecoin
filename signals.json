@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T17:34:17.226785+00:00",
+  "updated_at": "2026-10-22T20:46:04.613176+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_ElonMusksaysTeslavehicledemandexceedingp",
@@ -1430,6 +1430,160 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_tech ceo controversy_AstronomersResponsetoItsCEOsViralScandal",
+      "title": "Astronomer’s Response to Its CEO’s Viral Scandal Is the Most Brilliant Thing I’ve Seen Yet - Inc.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (ye) mentionnée; mots-clés viraux: scandal, viral.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDg4eTRMOEZULWlKY0d4Z2ZBeXk5ZGxNdWs3QW1BRmpIcjJqN0ZhVzF3UjB5c0RIU0FDdVg5UWFpVnVjNDlRQzJiWVlpZFN2WFJMMTBzZVQ1dFNXaktDUkllbkYxMnVMUlh4SHVCbUhpVGVnMGJLVnhXS2gwUElsT1NpM2tfVFlZVlpFaWFCOEpaS1pERjMxOG5iVEViVDBMeFlfTTg3c0NQem5pVHF1ZkRraGlURFZoWGJEZ1FJQUlCNFBJTHc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792701949836
+    },
+    {
+      "id": "news_billionaire announcement_Trumpaccountswebsiteisunveiledwithbillio",
+      "title": "\"Trump accounts\" website is unveiled with billionaire Ray Dalio as its latest supporter - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NcFhabEg0LU81U1FONnRSRFZTc25UWWszRUE2ZWltRW4xV2s1ZW55T1hHcEJMUmN2LXEzR0pNRW5PV3hlMGhLT0g3WVlRZEJudkhfUzlqdUFYVFQwWXN1R2ZRRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792701948503
+    },
+    {
+      "id": "news_viral scandal internet_KeyConsiderationsforEmployersWhenWorkpla",
+      "title": "Key Considerations for Employers When Workplace Issues Go Viral: Lessons Learned From the Try Guys Scandal - Ogletree",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (viral scandal internet). figure tier-10 (ye) mentionnée; mots-clés viraux: scandal, viral.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNzdvSEpiN25fU1FXdXpwMnA0Y0t3b1hHYWJ0SFhBa2FIbXlHNTI5bzA3VjBqSUdWazJfc3AzUnFVRGZ0TEJna0paX25BTFFaY3pQYTRKSjlzOTZzTWZtS3hxSF82eUY4TDdna2hNaFdJYlRvdi1aZENCWEFpTGhGRE5MS0ZzYnl2WXhEMVJDN0tsbVMzekx0TzdDcFROY2QwOHRDOTU0OVRoN1ZOVFNqUUdnbXpOTzVORldMVllLdEl4RzJVNWVTT2ZRWXBkd1Fva3Rwb213V1laMEh4V2tHWTVTeDFoUnhSSXpyaUdn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792701940508
+    },
+    {
+      "id": "news_SPORTS_TrumpaccusesLeBronJamesofdisrespectingUS",
+      "title": "Trump accuses LeBron James of disrespecting US anthem, demands apology - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZazI5SXN2alhXdHMtQVpLaTJjVFNfVWQ5U1ZSUUFIcXlKRm14NGZibjZFVGFnOU9UWWpGY2V4NjZjYzd4WG5COWU4cE1wSnlET2JGRUVQS2tiUEE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792701930080
+    },
+    {
+      "id": "news_SPORTS_JJWattNamedCBSSportsNewLeadNFLAnalystinM",
+      "title": "JJ Watt Named CBS Sports’ New Lead NFL Analyst in Multiyear Deal - Variety",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHhic1V6dHllZU44bE9SSDVpaVNJajd6d3lIT09YWFBfOEFvb0V0eFZTa3VySXprTzNQN3hWNElzVmtPR29vVC1ybUJhU3ZER1AycV9pTGpUdUwzRUdLSnVfMF9CUzc5UjhJT2FUUUR3cURkM2FXUXE0WUhobmxMdU1DU2hWUG5IZzdoVGRZNjVyMkk2ZkY2dHRHS3I?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792701930080
+    },
+    {
+      "id": "news_ENTERTAINMENT_NobodyWantsThisSeason3DeliversTheYearsBe",
+      "title": "Nobody Wants This Season 3 Delivers The Year's Best Rom-Com In Episode 7 — Then Gets Cold Feet - TVLine",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQam94QXQtcnlYbUtaZWRDQ0JUNkpsMDAtSmh1ZG9sUnBvLXNwT2pOYzFiQzJqb1NmQWhJWUZrMmY5YzdhMXZBMUtNZU1oVFRtZWNtcm5qeUt6NUZnM05pNDVJSFhNNTBJc2MtRzEtRTFtSTlkaG5ORUdmYUtxdGVJSVgzYUQtaDk4UzJiWFMyUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792701929077
+    },
+    {
+      "id": "news_ENTERTAINMENT_JudiDenchsaysshecannolongeractorreadduet",
+      "title": "Judi Dench says she can no longer act or read due to worsening eye condition - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV1hlQW5TamNERjdMZE9kdHZDdHhuaFEyZ0lKcTI5LXc2ZnVkYlM4YU9JdWd1MHVZb0c5OVhRNEl0Q1FpWTgtb0o2OXpsbURFWHRVRFJOZ0l0RDBHMS00eWRyMHBYcFA2ellBQVhvWjdQRF85QjhWR25tNnhNZEZmazFtUmtQQm5qREdoZk1YczZZWUVJNlRKREE4b0twaHptNjJVVGNkZW9GODRlR25udEx6WThhSE05Y3NqeTJ4eng1b0dtWUYxUmEtTEV4R1k?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792701929077
+    },
+    {
+      "id": "news_BUSINESS_ElonMuskStepsInWith1BillionEquityInvestm",
+      "title": "Elon Musk Steps In With $1 Billion Equity Investment For Debt-Laden Skydance — Report - Deadline",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkwtR0pVbVRIcjdBWXVoMHFFTGtGR2lydnFibGZVOHB5dUE1VHVta3JMMzVvT0pOWjNlMjhYWTVoc0Z2SWdMeEx6VDN5dVl4OUxqdko3VjR1cXhuZmhJQnRqaWVBX2VvWGc2bjJTM3RoeWtMaVpZNkRydFZhMGZjXzF4U3JRNjNDYzNFcg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792701927175
+    },
+    {
+      "id": "news_BUSINESS_ElonMusksaysTeslawillsell5millioncarsby2",
+      "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise - The Verge",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa2ZBdU9PdDlrZkhKNDdGU1RPbExfb2RSVFdwM2VwRXhrcjlMcTJHZ0NTaGJfZ3VaR1pqbHpJOFhvTE54ekNSRFJ5aWlfY2c3NFgxVWYzcmFOdUpGMkgzbXd4SkxHeFp3bmM2dGtyUnFFaDJ6ZmFacEJaNkpTTElNY2dfbjlRa0UxQkhsOWxBM1RxaTd6Q2dpcmdIbTdfdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792701927175
+    },
+    {
+      "id": "news_NATION_USjudgeordersTrumpadministrationtohaltno",
+      "title": "US judge orders Trump administration to halt noncitizen voting investigation - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcGlYYnJ2UzNYcC1RXzduUFR4Q0NSR21YRWh6b1k3NGtUdWZvdXlXUUpQZk96RFlBWjVmV01TY2FQbFJDUXEzV250dDltREt6MmoyNUF4TE1WS3Z1RjRwRlBjdHN6MXpnaEs5dXBCc1ZLMmczNFZOeXBwLUZHcHpjRENZbk1MU2JyV21EZk5OU2R4VjJ3ekMxSkM1c2ZYZkVIUWpXZWlsMUxRWlU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792701926234
+    },
+    {
+      "id": "news_NATION_ExclusiveTrumpCalledMuskandAskedHimtoLif",
+      "title": "Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions - WSJ",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaXJlSTBTVHFScmtRbGRyTnkyTWlkQ0FrMnBhXzY1TmNlQVFmUUpud1N4RFR2TklOeXBLRzZSajJvbzNJYW9hN2JjbWdEbElRbzkwR1BSQzlhQWVKbWV6YmNRa2M3Z0oxVmhyT1JaOW5pODNzblBVNjVBbmVJOWxQbVBXS2NyU3VTcFlKLWFZLWN3NDllTWdSRmRzU3llcTN4b3lKc3JrTQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792701926234
+    },
+    {
+      "id": "news_NATION_CalleyMeanstopMAHAallyresignsfromTrumpad",
+      "title": "Calley Means, top MAHA ally, resigns from Trump administration - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: resigns.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY19EUWx4ZVBfZ3NJSVJjR1ktMmRQUlZnR0stTWp5UXIxVTMyano1Qi1ybGdWR0ItUHpWVlFaakhvWExyZ2VuVzA3YkxLSVFnRUt0cGJsOEpJWDhMTnJEUlhaOWp0OGpQLVladXUtRVRfQzJrLUh2X2doaWI2TkRsWjZId3hjdDRvWmtjSFFGbm5xTzJHNmZaWTVRZzZHYU5sNnJXUllZaEpzTmZ5VnNF?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792701926234
+    },
+    {
+      "id": "news_WORLD_FlamingoRevolutionAlbaniaProtestsEscalat",
+      "title": "Flamingo Revolution: Albania Protests Escalate over Corruption & Kushner/Trump Luxury Resort - Democracy Now!",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VTTlEaDFtMTJSdndneWxzZmdVWmJxd2JSVU9aMWxDajVwRjZvdzBaLTY4VGVuMjlYMVh3SFhjV2xzbUJtTm1Ud3lqZ2VRWFl0dHZFYUZ6STlfMC1SbEpQcks5ZVdUS0JNYUlQVlZpd0xsYlU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792701924924
+    },
+    {
+      "id": "news_WORLD_IranWarUpdatesTrumpaccusesIranofmakingup",
+      "title": "Iran War Updates: Trump accuses Iran of making up fake strikes on ships to drive up oil prices - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDJacGlyUkJSMmZfSXF5dlBwLU5PRXdsQnZiMFRyRmJTeVU3dHZnQlF6WDVRQ0pjYlFFamxjV3dXU0E4SmZ0SkRUMW1uLVh6cE05SDBLTEhlTnI3T3dwQXNWbFQ3TzFaZ1lZY0RNeVlNSW8zaDN6aDh1NWg2ZTNvTV9OM0xYQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792701924924
     },
     {
       "id": "news_internet drama trending_Chinadramaqueenlambgoesviralforplayingde",
@@ -5346,160 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1792358779941
-    },
-    {
-      "id": "news_NATION_ElSayedsexchangeoverMuslimBrotherhoodsti",
-      "title": "El-Sayed’s exchange over Muslim Brotherhood stirs inspiration, condemnation - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRG5ELXJWdm5NVk1VRmctM1U1cmZvUnd1NHlkMzFEU1VwS01XcXhYbjBPanNHbnQ2T0xROVNEakZ0UkdEenpyMkZWVmN6TDNDaGMwbUg5VkY1ZGhyQ0M4Q3h5b3ZQN1dQMG1oS3dHMDJVcF94a3BvUEZsTk9yQU9DZ21HSWdtcUZSN2pVd2k1TUdQaUNjb0hLaXZuc0tGOVdpb3RYQklua1dEZFpqX2JlTUVhSWdNUFFSeDdEcw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792358779941
-    },
-    {
-      "id": "news_NATION_GetawaycarsaffairsDubaifugitivesTrumpspi",
-      "title": "Getaway cars, affairs, Dubai fugitives: Trump’s pick Ken Paxton brings baggage to Senate race in Texas - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOckdmYTQ2YWgyN0ZmeWRibHJ5eGM0SjlSX0gxTmdVWDY0NVJQTlpKOF95c2Z3MVJhNXhtYWhYZEk0RGNFLTJpUFptUEJEajRuZ0ptbXZ4TDZaWGlpOV9mcGFTd20ydFZMdUNjWU5yVVktOXo2U0JmYjMzd1p1WWFYRjlzNWY4eTVCNi1Oa1p5VExvQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792358779941
-    },
-    {
-      "id": "news_NATION_TrumppromisesbiginvestmentinKYfacilityif",
-      "title": "Trump promises big investment in KY facility 'if the Republicans win' - USA Today",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPek9vbXNKYlUzRDR4TWxzMUNvdEJLdjBHYzRwcGZRT29uRnNjN015cnA4V2R4QzFpQU41Mmx1R1B1dkVncEVLMnU3ZjQ3ZFFXLVhJX3ZPQkJZeVVtWU5xcEVDT0JWUTZnakx4VlZFT1NhdHdKZE5MSXBYQ0ljSEhSWndmOVJYa1hXcjl1SnZNdmYyUFl2S3h0U2xxNVpDaEN2c3VQZVFZX3JpYVVBMVZHZHp4Q1RRemxzRUVPZ2tB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792358779941
-    },
-    {
-      "id": "news_WORLD_MexicosbeleagueredPacificcoastbracesfora",
-      "title": "Mexico’s beleaguered Pacific coast braces for another storm in record hurricane year - Los Angeles Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEZDSlYxbnp2UWRHTWdOR00wRk1SZmJtMjdpT29MNU1oUXFnMXRkSk85bm9BWG91MllGaWpkcGZCOEZBeXBpOHhBZlIzb3ZodFA5U0dVbzVyWHJ3Y0pvOWdkMWcyd1JpUmE2ak9FaEY0SF9zUmhrMXhJT3RubHNFa3cybG1QLVotcTVKTA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792358778887
-    },
-    {
-      "id": "news_ENTERTAINMENT_HarryStylesDedicatesNewSongWhatIsEnought",
-      "title": "Harry Styles Dedicates New Song “What Is Enough” to Liam Payne Exactly 2 Years After His Death - E! News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQclpvYjBqWV9iRFJ3cksyd2JzXzdwOU5pcmZpd1F3RDRVdjdpallEYTF2NGMyTEx5VWFkMVNqNnNXZllFZW5YRWQzZHpJSjFKYVBHYjkxU2VkRnZWYUx0akRSV3JBWjRtQmpVV3JRSVlXREJHMFkwd0M0eGVrZEVkOHh1N1g5TjlkaXhDdGxMaTdYSXdGdFBfOUE3cWtXa1NlTTFuRks4VlU0UQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792350216024
-    },
-    {
-      "id": "news_NATION_TrumponcequestionedObamascitizenshipNowO",
-      "title": "Trump once questioned Obama's citizenship. Now Obama is speaking out for Ilhan Omar. - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZnpTV2JTem1PdDZiYl96aklFcGhLLXNlNk9QZGpLZHBuUjF3ekJNT1FvUGNRMHN5dUMtdHgtX21ZeFBvWG5YZF90TkdVeTQyVGE5dTdlT1R6dkhIRlY5ZTdlbjd4Qk9BX19jdnh4ejNiNExnVnZDeHU1dWZNWHpCOUE1b0ttOW9xOWJhMW1jZ0VTLW1VblRSdjBn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792350213313
-    },
-    {
-      "id": "news_NATION_TrumpEndorsesNetanyahuasBestUSPartnerinT",
-      "title": "Trump Endorses Netanyahu as Best U.S. Partner in Tight Israeli Election - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVpDck5KVXpBcWpYMXZJbXJVOEppbUY5MWVjcTkzZVB6VmJnUUJWUVhOYTB5X3dkdmdNNjY0OVEySnRGMlNfcWFBSDk3NUhtVXFjM09GV2ktS1BsU1lVMDVSekE5OGFOMFJfMElkT05zbm9kWDNHOTVYVDRfVFdrVXhocGo4T3BnOG1EQUJNblRLU0xoNENR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792350213313
-    },
-    {
-      "id": "news_NATION_ElSayedhastestyexchangewithmanwhopresses",
-      "title": "El-Sayed has testy exchange with man who presses him on Muslim Brotherhood - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRG5ELXJWdm5NVk1VRmctM1U1cmZvUnd1NHlkMzFEU1VwS01XcXhYbjBPanNHbnQ2T0xROVNEakZ0UkdEenpyMkZWVmN6TDNDaGMwbUg5VkY1ZGhyQ0M4Q3h5b3ZQN1dQMG1oS3dHMDJVcF94a3BvUEZsTk9yQU9DZ21HSWdtcUZSN2pVd2k1TUdQaUNjb0hLaXZuc0tGOVdpb3RYQklua1dEZFpqX2JlTUVhSWdNUFFSeDdEcw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792350213313
-    },
-    {
-      "id": "news_WORLD_TrumptellsAxioswhyheendorsedNetanyahusre",
-      "title": "Trump tells Axios why he endorsed Netanyahu's reelection - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlUNWVNcFlkMnV4NmR2TWhvS1daNVlab2RvY0FCQU5DU2pwSGtWMEJpcFNRY0FESFlmSThHbzljaE5ZVndfOFRfZE1kZG1taGtiS3hTMnNPNzRrTm16dEtXLWEwcE1LMUF0TjRjNThwR2dCbm02cFJjdWZWSjlGU2RvQzE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792350212350
-    },
-    {
-      "id": "news_NATION_TrumpsharesplantooverhaulEastPotomacgolf",
-      "title": "Trump shares plan to overhaul East Potomac golf course amid court fight over land - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjdfRmFtX2xmZ241Z0RHMWdRdW1TbjgtN1hGUmljRnVYaFRGVWdscExsZlItMDJGa0NZYXhpU1VnSEJTbjJzSHlrU2phNFlxWEgwNlowRDd6TEZZX3c3UlM0akRVaDNXNjdFWnJ0UDc5ZzFheFE1YUt6LUJlUW1PUzBnQnBnbE04NlBka3ZrSFp2NTVXZjlqdmtjYXA3emhI?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792342390214
-    },
-    {
-      "id": "news_NATION_Iworkedondeathrowfor18yearsThisiswhythel",
-      "title": "I worked on death row for 18 years. This is why the livestream execution was cancelled - The Independent",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSUZBYXA2RVpJaE9GUGZlYTdIWjN1LTNUcGZhNGZqTjNaTF9XeG9VcWFDVTctVjZQRE1LcVE3dkZ2TzFUd0I3UGRPY1hhSG5KYkRVbU1od3hEWm8xTjdBcTNBNy0xbEF4dmdnRzVzU0dwYVVLWWJnWno1MU1UV1NGS0x4X21DWmtDNGhFaVRpSEFiaDJHanZXdVdoNFRuSVlOQmU2VTU1SzFmSzg1VXdvVUNYc0dqSlFTMk81WkVmcjdxaGE0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792342390214
-    },
-    {
-      "id": "news_NATION_YesSusanCollinsyoushouldshutupaboutbeing",
-      "title": "Yes, Susan Collins, you should shut up — about being a moderate - Daily Kos",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUFZ6M1Z4MDNVdEFleEFUZnhoeTVfUEZlanN1ajVaZDVEejFHUlNkRmRCeTdpaDdGYjhDRTR1RWI0TVYtbzdSSHNUcVhPZFl0YTBYSFRHYzN0ZXd0Tkw5cnZWT0lEMWFBWlRZNFJKRkxhNmJuMFZrTDljcDZQckRzV3V5dHFtQlUxLWxnWC00TldaZFg0TlZzUzNfM3FSMkVVWVp6aTU4Z1N2M0cwQW9FaDMyLW5ZMUpGUHFFd3RSOGs?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792342390214
-    },
-    {
-      "id": "news_NATION_TrumptoutshispoweratKentuckyrallytoenerg",
-      "title": "Trump touts his power at Kentucky rally to energize voters ahead of midterm elections - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHB4YWgwWHRUS2RUWDd2V0hFVXF3dGVuRk5xRmR4MUtaVHVGaVhoWUVLZ2lIUGFjbkY1Zm5raXQzekI5QWZ1UUhEZ3QxV29QX3dtSDhmeDM4QmJMTzNDOGpucDFsZUMwRm9idGdFSW45NEUzb1BPSXpEWUZwanlFZzFRaWpwMl9WQmtMR2kxUlMzVkU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792342390214
-    },
-    {
-      "id": "news_NATION_2026MidtermElectionsTrumpRalliesRepublic",
-      "title": "2026 Midterm Elections: Trump Rallies Republicans - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObm9FYWtTdVB6dUxkVDlaY0c1NFd2X21QaDNVRVZ2UUp3X0NkQTh5YTZPYW1qR19obGEzdWFENjNnWno4WVFlRjdxbW9nSG1pMFBRQlRBOUJ2QS13TnhLM0VEdXZZcEgzcGZMSzRIb2pSNWVibVhuOHRoNjRrWTNSeFhVV3ZGMEVfdVN2R2xqNFprbkFYTkd6UWE1NA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792342390213
     }
   ]
 }

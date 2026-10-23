@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T23:40:14.009938+00:00",
+  "updated_at": "2026-10-23T01:58:25.619316+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_ElonMusksaysTeslavehicledemandexceedingp",
@@ -1430,6 +1430,83 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_gaming leak_ValveemployeereignitesHalfLife3rumorsbyd",
+      "title": "Valve employee reignites Half-Life 3 rumors by dropping 'HLX' codename - Polygon.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (gaming leak). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyZDJxTG9CdG51ZnBWU2tNZ2lMWkktRktMMWtZNjlOd2FRWFBQTnRkR21SV1NYbi1JU1phVTNodHlma3BNaVdMazUtcG5UWWJYM2NnZmJSRFFyUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792720694653
+    },
+    {
+      "id": "news_SPORTS_TheOpenerRaysG1StarterCamineroYelichMLBT",
+      "title": "The Opener: Rays G1 Starter, Caminero, Yelich - MLB Trade Rumors",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVFNiRjdJTmFIYWdIbG85NThMTW1odS1PUWtES0syS1JsZGVIWGlwMDVFNURKaEpCbUtUY3lwdm1fWWpTYU56aFdiNW8tbTF3VW13WkJmb0F1TnhNaHc3TVdfUnpXanFfTTFwekJmYUZiMFR6U2RfeEh1ZFhoV3ljWkRTdk5sYV9BZFBPUGRHaw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792720676136
+    },
+    {
+      "id": "news_SPORTS_BSJLiveCoveragePatriots42atChicagoBears4",
+      "title": "BSJ Live Coverage: Patriots (4-2) at Chicago Bears (4-2), 8:15 p.m. - Drake Maye, Caleb Williams face off - Boston Sports Journal",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée; mots-clés viraux: rage.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUTJpem9PX0VYRzZmMXktc29rcmNEaU4wcFhtdGQ1UVZiWWd0cnpsTVJON282LV9DRDhNbUljaWNEdzVSY3M0TWUzQ29ZQ0VoMDBTZU5HZkJxQ092Vmh6WFZwTmtGQmwydXZIcDJkTDRBbDZqNzhaalp3aTNyclpqLVZPa01YWkRtcVQ3NlN6TTRLbWRYNV83VVNfUXp2UTU0ZTM2VFB3RjJrSmNQeE5KV2ZGNThGVmhHQlBkOVNiVFhKZDdQX2h6SHVYbXFSVDZ5ZEE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792720676135
+    },
+    {
+      "id": "news_BUSINESS_ElonMuskreportedlyinvests1bninDavidEllis",
+      "title": "Elon Musk reportedly invests $1bn in David Ellison’s Skydance - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZC10ckcwMlpXbVRPZ044N3gzSm1fU2dLWFBKMTFQbHZyU3diSUMtRnNsS2xDd0RvNFJ1WG9zS2FEMlo0QWthaDQ3MTNlSi0zdGtvcEFLeGN4c2NlNFZkYkhWYkFQNnFEbDh4akllZ1BKblRmSDdpSV9LZ1NQRHFLOXlMU2FFRFJzWTdoNEsxcmlZOUVKblN3aHBn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792720673664
+    },
+    {
+      "id": "news_NATION_TrumplamentsNYChorsedrawncarriagebanTheH",
+      "title": "Trump laments NYC horse-drawn carriage ban - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPekZVTzV6bndZTnp6YzVTeFhuZjlTLTVtSjJRdVRscHNrYjl6TEc3aTB0Z1JhandQQ1ZTM1dYQTJicXJKNHdlaFhQYVRBOGl2VDc3SGV2d044djhJZWlrcEMyMzRDbWZvbW45UkVMMmVXRGdabE05M19YcEFLSkRjNFIzQVBad1NZZmfSAY8BQVVfeXFMUE5RWTVxTWdaTEVqbTBlTGdRdzFIdDIwd0daZUJmc1NjMXdEZmVQVmRSWFZaWDZ6RVRQOHUwdExIbkgtMzk1N3pNbkRMZjByTHpNcEdleVl0OXpILWNuMUFvXzYxNU4zUUlHakhKU2RtZlVRX0Y0Yjd4c0ExZzhSNS0wanZxNzJtNHF0TFMtdWs?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792720672870
+    },
+    {
+      "id": "news_NATION_Trumporderedtoanswerquestionsunderoathin",
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: lawsuit.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8weHhGeVlyd3N5RDNQTFlHY2tuMnU1RVRyLXdhS0FNLWJpZDBaZ190YU1SZ25iNFNQMGx0d3FuRk1SZHRaZ0I2MlRxYVp2T0toQ1ZKUVVGSVJXNWc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792720672870
+    },
+    {
+      "id": "news_NATION_RepublicansretreatfromNorthCarolinaasTru",
+      "title": "Republicans retreat from North Carolina as Trump admits Democrats are likely to win the Senate seat - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWN4Sm1oU1NrZ0h5QlMyMG9nZnJyRGhnaDc4OGNKd0JfMWJXWENEZUh2MHJucG9tbFozNGUxQ2MzVzFCeXMxbUVfZXF1bGdKdF9lMHNtUFViNmhOWEJiYWZmNFc5aGpta1loY0NmQWxzc2xhS1pCNHlsWVhLdFlvbG1sZWtYRWE5TGhUbGlocERXWmxoWTN3S0J0QnpNTW1YNFlEQk9KNA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792720672870
     },
     {
       "id": "news_SPORTS_ArmanTsarukyanconfirmslightweighttitlesh",
@@ -5423,83 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1792373531345
-    },
-    {
-      "id": "news_NATION_CBSreporterapologizesanddeletespostprais",
-      "title": "CBS reporter apologizes and deletes post praising Abdul El-Sayed heckler - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWjZiMUlCbXpfa1NzUzZ5T2NNOWRqdVZROFRaa0x0OXg5cmRaSlNIclNZWjNYdmI1a1pJUVVpRjM1V1Zjci0xUXRhZHpJRjBidzRMVHRtZWRtY0lFZmE2ejNBalNpNlludDhwZHBiWFYyYlBJM1NjaVg1TXQzTnNfTzk5VVY5Qlp1RlJfc05GbVZnRjg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792373531345
-    },
-    {
-      "id": "news_gaming leak_Shrek2RemasteredLeakShows4K4PlayerCoOp20",
-      "title": "Shrek 2 Remastered Leak Shows 4K, 4-Player Co-Op [2026] - shattered.io",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (gaming leak). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfUkxXdjRQdWgwRER5QTVGMUF5V1ZXWlFlYTdlNVBZM3FpRG5OWURMc2xuRXdZRHNEcnozRm1MbXdQZXZnUTA5YjhGRXZ2cWY3YkkzdW1pa2hPdDBBWkdmRDF4a3FkRGNpdGJWUEVZc0FoVlhoLXY4?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792366100610
-    },
-    {
-      "id": "news_government shutdown_Trumpsignsstopgapfundingbillintolawtempo",
-      "title": "Trump signs stopgap funding bill into law, temporarily avoiding shutdown - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTM3Y1Y1ekRCdU1fYnFNR0I1Rm5QWnlnSHJpLTdJY29zZ001Q0J6R3dnOF9xNmw4aEtEcHFhVm1mdUpUNFRpeUEyaUtVeHFrQVVrQjJBMUZPYktIcFNoNEFtMXQ3OXEzQ2VsSG90RkJrem5OLXlvWXkyQjg5ZDBkOUVWQVdfd1VBcVBlUVBoYWZrOU43eFV3YVhRd0szUE3SAaQBQVVfeXFMTWkyTW90OWRCWnN3V3ZhaGs4UmZsR0kwYWVyM2VVcUJ0eFAyak5tc05qc2ZCbTRPdHJCUDdVSUhqQXc3STVPekN2WTNSREhZQjlxQTB5WUhyREpVZkRqYkNSOVBVUm5GM1hXcllWZ1Joc0tyeHgzcW5UV01qU3JxLU9OZ0FFdktpaVFaMWtVVHFfM1FmS0RQcFFqVDZrUUpRTFJmd3U?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792366095943
-    },
-    {
-      "id": "news_TECHNOLOGY_SanFranciscotechietakesdownzombievideoga",
-      "title": "San Francisco techie takes down zombie video game that let players kill homeless people: 'It showed poor judgment' | Hindustan Times - Hindustan Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNc21jVjZIQkktZDQ1NnBBVDVjaDdQYjJkMFZHdHI0eklxbDJkRXdWd3ExbEFRQXBtelVPYU14dXhZcWRpXzFSMFRfcDZoVjg1RW9CZXczRC02bzUySk1xNUU5RnF0M1I1LURKS2NPaU9tUHMtR0g2bFM1eEdyMUU5bG93SC1Sa1ptWUNNMDJ1LVNOd2oxYzdGV2Znb0hDTmJoaE1TbFhkVE4tUWpYb1ZfeklROFJkVHA1X2ZZZllNd2VweEk3N01aejFXbTVCQ0dsWFZibzFOWVlhN1RnVTVJOVluMHVqcERvZjhqR2F5QU9PN2EzTFBzNTg0cFc5OVhHUzdoaU5B0gGLAkFVX3lxTFB3ZzZLTTE1amlUOEFpMkF3OVlxbkF2Z1hWeWF4ODJOeG42Tk1TYkgxSktySTlobGpwUHRQVzlucHAzQ1dJNTAwOFBlN2R1aVVhaFc2aDRUa1MtdXVyTDZrYmUxaEZGNlFaT09kVjZ3eURoaVE4SEdjbXNvNENzZkR4RkpyTWlRRDZQMU9Gc3VNcWdTRWxTbk1GenI4ZUQ1V3psZUFsankySVp1LVRrLTdLUU1GTzNVQ1pKcWZNRVFoUDN1ODNENjRwUnpwYUVQQTBxN21lSU83clFoclp3M1JPSzlxYm9RdS1LdGVtUllaSGFiejE4Y2g0WmNWOFBIM3BkclZmR3F4eV9Tdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792366081266
-    },
-    {
-      "id": "news_BUSINESS_SaudiArabiasendsskyscraperemployeeshomea",
-      "title": "Saudi Arabia sends skyscraper employees home amid Houthi threats - DW.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUmNWR1JhdHgzVXRndW9RX0JYbEh5RV9PeThsVmJrM3AyXzR5WEtmOXN1YkIxWmF0OV8zWlk3X1FMalNwM3BJQTJLWU4yTW13dG1yM1NMcmdnRHRkZnFDUWg0VGZjYXFIdXZBenZVX2lLMUtOSjRvMkZJckVobWhPQU4zX2JkcmgwVVRfOWx6dzJFQTg5ODZEUHJBNWZEZ9IBngFBVV95cUxPZjRmSElfelpyenNzMm1SYUxmel9kQ1JUNkxmMGRLZ3EtTFlrMHQ3aEs4UXdZeGRsajVpUEhIbVNtX1JFbjAzY2xFWTdOSDR6VXdJbGhzUmRUYUk2c0RQVGlSSWJ4YmpGTTdpZkZYZlRBcVBHOHRGV2xUTFlwTjFvd2xIRlZnMHA4UjhJb0JPLXpmNXpjXzQ3d2xFSmdKUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792366080564
-    },
-    {
-      "id": "news_NATION_TrumpendorsesNetanyahuincloseIsraelielec",
-      "title": "Trump endorses Netanyahu in close Israeli election - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792366079866
-    },
-    {
-      "id": "news_NATION_WrightcallsTrumpsdieseldealapeaceincenti",
-      "title": "Wright calls Trump's diesel deal a peace incentive. Rubio says Russia would sell anyway. - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNal9zN3ZsaVg1TkVYRF9Xd1dMMmE1Slk0ZWE1ZG0ycTkzX2FzbXA4R0dBTGNYcWk5UnA2dERqcmc2RllaY1J4VXozbEdkWHZTUk02WkxQRmxMUUJVQXY3U3JuMG1OcEtmc2x1R3oxVmRoMnBialA4UXlfSXpSVkh1RHVWNHJ6R3c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792366079866
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T01:48:44.829657+00:00",
+  "updated_at": "2026-10-24T06:33:40.901585+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_ElonMusksaysTeslavehicledemandexceedingp",
@@ -1430,6 +1430,149 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_TrumpsBigAIAnnouncementCollapsedUnderPre",
+      "title": "Trump’s Big AI Announcement Collapsed Under Pressure From These Billionaires - Forbes",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV2lsdjhnalktS3doNzhKbFhzZzNQVkNQakx2dmtoc2pYTWVaZVVtYW1NQ0hCSjNhakUzLS1lYWRiaGIyVlk4ZVdLTGJCUWM2MXFwVmdWbGo4cEkxcTlteFpNUm5MT1loQ1VWamRjVjIwZWViWnBIMlpDVldFem5DNFYzZ3RJeUVPQTdDSk5wc2ZNV3dmdUZ6QngwM0VQeTZvRkxwZThBOXNxWHBIRDJ6N0wwQVpNYVMydGZVU1JFSkV5amRwTndPSGNybFZVdGdOaEpN?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792823606016
+    },
+    {
+      "id": "news_SPORTS_ESPNpostspropagandisticheadlineaboutTrum",
+      "title": "ESPN posts propagandistic headline about Trump, LeBron and national anthem - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNckxsOE5ySXRRXzN4ZDNjaXdvSlBrNTRXNDRVY0h1YVE3WVNNTUpqcmo4WmxETEZvaGpIcjF0RDFYQVpRNU9QTDBwM2hZbGJ3Yks1UnhOMjZZLVhZX3laRkRYYjNrWWdzTUllZ3hEUWw0TFFTbS1OVTlkLXM1alpfOXBwWHFkU0F4Yy1OYkl0RmVKNlVucDFEVno4S0Fic0JoMWFTeg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792823588926
+    },
+    {
+      "id": "news_SPORTS_JesseLegreenationsleadingreceiverannounc",
+      "title": "Jesse Legree, nation's leading receiver, announces return to Oregon State for sophomore year - CBS Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMHNSM0NKbHRHY2V3NFNsaTlNSXA0VVY2eDVTMzJXNXBBRkl0a2RqSmhQM0hDb3NZZG9nQzFZX3FoYmhIMTd6Qlg0enRaSEVIbTVMVTA1M2dNU2lQZl9NUVplWW9NVWw1c2VHY3Z2RWY5X2FxaGoyelJVUlphc3Qxa0poN3hHM3VXRGJGUjQ0UnhIUkxtX2tEcGFfMUx1M0E3SDBZcXRR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792823588926
+    },
+    {
+      "id": "news_ENTERTAINMENT_VanessaTrumpsayssheiscancerfreesixmonths",
+      "title": "Vanessa Trump says she is ‘cancer-free’ six months after diagnosis - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmlLWlR5ZXNWOXBDbkpYNVJta3UzTlNKbmExT3drcmJ3NHljMGRsd0lMUkE0R1M2UDhRc3k0anR5N0MwNkRlU0JMdk1ELU9vQktsSjVnM1daWEVHbDRJTEhHZEstRVRpdTB1bmhjbk9yeVNjaG5yMDZ5eDlEOEl6Q05tMWZLMEVoUTQtWnlvOFhxQ1NrTklwRklnenc4NzZ4SE9BTmFGanBrQkZTZ2tYc1drV29ISU11RlRVNWNvWU81clU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792823587967
+    },
+    {
+      "id": "news_ENTERTAINMENT_PossibleLoveoffersfourofthebestperforman",
+      "title": "'Possible Love' offers four of the best performances you'll see all year - NPR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ndEtOSjQ3c0wzZkwzZUI5NGR1UEtBcHVhQ1VCeTRFY3MyeHNpM1A5Si1SdnBqakstUmdiQXQtSHZXWUwtWk9JUndBdlJOUENoUW9BQTNMU21nSHhvN3N3NWs4bDgyN0dCaGxaV183VlJGcjA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792823587967
+    },
+    {
+      "id": "news_NATION_CampaignsattorneysweighinonTrumpsDOJsuit",
+      "title": "Campaigns, attorneys weigh in on Trump’s DOJ suit to block election results if Sen. Sullivan loses - Anchorage Daily News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: rage.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQVpTOGxnNWZyWU01Rm1iRUhIV1BCWWZUcEUyVy1ZbW11cXhoZTEwb2NpRWxtR1pXZFhYNDJHc014cHAwOFc2czBpaWcyR1RQUE4xeXF2bVdfdEtaVnBWZnQwb2MwQ1AwTjRUVkpuZTJFTGUwNmFPYXNxUjhiMGFUdjl0bjFaY3cwS3Z5ak43MFhZU2NIT0Nzelg0NWhTNFNqOHY4dG0yQXNLUkdldUhtbDdFT0hFNjdHTUVqZ1RubmNQM2d0ZFZDLVFrWUI1bUVManc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792823585264
+    },
+    {
+      "id": "news_NATION_EXCLUSIVEUShasforyearsaskedMusktoalterSt",
+      "title": "EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmxvaUpMTUR1QlpFdTFCM21oR2ZqYmwzWUVrSFpBYmZLYlFjWV9yc3NTX1BjTnZndGl1d2N4OG52MlVJenJKNkxKUW9aR3lZaGtvVzJ1UzhCeDh2X3hQcFRJVklIZ2N5X3drTHk0YVpFTmNKcGN6WDlpQ294WE5TNUhBT0g0NFJjSDhmek9yMU0zNGRMeU1mZ1ZkME13QUJ1aGFMR0gtOWVqcG50SFZQNWdUVlZxV01wNUNWc2gwZlp3VVhoZDc3VnIwcWdQSGhVOWFWUUE3ZndMTDIz?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792823585264
+    },
+    {
+      "id": "news_NATION_TrumpseekingtohelpMaineSenSusanCollinsex",
+      "title": "Trump, seeking to help Maine Sen. Susan Collins, exempts some Canadian imports from his 50% tariffs - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZm9wdjFkZUFrVGtlRjlKaDR5LXZrQXo2TjhrSy1QdndlSmRjS2pBZnZ4eW1COVBuNlZYdHNKUUVKSFZaWG9zNHdnQ2txT1lmVWprTG5nc04yUW11S3NzTWJheVQ1NXl4WmNaNm80ZHd5LW9uRkctUGYtckFlV0ZuTlNCalJubEd4cDRCOHN1UmhGQkhGbVppblBn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792823585264
+    },
+    {
+      "id": "news_NATION_MelaniaTrumpsecuredceasefireinUkrainianc",
+      "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (melania) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHlzeURsR3Y1eUZHZDhJMDV6c1NmazNhamplQlF4LWNZNUswWlVhNDBNa3FaRmRyNmV0U2tiSXk0M0ZHSDRnYl9iS2ZBWHA4MnFkbWdYR2R6M0tLV2tSNWpBaEpYcXREZlBGYzBNdERTdWloNk0wTENNNlZ6dC1wdVhKV0ZCdmIyajJpRTBSeER5dU55VHRLeGEybzhHRGQzNGZWUnMyX1NLbzNRbDkxNXVB0gG3AUFVX3lxTE5qTDdlWnc5Zlc2aGRVTFhpcVoxT2VnWnhmeGdfeS1xWE44WUp3RjZsNmMwOUx3dXE3amtWTGxnQlg0SU82VXA4bGNEQjlFM3Y3UzZqSk03M2xTWmpseFlEd3NvXy1lc1UzanlLbV82eVVIQ2wyWDJ6enJCSDRYdjQxT0FSbDhqYkhUa2pQWEJDWjRsZFRDRmFENnpaMzlBNjBRMnR6WFVac1p2eC1YdHhOdjh0NGMyaw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792823585264
+    },
+    {
+      "id": "news_NATION_PresidentTrumpsFortMyersvisitcreatesheav",
+      "title": "President Trump's Fort Myers visit creates heavy traffic - Gulf Coast News and Weather",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWm9SYV9OcF94LUFKX25ILXRqS3ExNmxmanVCOXVsSXQzOElBZ1YwOGJuRE9nUk8yTWxUSG92bEM1QUhDN1Z6QWtBOHYyaFRqYmo5Ny0yWk55bFlucUJBZzRPbkpBN1RaQlJXcl9OdHhPaUxWYjRRc2N0WTRlbFpwODZVaDUwV28yY1poSERoQmxqZlZqSDN0bWhVNmRtT01RMTlSb19vdkxFWWRjTTA5amJfaXNnOEE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792823585264
+    },
+    {
+      "id": "news_WORLD_TrumpatSouthFloridarallyrevivestheideaof",
+      "title": "Trump at South Florida rally revives the idea of military intervention in Cuba after Iran - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWFM2WGlGZ2t1U3U3M3JjOWs4UGV5VXhDeUstU1ZuUTVFMFJ0WDgyeEtTc2dTeXp0OUpVS01rVlk2WG1Sekt4X043Y3lpb3liQlhORlNyTGxZQUI5cWpHRWJWUTNReFFZUzkyWFFWS2lwSnpqbjc3eXJUc3VuY3dsWnN1R01qWWNnRHVkLTlOdG0zWU44YVhFeFB4TQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792823584366
+    },
+    {
+      "id": "news_WORLD_XiJinpinggathersChinastopcommunistcadres",
+      "title": "Xi Jinping gathers China’s top communist cadres with focus on discipline - Financial Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (xi jinping) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNENfcTdGMExZLVo4T1NXS2haUkZKRjB0YjViRVRLVFdQSkVYT1lGTjB3VEU4U0RCbjc4LVZSMEIzUVFic0NMY2l6WWpOM1VfUmExbVlOTXM5UVVUX09DalRUcmEwQkRMQzhHNmJKbFJxWTNpSkQ5NHJLQTJ4cktuLS1Zd0Q?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792823584366
+    },
+    {
+      "id": "news_WORLD_TrumpandBurnhamdiscussNorthSeaoilUkraine",
+      "title": "Trump and Burnham discuss North Sea oil, Ukraine and Falklands - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUNKODFrR1F2TUlucF9FcWd0TV8xUHFzc0RKOHdfUk4tcEtaa1ZCUGZLNV80NXFUQlJLajRxOHRZSTZ5NUJnSllzWDZJMFNFbnBkd3NTaTNkNWV0NTFrZnF2THNmd3U4S1E4cU5hN0VJRFdUR1FHeEJLcFBhUTUtMHRjaEQycVN5Zkx2SThGaVZKMzNQdnVGaUtuaFBmaTVLZ1pmN0g0T09vZDVZWmc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792823584365
     },
     {
       "id": "news_tech ceo controversy_DELLCEOsWifeSusanGoesViralAfterAppearanc",
@@ -5357,149 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1792516301423
-    },
-    {
-      "id": "news_WORLD_ZelenskyymeetswithTrumpenvoysasUSblastss",
-      "title": "Zelenskyy meets with Trump envoys as U.S. blasts ‘scandalous’ accusations on withdrawn support - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée; mots-clés viraux: scandal.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDR3alJyemVwck9oU194YVRqMFhRQ2lyY3hfUlpwV1U3R001ZjBYamo2MWFEeG1CM1prMEc1Yjc0djM2TlhqQkw2bnp2b3BLMEZjbXlXTXBoWXd5QzVJeFpZTU56NE1IUV9mUFJKUUZLQjlQOTNxc2FYQkp0SkhWQkt3UUphUi1nQUtUZlJKR25yQ01Cb3c2Sm9NLU11eEFGVEVRRzNoZklpT3kwNXVnSmFQSQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792516301423
-    },
-    {
-      "id": "news_ENTERTAINMENT_AfteryearsofbacklashApureturnstoTheSimps",
-      "title": "After years of backlash, Apu returns to ‘The Simpsons’ with a South Asian voice - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnpMVVNrczd5MGhiZWpEZDhiZG1RTXE5bFJZVUkzSmlLdkV2ZEh2TTB1QVZlelNkOHIwVl9ZQ0M3MkJwTDlxaWlTQjBIZlU5ZklMVW41bW12cjVjR1FDdDh6eTJORVFDSnRsOXZiWEhNV2ViU2pSa1NodWZKMFcwYzBlMGd1U01IcVB2ajNLVFJ1VHdIMi1SUlg2ZGNNbHFtZnJtX21ZS3ZPYV9t?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792498457394
-    },
-    {
-      "id": "news_ENTERTAINMENT_YetAnotherNetflixStunnerDanLinOutasFilmC",
-      "title": "Yet Another Netflix Stunner: Dan Lin Out as Film Chief - IndieWire",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTzFmbVB1VFg2QTdneVJ2SkQ1T3JRWkhTZE9JS1N3Y0IyX1VELW5PdWF0Rmc0OWJCOU9XejVSRFV1Ui1fVmY2Z3FCbTBlSnIwakk4T25oRnNhUEJpbkFNUGNZcGRsYUVZaDBDTmFhdk5SRWNROC1zVG5pNHNDc0JRTG5NR3d1UmhMU1E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792498457394
-    },
-    {
-      "id": "news_TECHNOLOGY_SarosMassiveZenithUpdateIsAvailableNowon",
-      "title": "Saros' Massive Zenith Update Is Available Now on PS5, Free for All Players - Push Square",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSDY5SnJNZXEteXFETk9KYU9IZ2dyNzNsbmI4YnEyTXFPTnUzdWJvNE1TUmNxdUF5S3dEaXBuRi11akZlcGVReVRlcGJERXdKbmlqclR2M2xOaDFEbndLMTNxMmhYclI0RHlieVBmZEo2SEtaajE3NTJYRVdhQVdXeThUbEZBeHJTN1BtblFCUDBMNzlYMUw4Y0FXRVFKdHZ4QkNJVG9nTTVnUmNocHBoMTNR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792498456419
-    },
-    {
-      "id": "news_BUSINESS_OpenAIemployeearrestedforlisteningdevice",
-      "title": "OpenAI employee arrested for listening device communicated with Saudi royal, feds say - ABC News - Breaking News, Latest News and Videos",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée; figure/entité tier-8 (openai) mentionnée; mots-clés viraux: breaking, arrested.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHYwOU5SVHVGVm9UZUNVczl3a0xaa0I2Mkd5SlBBeFBJZjZhNTJNWEUwcE1rWDZEQ01iWF9ndTJ4WVBkc183NUthRURwaG5GNzE2V0FHc1lYdG5DUjk1ODl2TDlnanRGWl9oa3VmX014dk1fSFBkaGlnLV9WX2lyaFlmbF9zMUZpZWowS2MzTkdOY0dnc1dxODZsM0djTktETlpVNE16Qm5YQjlHNnfSAbMBQVVfeXFMTVdIMHVnUXlLdWtzNTR6RzJZOFhxMmpmUnAta09FOTNDcFFabUNvUUEzcnZFRU1FSEhvVTRDdDVGcnlWODRYX2lvUmdlbEZVWFBoSGcwOFhTWlVGT2FWeEdiczhTSDlPLVBEajV1NmJDT3ZVdEVhUnpkSFNncHh4WllrSG40UWhCeE5PdjFDNVhuNFBqUTZaUDhCSTdCNmtqMmt3YndYcFFmckJCVm1yOFJnc28?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792498455640
-    },
-    {
-      "id": "news_BUSINESS_GovSpanbergercallsforsixyearfreezetoelec",
-      "title": "Gov. Spanberger calls for six-year freeze to electric rates, tripling customer bill credits in NextEra-Dominion Filing - WSLS",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNV1RzZmNwVjNfU2FHUzVMeHU0aVZBcjFhRXlNNTlwUG81R3dlbWNsdGZ1em5KcENyMmVNeXJ1TUsxdUNlSTVtZ2RraHQ5MF96ZjJQd0VfdDBHT2FZN3pBdWhpczZQQ0xqUXg0WUI1NTFNWW80ME4yT2hrSE5VQXRiUVFqZkFEa3pyMENJeUFTS3VSZUFzM084cDJBUE5rbjZRTTZJNmtEdnVVanFMcDRMUkRGVjVNQkRRQ0JLS3ZlLXk4c2daR1NKNHBUV0Q5dzN2eE9PUnJ2eFg4dnVIb3pHUlVFUmVib3NmUEJIV25qWUpMdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792498455640
-    },
-    {
-      "id": "news_NATION_A16yearoldcarriedouttheBendschoolshootin",
-      "title": "A 16-year-old carried out the Bend school shooting. Could his parents face charges? - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52dk9RZVhkMFhHMF93MzdWcE92Q1VwRlFleG9LU0l2YUcySW02ZDBhUG5qbDAwMXdoZ18yUGEyWkxRMFcyUkRMc2FnbElYZzhVQWdMRjJjdzlIQ3l1aUhiYWRLVWp1Zk5iTmQ3QWNWVENNTmFWZDUyVG92ZnA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792498454857
-    },
-    {
-      "id": "news_NATION_InKansasTrumpsaysapastorrunningasaDemocr",
-      "title": "In Kansas, Trump says a pastor running as a Democrat ‘mocks Jesus’ - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXFTLVBuWUNLd3ZYUS0zSmtQWDJycU1fVG9iMFdGOGhUX3hjclZtYlFoZWtJNmkwN2hTMGF2dkZuUU5qTno5UEtjZWI5R1hDU3A0T2hFM3djRENsdlpJVWdaTUJjYVptN05qbmhsUjRVY3MxVWh0V21lUzFTSVUwN2kzc2dJbWpaVWlqaXhOMlZYQ1F0ZUJLdUVMYWRxd2dOdFFCakJBdjFmaTl6NzVwVFNRb0lfRVFP?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792498454857
-    },
-    {
-      "id": "news_NATION_Trumpsapprovalratingsplummetwhatthatmean",
-      "title": "Trump’s approval ratings plummet: what that means for the US midterms - Al Jazeera",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ05WVnN3Szk1T2JfV1J3SVd5aDEwd0YxOTlVandwMXduU0pOWTh3cW8zZ0JJaVBMUjR4dlVObmVxZVk5TUcxZGxjZlVXSG13ZGxoTE9pX2J5YWNZTXJjenI0ZXVEWFhsaXUtbTJhenZRZ3JHODFvN0M3SjZ3UmxvNUtDSS1EMUZxX0NQV3pFdk1pZVBPdGlYNU9mdlB3UXZFem9SYi1RQUpza080alHSAbMBQVVfeXFMTzlhby01OXhJWjdaWTFuV0lNQ0EtNVJZYXhJZUp0em1BZkc2ckZGZFVPZ3Y2dUpESVBKZEw2Y0k4enprSk54cF9oeUZVM3hQdXB3Sk5uLU4yTkpoM0c5OVpsaHpleW12NEFqVl91NW84TzJuLXdHQTFzc2xCX3JoVWtLb1hpclhCbmdnSDJZZnFQUnFtbUxHcms0bVUzcTFkaDNNcmtiT0x1UXB2VFJ3dW50ZlU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792498454857
-    },
-    {
-      "id": "news_NATION_TrumpusesantisemiticslurindefendingSenRo",
-      "title": "Trump uses antisemitic slur in defending Sen. Roger Marshall at rally in Kansas - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmpMZWJFcXE5Zy1YY3VqX0QzR2dRbGxxckhSYUFqU1JpYVlSSklkV1VZa2lHME41MUxjcTNwUDNOSjZrXzRWVUhJc0V5Vi1zQkFEWmZfdmNmRVhCQ1pvNnNBU3ZrWW5uOVQ3ak13RTIyRUJqcG1TOGpHWUdRb3hXRDhMaEdnM004T2hNaloyTzJfSnpQYnRhU1hjNGx3NlRIM1ozdmlfQ2JwY1oxcjZMMU5VdW9ZblE2VDM1Y0FvNzRhVkY2?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792498454857
-    },
-    {
-      "id": "news_NATION_AbdulElSayedsViralMomentWithaHecklerWasR",
-      "title": "Abdul El-Sayed’s Viral Moment With a Heckler Was Revealing—but Not in the Way the Heckler Intended - Slate",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZzk3Zk5ZU1gxamV5a0syVFR6N2l5ZTNLZ2swS0RLTVh5Y0p5T1M0Q19jT0JldGIwVS1iWlFJTGF2VWpXM2cxZ19YdnNxLVllZlhxc2VMUXZqVHh5MU1YX2lpTG45dW9ILUs3LTlfUG5USFk4cFFHQnNXWmJHWV9JeV9adldHVHE3a21LWkk0MFdDZUJqcl9vVFNHSng?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792498454857
-    },
-    {
-      "id": "news_NATION_ZelenskyytomeetwithUSenvoyastensionswith",
-      "title": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZy0ycktKNUltaTdIQmh1QzBhbGVNT0JFTUNIbnJNYzJXa21OMW52WVVFZ0lYUmJjZTltMmExMGZ2alk5aUVMcHNKbi0xajE0SFloTGN2V2pZMHpSdksyak5uOElvNkRqNnlOZE11MC01OU9nTTJjb0V1d1RMdm1jU9IBhgFBVV95cUxQUXlTYU5obThMQm5DTFZmUXNRSU90SUt1MlhrY0FHYURqRjZ1RWtuNG1jVjVwb2NmTjFUTWN4aEZJN0NxQVdPbVI1QVhDVHV2TVFfejVGZTk4V2ZkTXdRVk1HbWE5LS1EMG5CUXpVY1hyRE9NTVBQYTh1aHJ4cU5JdFJaTGx3dw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792498454857
-    },
-    {
-      "id": "news_WORLD_LongtimeCNNanchorChristianeAmanpourleavi",
-      "title": "Longtime CNN anchor Christiane Amanpour leaving network after a storied career of 43 years - PBS",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelRpWmdkUVBZdE9GZUhoOTEzV1RxMVVFc0pPa3BtQllVbVc2d1REZEcyb1ZrMENxN1FlMFBqUlN0WngtSkMzeDZ3eXpGUE82VlJSUjdCVWJhRko1RFNOdEdLWm9rS1k3aHdBR25aU3JJbFgxX1lPdVdtNW1XZC03TGRLc3lSWXJ4Uml4RzV3ZG1hektlWWt5Ty03ZjNIUk5lTjRXQXlHbFlITlg2Q3ZQbmhVYmVodzFyS3BwVHhVM2FVd1RE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792498454075
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T23:27:16.516714+00:00",
+  "updated_at": "2026-10-24T01:48:44.829657+00:00",
   "signals": [
     {
       "id": "news_BUSINESS_ElonMusksaysTeslavehicledemandexceedingp",
@@ -1430,6 +1430,182 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_tech ceo controversy_DELLCEOsWifeSusanGoesViralAfterAppearanc",
+      "title": "DELL CEO’s Wife Susan Goes Viral After Appearance With Donald Trump in Oval Office - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (trump) mentionnée; mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd0dlTzhqU003X0FHbFJyZEQxaURfaW9uaXhnN21CUHpoVWMzdTc1bGVsdHlHS3hVSmRjenBHWnZUcFFIV001cU1NZGlPYVBzQjc4WGlwaUZzRkhrclBNSk9ja01NRXZtVFQ3blBWYmRDQjMzRnRKendLd0JZZE9tVnFDaUJLTzFPTmpITXNnNGRPSlowWVFlcUp3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806511609
+    },
+    {
+      "id": "news_AI controversy viral_WilliamChapmansfamilyslamoffensiveviralv",
+      "title": "William Chapman’s family slam offensive viral videos after Trump tiger AI post - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (AI controversy viral). figure tier-10 (trump) mentionnée; mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUpBN01TWjRuTDNUS2xnRmV3Nlg4eTE0SC1EY1JvZmp3VG1zMEVfM0pTSU9ha0VHNy1fOGYzTVlrWXNmMzlUZm12QzF6dC1laGNtbTFIeGtPczlnYUpJdnI4Y0Jvc2tjMUdRc1FSTkp1NjltNmVmRWhYOVFmUEE3RWRsZkVRaDlVY2NBY1Mxb3NFUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806504990
+    },
+    {
+      "id": "news_HEALTH_Fluhospitalizationrateathighestlevelfort",
+      "title": "Flu hospitalization rate at highest level for this time of year since 2010 season, but still relatively low - ABC News - Breaking News, Latest News and Videos",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFNpNzNreUQwWFN6N1ptMVZkbndiWmVTa0FZVVZuZEdpOGRaYkMzU3ZPR1IzQzNnT1dwUmdqMGhHN2hqcHAzSnBvVnBlVUtSYkRRRnd5ODhWSU9nSWZyMUJlRUhBNDNRQ3BmdTFhVTZSc0J0SF9HbmMzcDJzb3NuZ2dwNVFDcTZ6MExmZVZ2R0VOaFo1TjRTSS1OdG1kRkFi0gGmAUFVX3lxTFBRMkZsSTJZb2RmbGJuR3VoWHJacTBybXNUWkhLWlRMNjl0VWtxMFctZnR0QTRGYkg5T1NfX3RKTnJJWVNZUkQxa3VxRy0yVVdwMjBXZ0NTNmlQRGlrQjdUcmdjYjduRlhKbjN6TElqX1k4Y3hMaWVmTVoyRlVTNU0yc09tcG5DNVE0dXY4NENPWl80clc2SzdNR25qTkJfa0JNZ2NtbUE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806495948
+    },
+    {
+      "id": "news_SCIENCE_NASAadoptingApollosurgencytobuildamoonba",
+      "title": "NASA adopting Apollo’s urgency to build a moon base and land astronauts within two years - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0h5UmtYWUN2RnJJbUlacnl0ejQzZmhsUU9YOVVHY2M3SjVldDJ0UXdaR3J4bXh4dlU1QXpKU2sxN3lOYUxibEhkczkxYmFTVi04aUotTng4UWNUQTUyOGxDa1BoRlBBY21kcnlkZ2lpdzdWenVRamxqNmd2RmVrcDV3SkdyOW40MGY5QTA3TVFDWm9TT3NyMHJ3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806495208
+    },
+    {
+      "id": "news_SPORTS_StPetemayorrespondstoTrumpsayingnobodyca",
+      "title": "St. Pete mayor responds to Trump saying ‘nobody cares’ about Rays-Brewers World Series - WFLA",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcDNxRTF1a1VNT3hrY2RUdGxWTlh0bWFiZjRhMTNmTU16TjVoVjBRRnc3NmdpSVVNa29DS0RhOVhnVlFUVk9LeXhqWFBiZ1h0RXQyVVp3ODVWS2pHQ0tJRjRCaDNvZk1XTmhRY3BlVDFyOUZLNnlxZzZwQkZKVkRxb3hhXzJpbmc3ZzdWTE5lam1UeS1ycmVOaG0xcjczdng4Q1ZoY2dDcENEcWF2OXo3c1ItaklldkFx0gG-AUFVX3lxTFBsb3dEb3d4bGlsN04tMDFiNllmekh2YmJlU0s5TEdLajVER3FENjMxRUlrWERHdkFvNHpRQmUtTV9Idy1LdFFlVDlkdkxON25YVzYxWTBNUjhBLVY0eEZQNGEydjJrcjNoS09HczJGTjRTODcxazZRYmtvWkhSY0lUUUJrTGE5c25YbTFTVGZNempLRDNuWGNtYVJuX0JYT0p3alpjS0pBQmxXa1RfQnBDMEQ1LWJDeTlqM3VTTGc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806494432
+    },
+    {
+      "id": "news_SPORTS_BayernMunichbossVincentKompanytakentohos",
+      "title": "Bayern Munich boss Vincent Kompany taken to hospital after collapse - Yahoo Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdlVNWk0tN0hLUGlOUmwxcUNyaFVJMFFscGFJRlh2aG9xajVScnFaRExWUDdIdWY2MzQzemtveUgzUXFHckdpOFhXNHZpVmU5dmhHeS02el9heVVSd25UWDBOTlZrdGcwMmp1OENPMy1JTlB1eUthR294NHV1dkJ6ZmZLSEFibF9ZTnlWVw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806494432
+    },
+    {
+      "id": "news_SPORTS_Knickssentemployeesfakeofferofchampionsh",
+      "title": "Knicks sent employees fake offer of championship rings in phishing test: Report - Ars Technica",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb0VtSXE4dzI0c0Z4cFBmUl94VmhBbXE2bjZiWnlvamJFNERsWTFWaURLUUJzOEI1bzk1XzR3QWdTRkNXV0xrcG9SZklwYmt4NWhtc2t2WlFnYmJpdTVrTW85UmJmNjhHYVptbnNXZllTUDJsSkJIZDFwN0tvb2xUa3hvc3lyeEJ0R0VscHAzQW5teWJjd1dUZlJIRFQtNlJTWUFyRnhIN1FSclpyZGl0M1J6eDNCVHBCdXYwWG13dDk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806494432
+    },
+    {
+      "id": "news_ENTERTAINMENT_StevieWonderFilesLawsuittoEvictWomanLivi",
+      "title": "Stevie Wonder Files Lawsuit to Evict Woman Living on His Property Rent-Free for 38 Years - Rolling Stone",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée; mots-clés viraux: lawsuit.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeXVQc2RhODl0aTVTV0pqaU84aUNNYWg2RUNaRHUxVkxJY2FoRC1iS1JiS1hkWHJkeGVGZlpDUHFWd1VZRWl4NWRDdGdoSTZwNXVRTnlDak0zZk1JX0tqbGJiSExxWWlpQnV2cmIyQjY5UndVS3dfUWhnQ2NaUndra0VNOEZDWERBeEpqUGMwZU1Bb01NTHA5cU0zSm9WRW9QX1dmU3gzY2lUMUk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806493731
+    },
+    {
+      "id": "news_ENTERTAINMENT_VanessaTrumpannouncesshescancerfreeafter",
+      "title": "Vanessa Trump announces she’s cancer-free after breast cancer diagnosis - Page Six",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3hVT29LeGNGTjFMWXlrVG9nZkZXZ3hWb083QkM2dVQ2Z0tEVHpnN2R0MldRNVoyQWtsQjV0ajlPRTV3Q1dZZnlIMlZkTkNIT2lvLU15S05neEJWMGdFVlRNVlowVXhsS3FraXRFWDBfWGluVE5wM2k4RTlOMzZUQ3NvTnNZbURTcVAtMlotUEM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806493731
+    },
+    {
+      "id": "news_ENTERTAINMENT_TaylorSwifts20YearWebsiteUpdateHasFansJa",
+      "title": "Taylor Swift’s 20-Year Website Update Has Fans’ Jaws on the Floor - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée; figure/entité tier-8 (taylor swift) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHF0eEE4eWRueUtRSXR3UFdSMHhvY2xZQ0N1NmJPSF9MME5iMFNKWWVSamRGZENKQ2FoT2wxR1I2MlZjTmNTZ1R5M3FuMHprYXFjckp5OWtiY19WZXhFM0JtQkloTldaZWRCVDBURlhnazZnWUdOdlFBYTZIS2tXNDhzV1NpUXh4NjhvSldTLTl4M0d6VzRXeE1R?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806493731
+    },
+    {
+      "id": "news_BUSINESS_AmericanExpressprofitsrisecompanyplansto",
+      "title": "American Express profits rise; company plans to cut workforce by 5%, or about 3,500 employees - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNckVEY1RFUEFnZW9KWG1mUGZjRTR0QmtfNWF2cFo5TzhaZU04NW5xcWhoM0txVERvRkJmd095dV9lNWU5bjk0UzNKSDJlM2YyNUpXRHNkeUt5ZmNySk9HX25QYUxSSGJmRF9wQVlwTF9WaW5HYkNUTWtRMkFYOG1DaWJ3V3VYakhLRDNkNzZaU0s1Y2t0eW9raHhBbFVPVUU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806492250
+    },
+    {
+      "id": "news_BUSINESS_PatientdiesinBristolMyersSquibbautoimmun",
+      "title": "Patient dies in Bristol Myers Squibb autoimmune CAR-T trial - STAT",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlQ0M1N1dzlaclE5RFJsRHhYYWJURFR3Y2JWVGZLMS1vSTY0TVhmcm51ampiZ1VGUk9zWGNCNHFJNWYtN21SdFdHYnFXMkF0WmtxOU52LXc0R1JIQzhiT3dmYU9oUEY3d3FEbi1IQW9qcV94MXI4UjNQbWNYb0FqakdQUW4xS0MtSkxGN3dPWkdQcmRCSTBBUG9n?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806492250
+    },
+    {
+      "id": "news_BUSINESS_ElonMusks105BSpaceXgifttokidshasacatchFa",
+      "title": "Elon Musk’s $10.5B SpaceX gift to kids has a catch: Families can’t say no — and may need to wait 5 years to cash out - Yahoo Finance",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3lBS194ajRGM25BOTZlakN1eUpPUGtQZGVZckdvdy04VVl2Y1pzdW40N2l0Qld6YmhuNHdwMS1xWUVyMGE5NkhtaTR4Vk03NkN0UXA0clZyYVYwS3hfQWFibl9ZOFRSc19tWDZOOXhDbW0zV1BBMHJNVFdnOUZTY1kzdVF5ZHJDMFVZRnFVQ1k?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806492250
+    },
+    {
+      "id": "news_NATION_TrumptoRemoveSomeTariffsonCanadainBidtoH",
+      "title": "Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins - WSJ",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806491549
+    },
+    {
+      "id": "news_NATION_BritishPMpushesTrumponUkrainesStarlinkac",
+      "title": "British PM pushes Trump on Ukraine’s Starlink access - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR2NzYmhfNFhjME5ySzRhcUcwRTdkVUhPeVJTZjYwckVQT1ZweVZ2OHVLNTNYaHF4bmJkaTFNVllsMkhmNFdHaU1YYVgyZWMwRDZGTFdOZ21wMGZUVV9la3c1ME1Ib2tuX0xtUVJMQVhfUG9OQTVuUUk0Q0R2VUo5MzZmeHNNTlhybWttSDVGeVY?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806491549
+    },
+    {
+      "id": "news_NATION_TrumpralliesFloridabaseamidongoingcampai",
+      "title": "Trump rallies Florida base amid ongoing campaigning blitz 11 days before midterms - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU2kxcThkUVhMeS0xYmdDOU93TDk4NGx4dnRjSDVZQVYzcXVrMGxJSWMta2o3blp0X0NXSm4zWEJzeV9BZTdfR002SkJlaElKTmgwNmZ5dGU1U3ZKZlZZaHoxWHctNDRfUlA4MVZOLUxhR3hjWTNtSlM4cVR5dHF6bWtmUUhWb3ZtWHdlSkxpRkdUYm1vU0E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792806491549
     },
     {
       "id": "news_rug pull crypto_Fayettevillemanfacesfraudchargesincrypto",
@@ -5324,182 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1792498454075
-    },
-    {
-      "id": "news_WORLD_LiveUpdatesIranlaudstieswithRussiacontra",
-      "title": "Live Updates: Iran lauds ties with Russia, contradicting Trump's claim of little Russian support for Tehran - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXBXMWdNYVRIU0pDdjdkTnZLOEhXdnE0dW9UYkl6NjVpcDRlWEE0MHoxS2VObkNYSjJsbzJCMkVxNlZaTHplRmV3aEtrMFNueEtRT1RreXNtLVhvNWoxVExlalo5UW9zU0hrQVhOMzBRZjhQMjRFNWN4SVduaTJ5Yi1uNE1sbjlBLThsZnln?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792498454075
-    },
-    {
-      "id": "news_SCIENCE_Earthscoremayhavebeenleakinghydrogenforb",
-      "title": "Earth's core may have been leaking hydrogen for billions of years - Phys.org",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VNVdKRDJ4MVg1em1Hang5N1l3NFJzRE1YelZBUFk5Mk1WTUNvVTdyLXFVMlkyTDA5M0YzRHFoRkhQTWlReHZyVklRU1dnRlRXMWZEWnBEYmJXTTU5dVlUT0UtenB0TTVSLVJCSkd4TUpCZjViY2hFRl9qYw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792478524670
-    },
-    {
-      "id": "news_SPORTS_Bedard5keyplaystoavictoryDoubsandDouglas",
-      "title": "Bedard: 5 key plays to a victory - Doubs and Douglas touchdowns; Spillane-Ponder sack; big Maye throws to Williams, Raridon - Boston Sports Journal",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPenB4bm5XNFZXNUo2Rk4xVm03VjVsS3N4ZGVCMzZkUjNhUDFmT2dUdmtkU2JOR2ZOTUZVU0FkY3ZhQlB6d1dZY2dpcG9fbDg0dnNJTmJidmhrNkx5SkdCajc3MzN2aVUzN0tKMmRzWjJhWHNKdjBBZ3JubHRlS0JFVG5TUUFNZEtpOEhCZnJrc3pZdllOM0J4UGZiUUt6ZnZKM0FnWEt3c3FPREk2ejV5N1pQMEVYMTFYS0pkMUpnVzVEclkyU3Nvd0ZZVGRLLWtYODE3ajB3dzg4N1FESHNDOUhCdzZ6bXgxaERxREhlZGRxTEplLUJnZUFn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792478523891
-    },
-    {
-      "id": "news_SPORTS_ToddMonkenmayhavedroppedthequoteoftheyea",
-      "title": "Todd Monken may have dropped the quote of the year after another bizarre Browns win - Dawg Pound Daily",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVWtxRFlhQThub1ZMRXcxVWt2UFJwd3VkelY0d3YxN1ctcDQ5T0VpbzRSRkEzcEt3M1pOejA3ZXNpNUtfb2lMbjdiS2ZPYWQ3eU1zemo1NVhvQ2hJNVNtRzl3UTFrbTdvVTZvd0hlLVd4YVZoWkFTcnh1a195a2VVcHZKTXozLTQtSDVNR2hNQTZsbDQzTWt2cnNORVhVQ2J4dUViYkl3TzJkUVRMQjBYWnBsNUZlcXdaeV9ZandwdWg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792478523891
-    },
-    {
-      "id": "news_ENTERTAINMENT_ApuisBackVeteranVoiceActorSunilMalhotraR",
-      "title": "Apu is Back! Veteran Voice Actor Sunil Malhotra Revives ‘The Simpsons’ Character After Nearly 10 Years - The Hollywood Reporter",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMVU2THl2eC1JZm1fZ3JFdTVGNmdTdlZUZW9vVmlJTGJzNG1XRGhVZ21rZW5tam9paWhpZDQ0TUJpNEh1emZ1WWl4Q1RmaFRHdEV5bzNpS092VHdib2FuMXVXY1JIWm1CS2RCN2p5bjJSc2JOZzVUa0FBZk9UUzRXUk5mWERzQVBUdk0wQ1ZjX2dzR2w4enJUNC12UkpSWjJJSVlJ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792478522953
-    },
-    {
-      "id": "news_BUSINESS_UShomebuildersentimenttumblestonear1412y",
-      "title": "US homebuilder sentiment tumbles to near 14-1/2-year low in October - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzZUb09NNUZyTi1nanEwMHNsSGE4XzB4Y2tFSWVXYU5XU2Q3ODdBMkZmSFN4LVB3NHZjUG5FY2ZDQjJtYlZpbXpkQTMzQnVIOTF6bGZhWkstcWItVWxtbklsTHg4YnhuVkxiXy0td2oxbExYN1R1bjdmeGFkdlU2TDZ6b0Zqb1k3Q0VwbWVZRjdPbm1odHVZMzZ5NDltVG0zampuN2JzMXo?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792478521409
-    },
-    {
-      "id": "news_NATION_Policeusedjustifiedforceinfatalshootingo",
-      "title": "Police used 'justified' force in fatal shooting of one-year-old, says Mississippi attorney general - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lVlMxSjYtdUZjVkthZjFyVGZrZDc1WmtpRGUzNlVzMXpmeXlSMk8zM3pvRnRqRmZqdHctTk9WM0l6Vnc3b21mWC1TLWo4WURrRFg5b3RJQUFfOEk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792478520629
-    },
-    {
-      "id": "news_NATION_Judgeleanstowardextendinghaltontreeclear",
-      "title": "Judge leans toward extending halt on tree clearing at golf course where Trump says redesign should start ‘immediately’ - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY0M5d2poOUFWMFJyTWp1S09OQ0ROajF3Z01YQXlSWlNRTzZTTGJFNEpwczBPaVZMelhhSHVOWlg4dkc4bzVPMUlsbmRjeUxUcDgwT2U3WGdwTlVZbElRZHhmX0JhUGx4VEFZRlFkcklNMHpQd0NaZTRSSkg5anE4TER6dnNVdWI1NWRkZUZGZVlIYmF0VldtQWs4amhfcTMyWDRyOVQ3X1RZWHVkREd6ZTBDSVcyNmJBTGN3a2NYUVJEWGZDOXNXVXlPaV9hSEE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792478520629
-    },
-    {
-      "id": "news_NATION_FactCheckTrumpspeaksatKansasrallyforRoge",
-      "title": "Fact Check: Trump speaks at Kansas rally for Roger Marshall. Here’s what he got wrong - Kansas City Star",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pUXVjUUtsVEZuajlxTlJlVGZQZ0VhbUJPSnV5bEJ4cXNtYWtCV2F5dVYwclFJMS05Unp1bmVucUt6Rk9zVTRfOVV2NTBfVjVNTzYyVGZVSG9RLTBmYUJraVJYZ1dFSVNqc3JMaUNFalZNVGZVWmVna0I0NGU1Z9IBfkFVX3lxTE9PWUdTMWJwZE9kVUVwbjl5Ry1BV2FxS3d5aFZteEprUzQ3T2hROUxhek5IUDRvUFA1NC1CWEhwSWxraUl0U3E1Y3VFRHh2VGEtLWc4c1JYeURQcVZvUU5aclBxYV9UeDROSXY5U2pQdXVKRXlDUXdsSUotYkVHQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792478520629
-    },
-    {
-      "id": "news_NATION_TamaraKeithandCarrieDannonTrumpsapproval",
-      "title": "Tamara Keith and Carrie Dann on Trump's approval rating hitting a record low - PBS",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbTFyejJiVUhub0l5WFFzUXVmcFhUWUw2TDE4WFFqQTBKTWc5RVVoUmNEQ21VZlRPY2FZd0czejRxS19sdkQ0UGdGNmttd3F3ZFdVdDluc3R4TExObk5LcnJJRHpaS3dLUk80bWhXN2wtdFlaV2o4ejZfeUdNWGtDRjdzSzc0dHZUM3hIMHNsZkNsdXBiYkUwdlRZNEZDeXFWaDFuRGQ4c2xZNVpac2c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792478520629
-    },
-    {
-      "id": "news_NATION_RogerswrongthatElSayeddidntdisavowMuslim",
-      "title": "Rogers wrong that El-Sayed didn’t disavow Muslim Brotherhood - PolitiFact",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYXlCWlpOYkZ0UExQejFxRmxyQldoVV9EQmdTT0U3eGtqOTBhT3M4SmRTckQ0aXZKVDNkZ0prS0NBdmxfbjBRek8tUDR3M0ZTOXFSTUlnNDhSejBwTXY0aGhtRzVtbnM4UFhaOGJhYmZnSHZUOTlQWXNjTC1SSEl3RF9OZkg5WjR4d2ZYdjZWX002TW9GVG5qN3BQaGh4MkhFU0dXRQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792478520629
-    },
-    {
-      "id": "news_NATION_TrumpadministrationholdsupPatriotmissile",
-      "title": "Trump administration holds up Patriot missiles for Ukraine - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnRKRWVRSmwzaFFkcFBLbG1wS1BORl9qR0xSaTkzY0VhX0dKNzc1V2JGbEFtTm1wZkx0VjY2dkRzbGYxWlljZG5zVUY2eGU1RnZiTVRBSmNDYnJNSXo3RWFpT2JhM1ZQcklHVzhXcW5zSXRHemNaMS1PMGJJOHowOVpMQWRqNE54cU11Z2ZNUUFnZFBqQkFsVUNhbl9rLU13eDhyMGQ0cDVGdk5nLWxFOEZVQ0E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792478520629
-    },
-    {
-      "id": "news_HEALTH_Lungcancercangrowsilentlyforyearshereswh",
-      "title": "Lung cancer can grow silently for years, here’s who qualifies for screening - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUwwMWxEbzVMbjFfOXZvN3N5TTlrU3JDbEpraWZaOEJYSFlWVE4yS3NLcWpuWVhaMWc3SWxRSWFrVVNmVlF4UnBTQUxmVi1mbUU0U19CZGpHUkM2NFNGOUdDTnkyYko4cWEyMmJtcW9SbVhZNDFZMi1YVXBCclZNVGZycmR2X0VQcFHSAY8BQVVfeXFMUFROYnpRUG9FSTc4OUZtQ1Z3UXdvNVdsMU01TGM1TGU4UFdlRU5VMFp0T1lfb1hDa1RCb0pPcmF1Z1lYd2tMRmZRUjhMbFZhLVdfejc0aFBwT3E1TjNiTmZ5Mm5DUi1Ob3ZvODFQV1VpbHh3bE5pcy1KUExmWi1DSGdPUHFMRmhUUVpCSHlIOW8?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792460790592
-    },
-    {
-      "id": "news_ENTERTAINMENT_ModelSaharaRayDeadat34LessThanaYearAfter",
-      "title": "Model Sahara Ray Dead at 34, Less Than a Year After Welcoming Baby Girl - E! News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FWmJBcHZCSW1hVDFDWEEtT1J6WnpoQm4xWEthMEUxZXduUE1yTXBjT1BLN2dmQm94OFZ4RDJDRV9ITDIteWxvMVdJNUllMFdheTQwRkxJbmZVWVQ3RDZRaENfWFJSMW9EaFR0R0tHWThWZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792460787437
-    },
-    {
-      "id": "news_ENTERTAINMENT_RHONYStarsDaisyToyeandErinLichyOntheOuts",
-      "title": "'RHONY' Stars Daisy Toye and Erin Lichy On the Outs With Cast Over Marriage Drama - TMZ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByNmV3UmJOS3RxUmVLM1dWaEVERWdmbVlGQVpnMDc5aTVNNmxRUkRQOXEtXy1SSGc5dTV0LWdnSEJtdm5nREF2emdmaDR5MFlZbGRpQWNtVl9jTmZWS3ZPV2JnQ0ZsaEpUZ3ZmUlc1QlZYclpzRHFaYlpOaEU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792460787437
-    },
-    {
-      "id": "news_TECHNOLOGY_ApplesnextHomeViewcoulddebutassoonasnext",
-      "title": "Apple’s next HomeView could debut as soon as next year with a robotic arm: report - 9to5Mac",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT1dsZ1pQMkZPU3NQVzdJZTE3YVl6MFlDSmh0aGhhZnZKYWZOVWVCZ0wtZmpGSm16Nm1JS3U1TzhRSTBwYjQwMmxISzlFTFdLU2pxRXdLbzhTNjdFbmpWY3F3WTkzeXhNRkZ5Q0JCYnZ2T0dBenY1azJvaEJDOE4yVWI0aXRiOUI4WXppSnJVZHcwZDdQU3BvRGU2RThrbXhJY3RzNVlaRTRYcUZnMDVJWA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792460786534
     }
   ]
 }

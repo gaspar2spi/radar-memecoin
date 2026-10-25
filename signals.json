@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T19:45:26.819711+00:00",
+  "updated_at": "2026-10-25T22:05:16.201691+00:00",
   "signals": [
     {
       "id": "news_SPORTS_NFLPAhasyettolaunchfullinvestigationofJa",
@@ -1463,6 +1463,160 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_gaming leak_YouHaveNoFkingIdeaHowGreatItWasBioWaresC",
+      "title": "'You Have No F**king Idea How Great It Was' — BioWare's Canceled Mass Effect Game Plans Included Option to Carry Story Choices From Previous Games, Allowed Players to 'Generate Timelines' - IGN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (gaming leak). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN2wxemZ1aDhQTWJMbk9yRG9Nb2ZKbjJqYktjLWJoTEtDb1ZDdUtvM2Z1V1o2RUdrVWN6clc1aGxRdW5EU2ZLTktYTEN1cGxsQnY4bUQwUGVSWHgydW5CNk1zMEkxWUJ4YXcyN3VDQ195dElZWE5HUE9uZVFqU01MbFYtWHFLQVVLTmI1VV9iYUMxQkNpMm04SjRMYlkxemYwY2JjWXBXem82dDV1Yk1wWTJRQmZacG92ZF9Dd3c4VlZkR0ctWVN5bTFwQVI0Z2JZX1N6cTR3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792965902376
+    },
+    {
+      "id": "news_billionaire announcement_IvankaTrumpjustmadeabigannouncementabout",
+      "title": "Ivanka Trump just made a big announcement about relative in Billionaire Bunker - Miami Herald",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjT2FGQldkNE1sUzFSWU9BU19ERnlvdXNqQy1aMnlHY2U4NEl4bWVCdTczM0FHTk9Ob3VSb3MwWmJYYXVTYURKamtlZFg4Uk1KcEJNd0FnVW5CQUtodXBIc3gtcWl1UE9xQmIteNIBbEFVX3lxTE5jUnJoblp0c0hoeEt0eEh4SXFSNGpuMWRJZnl6em95YjZuUEE3d1JRWENZNWxRaWxMQllDdkdWLVRhUHZyanRfLVZUSjJrcnVPcVRLNjVkdTFZY1JGSTN2a1FIaTFEbGdkajhheQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792965900086
+    },
+    {
+      "id": "news_government shutdown_Trumpadministrationsettleswithunionsover",
+      "title": "Trump administration settles with unions over shutdown RIF challenge - Federal News Network",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHJqaXNFWjh6TElWVTVyTlVfbklQYzBpQi1BemZJX0h6OWNINjR0RjhpSjFMSmV5dlJsZXZORWM4bXlITjczd0gxdG9MSVgzemtFckxwM1Q2dzVfN0gyRkNaRVVEa0hYYl9OelZDUHZXVkdFS1NTTlNoc0xxX0VuUmlSeWlXZjRjRzNBQ1ZaSEZ5OW11b0dwUEpodTFpV0FrSXByaEtaaUhDOExIeXdSZHpfcm5sZ3pTelVv?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792965897772
+    },
+    {
+      "id": "news_memecoin launch_HowTrumpmademorethan1Boncryptowhenmostof",
+      "title": "How Trump made more than $1B on crypto when most of his coin's investors lost money - ABC7 New York",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (memecoin launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmNRamtUY2NCSExkU0NTTU0ybHlURUlZb051OUFGRXp1dmEwWnl5ZU80UEhSQTBmODJKOGE3NXhya196aHl3TF90aGY1Wk1XYjgyY0F3LWJ0ZjlPbHdneG52cnNZMDZpMUhQYmd6bWxUU1RJNVNrcDhOcWVQcFBfTnlQX0luYTR0Z2J4SmZTTTFEZFFrenhIeFVfZGpFT0QzUXhkbm0zdlN4RVVO?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792965886045
+    },
+    {
+      "id": "news_HEALTH_USmeaslescasesmorethandoublewhattheywere",
+      "title": "U.S. measles cases more than double what they were last year as outbreak spreads - NPR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10dmpQc05kNFNxUnFFY0tJLUtBNkhta21ZTl9SUEd4OGpZZ3czU0M2SUZnTGhzaG40VEJLVFhjN1lBODdROHJHRm8xTHFZNmVjNXJkMlQ1dlFCOFh0OS0ybHRMRmxTcjB1amtQaFZKVUFaRGJzWEw2SUhEVVpQeDQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792965885037
+    },
+    {
+      "id": "news_SCIENCE_AsElonMusksSpaceXandJeffBezosBlueOriging",
+      "title": "As Elon Musk’s SpaceX and Jeff Bezos’ Blue Origin get ready to build a Moon base, NASA administrator Jare - The Times of India",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (elon musk) mentionnée; figure/entité tier-8 (jeff bezos) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPTmVLOHhNNGVzOXlWQTg4ZzFpMG1UNU9SVmlfb01HYk5lc1k4bkdjX3lnT3JJZ0Voek5oT1pScmJHWHlOS0U1UWFGQ0stOUxwQVZheDNLd2JUTnRTbHVSSURjdVhBTF9VUDhRell1UTlxZUxXNjNoQlZIeS1JM3pJRDN2U0drZ01wT25DNHc0bjZBekZjdDhXUm8tcloxUUpNTjdPbkRBckdTbXlCZnFCdTVTbERQV0tpWEdFbzdkWm9RZEcxaXBBWGNtZ0JfaEJ2amY2NDczdDlzVnVzT0F1RFVmN3dUYmlRMmdwb0lMRWRyeTVvckJyelBIUHUwTXAzSkZWZVRZbkVPMGpqQ2FJcVRuYkJkQVhxUkpnU3VPTXpSSVg0Q05wN1ZiNHFCLWw4Z1RiV1B2dVR1ZUNtdHk3NUZGdU8tNDdnT0xDM0xzMHVCT0tSVm9ZNk9tZlJQclBvbjhzdW0tdzk5Zkc4R0hPUFdCakNzd2p0eTRibXdiY3gxS2PSAYgDQVVfeXFMT2tNZUZGMFV4SzZnNFVhdUhRNW9SNFpKZHh1XzFTQVVVTDhIWmMydDdFQkJGZ1ppajVGVk1RQ0JmZ24wZWRGUTNFMmdZMHk4eS1XOFBmdnYwSTFLYVhxMG1GaF9VQmdDWG05SFRXMklEWDRQQng2M1d2aHpfOVNUN2ZEVkxBTjBnUXZDeVJTODBnTEF6WHRub0RkNW1MMFZvOXkydV9FdU53ZndEUm4wdVlyQVJteTJiVUphMGQ2SnVIekhBbGJKMFZFNHJsVnNhRk9udzFLdXAwRmxnQzJkd3VySVBzRmgxRXVTNjRPbnc2eE5GbnNDZ1ZSd20ycU1mbHJEY0wyMW52NGxSamtKLTE4YjVtYVVLeWhkeEp3R3g5LVZvenI3a1FPSHY1ekNSTGd2MFU5U0JrTWhxV29aTURsbGlhZXJrZk9EQ1hEdGphTlFTSk5HUEhRRkc0aDN5bVZEY2tndXlOTVF6Vm9DWW8yTkJHbkJNeTNQQXI3TzlXc3hia1N4M3Y?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792965884222
+    },
+    {
+      "id": "news_ENTERTAINMENT_ElonMusksGrokReleasesFirstAIGeneratedOdy",
+      "title": "Elon Musk's Grok Releases First AI-Generated \"Odyssey\" Episode - Variety",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbS1tQkhfZnZpNnk5blNBUG01ZjZnb19LVmJqdi0yeWphdWhjS0xzbEFoVExNZXlrbFJQYkNCT2hPMUx1c3R3NThPdXp6ZzFMaW9FdllRcFJOeDJCTkVVYzlDbGthN0djWV9QUk8zMmt2UDN2REtwWG1jTnpCTEx1NXlWRldsZ1Vsd1hZ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792965882584
+    },
+    {
+      "id": "news_TECHNOLOGY_TombRaiderLegacyofAtlantisLengthAround14",
+      "title": "Tomb Raider: Legacy of Atlantis Length Around 14-16 Hours; Devs Said They’ve “Intentionally” Built a World That’ll Make Players “Curious to Explore” - MP1st",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOXzhYSi1SWFdpTEpFOVdKTkoyNmg3QmZkYk1nTjZ0cnBuZE9YaGlyOW1XY1FOaXhyYWFvS2g2Vk91dHBsSVJRakxiM3NaRTFSQWUtQURuVWo4SXdMQlRBbkJBR1dWN2ZPWTYtZTZ3VWZTLUtuY1lxOXBGX0swWWd4WXNxdmtZX1otVV9wWFdSaHlTMjJYdVF4Vzg1NTZxZ1hrNTB2SjBPQkRldEVDRE9WczJqX3FlN1VFTXhndW9SdVhqNW8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792965881781
+    },
+    {
+      "id": "news_TECHNOLOGY_ElonMuskactuallyfollowsthroughonGrokAIad",
+      "title": "Elon Musk actually follows through on Grok AI adaptation of 'The Odyssey' - Mashable",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pcmdod25lTDRmVlpaR0dGWnBfVWtLNEdPWlhHQmlvQUlMcm4wclhpR1JOcy1iWFFBMTZEZDFCZ1ZocTVZZjdYbzZVMDdvUWNQMkhNeHBEYVZPOF9uMk13c05rUGN3S0hjejRRZWJwNGFiMVU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792965881781
+    },
+    {
+      "id": "news_BUSINESS_TrumpstariffpauseangerssomeUSranchersboo",
+      "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQME1JMDRwT29SZ0hfMHdzTTlIWEljQVJFanZVN0NqLXg5X2FWVkdrenZrZFZabDc4aTVjUVMwaHRWeVhBYW1wTE5sb21rY28zZEdXWVhfTHp2RWNPSEk4eEgxUzA2eXNOVEVSZm13cy1uNUFJSEdjSllFTTVVN1h4RVZUX1BjRTVFV180NHkxQTVMcWZ5Um1rcU1CZEtMZG5TdDgxeEV1T1hNTFhicHpxMFlEbXMzUdIBuwFBVV95cUxNaFlwUDdEdDFiVk83SkxDNHE0cHNIQXhXNWRmdkx0T0V1OENvTDBrVjVvWlA3NzEzRkZzQzRjRzZKRjJsNEdMaEd0ZjZCM2JUZnlJVldIclhrc1NESUNvaGh5T3FLTUkzYVZvQ21lZmpYZ2VlNHlaUkdGMjd5ZXdfQTFaUjlmYXBKX2lncEVDY0VPdkN3NTZNRlVWcFhuNXZQU3pUT28wTFk3UjVkN1lDdXE3ZUE2Rnltcmg0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792965880987
+    },
+    {
+      "id": "news_NATION_2026midtermelectionsliveblogTrumpObamaRa",
+      "title": "2026 midterm elections live blog: Trump, Obama Rally Michigan battleground for Senate - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb3BVMk9pWlktZDZjSDNHZFgxNzBTUkliODdpYkRELXNQUkhvTDZ5WGJJRXZKY2M4NjFpMGtCa2s2UUg2elNQRXJ5WU82Sl9wTV93V09xQ0RrcXFWZFM0dW1XRWFwX0xRcEtvOU1NdnBhRUFqMG5XRlVleW9PMzllX1lKVkRyczVyenRKT3YycmF4aHh5Q2pCRmdCcw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792965880183
+    },
+    {
+      "id": "news_NATION_TrumpfloodsSupremeCourtwith13newproblems",
+      "title": "Trump floods Supreme Court with 13 new problems in unprecedented legal blitz - AlterNet",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Td0YwNm5DRmxpLUNWVm0xMnhJbE9NUlN6M2JmQVBKbWdxdTFhMHJLUHBZSGxfNlpKOFc4N1Ruc3A1anNzTk9paDhyaklacE0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792965880183
+    },
+    {
+      "id": "news_NATION_TheTrumpadministrationmovestotreatmillio",
+      "title": "The Trump administration moves to treat millions of mentally ill veterans with psychedelics - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeU95T2R0elNycDN2LU9MbnRVaGxTNjltZy1CRjBwaTlzbmx1MFprNHNmMW1fQjU1SHRrVWlmaWVqRzVrYktKWU55cktSTlEtUUxDY1VseldVckVuajZMLXdjT3l4c1RSc0laUVZKbWs0VXBrZkR5WGZIcmgtU1VDbktqSE9SOGk0WEE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792965880182
+    },
+    {
+      "id": "news_NATION_CENTCOMreportedlyhasplansforIranstrikesW",
+      "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them? - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd29BdjhJS29PZ0IwcElEZmdpZW4xRlhlYnIyQWhXR1VaZ2FCQlBFTW9kWjRETG0zalRDOWZ3dC1fc0cxc09HTmQ2UjhnUldtZXlNV0xEbjBQc0FFTTJ3S0hZOXFqbGhjVDYydEVXNFF2WTk3aHhKRVAwVnlOUENTVUlLOWpVZlN2M09CRjJVcUZfVlRHOEpHS2hSUUxLZW51OXZnZDk0YnBTamkyZlhpSNIBtgFBVV95cUxPQWc2WnhrU0s2LVRqd01IeHlnNG5RUllfQWVKVmlIeHMzQmp0UmQ3Vlo2VlAtTGMweHd3ZlZwWDZnTHhveUdmS1QyV00xLW9Jb2Q1MEN5ZzU3ZUZobUUzMzJXUjlMb240aDNNcDg0dU9Ibnk0bDhNcGVDQkZRS3pfTzNWTkFFcTFEUUFLamhaYzVVNVRPenJzQ3JEbTVxcjdtWVZsSXBsZEpzNWdyeGR0ZlllTE1UQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792965880182
     },
     {
       "id": "news_billionaire announcement_ClimateactivistandbillionaireTomSteyerto",
@@ -5346,160 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1792626176998
-    },
-    {
-      "id": "news_NATION_TrumpalignedsuperPACspourmillionsintoonc",
-      "title": "Trump-aligned super PACs pour millions into once-safe GOP House seats - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUQ0TlBNRlFaWUNWRWZnNXpxYVV4QkRuZnIyT0FXTUp5TE0wRHhKSmZFLW1wN2dHQnZMVWpNVkxYc2JZNWs4N21DQjQwSXRWR3kwaG1qYVpRQjkyTUlSUHJoek9RVXBJOURzZGxpR2FLUTVqS1hjcjkzQzVWaFRfTHc1U1V6TVdTVTQxeFNBeDJXNWw50gGaAUFVX3lxTE5ld1h1bHFBTTFvWWJLejhDdUN3Wk1UbzF4SmdNSlVqODZsQ0xXMUl3dnMwa0h3OEVZaWVjT3hld0NSMVVSV1diaXp0aFRDMWJrazMwM1VhUjcwOUF1OGtRVnVoNWotYUg5RUxhc2l1Nm95cS1RZGJLaXlSeTluTW9MZ1k3QWJ2WnJpYVJhaVU3QjB2QThJMk54akE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626176998
-    },
-    {
-      "id": "news_NATION_MacronslamsstupidcommentsafterTrumppinsF",
-      "title": "Macron slams ‘stupid’ comments after Trump pins French riots on immigration - POLITICO.eu",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdC1NbFE0ZHM1WDFlMzlaNjdRMmVsSklicGFJdnJhRmpQZElxdzF1OWN5MWRGd1ZBUHlqekhjM3VCT05TcHFySkJLc09wX2xRWnYxYkZ6alBnVldPMW9VbEwtZldrOGJFV3l3VmNtbGIwMnIxS1dMNHBKYmhtVW1HeHU3WnlmLWFGS0g1N2RkZ0NoN1lEbjdqbEFJVHhXRkpmOFNKM2hoQ0FyQW9FTGpXUkdmWVhLcDI1NDlDUUYzdGw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626176998
-    },
-    {
-      "id": "news_WORLD_SeeSuperTyphoonChampisgianteyeasitswirls",
-      "title": "See Super Typhoon Champi’s giant eye as it swirls across the Pacific - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVBnSWpwbGIwSlgyVVh0YWlNenhrSDBtQ1AtSS1Qck1ZN2RORTZBcFVFOFFmVFJhV096MnA0ei00dE5FYkdOX0dVR3dwWEhEMEtGalVMZnRHUGRRODc5UmtKMDRycFhuc1ROSFgxM2pjQ2RkZEtlSGhvSHd6Vm5rYUZLRTFNZkFfQzJZbHh0YnpEZVM3d0NQVjQzVHlWa3A0UktROGVqMGZCeFVPV3lSQg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626176220
-    },
-    {
-      "id": "news_WORLD_NigeriasfirstEbolapatientholidayedinUgan",
-      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqNXVVQzltdk9YZ1FGQl85NW5CWWYzU2IweHd2dXEtZFRjWVQ3blNvaU1Dcm0xbTJ3VlpEVWlmVWlCLUYxWnNSZVJtcGFSRlF1YWh1ZlFVS09McXc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626176220
-    },
-    {
-      "id": "news_WORLD_Taiwanchargesfivemenoverplottorunovercom",
-      "title": "Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (xi jinping) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1NsUnZMMklEM0hnYVZGdFpTelhVWXZUcFFEMV9LRXJqbTgtQ3d3WThsWFkyTHpiYjZKb2FCM0pBMmdXRFVDN3VFSGdQTDRQdXF5RVBfeGdnNmpzeUpYV2lmN05MNGJxUWIwal9NUTVHSGpUU01xU005NDRWZVRnWmR3MUViS0t0T21JS3cyRTFBSUI4bzd5bjJheXYxX0plMzlnNVBORVpfMkRtOXRNN1hwLVU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626176220
-    },
-    {
-      "id": "news_government shutdown_USannualbudgetgaphitsnearly2trillionlarg",
-      "title": "US annual budget gap hits nearly $2 trillion, largest in 5 years - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (government shutdown). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWlhaU90MklTU2wtZDJ1OC1wcVZIeDF5Y3FGRGsyam90X1VCNF9NcGRSUFNwTG1PQ21fZXZndjN3WXM4UG9LSW82OW1xLVQ0Rng3ODZLcjdwRWZtYVEzTm5oYjdlZUZhMXVmVUhubUhuWVJrMzVndXdUN29sQ2h1SHRKMnF0UkdXQ2dkWXppOU50bDV2WXhLM0tHZjk3MGtiTm4xQWNkc2FpU0dXOUE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792615552823
-    },
-    {
-      "id": "news_rug pull crypto_HunterBidensmemecoincrushed4outof5buyers",
-      "title": "Hunter Biden’s meme coin crushed 4 out of 5 buyers while one mystery trader raked in $1M: ‘Classic rug pull’ - New York Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (rug pull crypto). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN3lobFo4bkx6V0RxREFQVERWRmQ2eFBqSTBwaTJCM2VWUThCOGdPdGQxTHlEYnlhLVpUY2xtU1dsdUJtaVBxNVFMc3o3MDdjM3lLUHJKcHZoaXNCbnoyeHdHQVl6bm5VdjlxMjh3YTJoQ01mVGtxN0h0bktQMWRrYWRfd0JWb3BGb0dnYkNZZ1lCMVVpN2RWX0hueC1DMUlSaU9QNUFYQ0tMSy1rZGx6M29lWVcza2hhcXNvbEQwalZ5R3I2?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792615547060
-    },
-    {
-      "id": "news_ENTERTAINMENT_AndrewShueandMarileeFiebigAmyRobachandTJ",
-      "title": "Andrew Shue and Marilee Fiebig —Amy Robach and T.J. Holmes’ exes —are engaged after 3 years together - Entertainment Weekly",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYjF1ZFVQak4wWkJodjZDWUNaU2dKNFI5RHlfc2x4VnJ2aU90RVhLbnd1RVNJZ1FkNVNETmhYb1ZtYXFwNjE5M1FCakU3SjlxWW5lcngtbzEyNm0xTkZZaHRXbVRMMVVxQjFEQkNVUVJzLVZCQ3B2MEZnVTVfNlhCQ2ROaUFZR0JrbU5ISWxkODZEVVdmcnc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792615537872
-    },
-    {
-      "id": "news_TECHNOLOGY_ElectronicArtsLayingOff3ofEmployeesinStu",
-      "title": "Electronic Arts Laying Off 3% of Employees in Studios Restructuring: BioWare Shutting Down, Respawn and DICE to Team on ‘Star Wars: Battlefront 3’ - Variety",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2dLQnVGVFZ3dmM4VWVrRHNWcnNwTW9KdmpaWFNGcTdrUDF1Y0xwdGhWTkpKTDZ0VE5fV2kyTUgxM1NBY2NVQk5QSXZoTU1seV95MzlZSno4S1NYaFB4d0F6M2VtdTNKOXFlS0FhWU5POG5NLXRJdkQ0bnU4dzNUTjFoMGlPTUQ5RjNxdjBVOUMzV3JaN0NjZnZ3Mm5nb0NIc09rWXNFTHZqdGpEZGtjUWdianJxcFNOZGRN?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792615537148
-    },
-    {
-      "id": "news_TECHNOLOGY_iPhoneDuowilladdReachabilityfeaturelater",
-      "title": "iPhone Duo will add Reachability feature ‘later this year’ - 9to5Mac",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczdpdXpSb3IxRV9fSHBFQ292dUtkVGpVamIyYVpkSExISTdxU0w2ajkzWXk1VURra254eEstRE5qdGJ3LWM1QmxoNFBRbU1fSFo0ZXVFTTRzRHpkck1tZ1ltVVNBZ3E2aUVTb1V2QUVYQV9TNU00MEVQcXB1a09pWUdGZUdEN3lVY2hRT0Ezd3FaUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792615537148
-    },
-    {
-      "id": "news_TECHNOLOGY_HaventPlayedYourConsoleinaWhileTradeItin",
-      "title": "'Haven't Played Your Console in a While?' Trade It in, Xbox Tells Customers Amid Stock Shortages - IGN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90c0NCWDNrc1BwV2VTcF9OOW1OZmJNYXZWX1J3Wl9WQWt5V0VQeGZHdEVFR0JYRDA2cGhrUWM4bWlYSUZSdFI5aVNXeGRZanNrN2dtNmhzV0o2VS1jQjZRQ1kwSGhtZVNWQlE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792615537148
-    },
-    {
-      "id": "news_BUSINESS_ElonMusksayshesstayinginMemphisnightandd",
-      "title": "Elon Musk says he’s staying in Memphis ‘night and day’ guiding data center buildout - WREG.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbHZPaVNwWGVuVDQweUNfMHV1aWdUTnltbHVqbnppdXg0Ny0xQjZadlRZMDJzbFNFb2NxQmZzR193SmMxLUJnREZXNG9NTEk4RDhTdlN0bGRrTWx4ZGhla2VoUjZMZVpzZzNsZUgwRFFGM2xfUzVpMGZBam9sRTE4QmZBeGhra210bk8tbDhlSlIyOHg2aGlLWVlEU0tWVWlsTlRUc09RcG1KeVVGbU5HMEZBRzdoY2U0TEREVWlB0gHDAUFVX3lxTE5Ma1JHdm1TanloX3paOWJtUVA3aTlkT015Z09YS3M2dHpCU0IxSC1iMWkyNXA1TkxSNVBqbGlSc2hpRW5nR3VVWmQtZUJleFp6bTJwTDBUNjBsdmFpUElWbVp0WFVjdElnUVVFaFUxbVo2VWE1ZkRLSmpWNnRlaXlYZl8zTW1CcXRiZFdTQWRsTGM2ejJ1R21qRHBmb29nNWhmOXA4RlgxYWRhWklINENsSGlOOFNrSjc4LW1MS3JGUDZPUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792615536435
-    },
-    {
-      "id": "news_BUSINESS_NetflixQ32026EarningsStreamertoMissAdSal",
-      "title": "Netflix Q3 2026 Earnings: Streamer to Miss Ad Sales Target for Year - Variety",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlEtTzRLRTZNSy13ZjRCdXBSV2VOcURTOU5PVmVDVmkzaVdzSElpaWtvS29oc2xlM0l4LXIwOXpWeDctNEoxRzd3NzFURE5RWEsydDlhOS05SHRyWU5ITXFiMjBQRGZEanJRVUVsdHBSeVJ4YWV6bDNQSnhwZU10dzRjVVZkUVN3VVNrWVpadnFHeXZDUXZ5NjZaX3RUUEtxNFpXUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792615536435
-    },
-    {
-      "id": "news_BUSINESS_EXCLUSIVESocialSecuritybeginssendingnew1",
-      "title": "EXCLUSIVE: Social Security begins sending new $1,000 Trump Account notices to parents of newborns - Fox Business",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU09Hd1Y5a3d5THlQLV9qcGVSQWpVYnE4c0daaUVfMFNZRzZaUFRGTjF1ZXBuekdvYjFzWnFoZi1VYWZ4dE1SczBHX0ZzVzBlYThueDdUbndQSnpuS3dKRzd1azFwc1dwTzhua01qUGxJUnJUSXQ5d3JYdHhtWnRUcFluY29pVi1uaUl2TGZfdVZDMzlkb3kyb0NrLUNLdWtlYVB4TUphbzRnamtCRWNQWFlRSGdwNkxpZHVUQjU4M0ZtQU3SAcgBQVVfeXFMTm1qVE1WYVIxSjdhZTZBMHdoTVdlWFNjT0Zhc0tUUEJMdlkzckRuZzdLbEROWUViaXFsUVN5WEhvREpRVEo4bHNENkJ1MThXNk9pa3BsdGRWVmJGbFRUb0RLX0tXb3dDazdJTzdmSHotQzl0bkhaNlVSS0V6TEFDWWZVZnVEN0lQeFFCWERvbmhHN3p3Zm9oQkhVTlZXRG4wLVZvS3F5QTRVWnhVbGFaM0s2aWIwVGdzcXo5M1llb0ZfaG1iVXR2blk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792615536435
     }
   ]
 }

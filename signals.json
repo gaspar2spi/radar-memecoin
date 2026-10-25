@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T21:59:39.378589+00:00",
+  "updated_at": "2026-10-25T00:08:15.337638+00:00",
   "signals": [
     {
       "id": "news_TECHNOLOGY_Cyberpunk2077RocketsToItsSecondHighestPl",
@@ -1452,6 +1452,83 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_rug pull crypto_HowTrumpmademorethan1Boncryptowhenmostof",
+      "title": "How Trump made more than $1B on crypto when most of his coin's investors lost money - ABC7 New York",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (rug pull crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmNRamtUY2NCSExkU0NTTU0ybHlURUlZb051OUFGRXp1dmEwWnl5ZU80UEhSQTBmODJKOGE3NXhya196aHl3TF90aGY1Wk1XYjgyY0F3LWJ0ZjlPbHdneG52cnNZMDZpMUhQYmd6bWxUU1RJNVNrcDhOcWVQcFBfTnlQX0luYTR0Z2J4SmZTTTFEZFFrenhIeFVfZGpFT0QzUXhkbm0zdlN4RVVO?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792886877010
+    },
+    {
+      "id": "news_rug pull crypto_TrumpDigitalGoldCrashes98inHoursAfterSus",
+      "title": "Trump Digital Gold Crashes 98% in Hours After Suspected $330,000 Rug Pull - Yahoo Finance",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (rug pull crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXdhMWdTc1VFNW1OTkRTUnpJZzNpdUt2aUpiYnR2Y0Z1U29TNk9aVTh1Yk5NSlQtSlRoR3U4c3VJaXFnZVhsWDRyNDVQcVYyVmRGVVh2WkN0cS1yQUFBU1VIN3JXcVNzNk5NVUl2eFM5bjNlQUlnYklCcDlTWDZiOUplQ1R4UmJtSGdJbUZ2c2hULVMzLUF1Njhn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792886877010
+    },
+    {
+      "id": "news_rug pull crypto_RossGerberSlamsTrumpsCryptoRugPullPoints",
+      "title": "Ross Gerber Slams Trump's Crypto 'Rug Pull,' Points to Report of 'Over 1 Million People' Losing Money While President Made a Fortune - Yahoo Finance",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (rug pull crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNVBCUVFTbTAzZFR4cFo1VnlxaWc0R2RoSEJDelVuX2JDVW1oWndXSFY2Y0pxQ1lnNmt2RF9kUG5fQy1xLTZQZUxyLUFRTnZYaGhPYVJkbDUwTDRSckZ2SllvaGF0cU1QVWdRNlZFLTF2dUpqendTUmxza1ZIRDJOdXA3U1FtenYtd3Fkd1pMLUttY1FOclRMUWVMSlF6N0xZLXdiV2FWeEViakdjM29JSXdIM2R1eXZBUlFGNWVaWE5HVHJQb25sMUUtcDRrQWlTQWxVT19QRjlUMlp6LS1Rb2hWZHJyMjZKZlBHWDdpdDRBeDdTT0Y1dWtSTnE4T2lZa2tmWmxpQlc1LVdvVzRwX2NlNF9DbUFiR0xR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792886877010
+    },
+    {
+      "id": "news_NATION_DemocratsvotingrightsgroupschallengeTrum",
+      "title": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZktSc2RSY2JDQVNhQkI5WEhvUG15SHlWdEhGbk42WFc5THhVcWIxS3htNk9QUE42dUlUbnpFWURac3d4eTl1MVl4SHN2SlhtSUVZS3RtTjJTSHZTOEw4TXZrMmdMQTN0MERVLUdlNFo0alh4SFZQdmN4TEdHcndkellR0gGHAUFVX3lxTFBXRGhHS2Y3YUEtVHNISUV5NENROVFzN1lRNm84aDREUnBsbHhoTUstVGpTdS1QcnJZamdTczJtT0taUVc0Q1ZwSVRnWFRUcElraE1oTW9nSjhmQVNBeEtLRWhfY3BWcjlvb0daemRSS09qem1RMTk5MkRCTGxFcnpIWmxucHZwOA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792886866285
+    },
+    {
+      "id": "news_NATION_ChangeisintheairObamapraisesElSayedandat",
+      "title": "‘Change is in the air’: Obama praises El-Sayed and attacks Trump at Michigan rally – US politics live - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDQyQmJLQlNpcEhrVE4teUxyaVByQ18xV1YyZVRIdWt4VEN3dHFRaWQ0MlBfMEJ6Y0pBYm5meHFmeWVfaWVxc0xNUFVYb3FNdkhJajFsYmpEY3JXV1VGZEJScUd4UWNXU1dOTkNfMkl2Z3ViS1kyLXlNdUJ3UkNScUIxYjMzWUwwVEU0XzE1cHdSemxYZVVHTFUwR2p1WHFOX2FjWE82MUNzbUdhdTlr?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792886866285
+    },
+    {
+      "id": "news_NATION_MelaniaRewritesHistoryinShockingSnubofPo",
+      "title": "Melania Rewrites History in Shocking Snub of Pope - The Daily Beast",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (melania) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVPbFVFLThnU19fQ2JwY0NLR1BCY2o1TnBrc2QzS19HanprNlIxMkdpcWljLURIN0k1SXkwbmRzZFZDc3J2SVFFS25DSmhKTFJHQ19wak53UzUyYnV3WU1BWUxLaEhQVDQ5Ymw4THRnSVRTN3RZZ0lRTXI0Z0FtSi1YTHhZSWZOYXAwSkxuZndFYTdselVwd1IyTWQxcUxzQVc3M0ZCNXJjN0RzckdYVWF2X1pMdTg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792886866285
+    },
+    {
+      "id": "news_NATION_TrumpWhoOnceCalledEarlyVotingRidiculousC",
+      "title": "Trump, Who Once Called Early Voting ‘Ridiculous,’ Casts a Midterm Ballot - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQODV1QzViUjNrbThYSHFGSG5DcmhNdXFxeE16QkctVll2N282TkdRR1d1UzhKWDF2ODB4aE0zYmxKcDM2Mk9JRmFCUUozNmhSTHlNTTE2U0RxejY1NVNlTDRlU0VXd3YwZ2xVcXVCV0o1Y240X2VvSmhCcllYVGt4OVRUb0FUazJROEd1bGZyNUg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792886866285
     },
     {
       "id": "news_gaming leak_Shrek2RemasteredLeakMicrosoftStoreReveal",
@@ -5423,83 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1792564605878
-    },
-    {
-      "id": "news_NATION_Trumppresents10000checktoNickShirleytheY",
-      "title": "Trump presents $10,000 check to Nick Shirley, the YouTuber behind Minnesota day care fraud furor - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHFnWFBOcVlDaG5na3R4R3FyazFLdHhCNExzZGstbU1LS1lRZXhwQUZEMEZ2WWlVYVp0eTdIeXY4ZF9sbEhRZnYyUjRrRlR3SkluUktxaElpekphOVhEUzdXbWpjcjJEVXplZnRjNVd4dnZ3QzdoZDc0aUFPRWx5anlFY1o2aGhXY2g5RTBjMGZGeTFKLVJCZVJ6N2g?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792564604971
-    },
-    {
-      "id": "news_NATION_TrashIslandorDClandmarkHowagolfcoursegot",
-      "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tNjJLczlPMVp6NnExc09JTmE0SmNaTHM0RGdnNTJGQVo1X1dndzV3MUUyMEJ5ZFpRbm5aU0RkQnpkRzhqalZEU05WVlhmTUszbk5CSlJuOTZOMlk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792564604971
-    },
-    {
-      "id": "news_NATION_PetalumawomanarrestedandchargedinTrumpDO",
-      "title": "Petaluma woman arrested and charged in Trump DOJ's purge of alleged fraudulent voters - The Press Democrat",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: arrested.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOE1LVVFUb2xzYVAzS01DWmQtVHJCanZ4ZnlSNGFsMkNkeFVFTWVvSkxLNHdTRVMwYktFTkg4eEZhb0JxNURXSWRPMGY0dmlZYVIzd0xJWi0ybGlkWHVTc1pWU08yZ1FnR2xsdWF6SjM4d0tOTGdWVTA3NmRoNlE3Y0VjN0NsdHY2Y1EwMWJSa3ZTVllLdGxpbzlBN1BKNmR6SFVub1FUV3g2Z1gyQ0xBQ3hNWkZIU3ByXzYyY2dwbDVvWmhMLTFCTDJ0ZHlhdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792564604971
-    },
-    {
-      "id": "news_NATION_ElonMuskorderedaslowdownofStarlinkinUkra",
-      "title": "Elon Musk ordered a slowdown of Starlink in Ukraine — report - DW.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM3lITW9MUjdrRUhPdmF2T2sxWk1MUDNRRmlvTjRNT1ZTLS1yRjdPaVZkQ29JdGpJclFNVHU0bHhneWdxYlMzbldTZFlYRDdCaTY0Y3JqZHpZaXBsOUxpUURndEV5LW9qX1NlV3JFYW96SUtyWjJYbmNJM2N4VElOLWJzcmtiRXA4WURhUm9pQ3ZxdUdmMkHSAZYBQVVfeXFMTWVrblBXaUNKMHdYOE96OW5LcFU4SGRtS3hNRzV2UFNTVFplV0JnTC1oeW9Pbm4wRGEzYUFTVEpFVGhSNUpzdUJqUXVpcVhwV25UcnVYQy01MVZNOVZTQ21RYXRoMkFGMUNmeG5ENGJxUmMxVU9PYjBoVVVKbTFjaTBIRW5yYm5NajMta1U0UUhZSVE5WTRn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792564604971
-    },
-    {
-      "id": "news_NATION_NewVideoShowsChaoticMomentsBeforePoliceS",
-      "title": "New Video Shows Chaotic Moments Before Police Shot 1-Year-Old Kohen Wiley - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzZpZG00T0dtSkFlbVh2Y2lnLVhEd2pKcW5HWVM4dWNydWZRMlhQRExTaTJIRDQxVnZJUXBoU2xJM2JhQlQxejd2WF8xZDdVT09IbUF3ZFN1bWJNUVVzeG5kSnpiTVpNYy1NS0VseWtRenZrTGZ0OW5MekhoNnR0QjdNTDhxV21o?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792564604971
-    },
-    {
-      "id": "news_NATION_BendschoolshootersdadhomelessinAstoriato",
-      "title": "Bend school shooter’s dad homeless in Astoria, told cops he hadn’t seen son in a year - OregonLive.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdUNlXzhIcGcyTWg0VVNTR3MwZ2h3LWxPaVNqdmRGZlRra0dZUWhJeTJUUmtqMmh0TWRVQkdscWdvRGhDdUowYmNuQ2pvbk1kSjlfbG5TQVlOOGItRGhMTXR5M0V1YlVmR2hkSVRfeWFDaFVjNmVGTjd0RTNyWGtYalRoS3p4RlBGbmtCdkpLenlCU1lzakVxSnpaVzVUdjjSAbMBQVVfeXFMTnNSTGcyOHg0akZiX1JMV1JNRGo3bWRPRlp1NEdWV0R0NWNsLVBCUUU1RmljZ3FDTW94VWVfUDZ6SmNVREFxTkR1U3FzajhSREtILU1wTXBRc1dTckxzUm5IRTZnVlBGby1ybGlRRnpfR0FwY0RGRmUwZHN4c1A1T3M5aEtJU0lvVXBPTng2cGVMcTdFWGZuekhQWmRUUmFpTGlZS202TXVMdmE4STlha1dtUFk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792564604971
-    },
-    {
-      "id": "news_NATION_ANewJerseyfoodimporterfilesalawsuitchall",
-      "title": "A New Jersey food importer files a lawsuit challenging Trump's 50% tariffs on Canadian goods - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: lawsuit.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM3ZSRHdaSm9rVWRMRVpVd3hKQWI2OHBCSXVudUhicUNwNTU5YjR5eW1mM1R3Q29RYWNPSUpOaTgyXzV0ZEgzR050aDEyUjRMR0RnakdRdk5DQUxPVjByTVd5dllGQ0tWcUVmTFdzeTlyNjZaQ003cDVveEdidjQ5RlpnS0VmY2FYdG9TQVlLRU9iQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792564604971
     }
   ]
 }

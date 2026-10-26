@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T00:12:36.403146+00:00",
+  "updated_at": "2026-10-26T04:47:29.049714+00:00",
   "signals": [
     {
       "id": "news_SPORTS_NFLPAhasyettolaunchfullinvestigationofJa",
@@ -1463,6 +1463,94 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_BUSINESS_SpaceXcloses40billiondebtdealforAIchipsE",
+      "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTJ4MWVBeEtEdjR1T3U3TDJvZnFSd1UtTVJ5RFljSG90MUs3OW0xRUFTZ2p3T3FjRGZINFUzY1Qwa2MyZWZ3cmlYbkQwd09xTzF1cEdZSFkzTHdpNGhaNno5bW13RXdmaldaSlpBYTN4djJnTUF0YXRsX0ZaX0FQYXlfQnBWSzU4bWJweC1CcjNPNGVKNV9MMHhqTdIBoAFBVV95cUxNOExaVU8tRkNSSVpLS19wVmxBMzl3a2tvYVJfQy1PTzBoTUlGc21yQ2pHNWpnSWxxN1IzN0RiSHZROFBqNFlTR2dfeS11T1BWMUxKMktpMHVlbFRmTjVGdmxqbFBBeUJHelM0eU8tSWQyRDhEVGc3cmdnbGxlSDVDbE1hc3BqNUlNUktNUUR5SGNNT3poc1k4QUxOczJNNm5j?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792990018709
+    },
+    {
+      "id": "news_BUSINESS_TrumpannouncesnewAudifactoryatGeorgiacam",
+      "title": "Trump announces new Audi factory at Georgia campaign rally - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ0w3STJZckJ2UFZjYVFLUG1pVTZkdGd2YlBOSGN2V2s4ZDV6VThYVGxnRWlmYnRzLWxuak9QRElvZVpNXy1vSFpFTjJXRFhrRHFsbXN2ZHZ0Qk9oTGctMFgxNkFJM3ZlNmh5Zy1FWDlKUjBEZnc0dV91UnZnbFkweEZTYlpOMEZtaU1KRGp2d9IBlAFBVV95cUxObUlXMFJ6NWllTzRCSE9JR2Z1Q0I3aVI3ME1QdnI2SjBtVFlISmZjUEJaRzdpYUc2a05rbjFaTVJvUHdfVmVfNTcwM0NESlp6UEhwY0dac2thYTF1dUxZRUctY05jQTI2bGdfWlQ4al9STVZYVXhGa0NIREhsTW1NbDUtTXo2eTZtOHkyYlg3MFlNMWNS?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792990018709
+    },
+    {
+      "id": "news_NATION_ElonMusksaysSpaceXwasbehindrestrictionst",
+      "title": "Elon Musk says SpaceX was behind restrictions to Ukraine’s Starlink access - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWl82WHg4VTJVUThiR0d5ejZaZ0lRaXhBTWZma3dMUXVkQkY5SGstT3BWNnBGY0RCdjVMX2Q4OVFlWFZoLWJZQW9pa3JXdnFZREEzTjdKeTEzLWJtU3U5Z1NuT1llelFqLTFLMkZxYmF2V2VYbFUtLVB2RktGX25nU2lpaHhLNjRTeUZ1Q0lDeDZGUUtBQV9CTndkU1VrS3JSb0xJbTdRZUJ0Smx5R0o1YjF4cDh2NkI2UlJv?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792990017476
+    },
+    {
+      "id": "news_NATION_HowObamaandTrumpMadeTheirCasesinDuelingM",
+      "title": "How Obama and Trump Made Their Cases in Dueling Midterm Speeches - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOW00Z2sxN0VtMkp4b3B3bTRPclRJbUVrRF9Fa1V1Nm5DS2V2Tmt3clhLYnRqdjBBNDhsNzlNaDByNGxmN1FjUUJuM3RfampNT1VkbVNteGxIUTVnUUtFS1U3VDh1U2xMb0hKNk9rRV8yc2h3M2RWU3RqWll2QzdCQkNIMmJzR2psLUF4Sk03dFNoWXpO?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792990017476
+    },
+    {
+      "id": "news_NATION_TrumpleansintoIslamophobicrhetoricatMich",
+      "title": "Trump leans into Islamophobic rhetoric at Michigan rally - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTBTa18teGhVUkNNWGJmRl92UHlnaUF2X0VtbXFBVXNFTEtrdzFfaFN5ZzMwMVRSWHh6QllNcy03RkJrTy1HZ2RUUjgzYU5LUmY2QTJOOURaV2dUWDVoc2V3Q2t3ZXpKSUthWlE1U0dFR3BnZm10cUpUbUtBOTlQRklxMUVUVlJjMnk5QnVSc0otUjV6YWN0TWJONTJRV0lwT0FUMlhzc1dXUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792990017476
+    },
+    {
+      "id": "news_NATION_TrumpsfocusedonvoterfraudYetheworkedtofr",
+      "title": "Trump's focused on voter fraud. Yet he worked to free a former official convicted in an election interference case. - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVTc0YkY4OFpQSXkzMW9JTVNiX0FfZnVJbzMyQUdhT1dGUF9GemktVm14MDRvRXFJVUN6UE45SXUtM1pGdm1Qc19kRXNKNGdNc1lRSjFxNFRHSE1JbE90WktVOWUzaVZDalY1LTJvOGJ6RmRQSnZ2OVhqT1FsWHhxY3l2UWpwY1hHXzdPb3NjNlhCQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792990017476
+    },
+    {
+      "id": "news_NATION_TrumpralliesforMikeRogersandNickiMinajsd",
+      "title": "Trump rallies for Mike Rogers – and Nicki Minaj’s derriere – in Michigan - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc0ZsZ2dESWkwdThIX0ZPS0lXSUxWQ215a0lzVnRBYTlOeW52YzZJeDhUaHZBTk85TDRkT1JPNVZKVHZsOVZVak45VmRvMmkzUXFVd0tobnhWVlJxMWRFNkpobU1fOEE1N0gyblUtNEo1MTVFSHN4QVg2RjBPREE4aUE3Q1VHd0VZVDl3bzVma2g3bGxzM2s0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792990017476
+    },
+    {
+      "id": "news_NATION_BerkeleyConsidersStartingaPublicBankWith",
+      "title": "Berkeley Considers Starting a Public Bank With Taxpayer Dollars - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyZ0h4QjEwNFRDVENWM0p5aTRBVlp2UlVmZzlmNzZPRWZ4bVlIc2lmbWRudDVmTGdJZ05xWHlDcnF6VFJka01XVUsxN1dMNXBfblQ4N3V1RE45ZG9NSjROc3pKUmJ2U0JudkV2Z0FfeG5WQzhWeHB1cS1zWUF6ZzA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792990017476
     },
     {
       "id": "news_rug pull crypto_HunterBidensmemecoincrushed4outof5buyers",
@@ -5412,94 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1792634016369
-    },
-    {
-      "id": "news_NATION_DemocratsaccuseTrumpofusingprosecutionth",
-      "title": "Democrats accuse Trump of using prosecution threats to pressure election officials - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX1F2Mms0ZDBYUzY0Z1J0dnB3dGhUMlBYNm9haDNRenltbExrTWxCWEx0ek9maEFsUHk2a3Y5OThaOVloQzh6VmQ4MDUyeFk1TnNnYmRwOVpfdU5NY3c2a3BkZlpVVG1GWVdhOXNycW9MeXowT3hTN0tYS3h3V1paZlE2VHM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792634016369
-    },
-    {
-      "id": "news_NATION_ElonMusksayshewillretaliateagainstDemocr",
-      "title": "Elon Musk says he will retaliate against Democrats who investigate him - Fox Business",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRzd5aFBFQVNtcmY4V3oxOVdxLS1HT0x1RXUzUjIyMThWZVRuYUk5MDhZM3pxQWhycW5MbDRuTmVaaFkwdjFQMng1bFBwMmR3aWN2TkhEVThDWlFEUlF2Rm93eWc3TW5HRW5nVmFLN3Q4MnZJRGRmVF9jQ2RxZFpaMk1aNGZCLVo0VnZFTU9kalEtNTdhS3JURUlvc29SbFFod3loRlE0RFU1YWRSalVn0gG0AUFVX3lxTFBBQ2FMeUtHUXRvX1Fuams5dWx1Tnh5U0szaE1FUXdseldhWGYzLS1KS1k0UWxheU1TeGl1ck5GVmVwNUhxdWE2SkF2WUV3Wldla0tYNTZYcUU5VkRWWHQxY1RjelZ3Ymx2ZTdsam0xMVl3UVpkX0lFdXAtVzhOTmxXY0ZTUXJsTnYwVUw5ZUhpbVM4N2VkcEh2YnphZ1U2eU1sOHZfQVpaelJkZVZ6NzRCN19xSA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792634016369
-    },
-    {
-      "id": "news_WORLD_60yearsonTheAberfandisasterthroughtheeye",
-      "title": "60 years on: The Aberfan disaster through the eyes of those who survived - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxS21FRnM2RlVvU3FLMUdxeXVWQ196VmtQYjU3WnV6YlZHbWxTa00wZjBtQzl3Ukw3eEotSXVfZlI3SFB0a01ENzQ5OElPYzVzb0dTc0QwZVpHMkE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792634015637
-    },
-    {
-      "id": "news_government shutdown_Trumpsignsbilltoavertgovernmentshutdownb",
-      "title": "Trump signs bill to avert government shutdown before midterm elections - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTJfTlZvbUVhMkVhSVQxSlFOdXM1Vzk4aXo3TTRwalJWVVF4bmU0cHYwRDBVaGYteDFoZy1sczEwOGNoeFlmel9GS0Y0cGlwdXRXNEFQVTR4dXhVVkRFQnBxUFhUUDMzaDh2R29VRVVpTW84TXVwcVV4TlhoY0tOdFF3TUxlbXNmbmVwNHh0ME94WlhVVHVxMTdjbkllQnFjOW9VZzFqREF2OHFUWmJOZ1E4OWFoVzYxcy1FTg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626194331
-    },
-    {
-      "id": "news_leaked footage internet_NewGTA6LeakFoundOnPhoneFourYearsLaterKot",
-      "title": "New GTA 6 Leak Found On Phone Four Years Later - Kotaku",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (leaked footage internet). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVhJUGZobXZBN0FuX2tFTFNhVWh0MENyM1BEYkh1ZXMyU1Z5Qlp2NUd2ZDdndHBZeDRSaE1QU2t1UU8zd2Z5YVM3NWZHbl9HTVYweDMyWnlUd1g5TThEbzEteFgyVkE5eGpBU0V6d2xKNGpoVkFGeFltX0U2OFFHeHZ6TF9WeTV2SDRvYlAtdlNJTk1TWDBldVF3MmVyU2hqazgxQ0ZEcFYxOWo2ZTZqZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626185413
-    },
-    {
-      "id": "news_SPORTS_HewasagreatkidChiefsmourndeathofformerpl",
-      "title": "‘He was a great kid’: Chiefs mourn death of former player Allen Bailey at age of 37 - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRUZWNW5RempzLXkzaTNvUFNfdUt0UlVTYzg4TmJJb3lSN084VXhWaU1VRUtaZ25aYm5HUTJKZmJfUk1UNkxfRVlhZC1MY0l1NUNPWlFnQ183MWR1VGZuRjd0WnppQkxhc2VseHo4US0zM0JlcTZqOEJidEpKb2tmQ0c2QTNrSlkxTWc4OHhSUXhTamhnNFBOZmlHcm02eHc2emxBUzNDNXRvdmU1Y05nR0IwOHNVaVpTLTJiRFNHWGUzdlZ6?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626180114
-    },
-    {
-      "id": "news_SPORTS_BenJohnsonDrakeMayeisanelitedeepballthro",
-      "title": "Ben Johnson: Drake Maye is an elite deep ball thrower, can crush you with his legs - NBC Sports",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQWdpakZGc0wtZ0xWQ0hxTDlGa25idWV4UHJrRHRnZHhlVHhRZzhSYXJyNEtISlNTMWc2d2tyY25xcEJENTVqNy1JOURSaWdfWklWbEQyS185MktKMWZ0YWotNWQ1TWJDdmV0Y2F4OEpfNWdvaEdrUjN4NjNjU05SY1JwNU81UnJIWmdkLVdxeHFoX0VjajRiNVctWVM1a3VZdm9ZYlZxR295Yl9HRFdpTnVoSFRCTHgxUEdkcVdxcU5USjFPNURjNU1NT1lfMjhQRzBsQnRWMmJlQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626180114
-    },
-    {
-      "id": "news_TECHNOLOGY_CriticalGitLabFlawCVSS100CouldAllowUnaut",
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases - The Hacker News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée; mots-clés viraux: hack.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUYWp2NjhKVmlxcU5uWFhHTU5veEhRVVhCNlFGc1YyT2doY05aVU5ERExoZVRYTUNFYVpscDNHRFFFOTFaQzNzTTk2MkVqN1VmQmZaY2RQbzM4SF85RHZaOTNsRDB2aXhmbnRadUUteE96Vlp4V21wZl8tb0J1NzA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626178506
     }
   ]
 }

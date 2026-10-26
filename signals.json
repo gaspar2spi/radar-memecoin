@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T22:05:16.201691+00:00",
+  "updated_at": "2026-10-26T00:12:36.403146+00:00",
   "signals": [
     {
       "id": "news_SPORTS_NFLPAhasyettolaunchfullinvestigationofJa",
@@ -1463,6 +1463,72 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_rug pull crypto_HunterBidensmemecoincrushed4outof5buyers",
+      "title": "Hunter Biden’s meme coin crushed 4 out of 5 buyers while one mystery trader raked in $1M: ‘Classic rug pull’ - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (rug pull crypto). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN3lobFo4bkx6V0RxREFQVERWRmQ2eFBqSTBwaTJCM2VWUThCOGdPdGQxTHlEYnlhLVpUY2xtU1dsdUJtaVBxNVFMc3o3MDdjM3lLUHJKcHZoaXNCbnoyeHdHQVl6bm5VdjlxMjh3YTJoQ01mVGtxN0h0bktQMWRrYWRfd0JWb3BGb0dnYkNZZ1lCMVVpN2RWX0hueC1DMUlSaU9QNUFYQ0tMSy1rZGx6M29lWVcza2hhcXNvbEQwalZ5R3I2?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792973535448
+    },
+    {
+      "id": "news_ENTERTAINMENT_CardiBAttendsKATSEYEsNewYorkConcertWithD",
+      "title": "Cardi B Attends KATSEYE’s New York Concert With Daughters - Billboard",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTF9oN0hQcWdmNDVQbzlGMWd6dVdrZEVSa0ZwY3E4azFsWHhvVjNEUnJYZVk4V3lIeU16TjUzajhsS1F4Tk5qLU53VU1UcHdyeVNCMlNvSm9jX0p1RmJDUXUyc2FlMVJ5cHZJWUhxVFB0cEhrNUtzWm8xWktmNmp2d09LSHJSRlBGZWdRbWJJSWt5eXFwR0tzS2x0Z1FtWjU3Smg2UTVUNA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792973526423
+    },
+    {
+      "id": "news_ENTERTAINMENT_TomBradyDatingCandiceSwanepoel4YearsAfte",
+      "title": "Tom Brady Dating Candice Swanepoel 4 Years After Gisele Bündchen Divorce - E! News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzJfanJuYk1xc1VXc3daeXhzbS1YOEhjc3BKd3h0RzRGOTBWeWFJMmZHVGhQWFZ6Zy0zMFhma2tuMFdxa2lWcU9yV1VsTjI5Sm10TWFkT2FKY1BheGdzQ25KZTJRUnUwQVBLRnhvMTBnVjJEZU9sYXZlaUgtdzVBc3RKM3dIa3A0eVdQakZOa2ZzUllGQ0hDSlg0eHRrbElTTjg4eXJyNE80a2RzRmRV?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792973526422
+    },
+    {
+      "id": "news_NATION_TrumpdemandsmetaldetectorsforAbdulElSaye",
+      "title": "Trump demands metal detectors for Abdul El-Sayed at US capitol as he spew attacks at Democrat during rally - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZExTdTZaT3lVdU02ZUFPU05SOU5XaWNyT0k2S3dQMzA2M29TTmlWd1hMRklLOEpXRHMtT3FUUTNrSXpXQjM0NHNVTWFCNDFGVUljbnhvM0pSOG1BQmR6TEpodHRGVFFFcGRpTTY2Smk1UGhaX3NaajVaYm1IZUdZZDhNbUhud3N0ZFpUUkdtVzRYdnNrQmh6Rk9zWHl2aUR4LTZpYUQ5MldVYmQyTzBWS3ZOOUE5cDRBVGc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792973523724
+    },
+    {
+      "id": "news_NATION_CatholicbishopsregretWhiteHouseprayerpho",
+      "title": "Catholic bishops regret White House prayer photo with Trump, say it was used politically - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTFhbHVWdlhUem03Qk8ySU5qSFoxZnBPLUZNcjB4R3ZqWlE3cHkwaXhNWG5ySC1XaXVDcTFiODV2dUdhUU9zeUdjOGJzaDlwRUFLMVZva0tOVlZydHpGQklYV0JkSGhoQnVvWm1rdzhxd2k1YUg5dFhPbVhINkcyN0pYeldRTUZGOUxSTjZETFNUczJWbnFwaWdsSnNKZllNNDZLb21ESEIxX241clFSU2RB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792973523724
+    },
+    {
+      "id": "news_NATION_GuccicladNickiMinajjoinsTrumpinMichigana",
+      "title": "Gucci-clad Nicki Minaj joins Trump in Michigan — as aide jokes rapper is in for huge White House job - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaU84WnFtRk9IVkhCbXo2MDN0UXQxRHNCc1d6N1c0dDIxbFE1TGJSVWN3bWpRNEdQQjduVi1xRFU0RVZ5UFFXazNnSS0tTGZpMGJqSEZIbDBiRGFIRERBWVdfbHRLOEE1cUU1a1NJZXROZDRFMVVLNTNKN0xZb2tmLW9jOTFac2NPbGZISzRR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1792973523724
     },
     {
       "id": "news_gaming leak_YouHaveNoFkingIdeaHowGreatItWasBioWaresC",
@@ -5434,72 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1792626178506
-    },
-    {
-      "id": "news_BUSINESS_EBaytolayoff9ofworkforceinitssecondround",
-      "title": "EBay to lay off 9% of workforce in its second round of job cuts this year - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mamxmOG8yTklEZlJkTWRrbnB1UUMtdDJoSkVVTC1uWU54WFh0ZTk5QmlIdE11N2pMVjl6bzZMUk9VRW9qQXlYX055MTZpejRUT3RuVlVvU1A0VUtGeUk4bE1RZXNYNjgxWnBqMXpqS0lpZ9IBd0FVX3lxTE93TE9vNVVNZG9iUktxcEY3Z2dSc1VVbk43QVE5UFB1eFB2cGFWdEg3QmdoVUVROFVKbkdlcmlnMEFCbllBRjY1a0d1SWlJcU5SejZmOTVYNFBSSWtyTVZGSkl2TWtVRzlzTU9lbllGM2owU0RwMHVB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626177775
-    },
-    {
-      "id": "news_BUSINESS_TreasurySecretaryBessentinvokesLincolns1",
-      "title": "Treasury Secretary Bessent invokes Lincoln's 1863 act to back Trump's law - TheStreet",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHZhcWNoRnQ2RXJpTmE0aUIzQ3hlSUJLOEFreFp0REVINmdtZ2hyTDhrWTJYdkJjNFFMa0FSUndsMUNNRWNuZGVkLVlObk9nNTBnRlpoYl9sSkgycllWbW9DbmpZeHMtcGJUTWxuekJrLVAtb3VPcThsb2tYcGN4d0I5dEpILUtCeUMzdFVTWVp5TkZyWXhFcDk5NG4xYmQyZ21XU2NlVW92WEl3U0dUMw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626177775
-    },
-    {
-      "id": "news_NATION_TrumpadministrationasksSupremeCourttoall",
-      "title": "Trump administration asks Supreme Court to allow border wall construction to resume in Big Bend region - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWJucEwzUEJZMkozRWQ2Yno2NjlHZGdjZGd6eWY4dnhDLS1RU2ZfU0NqS19QWU5ERGpJNU5TVFB1VFZxdVBDSWoyOUE1NnJFQWpVT0pGT0RLUG95c0NWbzMyVGd4NmZMaEJlTHlhSW5LRncwNVhJaGNKcWFXRlo3Uld1bGdiVjlndnRtVVJKWVhhVElS?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626176998
-    },
-    {
-      "id": "news_NATION_2026MidtermElectionsTrumpDemocratsCampai",
-      "title": "2026 Midterm Elections: Trump, Democrats Campaign - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbF9aMGZfQTdjT21Va2lsVVJFOHh1dEtjYlBzYUNZYWZZTm1VSXUtMjlDSldkYl9CT2pFeVUxSk1qLWRTV3dtS0o5WDdRejA1cTNTQm9xVVdpbkVQUUEwMnRvb043d2VQOWlLS1Q4ZHd1bzlKUXJrUG9Jd0pHWHN3ak9aQ1o3SFBfUzh6ZGM0N0IwUmRLUkRVZ05wRFhYblU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626176998
-    },
-    {
-      "id": "news_NATION_DOJjudgeclashoverTrumpsEastPotomacGolfLi",
-      "title": "DOJ, judge clash over Trump’s East Potomac Golf Links takeover - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVWxqZ1NHLVMtczJmYzNBYVVXU3dvNXhEeEg4ZlB2ZWduZnYxR1o5WHIwbjFBdmFaMEN2em9xZVRBV0V0N2F1Wklxd0ZSdUx3ekUyUjluemR3SmQzSmEwRktYajZCcGJPQkFLRlNVb1d1T2xneFJtZWhjVVdDNFlEbi1NQkVWM19FMk8zX0kxX012RW1xcHhpQk84RTAwcnNzdHljTTl5NGVnSXM3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626176998
-    },
-    {
-      "id": "news_NATION_DOJssnitchforTrumpplanhilariouslybackfir",
-      "title": "DOJ’s snitch-for-Trump plan hilariously backfires almost immediately - The Independent",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzhYTFQ5T3Zqc3ZnejZ1NmRPRWFjR19uVENGZXBHZU9sZER1cUtHc2wwRVpIV05pRWhtdklSR05DQXJtX2dNMnhCRnZSaGRmUElSNUlEN0ZuNkxLNG9laTNSdWVXLXdHNDNYWVZfSjQ1dmt0emNCZFRzWjVRdU85X0ZMYVFuNVpzSFgtY1NRdUtBeFVNYWhQT25obXAzVWJCNGVpQWU2OFY?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792626176998
     }
   ]
 }

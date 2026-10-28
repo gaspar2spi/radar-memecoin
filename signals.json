@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T05:26:25.141960+00:00",
+  "updated_at": "2026-10-28T11:30:07.305599+00:00",
   "signals": [
     {
       "id": "news_memecoin launch_Trumplaunchescryptomemecoinballooningnet",
@@ -1507,6 +1507,160 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_tech ceo controversy_DELLCEOsWifeSusanGoesViralAfterAppearanc",
+      "title": "DELL CEO’s Wife Susan Goes Viral After Appearance With Donald Trump in Oval Office - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (trump) mentionnée; mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd0dlTzhqU003X0FHbFJyZEQxaURfaW9uaXhnN21CUHpoVWMzdTc1bGVsdHlHS3hVSmRjenBHWnZUcFFIV001cU1NZGlPYVBzQjc4WGlwaUZzRkhrclBNSk9ja01NRXZtVFQ3blBWYmRDQjMzRnRKendLd0JZZE9tVnFDaUJLTzFPTmpITXNnNGRPSlowWVFlcUp3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793186991332
+    },
+    {
+      "id": "news_billionaire announcement_TrumpsBigAIAnnouncementCollapsedUnderPre",
+      "title": "Trump’s Big AI Announcement Collapsed Under Pressure From These Billionaires - Forbes",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV2lsdjhnalktS3doNzhKbFhzZzNQVkNQakx2dmtoc2pYTWVaZVVtYW1NQ0hCSjNhakUzLS1lYWRiaGIyVlk4ZVdLTGJCUWM2MXFwVmdWbGo4cEkxcTlteFpNUm5MT1loQ1VWamRjVjIwZWViWnBIMlpDVldFem5DNFYzZ3RJeUVPQTdDSk5wc2ZNV3dmdUZ6QngwM0VQeTZvRkxwZThBOXNxWHBIRDJ6N0wwQVpNYVMydGZVU1JFSkV5amRwTndPSGNybFZVdGdOaEpN?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793186990198
+    },
+    {
+      "id": "news_billionaire announcement_ShivonZilisannouncedhersuddenbreakupwith",
+      "title": "Shivon Zilis announced her sudden breakup with Elon Musk after the billionaire had told her he loved her - Informat.ro",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT2hsWE1TVnliSXBhbFBQcVNkNnhPQzNKUVZ5d0JDa1ZMNW5HX0VoUUJpUFF6ZTYzcFg2Yjk1OXM5SUsyV3BhV193ZjU2a1hMYjhqTTV1enF1Xy02MHpVcFBfU0dRSkhHeFNqV2x5UmVOODhMMFJKZUhGSGtTdzJkNHkybVpiNk1SSnNsQ2FDWjYzYmFPSVEtQkVyZGZQU0toMjI5eHREcUNPNk16M2IwR0llM3ZlczduRVhlX2RR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793186990198
+    },
+    {
+      "id": "news_government shutdown_GOPelectionlossescouldscrambleyearendfun",
+      "title": "GOP election losses could scramble year-end funding fight - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSlFPaEYtTU9fYjViWUJKeFNBalpKTFN3N09rUHpLYWJ4MDJfU1VWdGc1ZmxVNDhSZ2k4OFhoR1Q3aHZNV0gwTHFPTEIwVlpQR1hqNmFYZHJPczFDSXQ4Mnd3SVB3ZkhCZUIzT0poTWNiNHRXNmVkTkJEcU83WFZvdDRpdmJYYmZnLXZyNk0wZkpCMFJ2ZzU4Q3VRSQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793186987718
+    },
+    {
+      "id": "news_election crypto_TrumpsCloseFriendByronDonaldsIsCryptoPun",
+      "title": "Trump's 'Close Friend' Byron Donalds Is Crypto Punters' Favorite to Succeed Ron DeSantis as Florida Governor - TradingView",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOXzF1dlJFMWVXQ0pMTlRuSktQRGtWdWhfak1neVBXckQtVlByTDA0UTRNTlFfOURHMGUzN1QwcFV1OGdKa3Z4TEdMemVQcUVEWUtycW82OGMzWkNMcGlwenZQT09ldjE0am1Lc0FQTW1xcEtlVm16dTJPTzNjdjhRTnhfTDF0Wl9NeVlKcjMxcDVXdmFVaEpNUTNsTVk0S2FLY0dGZFZLLWxSNjFMeklBVnVORGhoZk1qcjdicXVqY1d1VERhajVPOGxMb0FKUWQ5NTljT09NaXRMLWJONEY0VW1pUHZhYlJrWG1PTVZhZ1JvM1RZbUo4?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793186986787
+    },
+    {
+      "id": "news_SCIENCE_Smithsonianscientistsjustrecreatedthefir",
+      "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe - Science Daily",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pLWM2VDVJWHA3UmFUbEFUR2pselNXUU5qX2dlc0VnblEtNE1pSjJ3dXhKclc4Y3VTbF80aVN6OFRHOWxIQUdzclFRSTBnUlhsTFFfdmgxTDBQdm1GRmJUTWR0X0kxUmpJa2ZVSFl3bw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793186975751
+    },
+    {
+      "id": "news_SPORTS_PlayerGradesLakersvsBlazersSilverScreena",
+      "title": "Player Grades: Lakers vs. Blazers - Silver Screen and Roll",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU2poR1ZjenNNNk10c09EMHIxbEkyZ1pGN2NQXzJHT1BOU0t1ZFVjMy1nN0hmYVEwZFJsaC1hY2N6Q1dDa1ZzY3FURVoxV3dNX0ZEQTF2S0FESGRTUGFGc25UTDdVT1R5XzlLZHJ0UnBndEN6YU1yRlowV2M1RlZ6NlZlZUxZUlUtekJvVXNxVmtubXhDSFNsSFhmSXNQOXNlWDZON1dSNHlhcFUzYmpKNTFxSF9ncTBaLTVjUzVHNnBVdnZuaVhlY0pOeU9lS050?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793186974877
+    },
+    {
+      "id": "news_SPORTS_GiantsJJMcCarthyExplainsCornyReasonforNo",
+      "title": "Giants' J.J. McCarthy Explains 'Corny' Reason for Not Wearing Eye Black vs. C.J. Stroud, Texans - Bleacher Report",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWVplR3M5b2ZsNTZlZjBpS2Z5ellEeFg5VEFhZkFhVW9UV3JQcFU2TmJfVW1PbEp5TE4yQjZrdndUQUZsRHNjVDcxVFVTckdnbWxma1RqUEMzLXdSZzM1b2otZVRJZm1iODNTTi00azVCNlowSVJYUm9zMFRINmc1V19DSEM3eXZVWW9DbDl6MndBcUZ4Mjg3ZXlJcnptNmV2OUNqdzh2OFVhaWhHWWZrV2d0dG5KaDRuT29qV0FiWVM2aGlMakE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793186974877
+    },
+    {
+      "id": "news_ENTERTAINMENT_NeilYoungsuesTrumpcommitteefor10Mforplay",
+      "title": "Neil Young sues Trump committee for $10M for playing 'Rockin' in the Free World' at rally - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYXk2WnhDbVcwVjc5TW0wWlRfeXNaSWJEZWw0VC1RQTBvQmRwUFhULVYzNHdPbldmeFhmTFFZMnNSWjBqU0dxUW0tQWdtMFpDVTdZOGU4ZFpCekpjSkQwd1pnN1JiUWtFYnVabE9jT2NENkZzdm1EMzZ2SHVmTFJ0S250UlgxN2tUTlFHVEYxYUvSAZYBQVVfeXFMTl9pMVRZTFFhUzFTYXE1a2hGM2s3TWdjWEZzOUROWVdZZ29SYm9hRTJyQUt0V2dkRWZXY3RtTkhhMXpIRDBVWTAta08wUnFFekphV0dNcFNJWXJiakZoS0NzRXFyc3BQM2NST2xyanhyYjdyQnNDM291WU9MbzV0UmdBSHVWQzVjQXVCRThXVUdiT0JTb2Jn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793186974098
+    },
+    {
+      "id": "news_NATION_TexasSenateRivalsConvergeonLubbockWithTr",
+      "title": "Texas Senate Rivals Converge on Lubbock, With Trump in the Mix - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXUtX2s2NFpBQmZOaklLMUZWOWVyVnlDSE5ISGZPVzlJd1NCeDBpZElndnllTFRjZ0N5TGxrMmxGT0gyNnl4TVhfVDJienlrLUZBR3dIX0pjVGNVMnQ2R3NkMXp5VFR5X055TnpVbm9YalZVYUZfdFpVZzJUVnk5a0JjZzJZcjNkcEtvYzJKMnc4a21FSzQtVDhpOA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793186971630
+    },
+    {
+      "id": "news_NATION_Alexanderbrotherseachsentencedto30yearsi",
+      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xSDE0aXJTYUN4QXRNbTdUZEwtZ2NXZW0zcjNHcG56MzRrUkhQeTlQUWdsOV83TG1SVWVFSHo4NDAzVDR4eE1USWFLZlp6TUpBVHpEdS1UYm0zNm8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793186971630
+    },
+    {
+      "id": "news_NATION_DemshavelostintheruralMidwestforyearsThi",
+      "title": "Dems have lost in the rural Midwest for years. This might be their time to win it back. - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZTRZUzVuZkF2VUtab3FpQlk3aWVtQzE2NVc2clJHSG1ON1A5OHBIbTBlZ3I4SVpLRDRtZm03TFBwakpRai1yZmhUWXJ1OWFQeS1FcW9Ea1RwZW9sVUFOdTNtc2M4WGZCcmE0cEJpR1kxZEx1Y3VIeFhLTUZFSkRra1FYZEVpMFl1RzdiTDhJUWo?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793186971630
+    },
+    {
+      "id": "news_NATION_JDVancestepsupextremeattacksonDemocratic",
+      "title": "JD Vance steps up extreme attacks on Democratic Senate candidate Abdul El-Sayed - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jYXN5QzZjbWFlLTRNR0RkZWJaLTNmR2xGdWJXRGdCd2NZYnJTSkFpS2k4WU50OVRRVHVSblVxbUsxaGZKSE1oX1YtbXBCRHRSc0pOUVJMX3pENnd5NjlOOHVXMXJPRTFsYTdvTHFZZ0RPd2VvYmZtM29vUUt6QQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793186971630
+    },
+    {
+      "id": "news_NATION_WhoshouldbebelievedTrumpssocialmediapost",
+      "title": "Who should be believed? Trump's social media post on golf course leads lawyers back to court - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR0RMUEVTUm1kTFJObnI5Tm9uVTRwV3FiMFhCUF9OclotWVlETUwyclFKWHRHQVQ5SU5uYXpKdFozaWtWaVp1dkhfbkZqNFNkX2tyTHhFMy1RRVYwZW1VQUJHWER4OWtaZWFublp2aTRSVm40cUZpS2RaaDJJLUljYTRqZVY3cUhsQnA0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793186971630
     },
     {
       "id": "news_gaming leak_MassEffectUniverseLeakClaims600YearsOn20",
@@ -5346,160 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1792853284111
-    },
-    {
-      "id": "news_SPORTS_TwoyearsafterblowoutinBostontheKnicksare",
-      "title": "Two years after blowout in Boston, the Knicks are the ones laughing - The Athletic - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1ZyVjFrZGZHekQ3NDR6OXExMmVYb1ZiMktOa1JPY0w0dG12UTdjMVQ0cmh3Z2FEWnFfYTBMcW1ZN3lhbzRkMGlhazA3U3JQRmkyTjJ2bUdXZ0NfSENwQnhtTEVTUnhPZ0lyMERvRUdXTTlKU2tPaWVDWnJZZW56ZDNCYkpfX3NDalpuaFRucHNsUW5V?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792853284111
-    },
-    {
-      "id": "news_SPORTS_Knickssayusingchampionshipringsinanemail",
-      "title": "Knicks say using championship rings in an email to fool employees was an 'unfortunate mistake' - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamZRRjFOdkJrdmx2OUJzX0RRc2prYnpPV1Q4b0FQajZWZGQ3ejhMaTNZanFsUHh3X0VMUjNGTGJLNi1oZkRYTTJNTXNkNnFZdzhsbHhvTEtSTEF5RlZ6ZkxJeVppQTh3VUxhSG1TczRVaUFVTEZ6NE1xcFlmXzBhZFJocXd1c2pMWS1adjNXUjRGVXRyenc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792853284111
-    },
-    {
-      "id": "news_SPORTS_AstonVilla21ManCityHowtheplayersratedBBC",
-      "title": "Aston Villa 2-1 Man City: How the players rated - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yWDhqQ1BUZ3RnMVpMdUtaRTlOYVBFSWllYVkwMlV2cVR1V0dxYjNHNzlJeHI1T3pyMWdnQkZ5Q3A1U1BvdDZ0V0V1TXZmZDFkWGJaQnRQc2Rua2FQd25MVUJqSmJjOGpw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792853284111
-    },
-    {
-      "id": "news_SPORTS_MercedesSpent10MilliontoTurnan11YearOldP",
-      "title": "Mercedes Spent $10 Million to Turn an 11-Year-Old Prodigy Into an F1 Champion - WSJ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90Rk9Rb1JCRWNLU2ZmeDQwUGctbmtMRC1mc1VCTDd2OUhEWUxfVllaTi1tRkRtV3QzVGc1clllZ3BxbzJWN2cwZ2p3RURaTmgtNlV1UTBYd3JYY1NhWHNlRDExbUtIUFlHeWNzUkxDSQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792853284111
-    },
-    {
-      "id": "news_SPORTS_NASCARTalladegafullweekendtrackscheduleT",
-      "title": "NASCAR Talladega full weekend track schedule, TV schedule for the YellaWood 500, other races - The Tennessean",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPanRBSEhMUTdHbkdjX29yeThPbjc3WG1ad09uTkw4aGlEZi1FSXFwcG9PLW84WENFcFU5X3QxakJpeDZzdENEeFdxY0NoRWFiajkwTFZ2TWRpUTB4cFk2OXBKakdUSEl4ZnlscHZ5ekhTV3NZRUIwOTk1SERQeDdqTENBbHN0aGMtNUdub0RQczBpZXpHQTR3RDhNOHBVcjZ2VkVRWUdPdUVBYTV4T2VJaGl4NXJLVzFqSW1xSg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792853284111
-    },
-    {
-      "id": "news_ENTERTAINMENT_JeonDoyeonDefinedanEraofKoreanCinemaWith",
-      "title": "Jeon Do-yeon Defined an Era of Korean Cinema. With ‘Possible Love,’ She’s Become an Oscar Contender - The Hollywood Reporter",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONWxDRWlwZ0Z0M1VWR3B2cmZ3ZW1GMkNDd1RVVWFmSmh5TFpyVlhoZENZN1htcnZ6X2taUUF4U2Q4RkJ3UTJRZVJhb0RDMGt5bWM3aGJCcGtIMmROSmtXQXZURXNlV1pDMS0yU2ppckVkczZKVEtQLU5oQ2doYXRsaERMLU5tdU9rcEN5d1dpMjdudVBqTnlwWm9ZWHlCaW9xM0VEVlE2aHZQeVpmQmc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792853283158
-    },
-    {
-      "id": "news_TECHNOLOGY_25YearsLaterAppleMusicsNewiPodEasterEggL",
-      "title": "25 Years Later: Apple Music's New iPod Easter Egg Lets You Play 1,029 Songs - PCMag",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc01hQ181bkJ5aTJFUkhVaWxnWUlaTGhZY2FqWUtZbnhtN2dEaURCaXNVUk5SOV85V2FXdG9CMDFkVFpRb2doNnVzcWwwZE1wN0haMnh3UnJpb1draHRqVkRQTWNXTElWRWZJd09TVEM3MmV3WU40MW9XUlpyVzhFZ2FRTTRndU51SktncE5mNzkyalVlN0pTOVZ3Z1Noc3VO?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792853282204
-    },
-    {
-      "id": "news_BUSINESS_PresidentDonaldTrumpJustThrewFedChairKev",
-      "title": "President Donald Trump Just Threw Fed Chair Kevin Warsh Under the Bus, and Things Could Get Ugly for Wall Street - The Motley Fool",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOXh5ajd6Y2hCYnRWYmpLOXBpdlU1Wmt2Q1VuSGpSUmNMQmF5ZU9EQUFBUGVCNGMtOWpwLXl0c212aUw4a2RqV1lZMGtwWlNfU2dLekN1MXNIcUVQWVhGc1BuRS1rWWNsQmZ1QjZEU2lEdGluVDhyWFB6RXJ1UUY1Z1ZueXpoWE9WV2V5eEthN0p5cGFwdm4xNF9UVVI2b0JNbnZhTUJrMUNIZFJBYmtrYUlEZUh1YXVlbEJnTVk3ZXdNMG94MTV1ckh3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792853281273
-    },
-    {
-      "id": "news_BUSINESS_IsyourMedicareAdvantageplanendingnextyea",
-      "title": "Is your Medicare Advantage plan ending next year? Here's what to know - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZjJCR3VYMzRWVUpPbzQtclVndjBhR19xbHdiNWN2d0lCMDV6djRNbzJsY3FBaFZsb1RDUDU1bldxMGNGWTJOeUt5bFFtZDB5V0dOdkNKZ2M2RlI0WEd1MnRXX1dadFdHTHdjODMzUExkbktIeEViVS0yY2VsZGdibWNVYkp4aXRMZ3ZNMEw4c3Z3V1JJaEl3b3BB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792853281273
-    },
-    {
-      "id": "news_NATION_RamaswamyandTrumpgambleonanincendiaryada",
-      "title": "Ramaswamy and Trump gamble on an incendiary ad, as Ohio shows signs it might turn purple again - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11cGp0dXpmLS1xdDBpSk4xY1FuT3o5RUdhQ3ZXZ3FDRUNCb0VKMkhoVE5NUjRmdVRpbVVNQjZkZGEyNS1md1RXME5OZHFjdXp3Uy1DSDN2YlI0Z2V3TmVrV2ljR0N3S200TEpQd3VLczFjTzFqV2xDWlRQS0o?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792853280349
-    },
-    {
-      "id": "news_NATION_FacinganelectoralwipeoutTrumpgoesafterth",
-      "title": "Facing an electoral wipeout, Trump goes after the system - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXprRF9jNDJqVkVZVV8wTkF6YW56NU9xMnNUTXJ6WlBKV3BaTURCWF9pMTQ4WVlNUldiem1mY3JLV3ZDejgwZDJGeXllQ0dacGNNQ25XMURXd0JJSUdhS1RsUDJfUGlNVUFxcXVtZGlJRGZlSDMwY0hkeE1fNWE2T3cwazNmeVBTbktpX3JYN2E5TWVE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792853280349
-    },
-    {
-      "id": "news_NATION_ObamaReturnstotheTrailSettingUpDuelingAp",
-      "title": "Obama Returns to the Trail, Setting Up Dueling Appearances With Trump - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792853280349
-    },
-    {
-      "id": "news_NATION_HowTrumpGavetheWorstPollutersaFreePassTh",
-      "title": "How Trump Gave the Worst Polluters a Free Pass - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1p3YkZFQlpzbXpQOEtaUmRQRzZuU2RmVWxaQWdZOGNpNlV4Y2ExVmxCZUtMcXNGQ1owN0Rnb09MRVVSR0xOOXprdk5ZbWx6c1EwQVNBV2wxNjFCRFlQZXVRSWR6ajBnZnZySzVJcEdaNDJFVmVYSzlhTlZQb3BMMGdtX0dUR0E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792853280349
-    },
-    {
-      "id": "news_election crypto_BitcoinFellinEveryPastMidtermYearandRall",
-      "title": "Bitcoin Fell in Every Past Midterm Year and Rallied the Year After. Which Pattern Wins This Time? - Yahoo Finance",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd25KS2hRa2NpUms5OEVxd3N0SGtxMzFibHBJWW00QVp5SVpka1pzNjdqbVlEMWpzYlJiSk5HdFY4RTAwNERBUFgxbFBFWEhuakhuTHNzN1RUcWdzX1B2MnNrbndfblkyOXBqcnFzYk9XMk5ILTJ5Q3NrT3lFbkRITmZPV1V3c1JfWWZMNncza1pTUW5PNUpJX2premQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792841484861
     }
   ]
 }

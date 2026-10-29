@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T01:16:20.698928+00:00",
+  "updated_at": "2026-10-29T07:11:44.926607+00:00",
   "signals": [
     {
       "id": "news_memecoin launch_CryptoThoughtTrumpWouldBringItLegitimacy",
@@ -1540,6 +1540,171 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_BillionaireElonMuskisgivingeachAmericanc",
+      "title": "Billionaire Elon Musk is giving each American child a SpaceX share. - Vietnam.vn",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenRRRnJlbHJlbk5KaU1OXzhNR0s2LTR4MUxxd1F6djF0NVQwTzRrYlFUNkNkYUNsbTVJaVZKOElWNVRQQzBjeWZ3ZTZWWlZWYWNPb2tEUGg3MzYxNjRDbjRpbF9sbXVQQTFJVV9xSm9JVHFmZlo1NzMyN3VtNlRyTEs0QU9TOHdv?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793257889723
+    },
+    {
+      "id": "news_rug pull crypto_HowTrumpmademorethan1Boncryptowhenmostof",
+      "title": "How Trump made more than $1B on crypto when most of his coin's investors lost money - ABC7 New York",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (rug pull crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmNRamtUY2NCSExkU0NTTU0ybHlURUlZb051OUFGRXp1dmEwWnl5ZU80UEhSQTBmODJKOGE3NXhya196aHl3TF90aGY1Wk1XYjgyY0F3LWJ0ZjlPbHdneG52cnNZMDZpMUhQYmd6bWxUU1RJNVNrcDhOcWVQcFBfTnlQX0luYTR0Z2J4SmZTTTFEZFFrenhIeFVfZGpFT0QzUXhkbm0zdlN4RVVO?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793257881668
+    },
+    {
+      "id": "news_rug pull crypto_RossGerberSlamsTrumpsCryptoRugPullPoints",
+      "title": "Ross Gerber Slams Trump's Crypto 'Rug Pull,' Points to Report of 'Over 1 Million People' Losing Money While President Made a Fortune - Yahoo Finance",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (rug pull crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNVBCUVFTbTAzZFR4cFo1VnlxaWc0R2RoSEJDelVuX2JDVW1oWndXSFY2Y0pxQ1lnNmt2RF9kUG5fQy1xLTZQZUxyLUFRTnZYaGhPYVJkbDUwTDRSckZ2SllvaGF0cU1QVWdRNlZFLTF2dUpqendTUmxza1ZIRDJOdXA3U1FtenYtd3Fkd1pMLUttY1FOclRMUWVMSlF6N0xZLXdiV2FWeEViakdjM29JSXdIM2R1eXZBUlFGNWVaWE5HVHJQb25sMUUtcDRrQWlTQWxVT19QRjlUMlp6LS1Rb2hWZHJyMjZKZlBHWDdpdDRBeDdTT0Y1dWtSTnE4T2lZa2tmWmxpQlc1LVdvVzRwX2NlNF9DbUFiR0xR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793257881668
+    },
+    {
+      "id": "news_HEALTH_These1970sKidsHadtoStayinSchoolFor1YearL",
+      "title": "These 1970s Kids Had to Stay in School For 1 Year Longer. Decades Later, The Results Are Dramatic. - ScienceAlert",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793257875542
+    },
+    {
+      "id": "news_SCIENCE_NASAadoptingApollosurgencytobuildamoonba",
+      "title": "NASA adopting Apollo’s urgency to build a moon base and land astronauts within two years - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0h5UmtYWUN2RnJJbUlacnl0ejQzZmhsUU9YOVVHY2M3SjVldDJ0UXdaR3J4bXh4dlU1QXpKU2sxN3lOYUxibEhkczkxYmFTVi04aUotTng4UWNUQTUyOGxDa1BoRlBBY21kcnlkZ2lpdzdWenVRamxqNmd2RmVrcDV3SkdyOW40MGY5QTA3TVFDWm9TT3NyMHJ3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793257874377
+    },
+    {
+      "id": "news_SPORTS_StudyEstimated75ofNFLplayerswhodiedfrom2",
+      "title": "Study: Estimated 75% of NFL players who died from 2008 to 2023 had CTE - ESPN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaDZHNW5vVFBoZDR1T2tLWkxnaE01TnFzaE1sUi1Qc2dGUkZjUS1LWGxIbk52Vkc5c0lXam5zRWl3YWRoZFp3ZFdwdzlVOWxFX3l2ZVZCVFhTWVZjUXN0SjE1aWlkdmxKcUJNVTJJcGxKbEpnUnRlTzRMbjZvTmZ1REpPamFDUlpkRm1HaVowc1NoallTR3VIUA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793257873170
+    },
+    {
+      "id": "news_ENTERTAINMENT_MatthewPerryssisterremembershim3yearsaft",
+      "title": "Matthew Perry's sister remembers him 3 years after his death amid new docuseries - ABC News - Breaking News, Latest News and Videos",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée; mots-clés viraux: breaking.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaFlJNnJ5b2lud2tyZXBSMDBiYVhaWUtKYVI1UU0zcy1NRk9vNEhzYzZwNHA1LXFremlnRUJuT2VIREdjbm1aQnVxcHBhbWlrd2tndkhNZWRCR1hQQURYZXFBV2pnZG9wR29HUFpRbEplNUNRLWlKT2NvM1k1cFBsLXFuZDBhNUE3aHdHQkpkMjRkWm82NUY1V1Y1QURuQTlRU0F3eA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793257871821
+    },
+    {
+      "id": "news_NATION_HennepinCountyAttorneychargespoliticalco",
+      "title": "Hennepin County Attorney charges political commentators for primary election vouching stunt - 5 EYEWITNESS NEWS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTkd6SENPUDM0bmVNUmhNVnRfWTVQS0J6Ri1pRkpUa3JsZGpOWGduTHdubWxhbkx3dmJkSEdlUEFQYkZtYXZMajh3allXZWc1TzE3eXkwS3RJZ3VaQ2pVX3UzTUh1Q0lwWm5mUDVmWjVlSXI3b19GY3pRY0ZoZ3pRcmI2ZE13bW1kLUEwSGtuQVpJU2hfbUdrZVl5dzRQRVpoN0FVUWg1d001SVR0UFoyZWt3NDZWUUFpaFNYYUJ1RlJDMVZvUHpV?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793257868246
+    },
+    {
+      "id": "news_NATION_MurkowskisnubsTrumpbackedAlaskacandidate",
+      "title": "Murkowski snubs Trump-backed Alaska candidate, endorses Democrat for governor - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYm16V0VmTWdjeHUxZmw4ek1LaldyaE1PQkVEc2ZyT1NfTE5XYTNEYXlPb1hVVE8ycDZ4bVlvNlpoN2E3Q2xzZVlDVEl2c1otaWc1dlRNMEN4WnZscmN3REp5eGdkNzAxS254T214SDVhVWgyX2gteFRDeWQxNktWNFFua19ZX0NrMXpHcnRmUzJsOVBpcWI2ZXhRTHcxWElpSU1OdzlCOWnSAa4BQVVfeXFMTlU2bHFEUE1DdkdzUjk3QXBURUtNZGpEXzR4MjFOeXkyVHpIeGYyblpXcTRadXJrM2tTdE8xaThNOE1jMEwydWlqSnRsYkNRQ3R0ckxnX193SmZnNzhjUDlDdnN1RGE1bTdNcXdFNllyNGF5enllOGstMUs0OGVQZHF3NmRpM1lSSzJjaEFJR25pd0hEOXYxd0RVM0Rjd2IwR3VzUmNTU0FqVjUtdEhn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793257868246
+    },
+    {
+      "id": "news_NATION_MidtermelectionupdatesObamaandTrumpsChee",
+      "title": "Midterm election updates: Obama and Trump’s Cheesecake Factory feud continues at dueling campaign events - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZWVtanlsZUxLMk1CZ3QySDNXN29uQ3lucUdaTlJvSDNhWUM2S3Z2bTByT2lHQll2M1drX2Q5dUxqVEdCOG9mMEF1SDNQNFpsNmxyTjFXUTY2RUJXN2NzN2ZwMEg4ZmNETzEtUmV2Sy1vZzItTEdzWmJyc0hYbTBkYQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793257868246
+    },
+    {
+      "id": "news_NATION_PresidentTrumpreturnstoOhioformidtermral",
+      "title": "President Trump returns to Ohio for midterm rally - The Columbus Dispatch",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcGJ1UDB3OFZhODc4R2FKRG92MTBEWmZXMzlpYUo4bHNjaG1NTEgtb2liclJNUjdSWlRxV0VGVlhsLVY4UG5faDNpeG40UTBmZjRCcXd4UXJ0MFppdmRBZktwVTFvQkstNkQyTjJtNjBPcVZPcUZGelUzZkVsbTVsMUpjbW15UGo4aVlZem1hMGtYZXZtVHlvNG91ZHdnOHVQNWZOak9KQ2stV2xfSmd1UXNnS2Q0R1ZKaGxMVVltdUhObjR0bGZ2TTBxVEZqSXhfbmJ6N1dIYVR2akRMNEtjMDlqQjYzdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793257868246
+    },
+    {
+      "id": "news_NATION_CANYOUHELP10yearoldgirlkidnappedfromCanb",
+      "title": "CAN YOU HELP? 10-year-old girl kidnapped from Canby apartment, police search for suspect - KATU",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNRU0xcmcybFpYdkowWkdqZ2laTmhfWkFVbldJaGc4N2JxR0RMRFI3cVdseUtYUjNPWExJbzFoVzI1RlVKdG9JeTEtSTBSYk5LVldJTlpoS0FEX1FnQlUzcUxhUVpyZDVCR1h6NlNyc3g4TmNOZ0k4WERvQ1NKQ3l3WENmY0JhdnktS2xmWjZWc3FqOFVyc0dlQzF4Y3J3cW1lLU5SN0pQV09tTndKWEdGRHhpMGREdHZsLTluQUdOTFVLZHB3QWtCdzk1OUlMQjJIeHdEc2tHTGNhTUJjTEFOZkVyVFBrN1dHeGRqcFNiSFVqTVNpdGIxMWFmRjlNNU1hYmZ5YXRKbHdod3Rmei01MTNHMTZzRDZPLWc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793257868246
+    },
+    {
+      "id": "news_WORLD_CarneyhostsEUleadersasTrumppushesCanadat",
+      "title": "Carney hosts EU leaders as Trump pushes Canada toward Europe, but membership label faces resistance - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX01JdWZRb19GUU9tM1JsQkhzcGM4dFBqdENqQ3VRdWhLcjRmaTFreXFZRkFuc3VZVDc3MTFCUHlTbGltZzlmbm53M2VoUkQ4YzB4VnQ5Nl9GVTF6U2hxTkRYa2tVNlZLcHpTX2pUWjBPaTdjSldHOG9WMVV0MUlTWFY0WU45NmNjR2lzNndfdVNGWTdtdHJFUUoxd1Q?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793257867332
+    },
+    {
+      "id": "news_WORLD_TrumpadministrationsanctionsNorthKoreann",
+      "title": "Trump administration sanctions North Korean network accused of infiltrating US companies - Fox Business",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSFBwd05zdzczbzhraDVqaWc4ZTI1SWtvSFo0ZUpMS3VjUno4NTNDbUJpdUp5aF9TR01RN0xCSWpEMGFQaTJVZ1dxRkFZYWx0bDRYYzh3Q2VHUUR6X2lVeTJjRzFsYnhieG53NlBrUVdfOXVtMGxtZEJrejlCUURYUlRUTE85ZnhXY1FjclpQRElmb3B0dkFTM3VibFFXWXRCMEc2eGR5cGRZVHZJTHM3X3BWS0ZudTdZOWkxbUNZUWkxQdIBxwFBVV95cUxQdDcwdmphUkhNWU5neVJvaTJxZGd3cTJ1R3FHNnJhcmJpeXhzWkhHWHVOQl82Wm0tTGdLdURBMFpOeldTNTRkM0lxRmFzWUN2Wm5mS2l2Mm9fSlg1dGJQQ0VHbXd6aFBfOU55Q3c1Z2NrTlN4NU81dEhzZU9qVDE4UEMyWHhnclZtSG5lbGhndlFIbDU0aEUxWDhPZDhCMm1feXZNYkRJdTZZT3JRbEM3RFowYmY1bWVSZUVyRGp5eF9xNUl4cUxJ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793257867332
+    },
+    {
+      "id": "news_WORLD_YemensHouthissaytheyhitSaudiRasTanuraoil",
+      "title": "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793257867332
     },
     {
       "id": "news_own cryptocurrency launch_UndertheTrumpcryptoplaybookthefamilyalwa",
@@ -5335,171 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1792936046608
-    },
-    {
-      "id": "news_NATION_TrumpPreparesforIranEscalationAfterUSIsr",
-      "title": "Trump Prepares for Iran Escalation After US, Israeli Elections - Bloomberg.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbS1tMzRuM2wzRGNDV0R5b3o5N3p0V1U1OVhreW01YXB6dWdmQlBCMS1Hb2FmQnJYYVZsSVJKNG5pVHFGN1pqWlJYUk13cC02OTR5RWpZczZ1c21KMjkyMmIxOXJOQ1VDZFg0V3pSTENZTi1DM1NDeGx1OHJBVVc4TjlyeG84ZUhTZ3NXVnVHZGZVaE9tVFFoSHVkUlJoeE5BMkJJVU9kOFNSUG05YVRtc09R?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792936046608
-    },
-    {
-      "id": "news_NATION_MelaniaCorneredonStealingCreditFromPopeT",
-      "title": "Melania Cornered on Stealing Credit From Pope - The Daily Beast",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (melania) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWU1zVUZYY3dSUlBRNzF6Ukt6MXpsWVRYandieGc3Y09pcnpfU0dIbElKZ1c4WlN0b0dQNDBTcGRNTkNzckxkU1J0c0ZWZXVheV9vV2l0d2JlbXpBUHNJdXJ3OVFFQVc4LUg0YUViZGFSRHBjRVdfRjdBTHM1X2Z5TXVTaVRpRFA5Mnh1NGVZcUhYZ1BvaVpOUGR0OA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792936046608
-    },
-    {
-      "id": "news_NATION_ObamaskewersTrumpasincompetentcorruptash",
-      "title": "Obama skewers Trump as incompetent, corrupt as he rallies Dems in Detroit - Detroit Free Press",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX1ZWQ1pfRlJOYmp0OFZhZlhBTzlBcnlIbmVTZ3F0TXVKejRwNk8wdlAySnRnZFNITE0tZTI4a3BjUkZ3YjRVUXFsb3E0em5TdWVrckU1Zlk2NWh5dElrZVhnUEpjS2x1ZWZxLWJvSVpyY1pETVNIM0hWUTRTZjhCYmdaYzQ4MDhJamVGb1BVV2xrclZSSnY3STF1T1dBNk45dGw1ZmZ0dnMzeDNuY3h3bUMyRFh6TFpXTzNfUTNJZzVnZVp6WUdDcmhUSW45WGJTU3lNa3dRTQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792936046608
-    },
-    {
-      "id": "news_NATION_Juryconvictsmanofrapemurder14yearsafterU",
-      "title": "Jury convicts man of rape, murder 14 years after UNC-Chapel Hill student’s death - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mYTdJSnVMYzBWbUozT0dPcld5U21FTG5OTzhjalAySW5uTGpvTHdRMms5QjBLekdnOWVEREk1NWE3UVBTdW4ydi10d0NQTUo1Z1lhZkhlV0lLbGliOFBLZjZsbDVzNUVjelRCcXlOWWtpV1NfZFlDMkln?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792936046608
-    },
-    {
-      "id": "news_WORLD_NorthKoreasKimJongUntoutstiesopensbridge",
-      "title": "North Korea's Kim Jong Un touts ties, opens bridge with China on first trip in a year - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GRnUtMW9jYjJsZ3dJTElQYnpHVUJBRVpjT0dRbDhNZmFzTWlJZ2V3U3JlVVN1UEUtUE1uLVFreWdSWDd0aHBNUnlKY1IxdDZqdTAzZGJoMXE3U1dhMkZNX0NENnVhM1ZfYlgyY3FsX2JLRmlPSDZzckhuTlU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792936045872
-    },
-    {
-      "id": "news_central bank announcement_WeekAheadforFXBondsAllEyesonFedRateDecis",
-      "title": "Week Ahead for FX, Bonds: All Eyes on Fed Rate Decision - WSJ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (central bank announcement). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT2FWUnZ2OXJzNkR6VEpTYXhoMDZ2Mm1VYkZ3N1NCT051SHk2S1FxbnNIcGtBam1pNGN5M2lCazQwMFV5UHBNQUVERTVyTHd5VmFHaXBmRWdRVG9IY0gzWWNkT1Q5cXl3VUw2eVFkeVc2ZVA2R1JTcnA0NE5BU1BjUWI2dTVTMXQ0cURjTGw0N0t3cERhdnNfMHlvbW80MGZ5aVhRRWFZX3Fadw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792920130632
-    },
-    {
-      "id": "news_ENTERTAINMENT_Happy20thBirthdayDebutARevealingLookBack",
-      "title": "Happy 20th Birthday, ‘Debut’! A Revealing Look Back at Taylor Swift’s First Album, Via a Previously Unpublished Q&A: ‘I Want to Be Here for the Next 20 Years’ - Variety",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée; figure/entité tier-8 (taylor swift) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamZ6Rm94ZWtyRllCOHVudnVTS1dfQnlvdnhuM1RjYTNhWm1LOGJIbm45LXNlbG9yeFc4LWpvTUZNVHFrTWJMOG1UY3g1Qk92NEgyRWNnNWNweWV5RC02NkwtQXNyQXJuVXIyS1VCX2d1LXNwSk5KdnV0ZlJmUWJucXBwRlptMDA2MW1BVEMybXVVSUJEQzN5OW9ZRFp1eHMt?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792920113798
-    },
-    {
-      "id": "news_ENTERTAINMENT_YouCanSeeEverythingEyes20MillionInSecond",
-      "title": "‘You Can See Everything’ Eyes $20 Million In Second Weekend As Film Expands To Wide Release - Forbes",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaDlQU3pBZEFJSDQzaWlNWGJBWUhtYzBKLVJ5VzJzU1FoQTRuM012elcwcEl4T09nMldEMVNvRmdEUndVTmNQWWF1SlU2S3RpQktoWVJpRVpOUWdFSDhueEYwbFFnR19UNnk0UG9sYnNoQ25BM0VhNFA2Vm5PLW9mZzVZZm9BRnRSMWlzMEZPVHprdXJXem1XRGE0cG9lRVBnblllTF9taUR0Q19tUm1UQkZSSEwwY0Z4Wjc3SHdudHNVNGxUM243b2wtRlVhYVhrMl9laWRlUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792920113798
-    },
-    {
-      "id": "news_ENTERTAINMENT_YouCanSeeEverythingEyes20MSecondWeekenda",
-      "title": "‘You Can See Everything’ Eyes $20M Second Weekend as ‘Clayface’ Leads Box Office - The Hollywood Reporter",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakF4aURkV0xsdHctbE9rOGhLa1NVanNnN1JPdE9pM2FWRnVSTXRBQ21VRzdDZ0J0cC1rbFpZSXgxT181OXF5bGxxR1YtNTJkU3k3d2d4VDQ5LW5sWllFV1VBRS1RM0ZlMFltOVJkMjZKVWJ4TmRNLTZpUERXd0hzZDExSHc0ZmlxNkN6LWprcl84TWtEbVFiQ3BiVzZCQlNRTlNvSlNmaFJJZEU3VXZEZWphUFk5QQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792920113798
-    },
-    {
-      "id": "news_ENTERTAINMENT_JoshAllenHaileeSteinfeldShareIntimatePho",
-      "title": "Josh Allen, Hailee Steinfeld Share Intimate Photo During Bills’ Bye Week - Yahoo",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0ZkTFNGbnVrSllweW10cWhUVWNpMU92WEtmLTREcFNjSVMxSGdWZ0VfRGQ0aTNXYVhhZi1INGJjVWxraDBmMENiSUdfSWNVT3RwZjVubFl3azVVN0ZGenZTdzR4STBKSHhDaU1vUURDUEk4MXAzNUVlaGJhZzh4U19ldXg0SU41MkZaX2VFWmN2SWd5ZTVaXzVOcmFIMjdrNXFuVFV3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792920113798
-    },
-    {
-      "id": "news_BUSINESS_TrumpannouncesataGeorgiacampaignrallytha",
-      "title": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTFJejhGVHpHM3RQVWQ4UzVmaWJfSUVsUkJJaENrN1h0bjA0aHhvaDVvREd0QllZQnU1Q3J4RnBKNmg3aVRWRWxBeDNuMmdQRVpKamNEWmQ4bnlxYzJGVTRMdGpjaU5kNGZ1Skt5VE5WNi1Sa1d5UENGVUo1dko1YVM4OGFMcENiTHVBU2RTV0psdks0ZkVzU0N4Nm5IM3BhY2R4ZEN3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792920112124
-    },
-    {
-      "id": "news_NATION_ObamaslamsTrumpscrueltyandcorruptionashe",
-      "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats - Al Jazeera",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnk5QXFZSUVHb3U0WEhGVFZ6YWUwYVdNdFgtOUNqS2VvSTBiYjJXVktNVGhNak5VQnBBSUdXOWxXM29pMkRXWW1OM3JZMlQzS1JQZmd3VTd3VnBFVm9ma3drTzFJTGZiTExQdXpFakhBUVh0TjZRTjRuSUtCbDV4VF9HdHRCR04xVzR2Qld5anpQRHVfVGtwSHhaeU1wdTVuQzhtWmRkM2t0TE5USE1WVNIBtgFBVV95cUxPazFHLUVrT2l3VF9wNWtMZHRXdWVJUlRmRkpESVhpTTNFVVltSXRuSFgwNVZCM1F2WTZlbmVfWG9EdFhvclplVExQQ2ZDbDlteTN3OWQ5dFZiX29GV3VFS1dmTkhFNzNMZXktdXJMbFVKRmRTZEVtU1J3TVpMcTJZOFg4SlhfR0lXY2dTYUFVQkw0MlV0M2Y3c2RnTDZVQkNOWFJsQnZoR2tSQjJKUl9rY3NQNVRaQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792920111230
-    },
-    {
-      "id": "news_NATION_ObamaralliesrapturousMichigancrowdforElS",
-      "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’ - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2VzR2N2NDVYNjN2MnAyektjUTd1WDR0TjNLN2F5TU1zM2RJU1pIcGFldnhuTzkzRGQybnVISmotX0ZwRlgtTUdpWHlsUmw4RXNDNDYyRC15b3UydFgyWDFCdk9EZ0lvN2hvVDhzNnpqRTRCYXRKMTZQTTdScnBTYk82YWJJeDdMTWRIXw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792920111230
-    },
-    {
-      "id": "news_NATION_MelaniaTrumpCorneredonStealingCeasefireC",
-      "title": "Melania Trump Cornered on Stealing Ceasefire Credit From Pope Leo - The Daily Beast",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (melania) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWU1zVUZYY3dSUlBRNzF6Ukt6MXpsWVRYandieGc3Y09pcnpfU0dIbElKZ1c4WlN0b0dQNDBTcGRNTkNzckxkU1J0c0ZWZXVheV9vV2l0d2JlbXpBUHNJdXJ3OVFFQVc4LUg0YUViZGFSRHBjRVdfRjdBTHM1X2Z5TXVTaVRpRFA5Mnh1NGVZcUhYZ1BvaVpOUGR0OA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792920111230
-    },
-    {
-      "id": "news_NATION_TheTrumpadministrationoncehailedaviation",
-      "title": "The Trump administration once hailed aviation workers as 'great professionals.' That’s changed. - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFQ3RUMyeFk2aWZQSEt4NmN6Y3hfQlltMnJvUFFqenBfWGtoenB5ZncxeU5NUFZfS1NKUVdjZDFVZWwwS0VaMmp4TlI5SjNVNGVkMFVqMGdpeGxkM1dzVDdWWHBzRVhNQ0xvdGtESjByU05HQUxnVEY4dkdqZzNNdF93?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1792920111230
     }
   ]
 }

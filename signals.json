@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T02:54:54.191429+00:00",
+  "updated_at": "2026-10-30T09:21:16.336532+00:00",
   "signals": [
     {
       "id": "news_own cryptocurrency launch_TrumpscryptoprojectplanstolaunchitsownUS",
@@ -1551,6 +1551,105 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_TECHNOLOGY_AssassinsCreedFranchiseUpdateRevealsCode",
+      "title": "Assassin’s Creed Franchise Update Reveals Codename Hexe News Coming Next Year, New Game Plus for Valhalla, And Confirms No New Remakes - Game Informer",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTVh3S1NYVGYwT0NvbDVIWFBNbWZKWWRKenRDcDU4VmxJZnMtS0ZPN0ktR2ptMEE5dllIV1g2aDNVdmZEQmtHNnBaOXZsX2Zra2pWS2ZOWmlOc1JjeUF6b1U1aDZaNHVBWHZKOWNFdEhLQm5rM2xEZERqY2ZUcUt3NmVVd1NnMHBwVlQweWIzbHFLSmoxTnd3OVBQWDlfUGFoT1MtUk1nOW05Qzd2M0hzMm9BSEc3Sm1fUTFLS2xB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793352048555
+    },
+    {
+      "id": "news_BUSINESS_WeilGotshalImplosionHasTopRivalsRacingto",
+      "title": "Weil Gotshal Implosion Has Top Rivals Racing to Hire Lawyers - Bloomberg.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2FpaVd5U0FBNHR0am9ULVBEM1dWVmM4TWxkWHZGQ0FkdjJfNnhCNTlYdnFkRlA4akNibXpzN2EyNFB2alRCaElGNlUtSDctbUlyLUFaQzdhMTRMNmlfbkdodGZYMjJneFJxdElrS3VUeDU0aXYyRGpvWEtBNlZ5SUJxVUF2NG9YNFVIbGIwSmNkRUpfLVdzMTRaQ2Y2aExsUmZWU3c0WDZfeDZMSlJV?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793352047796
+    },
+    {
+      "id": "news_NATION_JudgepressestheTrumpadministrationfordet",
+      "title": "Judge presses the Trump administration for details on its campaign to stop noncitizens from voting - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdjNBQjROOW01Qkhldmw4Ul9RQVUxdGVpTWIyWU5EZ1l1VEZpN0Z5QlVfcWNQOUM4YzRzbi04N3FTSEdfUXlzYlJ5V0lVYXA0dGFaRXk4Vk1telhJOVJ3ZE9xal9EalBoSlVoZDRfZWdFTmpKbW9HS2lzQ2ljMUNwRmFIRjJVUGd1N2RuRjlENUdiQU1oeGdyaExWT2JDdHp1VTI4WQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793352047109
+    },
+    {
+      "id": "news_NATION_USmidterms4daystogoWhatthepollssayasTrum",
+      "title": "US midterms: 4 days to go – What the polls say as Trump cancels two rallies - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzZHYkc5SWNGUjZUWk9GOEN4WlpGR01QTGNzMnQ5c1BBSGxiTXZJRDRRR2RWbjhhc2VVaTNBbV9PaDZ4OWxTZThXdGN2LWFzYnN6NWFhb3FQWU5sZHhfSDFaZkZXYUttTmo0N3liM3Jwd3NvenNydjRUTmtNQzdUN19EcWYyYnhfLXY0TmFlNTQwaWREa0daOEdiWHFabEY3dlBwdTVmZE41OFRiRmVaYl9BSkbSAboBQVVfeXFMT1RTa1RLUTZsTUxra1FmcmRsajM3dnMweENFOTBDSG9HOHYzLW9QN0xzdEVxTVZmVUszRGVYQXViZ1BUaUtwYmNPY0xRYUd0T2l0NW4xd3BQRWRMVGRGQkJlT3p3UzZxUG03VmF5cml3SmVXS0U1NFZhX2RCLXV6Q3lNaFpSZHNGVGVqSkpCY0FtX01pMVI4RHlneEI5TUVTS0IwOGtPRU1TNDRiTUdncERYOFl5Q1pYQzFn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793352047109
+    },
+    {
+      "id": "news_NATION_Amidtermcrossroadsforbothpartieseyeingth",
+      "title": "A midterm crossroads for both parties eyeing the beginning of the end of the Trump era - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTy0wVFhqLTZwZjhFN1VEVWRPaWtST095MDllVFBMbmpPRGRMV3UzaGxHSXpvQUtFOEZKaXlkRjlHdkdNdXpQZFpMQlp1U2llQ0pEcnFNaWg3RXBYMGhzbkY5UHU0T2tOT0ctSFJLY09zWndiRE1tUHBYQW0xaDJfTlZ4bm9meU5wMWRLSWpOd1VXMDNVNnkzbnE5dnZPUHRVcEE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793352047109
+    },
+    {
+      "id": "news_NATION_TopUScommanderbriefsTrumponIranmilitaryo",
+      "title": "Top US commander briefs Trump on Iran military options as 10 US military transport planes land in Israel - The Times of Israel",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaXg4cWkxb0hZU0FMMnRrNjNhd1VDLVJaN3h5UlhKZ0s4UEZTVmJMXy1YUDlZc2hySkJ2VjZYX1RLR3BuaF8zU0UxRDBMc3JqS0psbUFPdjU2dFRmeUY3dDN0T0RUMUJCdWVPX3VuZTB5dEV1WWN1T3kwdE1ESldvSXZCN2hjWGZ5LXlSM05hM0wzMkxweW9BcHVDNDdYMHRUSElNZ2hFYWFQY3RTeC1YdNIBtgFBVV95cUxQVGtUTHVaSDAyNGo0cUlROTcwWk5GYXRwUlZST214WUZuMmtKWmZic1pVM1k1UE8wcUM4OTJxMGM3WVE0WVd1WVF1amRGLUxKb0dBeTY0cE5sQlBHTDFSSEJoUlBmNW54MENFZHVOUkpvdEVIazgxRC1xdFZ6dXBrMmFPSXNFOWdiMFV2VlBJMk1qRVhaMjNzSmRELVVjODdzZ190ZlhNWkdKd29aQXRnTFVxSHI2dw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793352047109
+    },
+    {
+      "id": "news_NATION_Trumpadministrationtospend12MtoremoveDCg",
+      "title": "Trump administration to spend $1.2M to remove D.C. golf course trees, records show - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlctS3lMVVNBdlNlUU9QM3ZPWHZJNDlWajdRUzBtWHg5RFhiZy14NGNiQmh6cXpQdXJpUDdiLXluMWVTOUlkeGZFVVZLYzhobndQeXBIRUR3OUZuODZYcUgzcGI0RmplZFZLeGlVNUNxM1BwQzBRSTVRTVNnMzNfUUxGbkxpa0FDSWotd3pZaUtoeXp1bTFnOW1lSEl3RTZ2M2plLTUxdzVUUWVSREp1WDdkMFRXdkpfTVBaM3ZDSGJ3NGt2NUYzb2Q2Q0Rtbk0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793352047109
+    },
+    {
+      "id": "news_NATION_InReversalFormerPrimaryRivalWillCampaign",
+      "title": "In Reversal, Former Primary Rival Will Campaign With El-Sayed - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW55VEJidGJiX1RoeTg2MWFDUDMwSUZhYThGSm9PUzdHMGxESFVueWdSZUZHdTVJYlhMaklIYmFnLW9TMnVZY2g4aWMyajI4Um16dHRGOFR3eE5pMWpPMkkzMVczNnpmaFV3b3dRLXhpVFVwRVdyN3I1a2tCMnQwNzdCOENKdE1ETUx2bw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793352047109
+    },
+    {
+      "id": "news_WORLD_UkraineHitsRussianOilRefineryEndingPause",
+      "title": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump - WSJ",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUxidnBpVnk4eUFpanJoNTlqNS1FUGxkeGl2QVVSc2d0ZU5rRXVDRUF6NXhfRFQwRl83dlZWM19YZzRBM1VOQ0Z6NEZ5emZibm1TTGgya1ZPRXB6YjFPSGstdUh2ZDJidXZfX01PZTMyV0tNd25zc2oySFVEdjdnN0RBYXg5RERSVXFkVlh6ZVBEQmlWRnFBdThiU2trTGI2UjBrNXdxajVHZTZI?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793352046321
     },
     {
       "id": "news_gaming leak_YouHaveNoFkingIdeaHowGreatItWasBioWaresC",
@@ -5401,105 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1793033836143
-    },
-    {
-      "id": "news_NATION_ElonMusksDustupWithUkraineonStarlinkIsnt",
-      "title": "Elon Musk's Dust-up With Ukraine on Starlink Isn't Over yet - Business Insider",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (elon musk) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWlMUERDU3hfQkpmTmstck80Wnl4UnE1dmZwdGM5NVMyNEllQWFFZ1RMNXFHcFp6N3ExTVdET1AtcFVnZkNwazg0VWhJTlRsdTBpZHotNGkzT19NNkk5NVNLWnZuZ2U3UWkxTElJWU9BU3FyOVd4Mm9EVGZkNlRocGlxeXp2cmtMdWY1QjdLelBLR2hpRDBBLUhhT3plZkZnQ0FiQ0tFR1ZndTNy?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793033836143
-    },
-    {
-      "id": "news_NATION_SpurnedbyTrumptheseoutgoingRepublicansar",
-      "title": "Spurned by Trump, these outgoing Republicans aren’t helping their potential successors - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS2pXdzJKWG9PS1V5YzVNY3JFX25XbXBGVGpQRnlnLTlzc0tZU25TZjJrREhVdVJ4TjRuVnlvbHJTcG1jWTlMTlFHS1ZBRlVtSFdpdk1ndmZaNlNMQXhFMXNXMllqd09VQ2FJZlQ1all0aUt1b0tESDc0aE55dG5iblpsYWhad3ZMb0FGRXl0TjYwLXA4RGRtcXNISlE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793033836143
-    },
-    {
-      "id": "news_NATION_CatholicbishopsaccuseTrumpWhiteHouseoftu",
-      "title": "Catholic bishops accuse Trump White House of turning prayer into campaign photo op - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWZlejFhOXNzeUJnTE1XbDZPWlROT0ZoelV3aUtCZzN3WjFNemZxZW5yRWh2VkdFZFNPbWNIM3g3eTRuVG5BYmROTFpxbmREZFNLS2xEaUtWYmJ4V3JVQkRILVJqNkVNTGtOc3dVNEdEd0JEeDF0M09xeXVQNmJrOWkwVTRaRHNqMzExZTVxNE9PZE0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793033836143
-    },
-    {
-      "id": "news_NATION_DemocratsLevelNewRapeAccusationAgainstDo",
-      "title": "Democrats Level New Rape Accusation Against Donald Trump - HuffPost",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM3lNcE5lVFk0cDk0UmZVTUM5ZHUzRHd5Zk0tendvM1NEV2RKR1BIajdGcUFaSFJpbHFyaW9nWWl2MDRvcUJLYXFXZVhvZmwtVUhWUHFyZUptaExydWJPSkZOX1AycTdPRlEtcHYtT1p2SkhQeWM1bnQ5NU9hMWh1NjFKdl95QlZGMm5uRUcyN3ZYUWk5elNnaFltY2hzSTdVQkHSAacBQVVfeXFMTXNFbVRnMnoxUjFxUWhuaFdWSjBVTHgtY3QwZUNnZEhvTHc3Q3FkQkJRZEc0LWxySmdrZW9hTllRZktwTklqYjEyaHQzenBSc1hTVzBOV0I1R2tBZ3ItNVczakhoVVhVX0RuTkVYb3ByV0tReVNZMWdoUG9mSkYtU2Q1akpCYTdHNGtjNFNTSTA0b0JBTmI5Ym5wY0pDLXpaNWRxX0doQk0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793033836143
-    },
-    {
-      "id": "news_NATION_CommentaryCaliforniavotesTrumpsJusticeDe",
-      "title": "Commentary: California votes. Trump's Justice Department panics - Los Angeles Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON0FKcHBGZWtqQnZZcHJxRHdadm9xVF9PT0hxOHo2SFQ4ai1Vb01XaFhLeDNKM0hndzFGb29VN05RQVRvQzRKRFhwbVpxeDM4d0lsUzRHakJKZFcyUERCUm5WWl93NWRxRTExRmFpeFlwenJrRXE1eDBMeFZLLWF4YWNPYzVhVkdZU05UWGNCOXE5enBiMm5UeXo3NnZLT0dKVm5DQjJqajdXQ2FvT3Rla1FDbw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793033836143
-    },
-    {
-      "id": "news_NATION_ExclusiveDemocratslaygroundworktoprobeTr",
-      "title": "Exclusive: Democrats lay groundwork to probe Trump's diesel deal - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaZW1xaGhDaldQV25rME52dFVuWm4zNldMdEU5S2k4RU5hQ0gwZmxWRWlFQS1RZFllUTVKak9sVU9GU29oRUVtaDcwa2ZXaHdRQWstcjg3eW5Qd1h3TENqT3V1NlZ0dm00Q0R5aw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793033836143
-    },
-    {
-      "id": "news_NATION_AsTrumpbragsaboutUSoilandgascompanyprofi",
-      "title": "As Trump brags about U.S. oil and gas company profits, his stocks gained millions during Iran war - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1NNM0tTeE1oc2ZkTUdxRUlwZ2h1OFpGdWd0bjZqbmYxb0NkM1JpVEF6Sm0tQzBfU05IZ2pnb2FkaXVGQUc2Y213MWJWclA3cl9tT3BlZlplek9rTlhGLXNrdzZPNHEtc2ZCU0pxWXJ3NHowTXgxN2JVekgyM2RRYlBmM2YzbW5jdTJMWGFLODZYSnkyb3BxNHhtYWY3dw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793033836143
-    },
-    {
-      "id": "news_NATION_NickiMinajpledgestosupportDonaldTrumpaga",
-      "title": "Nicki Minaj pledges to support Donald Trump again during Michigan Republican campaign rally - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWnlrNEs5Yl9WMTNYV09lM3hZV1p4dmpLZjYxUnk5cnFMbVRESjlBTHZUblRRZktTdDZoRDFnTFRtNFZjcmtKU0hqVTNkNkdkSGNuQ3FjNDFrR0VmdVpVY0RfS1F3eDQ4cVhiY3Q4aGpRWE5VRXUzTzBQZV9xV3ZZYjZCR3NUbi1sNzI3RUJvdjcwSkpzRFZCcFBtSHZxV0NhSlB0V2k3b2dQcU5i0gGyAUFVX3lxTE9taFNHZ1E0MUxUNTBmcmRXbnp5ZHNsXzkzdVl5THVXZlNhbG9KSVg0dURfQW9HeW1QdWVodmxVNHdSMEptYnVSeXhpeUJhOEEtOC1iN00wYmlGVlp3Ulh0NUhfZmhESFNfV2dUYWRnOHh6bWxWSVZCdVlKUW5CSmJfVU1OaXFqUmhJcVJVeVpoRDdVUnJBVG9NazBxMV9VWXNaSnNWRS1aTmNqZlBFUWVLOXc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793033836143
-    },
-    {
-      "id": "news_WORLD_NetanyahupushedforIranstrikebeforeelecti",
-      "title": "Netanyahu pushed for Iran strike before election but Trump refused, CNN says - The Times of Israel",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSllVZTRWSlotR3pRbDliYldYLWFOMy1jNUtSRHVCVDNUQWN4MTFPYVdzUEU0T2ZhZE95czU2aWVLd3FXNU1fX2ZqMTVTdDdmQnQwYjFBQ3ZxbmRNU1NVM2J6Wk10d0RIWEYyT2hobzlyblNfSmRDN0hPZmx4RGxDaWN0MERQWVREa3JKVVdNbW4yZ21qWGtraURZcEh1YTZNZGhLSDktV2J5d9IBrwFBVV95cUxPdHRXNUhRc213aVBLeVkwWlBWTlZQMTBxTmYwS2NpRnF3dFZfTVpmcXN4aGdiRFBBakdxMFFfLXozd25MVzRFbmNnVmlaTXJRcWs4cV9WbFlac0VrMENjYlZIS3VfR0x5YzAxTHIzNTR5SmJhbnVxUUsySE4zb1FORllTWkdtWE5oeXVsMHBiYklvbGVuem5EQ0RmMlJESWtHbU5ES0tqdWpvX0dLMFM4?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793033835375
     }
   ]
 }

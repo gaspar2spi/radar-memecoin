@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T20:41:18.179701+00:00",
+  "updated_at": "2026-10-31T00:05:26.100376+00:00",
   "signals": [
     {
       "id": "news_memecoin launch_Solanasurges12onlaunchofTrumpthemedmemec",
@@ -1562,6 +1562,116 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_government shutdown_Trumpsignsbilltoavertgovernmentshutdownb",
+      "title": "Trump signs bill to avert government shutdown before midterm elections - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTJfTlZvbUVhMkVhSVQxSlFOdXM1Vzk4aXo3TTRwalJWVVF4bmU0cHYwRDBVaGYteDFoZy1sczEwOGNoeFlmel9GS0Y0cGlwdXRXNEFQVTR4dXhVVkRFQnBxUFhUUDMzaDh2R29VRVVpTW84TXVwcVV4TlhoY0tOdFF3TUxlbXNmbmVwNHh0ME94WlhVVHVxMTdjbkllQnFjOW9VZzFqREF2OHFUWmJOZ1E4OWFoVzYxcy1FTg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793405111984
+    },
+    {
+      "id": "news_election crypto_20yearoldcryptoscammergetstimeservedinFl",
+      "title": "20-year-old crypto scammer gets time served in Florida for role in $13 million cryptocurrency theft - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmNQV20zN0hCQzBDbDJnMHpJbjUwdGF2M1VlQlh0dFFzM1MyemNBeVY2eEU0YVNOYk9lcXdsNTNmb3NZYURjazZpRHlMOHZtZHJVenZNSUx5VTdORTBMUkJ4NjZQcUlGcUJ1NWIzQVpvOUs2NFlKX0VWTmsxTFVzeDZQTGlrUms?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793405111004
+    },
+    {
+      "id": "news_election crypto_AnthonyScaramucciSaysTrumpHasaRealChance",
+      "title": "Anthony Scaramucci Says Trump Has a ‘Real Chance’ to Hold the Senate in Midterms Because He’s Been ‘Under-Polled,’ but Crypto Bettors See It Differently - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGtrRWlWRUtBRmYxek11dUxCcG0wM0hsZW56d3JCUmc5aWFtenJ5bDZOQTJHcVN1X1ZrU1JrRlViM3ZQYU9rRElIaVRIeEdVNHFzNFhLcDh6WUpYRnM3U1Q3UDFMSFdyeTlNcEJIeGtGQkg3eXQzR3Q2UVlCTjl6RFE3YURSdmNOcWsxU1J1NVRjTENjTXh2b1V3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793405111004
+    },
+    {
+      "id": "news_viral scandal internet_Ayearagothisscandalbecameaninternetsensa",
+      "title": "A year ago, this scandal became an internet sensation—and it’s still having repercussions today - blue News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (viral scandal internet). figure tier-10 (ye) mentionnée; mots-clés viraux: scandal.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOazFmb1RyZW5HbVVodVNLTWhKeHlKSmFOOF91a1B2ZERORWVFMWtyOE9MLTc3Q1RBbWZCWEk1MTYzUnJ2eldmWVVhcW1ZMkZteTN1NEwzS1V3VW1nZUo5aXVGUHc4VHhUeXJ0SjZDNV82dGZmTVVKcVlXRXFTenQ4cVBCZTNMcGJJZi15aTkwWmVvUmdnWWJIZ0dfcGZIcncxLVhfZV9QN1NzZDdEdFNCQXNwUTljMlhFLXZKMHNNWFo2X0FOZUtXRWtGc2NlWGRkZm0yX2tteEtCd0R3QVQzbVFWc0lhcldLMU5zc1lHWDg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793405107542
+    },
+    {
+      "id": "news_TECHNOLOGY_ReviewerGetsHisHandsOnTrumpMobiles499Pho",
+      "title": "Reviewer Gets His Hands On Trump Mobile’s $499 Phone, And What He Finds Is “Absolutely Brutal” - Bored Panda",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JNnlnYTlQak5VSENlNGExalpBMHJscnZyT1pxaExHZlV1VUFqQVV1eXlWdkJaUXNpMTBfMUlpcmZLMDRPY291cURMaDhoUlZxUENRd25WSmgwbnRUOUdDQk1IVTVnRXpCM2wtU1Vta3lMSEF5?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793405096702
+    },
+    {
+      "id": "news_BUSINESS_ExxonandChevronreportmassiveprofitsafter",
+      "title": "Exxon and Chevron report massive profits after Trump brags U.S. energy companies are ‘making a freaking fortune’ just before midterms - Yahoo Finance",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOclR3aGs1M1Y4RV9GdUdId2NnNHJJWGJvMVdTWlRDSVExeUhlOGYxMU5STEVrR1ZPRHFRbHo4NmZoV2RxYmNVLTRNWXlaT3R6MnNWT3V5NjZTNzJIUm11R0U3RkgtSGI3UXU4NFZMenMxakhSZmxHMVJCRDByenlfQ3l4c2NNeXJUQVBnWHMyYS1RWUJoV2FHSA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793405095852
+    },
+    {
+      "id": "news_BUSINESS_Goldpricesplungetooneyearlowbelow3900ash",
+      "title": "Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead - Kitco",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUZmdmJRRFN3bUxiblBxRUVkd3o3SmRSRjd3ZUt3Rm5DVlNUQ201LW9BOHZyMnVBUEtZaGlNRFk5dTJKTzNHVjNkWGdWU3YtdVVPU0txb1pFZWJ5ZVhUaDRaTERzV2h5QzJzYWM3TExZRWRxQlNJbFlrWTQwbU8tbjA4Sm5JTWxqWVlFTUVZZjNvTVZXblN3SVVmMVVyVF9iQk5GS1RWcjRrRHdNRXRnV0VhYmtLRTE2?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793405095852
+    },
+    {
+      "id": "news_NATION_Federaljudgesignalsshemayhaltconstructio",
+      "title": "Federal judge signals she may halt construction on Trump’s arch - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNl9vSDRkZEJBSWVWSzJac1NQMTA0MkZqMFJweC1JdFNUU3FHLUVIMXMzczRBV0d0LWMyVjZPWjVQcXpwUXF4Q2Z3Tm5nR0hFVFk2bl96VkZpUUVLcUctM1pLQ000QVBOeWdJZ090TEx3UmNhRndOSFBrWHhtSlZzUWRCRzVJR3NzM0c1b1MtRkdINDFLclJMZlp2cjZCRkVWblIyci1BaXVyU01yOXBpd0x2MA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793405094922
+    },
+    {
+      "id": "news_NATION_JudgeordersaninquiryintopotentialDOJmisc",
+      "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case - NPR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHozamh6SWw4b0ZTZHJFREh1RTNtdFg0Y1RrT0QzWTdUZWFKemFrYURLMnZvQUNzcUNPR204d2ZyQXNaVWFxQzR0bTJwd0xESjFjMEkwUGJyVG9ITVdJTHlMWnRUZERmZk9xODBScWlEanpqS1h3VUtHZkstZTJTM2N2U2NkTTNmQUZZbGtpSQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793405094922
+    },
+    {
+      "id": "news_NATION_Trumpadminrevealsitschallengedvotersin5s",
+      "title": "Trump admin reveals it’s challenged voters in 5 states, and threatened election officials in all 50 - Democracy Docket",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUEVvMWE2cng4MEFlaDBrZmVQODE4VmhTbFh4LW8tZVRqQ0Z3SXBxQ0hHUTR1RTZHMUQxYmpJS1NfTXNaZGFWSWdCbWk3aHV4MEg4cjA5TWdDcHJfS3hSazZ1SjZaSTBIRVRIQU1ReHdtMFBpdm45WDlhZUFQQ0JxbHlkeHI2UTN5SnQ5RnAwcWdzSGhBTURsYzdWcWN6azdDakphRGFJbHJFTTItM1RQQlQtV1UwX1hPR2VOekkyX3NJb1kydkpwMlpmZUEwQzZiTEVjcWZkMnFrUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793405094922
     },
     {
       "id": "news_HEALTH_ColumnA35yearstudychallengesthebelieftha",
@@ -5390,116 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1793049820216
-    },
-    {
-      "id": "news_ENTERTAINMENT_SkydanceIsOfferingEmployeesVoluntaryBuyo",
-      "title": "Skydance Is Offering Employees Voluntary Buyouts Ahead of Layoffs, Adopts 5-Day-per-Week In-Office Policy - Variety",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNVZmU3YyQ29hZVNGUHBkT1JfLUdSMFZIZkREYzJUX1IxeFVydkIxLWRiRlRZUEx1SW1PNjFnQUVfWFBPeFpud1pQdWs1WUdKSUFTMnZreG0zeVVudFhsYkZKMHM1dGw0YUZxS0YyYnZHem9nMG1iUTRLWjBWV3pXMS1DbmpUV3Fpc09maEcxOGV1V2hKSlo3M09FZkRwRnl2clZ5bWtOVDE0NHFsWDRZZHBBZHo?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793049820216
-    },
-    {
-      "id": "news_TECHNOLOGY_GoogleBeamIsBeingDeployedAt20USOLocation",
-      "title": "Google Beam Is Being Deployed At 20 USO Locations - Engadget",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVlhR05oOTYxQVZmT0FLRUxUeV9vWlFXLXFZZkgyelMyTkdDb25rOGpWa2wzQlQ2bVdaLU9XNnp4UTJVQW5nRld0aV9xNVJ1Q3lVdUVraGEtMGxWeDhYTFdPUnFCZWVVWVR3a29SSjBSeHZOY0hNRk1GNGFTc3ptME12cjliNTliaEtV?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793049819538
-    },
-    {
-      "id": "news_BUSINESS_Metaeyesrecord95billionequityraisetofund",
-      "title": "Meta eyes record $95 billion equity raise to fund AI expansion - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclhjOFJvYkM0S0hLUmxaY0l2X3hCdWI0N1prZlo2QXhXdmt5T0pNQVpFODVpYzgycWdZcHM2NkZ2LTdaMEVUVlpTXzVFUzc2ZEdVdlpTeThUVkZtc3V4cEFTelk5bDd2Z0dfRDFsb0dGQ0MxRXhYMExFZTlXVkNjRXF6TDBLalZ5ZTFBbFMyX24wMVBTQW1GQkJNRjNYWTRiVGJJWWdialBfV1oyQUZNN3I4RQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793049818871
-    },
-    {
-      "id": "news_BUSINESS_GermanyAudis4billiondealwithTrumpcomesat",
-      "title": "Germany: Audi's $4 billion deal with Trump comes at a tricky moment for the automotive hub - DW.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjB4cTVxcWY3SFozUEtmT25zdkJJWkV0azlYeW1TNF9UdDJidklFVzAxVVc0T0ZYaXRmZU1EVlFjOENxZEF0cTdnTTJ4VnYtcW82UDhyWENBYkVJbjJ5em1SY0tPMUFNbmZ3aVlvZ0hTQ2hnUmRpeFc0OC0ybGJlM0QzX0d6OHcwN0R1bW9hMzdBUTdBSmxLZVhNMlLSAZwBQVVfeXFMT0pUZE1mcmhaZnpmS2NWX2tUcU1wZGpKOHFSMkIwU3E3dnFIQ0tlWFdJX2R3QTBjNU1PUWxVTGh6WHlDa0dsbVROSmRxaFBuNVFiUktYNmNjdVVjME14Y2V2SE5fVmJTdkZqSC1RRUVZOERSU1l1bExhaFV1WUluLV8yYTc2eWdEMi0tUkIwLWs1N0tnS1JwSGpidkJE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793049818871
-    },
-    {
-      "id": "news_BUSINESS_GasunderTrump20isnowmoreexpensivethanitw",
-      "title": "Gas under Trump 2.0 is now more expensive than it was under Biden - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94UlY4Z3p3WU1uZHBad3FzOEFzamd4bFJmNW12UW0zblFPMGR3dndtMUtyZU56bDRQWEttaENRU1kzZndqMXlkekhzRW1JZnpnajJ2ZHdMUHE2YVJOTEJkU0hVSlI0eWFWUXA1ZjZaVjRwSjAz?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793049818871
-    },
-    {
-      "id": "news_BUSINESS_HalloweencandypricesarescarythisyearHere",
-      "title": "Halloween candy prices are scary this year. Here's how bad - Chron",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MdE1CeWkzTFlUaDNuTGo0ME5PXzkwaE9IWExVUDlkR0xWRHRhQjdRbWd0d2FIaVhFQXJzQW9zY2hvbnNzTHdZNGtBS1Y3T2ZMbGdnVmNyaWpzQjFPQnRmVUlsYmU0dXRBVzNteXc5WWJEUk9JUTh0OGNR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793049818871
-    },
-    {
-      "id": "news_NATION_15yearoldarrestedinFloridaAMshootingthat",
-      "title": "15-year-old arrested in Florida A&M shooting that wounded 11 after homecoming game - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée; mots-clés viraux: arrested.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOHdtQndPWDhwN0dZdmtYVHVEd2gzWU1jUFhBRmZnRjVKVEJpUVA1X3ljS2FfNXpjcTBqQV9zT1lTNWpVaVpfMHByVWN3M2VnTEhTMGRxWjlxUFMwZVYtb3hFQ1hTUU0yWnB4TjBZXzF4bFdhd0VJRTdtVUxTWWxsXzBJb0VJVGxOcUw3OUxvTjVnZDNFcXJXUFFJLVo2UnM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793049818196
-    },
-    {
-      "id": "news_NATION_CatholicleadersdistancethemselvesfromTru",
-      "title": "Catholic leaders distance themselves from Trump after Oval Office prayer video - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHY2NDdibFRIWlZsTlRFMy1Wdk1TMjNfNG5kUUNzRXR4SFhETkQ2RUEwSFI3WDh2NE9fUlpZTWdWSmRkaFQ2ZWZWUzZXQkJVdGNZbjc5UzM3cG41SG5vNzQyOFRpSU5EdHhlZjJCQ3FYdG9vM1lGenk4Q2hheFRwV3JhRnU0c0p5Tnktdjh5SG9FLUktWXQydDIyeXpGU2hubDdrdXplb083Sm9TMGlScl83VUFtTFRraXJsMXZVNGFOM2NTNUFB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793049818196
-    },
-    {
-      "id": "news_NATION_SwingStateRepublicaninaRazorThinRaceTrie",
-      "title": "Swing State Republican in a Razor-Thin Race Tries to Outrun Trump - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTFmOGkxVWVMeE8xdVkxSWhURTJlTmRRMG5EUElRME5oTEEyVTRKTFR3cnhfRWxxdmY3WmxPTjhtckJjd3NjcmFLeHJjM2NOVFhvZzgyOUxPYzU5UFRYVzZxVjdCclFQR19vVG1lYXZtRmEyVWVjNWFZTERyRmpyc2ZWSm0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793049818196
-    },
-    {
-      "id": "news_NATION_BacklashafterTrumpinvokes911inattackonEl",
-      "title": "Backlash after Trump invokes 9/11 in attack on El-Sayed - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GWGlxNi1aZnlrRTRJZU9Nbkd5SU1wRV9mV1N4Q2FOakxuV2pNdFNKejQ3RGk0ekdvUnpRQ2hEU0VvajVucG96cmhDUFptdlQzcDNMVWNYZzZtUHM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793049818196
     }
   ]
 }

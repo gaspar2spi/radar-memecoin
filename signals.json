@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-31T19:54:14.101869+00:00",
+  "updated_at": "2026-10-31T22:56:12.076806+00:00",
   "signals": [
+    {
+      "id": "news_memecoin launch_TrumpLaunchesTRUMPMemeCoinAheadofWhiteHo",
+      "title": "Trump Launches $TRUMP Meme Coin Ahead of White House Return - WSJ",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (memecoin launch). figure tier-10 (trump) + lancement explicite; référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeDFHaGNPRkJzYzAtMVYza1lKU1pzLUZFNXNxZzRHVk1PT3R4TGszR2JpM1QzOGVGZzUwaE0yWmc0R0tqSUstdm5DMmxJczNaSWZEQ2NUMENFLTRKQW5CcnhjNmJqbTRESXU0M0I5SEViWGUzTFpKT0dSYWR0dDJVd1hkdnkzcU9JX3dpdWQ2QWlVNHBmNnBqcWhsSERpZmlWbEE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793487343393
+    },
     {
       "id": "news_TECHNOLOGY_PhantomBladeZeroDraws700000SteamPlayersW",
       "title": "Phantom Blade Zero Draws 700,000+ Steam Players Within 24 Hours of Launch - TechPowerUp",
@@ -1573,6 +1584,138 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SCIENCE_MeteoriteFoundinSaharaisPieceofMarsatLea",
+      "title": "Meteorite Found in Sahara is Piece of Mars at Least 4.1 Billion Years Old - Sci.News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9seVprbll2VkRETFp2Vm9WNXFqZWh6elZlbmlBc1FXS2RFZmsxMU1Vdl9ETDRRT28zNXVrT3NJNWlweUh3Y0FxaTl4aVQtcDIyMlVqdEhuN3EzdXFBVmlxNnJXTklwZE0wcklfZ2tRN2x2UnN0NGc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793487341170
+    },
+    {
+      "id": "news_SCIENCE_Newstudycastsdoubtontheoryabouttheroleco",
+      "title": "New study casts doubt on theory about the role comets played in kick-starting life on Earth - KSL News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOElzS2ljSnRuc19HVnVHRUJOU181a3Vxa0gtTmMzVTlmZzVBM2dmVUhYQmdFbDh0UGRta1pfRl9uQ2dTYUtwTENYSnlraFZLbkQyMXVJdEpVTjk4VlUxWklEMlAzYnlVSm9GaTZRa1ktN1l4LU5sZEtjN0h2OWp1aXVjUGZXSDhYcDNKTE9WNF9ubnV4WjBDNXctVy1xeGJRV3Ridk5QM0Z6M3A2dWJ4dVA0YnB0M09Zb2pmUXFrYVV2VHdhR1dz?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793487341170
+    },
+    {
+      "id": "news_SPORTS_ValtteriBottashasa2027CadillacF1contract",
+      "title": "Valtteri Bottas has a 2027 Cadillac F1 contract. But Colton Herta could yet race instead - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcG5DQUxfOFNQaTdaMzMzT2pkZUhpdk5Sc3I4SlFOVURPWnphS2xkd1l3Tl9TSExGQXNUNWNTeENkeXB1ZjYwZUFueHZlWEUzX1ZqMG5SMlZyS1NhWDNWMkJBdHoxcElWbUdMbG0yLXIwdFN4YUZjcjNCMWxZQU44dVVoYWo5LXVRajVGbFBfc0JXVHlkS2tlc1lYb0lVcnlN?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793487340085
+    },
+    {
+      "id": "news_ENTERTAINMENT_ChristianMusicianKidRockComparesAbdulElS",
+      "title": "Christian Musician Kid Rock Compares Abdul El-Sayed to 9/11 Hijackers - Consequence of Sound",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUHFHOHFFRXpTSDg0bTBlUXNxSUlKS2JrendBU1JKc2dwNEJXbGhzSmN0TW5xbXV1UUo1V0JEZ3lvbEVaN2M0b3N6ZFl5OEFtZ3gzMmp4b1VfSm53RHNiTDlOck54RS1KM3lrUkJjVHdPcFdsamR5MGdtZ1FULWNCN3RYYw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793487339232
+    },
+    {
+      "id": "news_TECHNOLOGY_MyFavoriteSmartwatchHasStayedonMyWristfo",
+      "title": "My Favorite Smartwatch Has Stayed on My Wrist for Years — No, It’s Not an Apple Watch - CNET",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdUZwLUtWWndycExEUGFjeWZtaFp0ZFQxMUtxQXA0NXdFWjc5Tk0tbDRONmVrYXBGUDItXzRKNFhCREw0NFd2ZTR6WlNSb0NMeWtxRHp6TTZiREpnWVhneFZCU1Bka2FJMmtqQldrVFZFWTBDcm5aeHNGM1BYOTF6ZjVnZHVNa1ZLN1E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793487338335
+    },
+    {
+      "id": "news_BUSINESS_WeilCollapseFloodsMarketWithLawyersLooki",
+      "title": "Weil Collapse Floods Market With Lawyers Looking for New Jobs - Bloomberg Law News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkRIbW5uMlM4ZTJZbkRUbTE0TkY0Y04yOUc5aDlpY2pLeDV1WjJCWFVjNmxkcE9tZUNYcDN4enRfVktJbDE3aHE2ckZKbmhRak9nTmNTcGJuX1BwMnVpcVB6WUNZZUtEXzU4eEs4aXE1dW4yUXpucV9EdHNwMkktQTBOYU1sT3lYZFV3QmU1TGwzbGVOMUdhSUtOZjY0aTZDeWYyMThnSWpxYjF4Y0ZkbThESQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793487337484
+    },
+    {
+      "id": "news_NATION_31yearoldpregnantwomanidentifiedaskilled",
+      "title": "31-year-old pregnant woman identified as killed in Fairfield shooting at Spirit Halloween - KCRA",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2VEU1VYa3FhenA2OGF2UWsxcXR6S1dzME1PMERCQ1hQMU92cTY4Z0VzcmVhWTd0Rl90NWpVU2puWUVQd0tWZE04aThWenNhdXh1dlJIQ3BYVnd2SnJrQ1pHR2d0ekxVUWxOdlczX2lzUjlyYjlyTlBZcU9UcmpHV2JsOXdXMHNMZzJlZ3M3bkdjSUpUTE9Sd1lPeGQ2MXVPTTRFNV9aMFppS3M?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793487336629
+    },
+    {
+      "id": "news_NATION_28daysinarowofthiscrapisalotTrumpweighsi",
+      "title": "'28 days in a row of this crap is a lot.' Trump weighs in on midterm rallies - USA Today",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbHJBUFhKNkhocVlwLWRISU9ITDBTWEJKd0E1QXFBMFNzWExhNzdVMUpLemUzdGQyeWRwZ1VsbFFWcHZUNkVQVjBET2ZJU24yRWNqYVVyZnRCa0d4VU44Tld2MGRCOGRDY25UdnAtLVNWSmw2NG0wRGlYTm9QSUlFRUVMZjl2QkRVSTRlNklpX18tWGNNR1k3dm9oYTJzTk9UVm5NS1ZTSlNmc0JnMllYTTl1QkFmZFkwSFpn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793487336629
+    },
+    {
+      "id": "news_NATION_Trumpadministrationretoolsitsbattleovere",
+      "title": "Trump administration retools its battle over elections to keep fights alive after Election Day - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRGpZalZEVFBBcWgyOG9KakozUkpWVEktNXN2eVQycUM3RXY5TDZacXB2UjBwd1FIeTRNY2xDc3V6Z0VSeVdFc3BGaXNHeFBlcllvV05mZ3hEQ0ZtMzFCSUFLbzFrZzZJVmM0NFBBcTdDZ0NHa3RBNDRvOG1LUGl5R1doejJfQlY4eFJBT1EzajBRa05acDMyTTB0UjRVYzJqTXQxWnF0VDBPcUF3Yk1mZjBPclltQTZSNzI4cVVqWFZrV0tMalRxcWVaVFpVemJZbUhXOS1uT054LTA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793487336629
+    },
+    {
+      "id": "news_NATION_MotherofTeenKilledintheBronxGetsVisaAfte",
+      "title": "Mother of Teen Killed in the Bronx Gets Visa After Mamdani-Trump Call - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNW9ZQ2JMSjJhYWlLa3pnN0tqWURmRlh3djFHVnZNTkFTd2xOYVBHbVBIY1ZoLWNidDQyYnA4TWIyTUdfTW53OVhCYnRsaUg2dTREd0RQQ3RDTFdOeExSM252OHRqSVBVeThfZ1U0M0lFUFhfMy1mVDdDWjZpWWVOQnM1Mm8zZFFfZ2V0TXJXZDU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793487336629
+    },
+    {
+      "id": "news_NATION_NochoicemadeyetbyTrumponresumingmilitary",
+      "title": "No choice made yet by Trump on resuming military action against Iran, Rubio says - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUW82emNVZFFoQXk5bVRPZF9NTGphSmZ2U08ybEI1SlV1b1RPUVJYSHltUnpzOVNaaXdMUXZXUjNNMV9WRkpHQ1BaTHRKMi1mc3hlLVRQTGNZZ1E3Z0tNSWw1d0hCaEhTT1VwdDh4RmZzQVd2Y3Y0dlZKTUtMQnloNTJydnpFWEU1?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793487336629
+    },
+    {
+      "id": "news_NATION_PaxtonandTalaricotussleforTexasSenatesea",
+      "title": "Paxton and Talarico tussle for Texas Senate seat. Trump to campaign virtually instead of in person - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHloVEIzZEI3TmxoR0JDdWdRWWhlTHB3eFBtcDRnZDFDMEl6RkpzSlRZd3NHM0EtUnRqX1F4Vlh0OGxvaUkyM21RdGlWdlNPT1Q4Mlh1X2ZtbjZqRi1GdWY2TFlCYjdpVDNVaHhQR25WY29MbWdybFFmb3ZXc0ZqSExhS3VRVElxdU9Wa3BjRlY5YVJkdWp2QTh4ZDhQNWZHaGxYbWhkU2M0QQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793487336629
     },
     {
       "id": "news_tech ceo controversy_TechCEOAndyByronviralclipwithcolleagueEx",
@@ -5357,149 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1793117402433
-    },
-    {
-      "id": "news_NATION_TrumpadministrationillegallyfiredJamesCo",
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: fired.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Lb0NoWlVub0VHcF92OFRsZVI2SjVHUFNidzJRMGFRSkUySFdkUUtUOE5hN1VweS1lWGlnbmtnWDJXQmhoeWQxb0IzdzRGWE5UdDZHYkNqR1pzUmc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793117402433
-    },
-    {
-      "id": "news_NATION_CeasefirebrokeredbyMelaniaTrumpgoesintoe",
-      "title": "Ceasefire brokered by Melania Trump goes into effect in Russian-occupied town ‘on the brink of disaster’ - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (melania) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWHZER19tTExKeXZxank1RXlBY1AyUl9ETWRLd05mX09uWkg1TnNxckVSRWs4dHJnS3JDYS1TOThqVkZxUHhTajhGc2FGbGxTYWZhT09uMDdUMjAtR1U0eFBmam84Q2RwMEZrQVlaQ05jWXR6RHNmX1NZNzBzRVJHTkVOWG13XzhCdEZ2N3lWVW9nbjFMUnN1LVpqN1dFcjJjUEFEcy16M01PWWNudnRHZlJScTBhZEwtVGtR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793117402433
-    },
-    {
-      "id": "news_tech ceo controversy_AstronomersResponsetoItsCEOsViralScandal",
-      "title": "Astronomer’s Response to Its CEO’s Viral Scandal Is the Most Brilliant Thing I’ve Seen Yet - Inc.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (ye) mentionnée; mots-clés viraux: scandal, viral.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDg4eTRMOEZULWlKY0d4Z2ZBeXk5ZGxNdWs3QW1BRmpIcjJqN0ZhVzF3UjB5c0RIU0FDdVg5UWFpVnVjNDlRQzJiWVlpZFN2WFJMMTBzZVQ1dFNXaktDUkllbkYxMnVMUlh4SHVCbUhpVGVnMGJLVnhXS2gwUElsT1NpM2tfVFlZVlpFaWFCOEpaS1pERjMxOG5iVEViVDBMeFlfTTg3c0NQem5pVHF1ZkRraGlURFZoWGJEZ1FJQUlCNFBJTHc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793098549513
-    },
-    {
-      "id": "news_election crypto_Cryptoblitzesmidtermswith176milliontosup",
-      "title": "Crypto blitzes midterms with $176 million to support allies as it prepares for post-Trump era - Yahoo",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaERSUTN2N2VCd0NzWmQyTkNSb3RzbUF0NmNpaVlzUE5xM2FaTHJWX2ZPS1dENHdrdzZSdm5uc3ZoWWdiYi1wTFdyM0JReU85c09FOWZEN1VJWjRwY1NQZzctMm9UZzZsR0dISTBfY1EzbEFETlIxTFVEWm5EZ1ltOS1WVkZEWTg0VU5ySkxDanZOeDlYQUptVndORXc3NXFRU0Nn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793098544996
-    },
-    {
-      "id": "news_election crypto_IsraelElectionPutsNetanyahusFutureAtStak",
-      "title": "Israel Election Puts Netanyahu’s Future At Stake After Trump Endorses ‘Warrior’ Prime Minister - Benzinga",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHdZWW54dHRGdFE0M0p1V2kxeE9CTnAzS2RjU0R1ejBuZGZVT0JpSzJNZzFaNmR0Z240dlZtQVZWNVA1QXBJdy05N0FRWnYzdFF6TC04MW1PSVNGUDFkZnhPZk1BWlIwTVhCLVZHNlVHR20tdG5JMEo0c1VxWjBlYWcwTExNM19KNHYxWHVJOHh0bVNXUjRpMjNvN3Q5Sm9OTTRWaWVXTzBJOHJ6VXlHR1BLT05XUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793098544996
-    },
-    {
-      "id": "news_SPORTS_HarryKanebecomesfirstEnglishmanin25years",
-      "title": "Harry Kane becomes first Englishman in 25 years to win Ballon d'Or - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU2VoNTF3NnhPTjRJY21TQkx3OGswak1WRTRzaU04dGs4a3REeTlycGpYbnZNUXA4RHJBTXNPWi0tUkY0YlQxcjZLUHJ5azNjeUZWbGo0QTNIOVdwb2VtWE91Rm1wTmtOSkFtNG82SWQ0WjdCdDVkYlA4ZlRiSWZRRGppQ0o0NHZsbUE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793098533201
-    },
-    {
-      "id": "news_SPORTS_WorldSeriescomestoTropicanaFieldtwoyears",
-      "title": "World Series comes to Tropicana Field two years after Hurricane Milton - The Weather Channel",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbG0wWmtiR2NlV0t2OXZicUd1Wk1ORm5yZTdUNUxNTG0zVVlnRWNmYXFyWE5TU2YwSnJ1MUowWjh4VDZFb0JSbVJGcUVVc3JlcWh0TEowX3JqTlpkXzN2alZkRGp5dlZGQWlyYzZYSUZKem1SY2dKcUNLQ1IxU3hQcmFlZkJxRlZzbm0tSXlDV3JobXpLdF9maWVfb05Ub2NwcXlDVmw1ZUs4Ym9IWl9pQkdLZnZtZGgwcS1v?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793098533201
-    },
-    {
-      "id": "news_ENTERTAINMENT_BaywatchStarErikaEleniakonTracktoHit1Mil",
-      "title": "'Baywatch' Star Erika Eleniak on Track to Hit $1 Million in 1st Year on OnlyFans - TMZ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kNVdQTUdYRXk2SnZkb0xHYks4TXA0SXkzbHpaVG9VbF9lelJ5dktNQkZIX19QX1pZdWp4c3ZGQklqb0VJQmhOcktsMEpDOW9DN25Ea0pWT3AwNFBtMXJmVndyYzNFZEhueW52OWYtZEhnVXdZcWI5VmhsbnU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793098532525
-    },
-    {
-      "id": "news_ENTERTAINMENT_NeilYoungRocksTrumpWith10MSuitOverUsingT",
-      "title": "Neil Young Rocks Trump With $10M Suit Over Using That ‘Free World’ Tune Again - Deadline",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mNDMwcGtFeWpySHZ1M3NCUnoxMThHYmhRWkUxdUZ3VS1XNFFmeFQ0VjYtb1FwLW4yWlB2UkRPS0c3aHlQNFRoYnQwVF9lUFpqZVdPMjl0T3Rjcy0wV08wdlhLWkE0OWhPUmRLc3A5djZlbDZCeG9sMkduVUY?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793098532525
-    },
-    {
-      "id": "news_ENTERTAINMENT_The2026WordoftheYearIsAllOverYourTeensSo",
-      "title": "The 2026 Word of the Year Is All Over Your Teen’s Social Media, but What Does It Mean? - AOL.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKTnpuNm9jOEN3WThBT0s1OTg0WFJLWnZMM0tiemRKRXBmRUp1SWVXUURJcFIyTjlNZEZZSHJMdk12bWVSTm9VU1lENkVwdlU4eWNhMEYxZFFCZVpHb1NiUWNORGk3WDEtQmlxN1pnVVg3TnR2YlFXM3ZB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793098532525
-    },
-    {
-      "id": "news_ENTERTAINMENT_2026sMostAcclaimedAnimatedMovieIsAlsoOne",
-      "title": "2026's Most Acclaimed Animated Movie Is Also One Of The Year's Biggest Box Office Flops - SlashFilm",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM2hHX2ZJNlVrRmp4RjNzdUVaWmdyZTN1Z1V4WDNJdUk0WldBdUxfSDZuWE9JUnpKaUstYVpLc2JtUjlGWExVVThRV2VZeVNYZkFPYldLRWUxTnh5dEpzb0Rsd2NaMnBFaVJQRE1xRmR5c3dEbGZQbm9ubTV6NndlWEh3OHp0UWs5d2VlU2JVeDkzWmM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793098532525
-    },
-    {
-      "id": "news_BUSINESS_ElonMuskJustDeliveredaSweepingBlowtoNvid",
-      "title": "Elon Musk Just Delivered a Sweeping Blow to Nvidia Investors - The Motley Fool",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdFlrYjBrclR0Z1h0LTZJejNtYXRkbWRQb3NkSENTdVlicWxDTWFzRXp4V0pfYWhLX0xQVzc1NVZkUThPOFkzLXBQOXdVV193ZkpPVk9LNXAwQnV3N0VPNE81Zk5wM3YxLVYwRGNQbjFLRzF4N21GdzhTSVFPTUktMDM1cG5RdDBxUEJSOGtOall0UkRNMnBKTg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793098531093
-    },
-    {
-      "id": "news_NATION_ATightSenateRaceinMississippiTrumpandOth",
-      "title": "A Tight Senate Race in Mississippi? Trump and Others Seem to Think So. - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd25lTG5hbE1YeFo3SzZkQnlvb3NMdVpLU04xRHdoN3V3cUxmR2F0NVR4OER5VHBoSHZPLWlHWVA0MkNvOTc3bzZULWhiLU9NR3A5ZTBHWnVZaXh4YW9JTm1TTnRUck54dHd1cDBJWXFveXJwOWFWZ05hVF9iSDdPV1M2NEpLVkZVOGc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793098530419
     }
   ]
 }

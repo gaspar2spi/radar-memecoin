@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T01:48:15.564487+00:00",
+  "updated_at": "2026-11-01T08:13:32.181322+00:00",
   "signals": [
     {
       "id": "news_memecoin launch_TrumpLaunchesTRUMPMemeCoinAheadofWhiteHo",
@@ -1584,6 +1584,116 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SCIENCE_Fourvolunteersjustfinishedayearinisolati",
+      "title": "Four volunteers just finished a year in isolation in Houston, all in the name of space exploration - KHOU",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSTgzWkE2Z2tHejlLLWNSd2kta0gwdDdLSFljMV9uRE5tZmp0Q1pNVHpCcWtYU05fejNGZEV4dkcwUnh3cXJhYmJFeE1zdGRlcXMyWk9GZ2hXdUlERmdFM0xidmowREM3ZE5USElabkdTdHVqWlU4OEw4eno0Qld6WEFEOWZIdmlZdGd2SFdiVUJUNnpnYmVzRmNxSklpRGw1OFR2bU1Udm1SeURsX1Q0N0VIZXNrRGZpazhB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793520782905
+    },
+    {
+      "id": "news_SPORTS_HowdidtheGoldenStateValkyriesmakehistory",
+      "title": "How did the Golden State Valkyries make history, fast-track to WNBA title in 2 years? - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGZWVkZfTndqTHFaV3VfT3JURE5MVHNPZV9MaEtJdWdZVEJJNDFudDViZXNIajl5UjNyRkxZZVJpdnlWV2czSmZ5c3ZJdlVUY0R1R0hYUTNtOElWbUpGYTV4VFFaWjI1QlZTQzVfeWRhWUZBUEFPbjVFTWpaMGYxbmJrODJQX3pyRVNJOVFfTWdhRk0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793520781839
+    },
+    {
+      "id": "news_ENTERTAINMENT_HeidiKlumrevealsHalloweencostumeasherico",
+      "title": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHFUY0puMk0zTDE1Z3BZc2Y0UklsUmNTT3FEUTFTcWFTU21hQ3o3eC04dHdGcUJPeFhsNGxpdE1RR2pCa2g4Umc2UmpjTGR2eUxwQ291RmE2cndyV0xrSjd3MGloNEtuWlRoSjB4dXRBNHdCaG5uSTJCOVNHZW5TRTRfckZwZEtZd0xXaUUwbjQtWmYzcGdUYWg2cUdYRWpt?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793520780536
+    },
+    {
+      "id": "news_NATION_VirginiaandDCsueoverTrumpsarchaddingtole",
+      "title": "Virginia and DC sue over Trump's arch, adding to legal challenges as government wants work to begin - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWdIdnZjbU5ESzhYMXdsdHlpbWVNbC1GRFdmSGN1UUwxbUluTk5SQzF4VktaaV9JQ1dGN1VyY0IwWmg1QUtXNVFFSy1mRkkwWTFtODdoWWNoeHZWUU9ZLUNKT29EUFpIN3NsYjRWdFcybFlZeU9ZS0ZpeTh0U1ZFR2o4OElGVjN6LUtCQjVYbWhYUlNMX1oydVpPNkVNSi1qNFNjNlNiczJvM3BNNFZCeEpkUEVJQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793520777157
+    },
+    {
+      "id": "news_NATION_MidtermelectionsRiftgrowsbetweenDemocrat",
+      "title": "Midterm elections: Rift grows between Democrats Abdul El-Sayed and Haley Stevens in Michigan - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGpsZ3E5SFJsNTRsOEd6b1hJbENHSDdmWFMyU0FRTmZCN081OGlISVB1RnpScHFvRFdwZlRJalpqTl85SjRaRHJfYmhDWDI4aW5IQ2ZsUzA3dTc4a1JUVTNkNExCeGsxaDI2ZEhkT1dFWnBzU3pkTjgxcEpCcnprdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793520777157
+    },
+    {
+      "id": "news_NATION_AttorneysforAlaskasaymeritlessTrumpdeman",
+      "title": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible' - PBS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRVBtYkpCQVRWUnFLWEtrM1d5U1VYam1NS28tSlN5U05veXlOMEFvVnNGaFh2UlZOcnlxNk9tcnRzQTl6R3FYMmVZUDJZdmF3SUZROUxhYnJKTUpXaTZzczZsek5xWmhDM2U2MVQzWUlLQ0NJV3o5ZFVCVFFVTGZtVWdVZkF0WXl6blZRR0tLY2xCc2xVR29pemZJZmpUbXY3dTRjZU1aQjdKUHVfYk1vM3l4MDVua3ZOcjlWeGZPSUlqZnVOSmUzdnI5ONIB0AFBVV95cUxNNTFHWW9CSGlUalpqWC1TZlhXLVlITDlDSDBLV0pUSUU0ZGpLb2ptdENIQlNXdFg3UFZ1d0ZEcHZBbHNuT0d2djkwcWRoaS11RGJBQXN0YzFFYmF6X25STzRoRFR3c3ptRXBiX0p4bWF4Tkt3VnlPNWFNVG5VTllNREhpR1U0M01OSXdJU19qLVU4QkRtSjBUYldlSXlZVS1RR1R5RlM5OWdyR1NpUmprMEpRWFlmcHBaaV9sbGgyZ1hrT1hzY2JOamZ4SHBkRHpv?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793520777157
+    },
+    {
+      "id": "news_NATION_TrumpholdscallwithNetanyahuamidpreparati",
+      "title": "Trump holds call with Netanyahu amid preparations to renew strikes on Iran — report - The Times of Israel",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdWluR210TDk5VTZTZHNNRklLcVFDN3A4bDBRTzUxQmJpSmJBcjRTdUctZlB5c3Y3TlBqVm96dXluVV9nUjhVOXJaUkVjRnNkUnZjdjRUVFVoaXpKZEpXdFV4T2NVNXFjWExqZmVxTDFwc2IyRjhaWXZsZWJ3UnduN1F0NFBJOVFLNV9kUm1WNnEwTHhtdG1NdWwwQ0txVXFpREpaT29rdVBRQjJXS0hfSGtn0gG3AUFVX3lxTE9USVRTN3ZxWWV4ZVVWbWRRdXk4ZlM1Y1FGcTJWTFlja2V6MDJ6OXFhOTJ2OEt2Uk9ma3poaWkyMHdaeDBUdEJxWlFqY1hxSHFLczloQ1RYbDY0akMwVzV2TURxeWdjc2M0aUxHM1BlWTRXZHlBdUMzX3VYMUFoWkFrSURtVUFRWmtDa0hVSDR2QjRaOHpRQnBKRlRMZFJ6dXJpOElNczhQUjQ0OS12ZlRIeHNsVUdfWQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793520777157
+    },
+    {
+      "id": "news_NATION_Trumpcalls50millioncontractforexlawyerHa",
+      "title": "Trump calls $50 million contract for ex-lawyer Habba Mildon 'not acceptable' - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSjgzV092eGo2OEhXRVd2aGsxOTl5Zzc0V25lSHBSNW9Qd3FLTXVpQUszdEdqanpLdVVscjZlMUoxTllTYVhsd0ZqYzJfbGl6Ry1YRjhNY0NyY1hjdmNRdE9jTDdpck1VSVhuRUFKblRicVAwVERrMU9sTkU0d0ppaFM4OVoxYTlpb2otQUw0MlBNaDFTbVUxTzA0UExNTWU3MTlucVFCbGFiNzAwOE5BRjBTampMT2Y0U183dWxyRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793520777157
+    },
+    {
+      "id": "news_NATION_15yearoldshotandkilledinPortRichmondonHa",
+      "title": "15-year-old shot and killed in Port Richmond on Halloween night - NBC10 Philadelphia",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzdta0FEeHQtdTEyejZlSWp0MXlzS2ZVWmxfX204SFhoNzIyM1ppckoyMlFLaTA2OGFIX1ZQVVFhRXl6Rmx6QnpPbnhmSUY5M3lrMWlwa2FvMFhSbGZieGotbFpQZjE3N0RiWHJqSG9JZDZxa1ZkY1BqZU1KNVZPa0xyRmtoZF9vZlZMaXVqWDdubkZzLWNGbTc3Zm1JRDF6LV9ldXE2MVNiY0JyX3hRcEJOaThnUdIBvgFBVV95cUxOVks2VE82eEdLSDBQMXJnWjF5Y0lXcUt1MXNjR2tmRkNHV0JNOHRYTEo2VExaazFIbUZ2b2RJLWhvNWJyUmdnZ28yaC1wMjI5VHhXbEpjNTVGT1Rxd1ZPbVlMQUpmMVlIUGxKLU5OMmstRXZnTVY2SHdYNGlsM0Vwdlo2VXZCTGdDMFZVbVpaWUY5U0tCSTB1V2FlOHNFN3duaVkyOXVlZ3k5bDRuU1dudEJneTlTMF9aaklucWZB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793520777157
+    },
+    {
+      "id": "news_WORLD_ZelenskyywarnsdeliveryofUSPatriotspackag",
+      "title": "Zelenskyy warns delivery of US Patriots package could take years - Euronews.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdFJLMjJnYnFQSjZOcVBPVUdrOTRoQW5KZkl0eHRVWEZQMzBQd1o0RHhwZS1GSExaQUNKaHlxd2tnWGo2eUt0V29zUDNQejVCLTFUVFBIblY4ZDNrbC14bThrLTNHYWx4eW90WVJ1NXRMS1hzQWF3QldnZWtqVW5JSVFzQ0tRclZGdDJwaEtrRjlwT3czcVJ0VFE4eEg1NjZJbWJfcE1IamlQb3B3aUtZTFEyWlNWOUlmWFhkejFXNU1WbE5k?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793520776316
     },
     {
       "id": "news_tech ceo controversy_InsidetheTechCompanyPoweringTrumpsMostCo",
@@ -5390,116 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1793117406375
-    },
-    {
-      "id": "news_SCIENCE_TheSelfishGene50yearsonitstimeforanupdat",
-      "title": "The Selfish Gene , 50 years on — it’s time for an update - Nature",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11RXk4OTREbkh5MS1aSHdwZ2R5dlNiclF3VnZ6OXFFSDc4Mi1WLWlzUlNDS0huX2lJcktIRVFpMHZVN0hRTE5PaGdfeWZSV3FMbWdPQm84SENkRzRqOXhZ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793117406375
-    },
-    {
-      "id": "news_SCIENCE_19millionyearolddiscoveryrewritesthestor",
-      "title": "1.9-million-year-old discovery rewrites the story of human evolution - Science Daily",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KTk4wd1Utd3I3VHUtZGpuLWNJX3VlWTY0WnJPLUJtdENXQ0FxeVlIdXFYMVRVZEtaTVQwaDNTUGlZZThqWFdpalhBYVB4a1BCdFdQQndkUHVnZ0w0Y09MX3JHckJNb3NzT3dGZmJzVQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793117406375
-    },
-    {
-      "id": "news_SPORTS_HesveryadvancedPolicecalledto3yearoldsso",
-      "title": "'He's very advanced': Police called to 3-year-old's soccer game in Winter Park after dispute - WESH",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNamI0eTFZdlZNblBaQ04yTTlXNG0wZDFhZTBGaDMzZ3MxWTNodGVwYXlHdzNMQ3k3WUlFZ0pjMXN3aHotMzNzX3BBNHlKTXZTX2hEMkZ4VUNxY3R4em9zb2R0cUtpZGpUMHJHdjFTYmlSZUVXUE45anZYUEQzeTlLTnAtNFVPN0lUeVE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793117405705
-    },
-    {
-      "id": "news_ENTERTAINMENT_SavannahChrisleyIsPregnantOneYearAfterMo",
-      "title": "Savannah Chrisley Is Pregnant—One Year After Moving Out of Parents’ Nashville Home - Realtor.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcS03X3VMSWFoTjFsa0ozOFRXTkNpZDlnTF80NE1HS3V6WmFwVWt4R2hDTGVMeEMyQ25RUC1fS2MwZzh5YldWQWxNb3M3eVRDSEJNNkd5UWI5d2JtUVNDVW5jdVBzMVJGTVIwM0dqZjJsbDF1cUtGZ1JSYkVDZ0hNa0tIREZxVVlFSUNQRnRqUEx1MmU2?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793117405039
-    },
-    {
-      "id": "news_ENTERTAINMENT_ElizabethHolmesmaniahowthebuzziestfilmof",
-      "title": "Elizabeth Holmes mania: how the buzziest film of the year has resurrected a gut-twisting TV drama - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ0FSek5wSFV2dDlLYjUzbld0NU9wOEx0VEt0RW9LUTVGbkRFS2k5VDR6Yndydnk1ZWRGdFlReHRrQVV3SVBXeTN4OE4yRF8wWnBEMndldmRFU1JRVjZocVZfS280a0dpVU1obWFnaEtWYWhGOUZnOUt2ejdRUDZuVFlhZEdoNlUwbFA5VGY4RGt2ZklPWjl3S0N1RVJOeDRKZEUyRkNLUVpBR25GREE0TGEyb1huUkNiWnYtQXpBNA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793117405039
-    },
-    {
-      "id": "news_ENTERTAINMENT_NeilYoungfilessecondlawsuitagainstTrumpf",
-      "title": "Neil Young files second lawsuit against Trump for unauthorised use of Rockin’ in the Free World at rallies - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée; mots-clés viraux: lawsuit.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2dHNTBNWHp6YndYVXVWRTdyckpHc3d0MkVITV9NekhINmNvYWxHUUkyZEJsMU4wNjB1cURxa0VSUjRycUkwSGNmYVphRDdPLVNrOGhUOVZMMVVmUVR1Z1F5dkRfXzlNS1gtZWtyOE9kOU5PLW5lRTFYdVYtZXAxN1JjMUhpdG9YMkhCdTV2cXU3R2hIM0JoUW9ydw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793117405039
-    },
-    {
-      "id": "news_ENTERTAINMENT_DeadMansBonesUnveilFirstNewSongin17Years",
-      "title": "Dead Man’s Bones Unveil First New Song in 17 Years - Pitchfork",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbV8yekxNYV8wMmxaSHVYVlJFekxsYlc1RXBwQm5kYnhmQzh3ZmdsNVVPbEZ1cHhzN0Y1cUNNWUhreDJMRmdpcjczSkF0cm92Mk9leXNJbDIzVGhtQmlVZFIxRUR3d2RRN191WWFjZEN1c3lGVHBGRS1KemlURnU1RzhmY0U?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793117405039
-    },
-    {
-      "id": "news_ENTERTAINMENT_DictionarycomChoosesItsWordoftheYearfor2",
-      "title": "Dictionary.com Chooses Its Word of the Year for 2026 - Newser",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWk10RkZGQTdDZXUzVUw0ZkxxYnQ3WWdBTzNhZGhmTmZOZE1GM0ZyNXNDeFRjRFl0VThPVm9ETWN4QUtNMjRTT0IyODJzbWxLV1pRc0pIY2pSUFJvXzF1azVKY0JXcmN5Qk1mcXZzVVJuTW9WU3ZNZ2lVUExWTlVJZGtLWXI1dXBCd1BWelFSUTZJOTlwVVE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793117405039
-    },
-    {
-      "id": "news_ENTERTAINMENT_Is2026thefakestyearinmusicNPR",
-      "title": "Is 2026 the fakest year in music? - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaHNlcUNNM1lXTVdrbjRLeDJxR05rOHMtTHMwM3duZVJHQzFUM0V1bDBTVEJZNkQtbk81Wi1RVl84ZG9uV0c5TnZ6ckQwWWRENmNyTEhTa3BpSnVGOGNpT1BtbU55Q2o3cFA4UlFZb01Mb0JIQzdPYVNzb2Z1bnVBeFFad0xqekIzbTNZd0huSWxLZk55WlE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793117405039
-    },
-    {
-      "id": "news_TECHNOLOGY_CNETsGiftsoftheYearAddTheseMustHavestoYo",
-      "title": "CNET’s Gifts of the Year: Add These Must-Haves to Your Holiday Wish List - CNET",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOV1AzWXp4YmJwWlUxc3Bqclp1Wk1yQ1UwRFFFQ0M3VW1kaXAzR0N4cHJrS0RYMWdnTlg3ak5IOVowaFljcTBhclNRT1QyM3F4azZBR085NVRFYmNuTlE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793117403905
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-01T15:11:27.979551+00:00",
+  "updated_at": "2026-11-01T19:39:43.256353+00:00",
   "signals": [
+    {
+      "id": "news_memecoin launch_TheNewYorkTimesPresidentTrumplaunchedhis",
+      "title": "The New York Times. . President Trump launched his own cryptocurrency just days before his 2025 inauguration. The New York Times would like to hear from readers who bought the coin last year, no matter the reason for investing, or how big or small the am - Facebook",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (memecoin launch). figure tier-10 (trump) + lancement explicite; figure tier-10 (ye) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORWdnUnY5NVM2STE0MmpNQzlxd05VNXkxVnliUzlHYWtnRDc1dTdoa3FHcWJOempqM2RGYjlBc3JScmlfdGktdGQ5c3JxVVNZcDRSRlVPU1pTeGxqMzNxS3AxVTlFcm5iODk2c0ZlZDg0Unp6aDZsS0NHOEppeGQ5V2hPMXF2aGhMRDB3bnkzcEJBNE9mdHFUbzVMQ1RWRllHN042enpaMXZkVWI2LS1jamFBeHJvOHp1ZFM5Nml2eXlmUk02WnM1ZVk1dDd2akZqOVU3Ug?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793561959295
+    },
     {
       "id": "news_memecoin launch_TrumpLaunchesTRUMPMemeCoinAheadofWhiteHo",
       "title": "Trump Launches $TRUMP Meme Coin Ahead of White House Return - WSJ",
@@ -1584,6 +1595,105 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_internet drama trending_Chinadramaqueenlambgoesviralforplayingde",
+      "title": "China ‘drama queen’ lamb goes viral for playing dead when buyers approach - South China Morning Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (internet drama trending). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOXzBhcE5fZnY1N2p3QnBSTlpLU3o5VmQ3dlE3eFh2ZzVqOHp5bnZSMDJEQjg0MS1pNXZyeEFqRnlST1VWM0tnX0xMU1N0RXl2TFpmS1NtTTF4Ykt4NDBnM1lNdk84a2ZwV0c2UFFRVXdPYWRPQU5pOEJ4UGJmRWo3eEh4MUtCN0E3eHp0TWl2YngteUxSVlpRVTFxOEJKS3k5SjhUT1AyYjMzNjRjSjZTNWxaRXBqZEI2LTFyZ3FPZG9tcXdQZEZGd2wxelhvUjhnRnhxaWJOSkJIdVY3Qm1pTDhxSVc4QVZNMjBr0gHrAUFVX3lxTE83Z2lkcDV3VFh2VkN2dlJYaVA5dV9YTkRodXN4amVJNlVQQzdkQ054SkY1alo2M3RXRmVjaUVXcXpwODFKb1hHNVhRdEJfWEh2M3o0Rkp5aHEycGszUXRfaFU3dGMtcjN6clNPN0tqTWNtemlybXBYTFAzSW9HQUx5T1IyUS1Vdmp6c3o0M1Z4enhsdjFIWU5EbWVmcjdFTEhobXdGX3dTQ2xqSWh6S3pLVUM0TUhqTy1udEZDM3p0SnZnZXRwZXJzd0RiUmQ1RTcySTQtYUlCN2tab3RFV2gxaHEtRFZJVlZvTVE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793561967619
+    },
+    {
+      "id": "news_SCIENCE_InterstellarVisitor3IATLASJustGotEvenWei",
+      "title": "Interstellar Visitor 3I/ATLAS Just Got Even Weirder, And May Contain 10-Billion-Year-Old Material - ScienceAlert",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNkw4S0cxbXc5dTVoX2habUk4cGhjMTV5eDNyd3lzZk8tU1FlMmlGODRTSjVfbW1YTjF4dUMtNTVUMkdWNE5LNmlXWmRzUmJyV2syeWRoTGtVLTFHdWUtZHFPSDQxOVFaSGNfZGo2ejA5Sm43Q1VsTG1wUjQwYnBkaDY4VzlBSWVjLWRSc3NtTlNjaDh2LU42ZTVKRDc0NnZuTkFDSnJDTXR3MG1MOXBiS1FBMFktVjQzeGdIbHZUTWowMUk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793561957386
+    },
+    {
+      "id": "news_ENTERTAINMENT_InSNLsHalloweencoldopenTrumpscompliments",
+      "title": "In SNL’s Halloween cold open, Trump’s compliments of men are butt of jokes - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSDhQTU4yQS1GRGhPbTFYSUlmdmJLQnhDZ1JiSlZCMWhaNGdSMTRRZnp0Z2lmN0tyUlNvMDd3dTB2blB1ME1CYndTcFNKcFNYRm1FRFQ0enlsOXk4Um5DNThNWGJ5Q3l6czhzT2lFc1lSdmtOTi1fYkcyRHp2ZEQ5SmtVQ2JLU1lUWHQyY24xRFltdGgwNFh6aHowVFZMWVNTWm5QbUhWaGFSbHExVk9jSzlQLWM0QQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793561955852
+    },
+    {
+      "id": "news_TECHNOLOGY_DermatologistsSayYellowStainsonYourPillo",
+      "title": "Dermatologists Say Yellow Stains on Your Pillow Are a Warning Sign, and Here’s What They Mean - SheKnows",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVB2bFNtNHdDa2ttNDdzUDlQd1M4WkZFVXdLVlZkNFJaZXllNnFpZjlFTHlqcFNXaEs0Y0F1XzNjZERKd1QtVHVCeXk3YnVKMk5WV29uSU9DSVA0RGFBTDdZaXdIU05qRjlSRTNGQjYzdVN3NUxXTHZLMnhacEFiazJLRzRMWVJEOG5UQVdlNW0wVG9fdVNZcURmSkdvaTc3ckRLNmF3VWp6ZjA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793561955186
+    },
+    {
+      "id": "news_BUSINESS_Everyeligiblechildunder18nowhasaTrumpAcc",
+      "title": "Every eligible child under 18 now has a Trump Account - whether parents want one or not - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQWVwVERPRkJ6N1RCdEVoMzVKejRMRmdxR0g2VXo5VllSVWFNNzlHQWJmUFE1UW9Ba3B0TU8xbkNtbW1lM0o4NHNxMlJwelk2ZWJWNnlTOUVoWmNXN2c4ZV9SY0x4TWlMbXQtYk93MUVXUkN4ZEU5VzRxSmhxTnRrOU1tZUliSkUycGNGRDRYRHdRZjNKR3FBcXBaVXFrSWlzMWFudjR5SVY5cE8zZlkxZy1R?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793561954520
+    },
+    {
+      "id": "news_BUSINESS_Intelstockplungesnearly30itsworstdayin52",
+      "title": "Intel stock plunges nearly 30%, its worst day in 52 years - TechSpot",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUtaM01lbVBWbFJtNmFqWDNJZVdZaEowc0VqMjN2c1BkR2FsSnpwcVhDZ3d4cFRrUE1tMS1yTHJnbDhzX2ZORU1wdWNpWmVLamhaZ0ZoeWU2Z3pJUncxeUx5WDByQ2pJXzJfV1h1eXc1OXRHXzc2UTFwME5EODVNV2E0M2tPLWdGTzZnXw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793561954520
+    },
+    {
+      "id": "news_NATION_AbdulElSayedsDemocraticrivalHaleyStevens",
+      "title": "Abdul El-Sayed’s Democratic rival, Haley Stevens, endorses GOP's Mike Rogers in Michigan Senate race - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793561953787
+    },
+    {
+      "id": "news_NATION_JudgetossesTrumpsattempttoblockAlaskaSen",
+      "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses - NPR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0tqclpGdHZtME0wZFY2LWpLZHF3TG5BMmk3RUM2SkdvWVI5c0tJa2pOTzJvN19pRFhkQng0ZUloMGVmSUZoQ1V3cE5PWkRWX1ppaHpFV0F4WDVVSVF1eDFPT2N3WnBROEpOdVR3QkYtZVZTcl8wNGpLZ05wSi1fdE5tbU5nNE9UX2VQX0gxbWlhQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793561953787
+    },
+    {
+      "id": "news_NATION_MamdanisaysTrumptograntvisatomotherofboy",
+      "title": "Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmJSZ0FaX0U1Rl9KLWZHUnJEOG9GS0RkWnplMTM4d3BuTi1SUHhQdDViRjhuVXRUc0JxN0lDbU1lckIyckN0OG1lb0RvT3VNVmM0ZU1fQXdXSlRHM2xWM2JuZDE1a21lX096N1JFUzBxaFFmYk45U1lsd1VCLTdscTZqNE9LRmxpVWFGWWRRNEVlbE1oLWdFUGt1eW9IUm84Z1FTYlRPX2I4d28yRm1scjQyZHZHUdIBuwFBVV95cUxQMWswX3VxdWJwX1lJTTljVGJKdVhfaTBfNGhJXzBWVlZIZXhCVnpWeS01YUpLZjdnX0w5QjNlZHU5R2JfZGVmWmFzYXhpOHVpaXJ4cGJGWlpQbTZ3OFoxeGsyQVRCTk9FOGthYkUtbFFmdlFpLVdjdFhvb3hXVW5GVTR4cW9HdXBDbWluY2hJU3RfVVprOGdhcmlVUGFXLXVjUkJjdGMzWDRCOXFUQ2Z1UUlJMFM0OXBHRTdJ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793561953787
     },
     {
       "id": "news_HEALTH_AsimplebloodtestcouldrevealAlzheimersris",
@@ -5390,116 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1793145724444
-    },
-    {
-      "id": "news_NATION_TrumpmakeslastminutepushtokeepTexasinRep",
-      "title": "Trump makes last-minute push to keep Texas in Republican hands with third trip - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU9QN3kwR2JnU0lwVlhGZ0xxM0VaYVNFNWJwUk1lZlVVV0N0ZlhpLW91VGtXUGg2LUlfRDNxSy1YU1RPX3NOeElMYXJZME5odnZ0SHJfaFU3R3k3MXJ4Q19HLThBSHVTdUN2SkR3RDByWkpOSE1FRmVoNVZ3NE1xQ1JrXy0zM3NobTRGUEU0b3VvY3BUYXRGVGRrMXQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145724444
-    },
-    {
-      "id": "news_NATION_TrumptakescampaignblitztoTexaswith7daysb",
-      "title": "Trump takes campaign blitz to Texas with 7 days before Election Day - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXBRY2NEdGhRN1NueVI3cDlPNHJFd2NMeFNDSUwwbnZNMHN3eGFKTzhpbk1FQV9keUJuY3NzT0FyMDdBRC04NG4wZ2F4UTAzMTFyLXNzV0VqT28zMlBjZldUY3JreWd0eVVweDhKRVNCZ1JjMUtZcldqQjFOLUlfeDRkQUVhSUhfRnNNVlJB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145724444
-    },
-    {
-      "id": "news_NATION_Alaskasrankedchoicevotingisontheballotth",
-      "title": "Alaska’s ranked choice voting is on the ballot this year. Republicans want it gone. - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzk4ZWxCVDhzSUREOW1IVVRMVmRnQXVGUXRJekUwODJtZTAwalNucTZ5bHUzRDBUdzBrZ2JGSENZbThCZU56U3NSRVFKX2JKY0tnaDJGbWpQbjVMdnJVaUtQQWdtY2cyWHQtdm9zWnlqT3Z0OGNGWXVtWWVWWFo5c05GSUNGM05ibFdIOQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145724444
-    },
-    {
-      "id": "news_NATION_AjudgehaltedDCgolfcourserenovationsTrump",
-      "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNakM0YWhNTC1ZOWl6Z2ZqQzBuUWttYVByUndCNmlTdVMzNFdqcjdwS1ZMYW1Sb3ZsNkI4akdWdTlPOWg3cUpIdzVnT2xhNFAzZFdlM0NWS0NJQWg0c1NxT3B1Y3VrTFdoc29kZGhzZ3RmZXFyTzdVQS1XY1VqMUlmUTRud1Y0anYyWkVWeTNUbXgxUmxITWtpTnMwRWE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145724444
-    },
-    {
-      "id": "news_NATION_SerialkillerTedBundylinkedtoteenagegirls",
-      "title": "Serial killer Ted Bundy linked to teenage girl's murder after 52 years - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XUVVFNHpkZWNoWlpybnByOUZqVWFSbXBnN2V5d0k2MjY1YWkzM1JsRDdxdU1CQlM3eFFKeGw5akExT21XZ2V3X0JQZGZtdndJV2tDYXdSLWkwOUk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145724444
-    },
-    {
-      "id": "news_NATION_VancetearsintopsychopathAbdulElSayedblas",
-      "title": "Vance tears into ‘psychopath’ Abdul El-Sayed, blasts Dem for peddling ‘anti-white’ hatred - New York Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOejRJVHU1NHVpbXlWYXNiM0xxekpRSE01ajhOZzVtN0FnVF9ZZkhMNmZjcmdpakJHU2ZWSEcyTXA4LUVCYV9qX3ppa01ESDB5ak9CeDBXRUdaQjVnaG1oRVRJVmhxTWpoMGlvUUtGMnFwazVyZzJxNVdMWDBtUUNjbVdIOFFTcHph?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145724444
-    },
-    {
-      "id": "news_WORLD_VonderLeyensCanadaassociatemembershipspu",
-      "title": "Von der Leyen’s Canada ‘associate membership’ spurs battle of words with EU capitals - Euronews.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1NjV09KOVd5T0R1Tkw5ZHVKX0pKeU82cHNiN29KUUdETTRpV0xjVU8xcEUteFFpLV9KdzQ4MURsUmphdkFSWThNdHhyZFA4YXdQQVdtQXZZbVI5c1FSRVlRYjJMZnZMc3JyLVNhYjMwSVJHbWFCcjAybzV6SHdyX0hvNXZvX2E2V0ZKUlA1S1REVWpFaFd0ZU9tdzFVX1dsNU44UFMxZzJEMjkxRXVxX1loazFmc0hD?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145723561
-    },
-    {
-      "id": "news_billionaire announcement_TrumpreportedlymetwithBrazilianbillionai",
-      "title": "Trump reportedly met with Brazilian billionaire before announcing beef plan - Yahoo",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXRhZ2JCenVsZGRERFVtdS1JR0pRRnJtSElXdmVwaWkxS3hxR1BYZ1Y0Y3pYVWxjdzRrZVlVcVU1OTM0bkpST3Y3YWl4XzRfZlZPNlUtdXNfRFNXc1pnNTFFZEEzTjFxR3BKWkFGcERfSWYwT25xZFZrU3RjeHFZaGJsU2ItdHV1RXNnZlRUWjgxbHp2ZGVOcG5QVkJZS2staXQ0Yg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793133696148
-    },
-    {
-      "id": "news_AI controversy viral_MarissaMayersAIbacklashrevealsabiggerque",
-      "title": "Marissa Mayer’s AI backlash reveals a bigger question: What should we outsource to AI? - Fortune",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (AI controversy viral). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3Z5ZF9HUUdlQTJWM1N4N2JodGdlaldObS1uTVAyaTg3R2VPZnlHRFYtZXRaaW9lX0hkVU5MX25KYlRyOHh5dWdQUFFxNGx3UHhyaVBFQXppbm83dkZjaHRjSjZrWThkeTRMSm9lRWVHdTlfZVNLRVJpUGtKV25oZDBVc196NzEzYndzTVVOdVN6M0w5dG1uRjNuVTE3WUJt?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793133689984
-    },
-    {
-      "id": "news_own cryptocurrency launch_HowaTrumpbusinessdealwithacryptofirmexpo",
-      "title": "How a Trump business deal with a crypto firm exposes potential conflicts of interest - PBS",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnR5djFTRWw1NnN3ZDRQbmhtVm5wVFdMZnFUbFNSUEFTVDRzOHBSQzBJSGgwWk5rVFlWOUhCOXdMZTI5N3FFVndXNHB3T0gwTXlWemhmd25tXzR1eGYyR3owNXJaazY5QThGa0VCRmFRXzhHQTlfLVZhNEtGLVlVSXhwVlRZdUFNcnJlWGV3c0k5SHhTNkNtYWtGOTU2WnRkR19wY21UQ1B1cDVRS0oweXdTWGJBdjBSbGxmV2drONIBxAFBVV95cUxPUEk1SklzcTJPdHIzY3ROZElPN2NJaTRJSU1ac3FhaWEyS1BveHQ2MjVpMlp4aHJqRGFPSjVRd2tJLTQ2Sl9CSUpXeDUwa0FDM19mVVZvSzEzTHRmRUw3c0VGQlBHQ1JSTEtvNjFtRVZGbmNpbHZkTllSY09PTGcxVkYxV1JIQWgwc1FJTFZ0SWdRVUR2cmJBWWd4bEZ1QU9VWXRaTUZITlZUdlVka3pUOGtkRFdZa1Zvd2pxQ3E1TnM5X2JN?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793133686218
     }
   ]
 }

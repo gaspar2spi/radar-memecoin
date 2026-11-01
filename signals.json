@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T19:39:43.256353+00:00",
+  "updated_at": "2026-11-01T23:05:07.741623+00:00",
   "signals": [
     {
       "id": "news_memecoin launch_TheNewYorkTimesPresidentTrumplaunchedhis",
@@ -1595,6 +1595,105 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_AI controversy viral_MarissaMayersAIbacklashrevealsabiggerque",
+      "title": "Marissa Mayer’s AI backlash reveals a bigger question: What should we outsource to AI? - Fortune",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (AI controversy viral). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3Z5ZF9HUUdlQTJWM1N4N2JodGdlaldObS1uTVAyaTg3R2VPZnlHRFYtZXRaaW9lX0hkVU5MX25KYlRyOHh5dWdQUFFxNGx3UHhyaVBFQXppbm83dkZjaHRjSjZrWThkeTRMSm9lRWVHdTlfZVNLRVJpUGtKV25oZDBVc196NzEzYndzTVVOdVN6M0w5dG1uRjNuVTE3WUJt?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793574286931
+    },
+    {
+      "id": "news_own cryptocurrency launch_HowaTrumpbusinessdealwithacryptofirmexpo",
+      "title": "How a Trump business deal with a crypto firm exposes potential conflicts of interest - PBS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnR5djFTRWw1NnN3ZDRQbmhtVm5wVFdMZnFUbFNSUEFTVDRzOHBSQzBJSGgwWk5rVFlWOUhCOXdMZTI5N3FFVndXNHB3T0gwTXlWemhmd25tXzR1eGYyR3owNXJaazY5QThGa0VCRmFRXzhHQTlfLVZhNEtGLVlVSXhwVlRZdUFNcnJlWGV3c0k5SHhTNkNtYWtGOTU2WnRkR19wY21UQ1B1cDVRS0oweXdTWGJBdjBSbGxmV2drONIBxAFBVV95cUxPUEk1SklzcTJPdHIzY3ROZElPN2NJaTRJSU1ac3FhaWEyS1BveHQ2MjVpMlp4aHJqRGFPSjVRd2tJLTQ2Sl9CSUpXeDUwa0FDM19mVVZvSzEzTHRmRUw3c0VGQlBHQ1JSTEtvNjFtRVZGbmNpbHZkTllSY09PTGcxVkYxV1JIQWgwc1FJTFZ0SWdRVUR2cmJBWWd4bEZ1QU9VWXRaTUZITlZUdlVka3pUOGtkRFdZa1Zvd2pxQ3E1TnM5X2JN?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793574283564
+    },
+    {
+      "id": "news_ENTERTAINMENT_ChadLowesLatestLifeChangeComesAfteraDeva",
+      "title": "Chad Lowe’s Latest Life Change Comes After a Devastating Year - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXy1VdktGLUpvMjVNMnBZNXVUaTVSbkQtc000cUtwUzB6OEdmYmtBVlhMeTFKcGJLdnBsRU1fYmtHTGNfSGxuWFFVclBFNGdza3ZGMXhSdXBZN2pjYWJLeWJHQlNnd3pHVGFmclcwXzB5NkVna2hLWHlyTnZDU0MyT3g5cXd5ZERhcnZxdzJ1UXBwRDRmRmpKMTNYc2N0OFE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793574274853
+    },
+    {
+      "id": "news_BUSINESS_TrumpvoicesuncertaintyaboutNvidiaCEOaclo",
+      "title": "Trump voices uncertainty about Nvidia CEO, a close tech adviser - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGJjbktIWGNkNTRGd0lIMm9QSjVtd1lBSWZkUkczcUtGLVRCMVRNM1g4TVh1cVlZLXltSElHWFVaSHdTajlwX3ZDTENEQm1aY3FhMjRISWZuOFc5eUZnM2FENzA2MXZrS3NZWEo4TVBVTFRsdFFUa1RuRUJmaXhWY19TeWRJVG80LThvbkZPTGNycEpsaVNoUzRaSDJoQTZsbkRZ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793574272736
+    },
+    {
+      "id": "news_BUSINESS_SocialSecuritysTrumpBumpPowered2027COLAI",
+      "title": "Social Security's Trump Bump-Powered 2027 COLA Is the 5th Largest in 35 Years, but It Comes at a Potentially Steep Cost - The Motley Fool",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY3JFbTFwNFQyS0J1UzNnSzdXZy1hV1htTVJ0a29BbC12WDNlSk16V3FzZFctNnd6N3ZhdWJtT3JUelk5eTB4MWY3M3B6TFd3dXpLOXNBdVdxNksweEQ0eTRqdC1aX3hfWUhkdEp4RnNNNDlLVFpoLXp1TU9Wc1FCMjlaSHNkMzQ1MFQyTEhWZVZCaU8yd0gwc1ZsNlJMNVBsYUFoSkpJVDAwN0pYZmZSZFd0a3NvbFFiWHdwRlR6RjR1c0NCeEtPckF0bjhodHgzSXdwcGd2aUpmY2ox?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793574272736
+    },
+    {
+      "id": "news_NATION_DemocratHaleyStevensendorsesMichiganGOPS",
+      "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers amid rift with Abdul El-Sayed - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNi1XY2poaWRlNk9heFJwZXBkSjNaTHJTS1otZTNENVBySG1yTF9hZHhUa2xoaHN6ZnhjU2lVWktaLTY5bXd4YmgyV2l5UzlfbzJTVXZkM3lvMlhMQjR6a2RxV2ZIVmU1VXNjR2o4T2J4X1lSbmN1V3BnRVM1RUZLWndUamN6cldPM3F6TGloT3ZJM0gtYzI1c0FSRmVTLTNPeWxSYw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793574271936
+    },
+    {
+      "id": "news_NATION_TrumphostsHalloweenbashripslegalallysrep",
+      "title": "Trump hosts Halloween bash, rips legal ally's reported $50M payment - The Palm Beach Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMGQtNW1wUFFtMl9kS18yOENlQWVJX0phV3Fsd3VESndHMlFPaG5PU25JNE5MbVlKYUhMTFZVREdHTUFaQUNRaFo4QTVaN3RRYlJWdmJZS1VyOXVMaFNTbF9Wb3l6TWxsRXBvMnJVM2FHT3JMYXVLZzJiZlVscV80T2F1SVdBWWZrWG5YbnlJVzB6MzJSMFRKX1d6ZjdZZTVrVmY0Qmt2ekdLQjNzMjRJWWF3R2NxQ2VjYUFqVnpVTi1hajktQTN5X0xKOTAtV2FB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793574271936
+    },
+    {
+      "id": "news_NATION_TheGuardianviewontheUSmidtermsandelectio",
+      "title": "The Guardian view on the US midterms and election interference: Trump’s attempted heist is already under way - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeDdYLWpvX250QWIwS2UxVU9OLXFfU3V0S1hCOWltTDJQQVMwbzl5OFBNTkhpd3ExYW9ma3hKd0VONkVQd1FuN3BJRVUtRWViNl9WMGY4ZjhaSnZ5VUIzUkxKbEF5RVUwM2hqTkFtVklzYXlaRjFuOEo0cEFvT0wxUUxPV29QSlZucFQyb3M4M1lUVU1udzRqVHN5djdiQVAyTjNLbldwbDN1VUtYbmsyWXFJZV85SG4zSW5qUThMdkhUN2Zzd0txQmplb3NDYUxKMmwyYTBpWThfaWtxN2NmaVNaUmtYMXpXeXJZZnhJSUhxUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793574271936
+    },
+    {
+      "id": "news_NATION_TrumphasfrankcallwithNetanyahuaboutnextm",
+      "title": "Trump has frank call with Netanyahu about next move in Iran war - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MVUdNZ28zQzRiOVNwaDQyMC1WblRmazY5Y3VIbktXSk5BYkpNUFBHWG1GbnJ2RTg0dTFiMHZCbTRCME5ONEplcDZWVlRpQW1nZF9jdzAwT1dnNVNDWi0zdG1ySy1yc3k3UEVmZ2pucGZDNFJ4NzRPd0ln?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793574271936
     },
     {
       "id": "news_internet drama trending_Chinadramaqueenlambgoesviralforplayingde",
@@ -5401,105 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1793145730729
-    },
-    {
-      "id": "news_HEALTH_At59MyEyesWereDryGrittyandConstantlyWate",
-      "title": "At 59, My Eyes Were Dry, Gritty, and Constantly Watering—Until I Tried This Simple, Doctor-Approved Trick - Prevention",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWV1S3RPdlFJcnBjTVY4YkM1bVJ6OEVqTDlkcnB5aUdHLU4wOVpXQl8xUkRtOFBhOTNINXlQSXd4TmxBTDZ4YU83S015OVU1ODlxbEFXVkRYdU9QX0lDMnEzVTZ1S0JFZHRqQmxRN0piVU1BelE5Q1FQdXpWMU0zQkdfZDNuZUYwcER6bWg3dkdqYjRFM2JV?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145730729
-    },
-    {
-      "id": "news_HEALTH_Howthisyearsbestopticalillusionstrickyou",
-      "title": "How this year’s best optical illusions trick your brain - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNczN4WWVnRlRLaGVCTDhaWXFESlhzSXU4NG5vcm9lODhsTXotN0M0VWc3WjBnRE5ZV3lpV0t1emVWRVdFSGN0SDQtVUJWamNlX0UtVU1SY1BRWDNXeHZva283aW4zejU2ak43Z1Y0bU1tNnQtYVNYTmxRLUtBNjA5cTIxeENyeExMRXdPaXJkOWw4djdKN2FzdmtLMmM3TzE1Q1R1bjl6NA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145730729
-    },
-    {
-      "id": "news_ENTERTAINMENT_YesYouCanStillSeeMuskHeresWhatsHappening",
-      "title": "Yes, You Can Still See ‘Musk’ — Here’s What’s Happening With the Film’s Release Plan - The Hollywood Reporter",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkNlSEJ5UWtDOVg5Nk94bUhwWGdoYkgwY2xUMVZJT3N1YWlJVEdiaFM5emlYdTktSzZpcWtyQlQ0X3RESUxGcThiNHJPLTdNa2ZYU1R2cjZaVndWT05ha0RTaFh1VTlFYllHczZCRXNzZjlUZnhNb1Y1X2c0b2JINGhoVlZGZDFjeTFodmpfRXlrZFpVWjh5X0x2aFl4N2pGUnc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145727301
-    },
-    {
-      "id": "news_TECHNOLOGY_AppleBetsMacBookProBuyersWillPayMoreforT",
-      "title": "Apple Bets MacBook Pro Buyers Will Pay More for Touch Screens - Bloomberg.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNENTUXRkWmlfODV0c3h2OWZQcG42ZDZ3NlpzVEJ3MUY1SUJtZm03X3ZtR0cyZFdKZzVfdVMwQUYwVE9hSzN2cl9mVjY1TnhSb2p2RDNhVHBIRHhkbXJVVXlYMFdTVGZPV3M4R0FVaWJvd3Fkc2lUdW4xR21IUVZqRUUxOTc2TUlJOFNBOXhtblZWQzJlZURmMUVQSFhLQ2hOWFE1TkYySHhGMVhzX3FnX0dLd1YxX0hGWjNwWlJ2NzdSMTJDeEE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145726250
-    },
-    {
-      "id": "news_BUSINESS_BanksEye21BillionofBondsforBroadcomChipF",
-      "title": "Banks Eye $21 Billion of Bonds for Broadcom Chip-Financing Deal - Yahoo Finance",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZFNhUGZLTXpFb3Vqemplbm01M2N6WllRUVdER183d0VLVWU3ZkJYdmRrcFlCcFVuRWpkSXV3Y1J0dFJfbHJOc1lROU5EOWlzYmloTUNXNmN2OFl6Q0VPQkZsSHBmUnBEcGh0dk51REd1VXM1Mnh2a0RLMWtzYTlFdmxXU1JIdGxKT3k1ZGl0NnJ3SW9n?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145725357
-    },
-    {
-      "id": "news_NATION_GrandjurydeclinestoindictTrumpcriticCass",
-      "title": "Grand jury declines to indict Trump critic Cassidy Hutchinson over Jan. 6 testimony - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnpmajRLTnhIQjVMNlp2UENMVng3ajloOUtQeEdsRjJBa1cwUmNPbDRyUGlzR0xIcDM0UTc5RHU5SXBYUWRZWnJheDFLQUtObFZxMkRLSlFHZ0lrd19aLV82Uk5feXpQOTdtYk5RSXZ6XzIzT1hwclh4MTlxcXJ4Ri1xaEJOR2M1SllrUHE1ZFQ5XzdyVEgzQzJaQzlIbXY2eDNMSlFQVGEydE5xTHcyWU13?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145724444
-    },
-    {
-      "id": "news_NATION_Alexanderbrotherseachget30yearsinprisona",
-      "title": "Alexander brothers each get 30 years in prison after women speak of being drugged and raped by them - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbm95bTdpVk5ZdnFONElTaDJ2SW9VM1RoUkppRXBCRlhuMVhtY3Q3RG9YNG5xdnQzOHVkTXJvcTFFN2hsbV9zYWFzYUxtQTNJaXBMX3RuRGxQay02cWlrbmdVUDlPWklmdFdHU0VFZTVWWnlmeDhVQzh6eTA5RElMZG80TGNIa2o3NXI4dXNFUUNJMWY4S3dRdFRudzJXLWx2OVk2T1JIS0k?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145724444
-    },
-    {
-      "id": "news_NATION_Trumpadminzeroesinonnoncitizenvotinginfi",
-      "title": "Trump admin zeroes in on noncitizen voting in final midterm push - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpUVB0UmN1N2l1RGs4QzFKLTktUnlZTV9kT2YwMnhvWG1iUHpRbnMwbUpMLVVTemxfLW9qVEx3ZlZXOG1NamlRT3BrbU9yUE5IQWtUYlBqVjZWVHdOMy0tSTdpZHNoNkxkX2ZhVTdmZzdiWW5ZeUI3R01QdjUxZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145724444
-    },
-    {
-      "id": "news_NATION_RepublicanswantedRubioonthestumpTrumpcoa",
-      "title": "Republicans wanted Rubio on the stump. Trump coaxed him there. - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYkl6YnFMVUlIUWZLSEhYZWZpNzlKMmphZFM4VThEeVB3WWlma3kwZC1QcVVxUnlXaDhsSlFCOWd5Skw0SThOR1B2RTlZb2xEaTZOSWpsbzFnLXNuaU4tU2QxNVlaWEI5NTl4WlBRb2tJYTlqMDhKQ2VrOUNXT0VEWm9pNEtQazcxcUE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145724444
     }
   ]
 }

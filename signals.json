@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-01T23:05:07.741623+00:00",
+  "updated_at": "2026-11-02T02:24:02.760511+00:00",
   "signals": [
+    {
+      "id": "news_NATION_TrumplaunchesracistdiatribeagainstAbdulE",
+      "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally - The Guardian",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) + lancement explicite; figure tier-10 (ye) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFZlZvQkRaYWotaG1DdzJJVDJoQjdqWjNyUk14SE9ZYTFwbzdSak5MWDdUeHhuNTRfR1Nldmh4MTdFX1pIS2VWZHJjdUVzV3Fod0p0eHlPby0xazhsRlNwSnVNdno3QkpFckNQUU8xNjAzQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793586213476
+    },
     {
       "id": "news_memecoin launch_TheNewYorkTimesPresidentTrumplaunchedhis",
       "title": "The New York Times. . President Trump launched his own cryptocurrency just days before his 2025 inauguration. The New York Times would like to hear from readers who bought the coin last year, no matter the reason for investing, or how big or small the am - Facebook",
@@ -1595,6 +1606,72 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_TrumpreportedlymetwithBrazilianbillionai",
+      "title": "Trump reportedly met with Brazilian billionaire before announcing beef plan - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXRhZ2JCenVsZGRERFVtdS1JR0pRRnJtSElXdmVwaWkxS3hxR1BYZ1Y0Y3pYVWxjdzRrZVlVcVU1OTM0bkpST3Y3YWl4XzRfZlZPNlUtdXNfRFNXc1pnNTFFZEEzTjFxR3BKWkFGcERfSWYwT25xZFZrU3RjeHFZaGJsU2ItdHV1RXNnZlRUWjgxbHp2ZGVOcG5QVkJZS2staXQ0Yg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793586231188
+    },
+    {
+      "id": "news_viral scandal internet_StravaFiresEmployeeafterViralVideoScanda",
+      "title": "Strava Fires Employee after Viral Video Scandal - Outside Magazine",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (viral scandal internet). figure tier-10 (ye) mentionnée; mots-clés viraux: scandal, viral.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVQyTGxBY1BMSkZKMmhwOGt0WUFQMTctNUFJS0R6QzdDVHVIYVpqMUhjNWlPa01EOWQ2cGJuRlBnWmF0eVh4emprRTVvZlJWbENOM2JNX1hKanRnTjlPX2ZRaWV2NWoyR0xqYnY0aDdPcWVnS2hVc25nenNXeU1MSmNVNEk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793586224884
+    },
+    {
+      "id": "news_BUSINESS_ElonMusksaysheistakingoveranoldSpamfacto",
+      "title": "Elon Musk says he is taking over an old Spam factory and a gun range to expand his Colossus 2 AI complex - Business Insider",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQblNHeVNwZ3NJaDN0UmpkUnc1SzJoNnFYbkEwNWVubEpnbFQ2Sk9qQ09EXzlGdTlpUEg5bkdoWmNIZmZVa2p3M3FlSjBoa3RGbG9QcUtsTzNzWGFaOXY3QVRTZ0JCQ0s3TC1kSG8wMm9Ra0V0SUZkYTVfSDhRSThLR0FQUEd6TkpvQXc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793586214243
+    },
+    {
+      "id": "news_NATION_Trumpslamsexlawyers50mdealwithpardonedba",
+      "title": "Trump slams ex-lawyer’s $50m deal with pardoned banker’s family - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdTJjUGh1azJVeTNMZFdtY1BFTFBFUk9nTHZqVE9oNmQxa1dNaUJXMm1mdHFvUzR4RUhTUkZTOG9MZVRIbVJoNTlJdWtlczFTMTVkS0JuVTdnTkJyMzJxMXNoamlNY2hzSHpZd0k5dDlDSmtWWXRRbVdGM2draFo2VGloVS1FZVpQSjlVS1RWWEdvUFpQOTc0LTB6NDA0eDBpZnFj0gGoAUFVX3lxTE9hUzVUYTVrYmYyZkVMX2d6OWV6c1pqcFlPOE1lV3ZtWU9QVERjOS16TjRBT2l4YzFrelVRTDVHYjYwN3hTaGxzUVV2YkpqUVctLXZTSXExbElIRWJUTGFvdXZ6UW5RM2dvSUMwTGxaSURRcFU5ZDhSWDB4YTBvTDFjQk02STJtc25RZEI4S2R5Ny1nZlo3RDF6ajAyZnJNMzhfazZha2xnbQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793586213476
+    },
+    {
+      "id": "news_WORLD_UNspeacekeepingmissioninWesternSaharaend",
+      "title": "UN’s peacekeeping mission in Western Sahara ends after 35 years following US-Russia standoff - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVjMzNTMwSWprQVp3aTBMUThUbmFLcldfYVE1LTdxTE8wRWpuXzU0YkNod2o5T09pSWxpSG9RcHpPVGNvdmpCZ2Y3WUVaWjYyNjNUemZ6M1FBb0IxWkRid3lrRk16VnBPa0FMWTh1QTU4NUh1X1RoZlF5THpLYjk5bTQ1R3d5T2NUOTF5MEl2Vk9VVTJRcnlTVzRXQ0tXekxLUDJWM2FTdXRsZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793586212678
+    },
+    {
+      "id": "news_WORLD_COP17KeyoutcomesagreedattheUNbiodiversit",
+      "title": "COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan - Carbon Brief",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMnhFaU8yVTdhQ0d1TTRaRGJzOEM2Sm9YNHBPenJvZGxVZ2F5OHdYRktvMnRNWHdmZWlzRnZjeEhwV3JxZnlGbG54Y3Q4bFBuakJQZ3owSmhTVGxUTjczZkFiQXJSaEpDMWl3QzFzYVI2ZTdRSVNpSHZQNXFmaDhDVWtQc2IzSDBIYUhwclJ6LVk2RWlQV3hjdE1WZGgyZVU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1793586212678
     },
     {
       "id": "news_AI controversy viral_MarissaMayersAIbacklashrevealsabiggerque",
@@ -5423,83 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1793165145687
-    },
-    {
-      "id": "news_NATION_ExclusiveLADWPworkersrakeinnearly800KasL",
-      "title": "Exclusive | LADWP workers rake in nearly $800K as LA ratepayers get slammed with sky-high utility bills - New York Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVzRSX1FNUWFhejI3aExLcHRGRmF4Z2lxWFJiSy05Z0tiRzlmYjdCcnhMZU56VHZtM1d1c29QOXdoZVBFbVY4VU5GM3hteHlqOXVidjBhWFFMQXZXMl9NNmY0WVhGYnpyVGlpcmNRZ09jZ01qdDk5MXpONWJ1STlHS0pudl9DdlRWYTlYUEp5UkRmekhJYUkwd3A1Wms0a2M5Y2ZDZmFR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793165145687
-    },
-    {
-      "id": "news_NATION_Trumpshowsofftankerwith1mbarrelsofoiland",
-      "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SNUU4MFJ4SnBPMjVMem9PNG5DS01vLURZMWdoaUtRa2dMdHI0emI2eThnZ1B1X3VndDZhU2lYd1FXVDR5S25pQi0tT2kzNWFsY2hCeDFUc1U5Qzdsb1plcHI1MGRkQU15YlFDMnR0blRBRFc0UENOMlY4UFNkY2c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793165145687
-    },
-    {
-      "id": "news_NATION_MidtermelectionsupdatesTrumpandTalaricoc",
-      "title": "Midterm elections updates: Trump and Talarico campaign two miles apart in Texas rallies - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmZ4amhFdVhLbFpTSFpuck1wSjNRemU0UjJhb0o3cFhNZE9TT3hxMjdCTE9QTDR2OWdOdlZNS1F4V2RJU1lKS200N09qZkdQdlFLUnBZTHBoXzJlN2ZrWDBSMnB2STJSV1p5MEhOTm5kNGgwUFh4OHVmTzRzb2VMRQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793165145686
-    },
-    {
-      "id": "news_election crypto_InsightCryptoblitzesmidtermswith176milli",
-      "title": "Insight: Crypto blitzes midterms with $176 million to support allies as it prepares for post-Trump era - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbGVzelluUlRtODRKTG5wazVoU01tTjQ5bkZxZGI2TWpkTDNSc01XZEJaQTJlaE1EREtyZ0lqR2RieHZZcWVHcUk3T0RMNTY2SkwzYmhLY0I3aFZhV3RVbEwtakpyYm1tZHpfMlU2VVBIa0RTRGNLVTZRUVRsajJBdkhybVd6Q2tldlAtZGVBT1lWUUxrN2c4eXlfN1FiRWZYZlpjUmEzd1lKVGlQbjRFSkpPOUstSFpabzNjRnhIeDFnWHNZYmRYWHpYN3Q1SUk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145743446
-    },
-    {
-      "id": "news_own cryptocurrency launch_Trumpscryptocompanygetscontroversialappr",
-      "title": "Trump's crypto company gets controversial approval to start its own bank - Scripps News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa0pDV0o1NXByZHZKSlgxTHdZa293M3luMGI5RXA2UUVfTnp3NkVtMVB1X2dJbWJEQS1YT0k3NVg1WmNOV1R0WGJ1S25YbVY5bG5Tc3h2MEdPT1B1SVEtRzFfZ0tYLWZzb214RmYtaWZpZ3hDaUt1bnZmYWtVUUpPdkNGazJiS1BDUzgyclE1NHRCV2JkUTN5eVRMZVpwaW9tZWs4Z2tseVdaNVZjUHMxMVA1dV9YdUxFRnBKbTBDVQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145737151
-    },
-    {
-      "id": "news_own cryptocurrency launch_Trumpmediafirmtoissuenewcryptocurrencyto",
-      "title": "Trump media firm to issue new cryptocurrency to shareholders - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ba2VWdHlvaFBEN2gxVFdQMXNBYTAzS0JYWkFkNk43cWxJTERoanZDdkNkMklzOXQ2WW13ZG5hWWd5ZzV5SU5pUDhya0JPcWl1eEMtMVVmR2JRdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145737151
-    },
-    {
-      "id": "news_HEALTH_CDCwarnsofrisingthreatofdrugresistantger",
-      "title": "CDC warns of rising threat of drug-resistant germs, which kill 50,000 people per year - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHZYNU9yaFplM3NIaV81dXBQUVRuUGJRREtHbWZYYkVhakk2UUo1UEhkWVZlR0dXZk9CT1RxeVVMRkRqTlE3Y3FCNnJiNVJGZnZ2OXpfVWhoSzN6dzN3Z01SQkhuemEzTldXVVk0YXdkOHk2cGx4Ry1ZSnVsd1lDWEpqQ041ZWNnODZiSy1ZWVZFOS1paFE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793145730729
     }
   ]
 }

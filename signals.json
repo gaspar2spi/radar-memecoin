@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-06T22:17:02.760670+00:00",
+  "updated_at": "2026-11-07T02:00:32.945259+00:00",
   "signals": [
+    {
+      "id": "news_NATION_ElSayedlaunchesHabibiPACTheHill",
+      "title": "El-Sayed launches Habibi PAC - The Hill",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRUl5WTNGeGxOMnNITHpmTmNVdUdDX1llMkR3T2x0aVN6R2tfRExxcVdsLWhrdG80YklVSXN5LU1oa1dDdWpNRjdrbm5vcXhFMDZVenh1S05rYWlFV01JanR6bHFnSHZyLVNkYjFLOEZOV1VHZUVIaEE2RU9jdk8tYdIBhgFBVV95cUxPT3gyRURMcGl2bEdGUlVaeGhGbm5XMnRUSkFjZVY0V0xiOHQtZFBEWkg5MUZ6T3VSTl9PNDVPU0Nld3U1WUpzb29PRXRtNl9SUzZTSGJwMUVYdDBNS2t6RlpaakpPV1FOV0EwNE9KcjlacHhsbjJmQWFnTlRIeGNDNXZkdlpfQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794016804876
+    },
     {
       "id": "news_crypto coin viral_TrumplaunchesmemecoinTrumpdaysbeforeretu",
       "title": "Trump launches meme coin, $Trump days before return to White House - BBC",
@@ -1694,6 +1705,127 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_tech ceo controversy_AstronomersResponsetoItsCEOsViralScandal",
+      "title": "Astronomer’s Response to Its CEO’s Viral Scandal Is the Most Brilliant Thing I’ve Seen Yet - Inc.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (ye) mentionnée; mots-clés viraux: scandal, viral.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDg4eTRMOEZULWlKY0d4Z2ZBeXk5ZGxNdWs3QW1BRmpIcjJqN0ZhVzF3UjB5c0RIU0FDdVg5UWFpVnVjNDlRQzJiWVlpZFN2WFJMMTBzZVQ1dFNXaktDUkllbkYxMnVMUlh4SHVCbUhpVGVnMGJLVnhXS2gwUElsT1NpM2tfVFlZVlpFaWFCOEpaS1pERjMxOG5iVEViVDBMeFlfTTg3c0NQem5pVHF1ZkRraGlURFZoWGJEZ1FJQUlCNFBJTHc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794016822776
+    },
+    {
+      "id": "news_SPORTS_NCAAsecuresawininstruggleforfiveyearelig",
+      "title": "NCAA secures a win in struggle for five-year eligibility rule - ESPN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWUzOEhRRmM3YTkxUHhqa2xwdjZzWG52dlJMMGFpQlA2ZzdudGFwbFgwV0g2Rl9sYzNycUlVYU1kUS1zN28yOEszUkFqcHlvMHVHZkw2WXg5aDBZSThpMWZfbWtZRHAzaE9LVFROM194WnpSeDVoOGNCSTBXZ0pTYW1xWHNnUWpWcGRUTEZUbTBOblhnQ3FwRnRVaUhJUGFVMkZ2dVNxS3V6ajBv?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794016807833
+    },
+    {
+      "id": "news_SPORTS_InjuryReportSeahawksruleout7playersvsCar",
+      "title": "Injury Report: Seahawks rule out 7 players vs Cardinals - Seattle Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSDZPdThFbDd0UEE1dE8ycHhtT3BJM0JrZWN6MHVMR2tVbF9naXlhejN1MmlMbGliNDVVc1dFZlZxVG14OGE3R3E0dlFhOTFqbUZKSFlkTWRzSWtZeDBsYXJuMnV1eVVPNE8wM0dYMERCNXFuekpRdENsSDI0bndZbUU5M1ktVUJINVV4ams3Tm85NDZSdzdsblVhbS14OV8wX3M1UFdnbFJhdXlPZlE2X25EQUNGc1BiXzI0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794016807833
+    },
+    {
+      "id": "news_ENTERTAINMENT_TaylorSwiftisthefakestcelebKnicksfanplay",
+      "title": "Taylor Swift is the ‘fakest’ celeb Knicks fan, players say; team rushes to her defense - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée; figure/entité tier-8 (taylor swift) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTG82ZVBJdHpmREtGYW1rLUtPVzhVVHJhcTNLazlnWk5tZlB4UU9MZUlTWnNQcVdyM0dMa3JYZHAtbm1EYlhBZi11aEw1VW5RVW5hU0dNblBrMkpWVVBJX196MlZBX04zMXV6bGRVZmZPcXM0MVluWHJzVWx2Y014TEtYd0VobGpRTzdMb1UxOGdNRC01UVdpYm05QkpHbmJjdUdmdkd4bk5IOWNtNlJNdXhfdE9HN2lETXZsZTdyaXJHRlNidEF6TEdhV0I?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794016807071
+    },
+    {
+      "id": "news_ENTERTAINMENT_MelaniaFollowsMAGAWipeoutWithBizarreCome",
+      "title": "Melania Follows MAGA Wipeout With Bizarre Comeback Attempt - The Daily Beast",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (melania) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZEpZVGtqVjZPNThWTjBiU3ZGWmhvVU1raXlYN1g5WmptMzdfYzZRT1U5ZG9aWVB0R1YxcGREbXdLTGVLT1JSX1hRS0VVUmtpSG1ZX19EVHY4RDlGSVZlbWdfeDVUSFJ2RHJUU01NMkVvQXZWYWltLTRHOE8tWUpSMWFWMzNtdU5TeGZnNVlqUG5tVjV4bmZ0QVhhS3pnWjJTRjhoaDljM1VDUDMxTnc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794016807071
+    },
+    {
+      "id": "news_TECHNOLOGY_CostcoEmployeeFindsCarrierLeftInShopping",
+      "title": "Costco Employee Finds Carrier Left In Shopping Cart — Then Reads The Writing On The Side - The Dodo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV1ZNc2twUWg4cklLQk8yTkdCN0lzWGdzVVh4RHF5U2QxVHF6ZEhmdG9DTlZFakt2bGFSdDdMaDVYTXhIajdKWUhSemJYd0VSdGVXa3lHdGdxOElkRFdzM0Y0WnFSMzJkRE5ZX2QtbEZ0d3UzU2hSQkczd2RtdkFtRXUzRGd6bTN0QUtZdWZ6aTd0LTNmNEtiVU56MkNPbElDMkRsTVVHVW1Kd2EtdkZvUDBqLXNXWWZjV3ZWM1Bn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794016806309
+    },
+    {
+      "id": "news_BUSINESS_ElonMuskIsKillingtheCybertruckWhatItMean",
+      "title": "Elon Musk Is Killing the Cybertruck. What It Means for Tesla Stock. - Barron's",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1BjRWpvRk9HZ21UWmN4Q3dkcmlOMEktZnpTMmRZYXg3N3pGUlhEaFNXQ1pjeE85QTlidTBlblZja3NPNnE4cTh5VGoxNEVSOTZ4UEJzVTBSNmtLN3ZPOVljVXNvRy10N1ZMZ3NUU29fWTJpb3A4WGZwX0ZEWUlhSFowZFg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794016805609
+    },
+    {
+      "id": "news_NATION_LiveUpdatesTrumpNamesStephenMillerHisChi",
+      "title": "Live Updates: Trump Names Stephen Miller His Chief of Staff, Replacing Susie Wiles - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODhhX2lsY3lxQnp4V1Ryd1g4NnhFNXBtYmpsMUM5VzE3RlNoTU9UanZ6QWN2WWtEcloyVzZ1MkZjYWFDMkp6ZTNhamx1RjJzMUFaTEZMb3puQmphbGo1dGxSY0xuZVVUN0RTSkkzTFlYTUZRQXhIOG9LRGlRZnJabUxn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794016804876
+    },
+    {
+      "id": "news_NATION_Trumpsarchisblockedfornowbutaglitzynewwe",
+      "title": "Trump’s arch is blocked for now, but a glitzy new website highlights the plans - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcE53V1VUQ2NnWFhoeEI4c2hJdnFaTTROeTB4MGNvR0ZHQWZNMWw3Z3FuMEEwRl9FOFB3YmJxVFU3X0hvMEN6dHRielp3V21qMk8wWkcyRjJsWjJ4dWNzY0tkbm1HWWRySmVkSldhemJ4RUpERzViMktYMWpDUzg0ZWVLem80NjVZekItRUxlQ3lYMUQxRzR2THdCNzg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794016804876
+    },
+    {
+      "id": "news_NATION_TopHouseOversightDemocratwarnsTrumpfamil",
+      "title": "Top House Oversight Democrat warns Trump family to 'lawyer up' - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONXRNenVLZlZmVm12M3J3UmRaQ3BrNHhQRXJYWFVaSFVTVl9pSk0tSk0xdDViZmJ5Nk8yQ1d2RWpFLUVvRkF6QVk2Q3dObThTR2RzandudlpOTTctbVkyOXVkQ0JZRFdRYzJEeTc2b2Q3RzIwTEtDWUpGMUxXVE5LRXlneGFqOG15VHRkYnh6cGFqU2s3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794016804876
+    },
+    {
+      "id": "news_WORLD_KenyaCultLeaderHanded200YearPrisonSenten",
+      "title": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDRkRnVqSmpvX29NbGg2NGJ1Sll3a296ejBSNE43Q1BpXzVPWFVhX2FOXzlyV1M4dGQ4Mm94aE5hUm1hLUhpYkpzbnd2YXJqWE5wcHFONUhPX3hwLWJHeUNMNXg2ZWx3dk91ZEVIUmswU0N3VTQ0U21kallKQlB1TDFMZzBCbWtmX2ZiWDdzRmF5eEM3T2pZdVJOZFRMb044U2N6Ml9lR2RadFFreWxjeElVMA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794016804132
     },
     {
       "id": "news_billionaire announcement_TeslaWindingDownCybertruckProductionAfte",
@@ -5368,138 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1793670715116
-    },
-    {
-      "id": "news_NATION_ReflectingPoolvsthestateoftheeconomyTrum",
-      "title": "Reflecting Pool vs the state of the economy: Trump and Dems clash in closing messages - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaDlrREZMVWhaZHpFLWxtM3lWLUdPbUg5WUNxSV9sUFVRX2dxdGlzOFhISjk1c0FqNFEyVkJoM0lNYURGYXVMaWhYVDYzV2M1SzRoSHd0b0lBaThtVm1mSkxiVHJnVjhsYkdDMjRzMXljSjNqdDR3d2xZdTAzZkR4YWV2eGpQOG9ZcFpoYTdzZ2lTVVk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670715116
-    },
-    {
-      "id": "news_NATION_JudgeDismissesTrumpLawsuitDemandingHarva",
-      "title": "Judge Dismisses Trump Lawsuit Demanding Harvard Admissions Data - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: lawsuit.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTnZNSlltWjBMNXZHdUpKRk9VS241TVNFczFpT2QzeVZNZk1CenhVenYzbW1zSHlsT1dYcWp3cFFmeTQxaEp3TF9TelpEZi1zVWVuQzE2LXdFRUdXSUhVaG43Yl9jM0RzUlNSMzE0UkE3SXlmdFJrbk51a1hVOHNNZ19hUmxLdjUwQVVTYjNR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670715116
-    },
-    {
-      "id": "news_NATION_TrumpsayshehadverygoodtalkwithNetanyahud",
-      "title": "Trump says he had ‘very good talk’ with Netanyahu, discussed Iran - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSm00T0daQ3BsSkNhUG11N3ZMak0tazJwMk9UbldXOVN6Wl9xTUpaT0FVeFR6SzVDVzJQZGNZMUt1NzlxSWs5empVZTltYW9IY0NtNnVjMDlBNDV5a2Y0YVdsbXVlTGFFZEhwRThKX2JvUEhvMXFEUlpXTUxHYVJUbzJSVExyOFY3OXMyQkc1S01iTGJud1h4TEhLQUdiVkRE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670715116
-    },
-    {
-      "id": "news_NATION_TrumpIsPlayingUpVoterFraudProsecutionsMe",
-      "title": "Trump Is Playing Up Voter Fraud Prosecutions. Meet Some of the Accused. - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUU4YVpFS3lFSW1PVGU0STg0U2FfVzdMUkxzMG05MGp2TVZCUVU5bWtCZElmNUU3R0xCcmFDci1xRnZxYnBRQkZHTGVBSE9CQmxHWU16SWZTanFVMmp3aUdwRWlVa2luT0xiNFRZSXN3bC00NW9oSDFHUjVfenpjQTFBQ0Rpb0lq?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670715116
-    },
-    {
-      "id": "news_NATION_LiveUpdatesTrumpsaysIranwantsasettlement",
-      "title": "Live Updates: Trump says \"Iran wants a settlement\" after Tehran calls on U.S. to make next move - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbWVWWDlkaXg5ZDdDZ1c5R21YM3FiSm5xbkVDYTBFTHFQdmlLdFRCOFdBbWtNVjBBLVBmTVM3aUFQZGg2c3duOFFINjNKSkxTbkgwd2NXYXhZQ0hiM2FTYjdkTUk5V2g4ZFdiQnhGZmN1VklkQlozamlESzdYYWNmSFBZdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670715116
-    },
-    {
-      "id": "news_NATION_DemocratsnowfavoredtowinSenateascandidat",
-      "title": "Democrats now favored to win Senate as candidates, Trump make final pitches - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTRYRkQzdHhDRHIzeUZMX19wb21EdE1OZS1YMjQ4SmFqd2U1Q292aHVlaEg5akNtVlFKUnE5T0M1Y2JUNXd0NTE3N2Q0eTdEWU9VTXF2eFdGNEdKM3JJSDhpNWcxSXRhTUI1UjNyNUpTZWZ1Tnotd3NESnFhVm1LN3VvYmc1RlNqc2xGVUVxaVdvRkpQR0FlSC1Hd1laZmdWbjZzS042RU5mbFAzM2l2MA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670715116
-    },
-    {
-      "id": "news_WORLD_BritishadventurerKarlBushbyreturnshomeaf",
-      "title": "British adventurer Karl Bushby returns home after 28-year walk around world - Al Jazeera",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcnBxbUVVcU5fRmswTjJHQUFneGZENEVHUmdEamNKVno1blFHX1NHa2ZOUGxudUhhb0JFanFUa3hKM0Z2ay1XWlZVWjJqVVd3R0lIVDhYME52ZW9sNXl1RHFaUnJlMGVOTTlHX05FTGJ1dHRPWUlxQnJZRnZnMGE4b2ZCSUxCS2lTUXlubkJVUHd5NjRhcGRtLTRveEU5S3JsVVl1UFlMUTRya1FZMWhwZm4zTUNvU1HSAbwBQVVfeXFMTkVrWk1MWGVRWGZnVzV5SG9lWlhZZFlmTk5tekJUTXVCN0xoVFl5TWJ2XzFETDY4T3JSWGcxejBtNWExM1VIdHVPcGlOdnNBSUhDelBKcUpGMkppV3BBbXJZWDhqWTNxN3JmM0p5b202T3FTM0RKdGMzRHY1VWJuX3YwMnFpZzBEaGVyUUdlSFZyanFUYVVoZmZhTmdtaTFsWDlaa1RMcWIzMHVJZkxhRTM3RWN1UjhCblpRVHM?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670714428
-    },
-    {
-      "id": "news_WORLD_TrumptoremoveRwandaandSouthAfricafromUSt",
-      "title": "Trump to remove Rwanda and South Africa from US trade deal - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12QWlHTTk4T010X1NOeVFiNmJLR011RDJ4ZTY2UTVMVENCemd5M2FIRWxHUmRnN2Z1M3BVTWVyQThUczQwSmxEMHhzZnpLNURSMXpvOFF4S09YTTQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670714428
-    },
-    {
-      "id": "news_WORLD_UNspeacekeepingmissionindisputedWesternS",
-      "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years - NPR",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmczUVl2SzZreVJ0UzRYanhPQlFMNGFnWi1iNU5kaGFHU0k0RWszdG45WFhCOFRFb3FOU3NPRGRReDNZX01qOVd5X1NsU1FxNXN1cGRpMk55Z1hUcGdaUGdacU5qb3hBbFdZb0FITFVtMzRwZW9LUVYwd0pwTE1tSVdLRDROWWZa?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670714428
-    },
-    {
-      "id": "news_WORLD_OleshkyhumanitarianoperationcreditedtoMe",
-      "title": "Oleshky humanitarian operation credited to Melania Trump was actually negotiated by Russian and Ukrainian intelligence agencies, Le Monde reports - Meduza",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée; figure tier-10 (melania) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbGo2UVdOYlp2VWJNdnc2a0FoNXdEcHg5TXJRUWdQLXdzSHB3cng1OGM2aWNWWHBUX3R2VEcwSjhQbVpUanYyZWZob1lvczZJWmstZ3dRM2dkcG12QzV1NWJUSmRUelJxcmQ2SU5CR0o0NnpBTEVEWEZVSnJUNWZhV0l1N04tWWRreFl4ZURpNHpFQkdhN18xU1JzbURfUVNhNUZVS2dpekdRem5lRjhJS2FCQUt5YS1VMmxHN1RzeXY5TWhTSU1IM1Azbk1ZWlFybnpaTlRxYktTdFBDdjlFY0Q2WlFfM1hBZWJja2Q5eFhzc0s3SDNORlFpTjhFNFpDWkFMTUtfOUNXZlFHYkHSAZMCQVVfeXFMTlV2cV93d05pNUtIaUV5UTAwTnFQcGo5ZGc1ZVZXQW1VY0dYWE9Oa2t2SkEzYl8wNUdmaWJNUTA2UzkzZmYtVWd0VWpmamE0SEc1LUh1TXJCYjhPWjJKV0ZyMncyUGZTRzBfU3ZUUE5yU2ZFM2xJcTh5UG9TdnBDa1B1R0RxcTlrcE9ScnJKeDNyQV9yQWZKeThkWThxcmxNNlphTU5YRTNyVUpaMngxZkMtOTN4b1ZpRlNiczFvYnNXdWhLc1BZTll4VHZ6RXdtRDF1UnRYTGJjeVJScUZnbllzZTR5ZGh5R2dyRzhSNzdsWHN0WmR6SUtXMFdQOHdJLUFnRnRFMmVfbER0LUl4RmpSUVE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670714428
-    },
-    {
-      "id": "news_HEALTH_StarttheNewYearHealthierandHappierWithTh",
-      "title": "Start the New Year Healthier and Happier With This 75-Day Walking Streak Challenge - TODAY.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTUxzY00wSGVLdVBDZ2pRQmZld1JoR3VOakc4eFVBcjBkZFB2QTZMVmwyTHF2d1g1ZS1MR0Q3MGR6TlhfZjcwTlRoU2lZdVRubmt5U1ZDeGF5Z0pfYkxyVDZDcFJhZm1QX3VpamFpSU9kMndWdXk1QmFFMDBESjdSc0xGYl9WbWVubXVfUmVXMmk0UGk3UXNWS3JqWUk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793648934401
-    },
-    {
-      "id": "news_SCIENCE_JamesWebbtelescopecatchesaninvisiblehand",
-      "title": "James Webb telescope catches an invisible hand reaching for the Cat's Head Nebula 7,500 light-years from Earth - Live Science",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTTNlRDhfSE1QOXloZHMyMjJPdFFqbHptN3dkRDdVamJqVlRhb0Jwc2dJTHhjSWlseXdxcFQ4QUN2N3JRLTQ0QnNBYXhmNHE0YzJkWkNJY2h2SjNubXVyRTlmTUdDbXVUVFViNzF2NHZrbFc4cThCd2pkeG91WGRVUGRNb3BuY2dudG9oclp6VS13bVFMOVV6YzluQ1BPSktLcF9ndlBaQW54SzdJR1NNR2NTV18wTi1Tb2ZSY01TMWNyWTBxM1pMWjVEYU82NmFhdlNxNmZrelQ4OUpCWVQtaA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793648932948
     }
   ]
 }

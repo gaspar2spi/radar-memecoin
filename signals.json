@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-07T02:00:32.945259+00:00",
+  "updated_at": "2026-11-07T08:38:52.865270+00:00",
   "signals": [
+    {
+      "id": "news_TECHNOLOGY_GermanGTA6PlayersCanLegallyTakeTimeOffto",
+      "title": "German GTA 6 Players Can Legally Take Time Off to Play the Game on Launch, But Spots Are Limited - IGN",
+      "cat": "macro",
+      "heat": 10,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) + lancement explicite.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbW5JaUdhSDBPWDM4TGl4VjNvWDVpaWdFT0ExMjZldE9ZcWp5RkpJMkYtR3U2b3c5dGdXZDJVSVJBa1Z0UXMyb2E2aW5sajV3NXhWUzZzTTZVQm9WTVpZR0ZkZGpXY1BLRzFvS0NRT05wZjZOSGlKbi1jc1M3SFVzckg0bE1kOERqN1lJZHg4RWZaZzBIUE9BWUx0ZmhGNHloQlYwV1VNWTdoUWVRNi16S3FTYkRmYldyejVuNzRKNTdhNmhLYlAtZVVB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794040698430
+    },
     {
       "id": "news_NATION_ElSayedlaunchesHabibiPACTheHill",
       "title": "El-Sayed launches Habibi PAC - The Hill",
@@ -1705,6 +1716,138 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_gaming leak_SonicCrossWorldsLeakNames7Year2Racers202",
+      "title": "Sonic CrossWorlds Leak Names 7 Year 2 Racers [2026] - shattered.io",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (gaming leak). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNemF6dE4yckExQVlTak1HNjNtbGd2YTkzdUJwcjFjelZ1NC1jamtHRnpDM0RkTl9HbTNodGxYSUg1dWV0N1ZUb0ZuVGlUeGI0ZTVycWFpcTA2TzhueHB3M1B4NWtIdjVFeGxqX1BPRFU3ejc1cFg5dzg2OUNESnlIcEtCS1h2SndlYndOaExoMDA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794040719707
+    },
+    {
+      "id": "news_HEALTH_CDCreportsmorethan5000measlescaseshighes",
+      "title": "CDC reports more than 5,000 measles cases, highest number in 35 years - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGdTMVVFUlVIN1hESU1ieUlPUUR0ajlnUHN1RnhDT2NZRWJYQ1JmVkxyc1NYWEZPSndQeV84QUlYZ2U2X2puLVhtbENfbzZocjQtZ0JubGdueHI5X2lRcVJ3cF9zZzQwcEpHM0RmUVZBclNfNVpNQXdTUUxYclh5cGluZUNzTkpGZndjRm0wb0haMm1fTGQ3WEMwRHU2MFR2aGNZTWRQTGs4czhU0gGyAUFVX3lxTE0yVnJOd3ZFNjlVX1oybGp6c2x1by1aa2ZkT2MtMHFhMjFtclBsWUFSaktjT2tJVk1hbnpSb0FlNzRDbnRFakJjYWxsLTdnWjJSNllpQW40TXNMRzkzbHk0amhsTi0zUTNrdEZrcjE5aGpBekd4aGZqY3dIZ2Z6bm84TUo4ZmJMV01ONzdqeUZWYVI3SWtoVUNUWXJaWWxXaW41Q0prS3ZUSGpaUWFjbzJPSnc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794040704121
+    },
+    {
+      "id": "news_SCIENCE_Youcanseeanothergalaxywiththenakedeyeher",
+      "title": "You can see another galaxy with the naked eye — here's how to find it - Space",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWtpejFkMW1LTno1RFFYTnlqN2ZnRUZxaFRZLWJTcnUtWmN3ZV8zQnRjYU01TFlPTVJkSlZuSllYM3NTYTQtTlU1bnBUTGh0dmVDU1cwcDVXazNxX0dybEpRanM2UmJVTnJHSzZscWItbGhzTW5KTndqbTdwWTVvcXROd08zbVV4NWxjMEh3YmtGSkpKVWhDX3llMlE1dnFL?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794040701471
+    },
+    {
+      "id": "news_SPORTS_TheJaguarslooklikeoneoftheNFLseliteteams",
+      "title": "The Jaguars look like one of the NFL’s elite teams, and the best is yet to come - SB Nation",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzd5aVlNYmVxREg5SXhKekNsUnZqMGRtY3F6OWtzRlpYd3ZRT0I5NU5kY2pWQVdHVk9WcWRhTjd5QWtkblNkYVItdE9qUHFKSUNycTkxSm14akxybENwMndMaUxFYmFqa1lCdURUaHQ5RWREeTRqRWpPMVFLS3NzYnpkMFFKM3pJeVZJX2dYcnhsazNWNjZuVUU3bmg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794040700538
+    },
+    {
+      "id": "news_SPORTS_TaylorSwiftisthefakestcelebKnicksfanplay",
+      "title": "Taylor Swift is the ‘fakest’ celeb Knicks fan, players say; team rushes to her defense - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée; figure/entité tier-8 (taylor swift) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTG82ZVBJdHpmREtGYW1rLUtPVzhVVHJhcTNLazlnWk5tZlB4UU9MZUlTWnNQcVdyM0dMa3JYZHAtbm1EYlhBZi11aEw1VW5RVW5hU0dNblBrMkpWVVBJX196MlZBX04zMXV6bGRVZmZPcXM0MVluWHJzVWx2Y014TEtYd0VobGpRTzdMb1UxOGdNRC01UVdpYm05QkpHbmJjdUdmdkd4bk5IOWNtNlJNdXhfdE9HN2lETXZsZTdyaXJHRlNidEF6TEdhV0I?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794040700538
+    },
+    {
+      "id": "news_ENTERTAINMENT_GoldenBachelorettecoupleJoanVassosChockC",
+      "title": "'Golden Bachelorette' couple Joan Vassos, Chock Chapple split after two years - USA Today",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeTFzV3NQQlZjQTlCa1RSemtMNHZOTVdldDdBamVuVlRYV0JUN0R6cVpVU1l4OUQ5S0hXelJlSUZDS09sMUg1UjZreDM3QWRRUmFrYk5xcmpTU2ZyVWxoZDB0M2l6UWRkSVBXWU9MWFE0X3paZzBWWm9qbTd0bUlkdHpQZ3hPS2lmOGU1a0MzSnRDazhjaVdTdktIUU9ENHhoaElEQW5PcDlCQWNLVG1jQXdYaVQ1VC1vVnd2T05mNFgxaXBEZDJQbERQQnQ5cUh1YUZVd0dTM3U?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794040699587
+    },
+    {
+      "id": "news_ENTERTAINMENT_MelaniasAmazonGravyTrainFacesaBrutalNewR",
+      "title": "Melania’s Amazon Gravy Train Faces a Brutal New Reality - The Daily Beast",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (melania) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObmdKbHRtT3BGb3NTS1p5aEl1enk3MzdmazEwbEJjdEllNldBT3BPVlZiRlhJZEVMU1J5OW1vWlZ0cFZHd19oYmlzUkNlOTk1VjRaLWtXd2ZRTTFLUTY0eVJDOEUzRGFaWDhqN1RwTTVhVG5VTnAyMEkzaGJlaGVBaGRKeURTdjJDZlNUN0kxMVlvXzZk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794040699587
+    },
+    {
+      "id": "news_TECHNOLOGY_JoaquinPhoenixStarsinAIEyewearCampaignDi",
+      "title": "Joaquin Phoenix Stars in AI Eyewear Campaign Directed by Jonathan Glazer - Variety",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUnhOTUFyTDVmcFhzT2t5cXQ1MlhOQWJVWW96ZmtiUWEzakN2WGpRbDE1c1FEWC1oQnljQjd5Q2FkWjM0dV9zWWVDQ2lJOUJsdjdxX2ZwbmVFR1VkVXExYTZTTVg2SndEQzBLVUs1SFJZakJ6X0xFdVFqYmFYTTBKdjgyd1NHT0IteWJKcTNmcGdqTzFjNXBCYkFPcHpHME1FSTk3OA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794040698430
+    },
+    {
+      "id": "news_NATION_VenezuelanmanwhosaidvoicestoldhimtokillT",
+      "title": "Venezuelan man who said voices told him to kill Trump is arrested near White House, DHS says - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: arrested.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOUxRVjE4Z2pkX0ItQ2t5YXYxLVZNZElfUnBGamRULXhBazlzMDMtU1p2cHl1OFQ4RWFNS1VYb2tLcG1Od0pNYnZHNFdBOTJNTHFfeHNYbHVuQXdnM0h0cmlmS0FSRkVoaXdYelBIelNMWl9NZXJ3aC0zS0U0bHJiTjFRYTJzWVo2U2NRS3Q2TjRYSWxVSFFPd3o3Z3FIQ3JNdGZwMDAzQ1k1QUctbWIzRzh1MExYUmJrWkE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794040696243
+    },
+    {
+      "id": "news_NATION_TrumpconfirmsnewUSstrikesonIransQeshmisl",
+      "title": "Trump confirms new US strikes on Iran’s Qeshm island - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmpOc3NISlNqd2RIa3JOMjU1TUxPQ1loWXFoN2ZycXNmZ1QyU3hBVG9TWVhHcDNuWlZ2MGE1eVdLRGw5b2tCOTdseGZ6RHQ0RDB6UzZQVWpMSENnTmRSZFhWaGpBRWgyZXJEalpsc0xIbnpHQi1mQmJya1BXTlE4MTdnd056SkZlc1BXTnE2YktwRmhrR1kw0gGcAUFVX3lxTFBQamY0WVlzbUcwRjcyeXRQVFhPZWc0cTZmZWw5WEZxQmhwRkk0TnZlNDhwMFBLb2RZVWNKcGRjTENOV2NKeDlDbHkzUWs0SnBFS3ZkRkpwOXl5VWUza3RELUtQZm1HbTkzMlZCUjJMdHRoN1dHb1FTTTZxZlF1TzFKSXlnU1VWbnBSSjFJUzBqWWVPOUFHYmJua2pabA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794040696243
+    },
+    {
+      "id": "news_NATION_TrumpstilldefiantafterabruisingweekAxios",
+      "title": "Trump still defiant after a bruising week - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Gc0FQMy1yWGtlQ1pwY013Z3M3TUZQTm9CalZvcU9uX01MbTdMcnM4bFBCTkNmV0ZtYzZnc0xrNHZZWGh4SzE5M1pXNml0ZHdTanlEd1BibHVWcW5yQjJYeU5uOFNROEdkUlRJUTM4ODVWaUU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794040696243
+    },
+    {
+      "id": "news_WORLD_Kenyancourtsentencesstarvationcultleader",
+      "title": "Kenyan court sentences starvation cult leader to 200 years - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0hDeXNSTHY4bm1IdVpRWS1XLS1nb1lVQ3NqWUZjZ2Y1NTU2aTRVYnhqVGNNSEE2VzdTU08yOUQ4bUpySEJud1c4eHhZRUdRczlSWW5FZEQybzUtYzBEZjNKcEZ4bHhUbzFYUmZpNDRGSzFFX1hNN2lsUVJIbHlacTZ0eXVKN3EtQlJnb2laaEtnMHd6NXdDanBZTkdxRjVx0gGmAUFVX3lxTE1PdGQwUWoyenBRLWVhdnc5THlTbkhaX3VBdDB5Rk90WS1kTHBTcFBlX3VGS3FpencyNGNtRklWYkJGamlqdTExWVZCMUhqeG1uSVBFajZOSXpDa3FmRHItc19HaUlUUUJ5SVowR1hVdF9xVXhNT0RXTnpYZ1BmcVhLRHZrS1NwTkQ3OUFFbjFHNTRfemE0V2tZMnJyeUFLREJTXzJYUUE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794040695290
     },
     {
       "id": "news_tech ceo controversy_AstronomersResponsetoItsCEOsViralScandal",
@@ -5357,149 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1793695289234
-    },
-    {
-      "id": "news_government shutdown_CommitteeTakesProactiveSteptoPreventPart",
-      "title": "Committee Takes Proactive Step to Prevent Partisan Shutdown, Protect Full-Year Funding Process - House Committee on Appropriations (.gov)",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (government shutdown). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFBCZ3hLaS1BWlJMRWh0TDlYOXlESjhmX1RLLXl5eEdQTWhhR1NkaUVBTF9PdmRMRUdjWEQzNW1FNHRncFVVUEkyUDk2RVV3ZVdUSEdoUEhnZWhzczl1b3Bwb2Jqb1V3Um4yZldwc1J4UDZ5MkdLbW81RGhSOUg4a3dKTkw4c0NBWjBkbk9HMEczdTR4S0dEUTRia29GS01Yd0c4MDlaQkFpWnIySFQ4QTZxc2tsLWU4YlRXR2xRUkpyUHRo?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670731024
-    },
-    {
-      "id": "news_government shutdown_UnionsTrumpadministrationreachdealNomass",
-      "title": "Unions, Trump administration reach deal: No mass firings during government shutdowns - Courthouse News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXhvQ3ZYOS1HQlNkTXdvWTd1ZnRVRncwaW9GOEFWcUplVzl3SXYyUExYbm01cHZOMzl3dDdSTHNkNXdFVVR5WEFzSGthWlRtRkpUTUhkR2RrcnZNRFJ1U2VXaHIxZnpOaWRtZlZibS1uNF9MTFhrOEM4OHNKVGJKcUs3dHFvU0lqY1NQTWdOb3E3Q0I0bTB2d0hicDBEcmpMZS12emNZdGd1T3d1WlVWYURXSQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670731024
-    },
-    {
-      "id": "news_rug pull crypto_Fayettevillemanfacesfraudchargesincrypto",
-      "title": "Fayetteville man faces fraud charges in cryptocurrency venture - The Arkansas Democrat-Gazette",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (rug pull crypto). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQejhTSktOcDM0RjRMeDlWVjVxSElWeXR5c0xWR1FHQWh0UEFGUDV4c2gwcWxrSTdDaFY2RXBZMWltZDlfV1dZYzNIMjhfQkVqRWNVb016UEFJQ19mOWdKbFhWTlZubl9KSnRKMDAwcDBuRTZ5UXZLX0FvZGlxR3VITk5VeFRubVhTc2pzZ1hFUnhYdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670725459
-    },
-    {
-      "id": "news_celebrity crypto token_MuskItmemecoinfromElonMusksfatherbringss",
-      "title": "‘Musk It’ meme coin from Elon Musk’s father brings scrutiny to celebrity crypto ventures - www.thestreet.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (celebrity crypto token). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQmxtamFWUVRwNm90Z2pIaFgwUmEySWNwTklIaUtwVDBqQURCcGtwZWZCaXVmNWFrZGZmOWlvMGZXaWJQVXNOVzRQWXpSYWg4UkRJNlpJVU9uTGpUMi0wa1VDQkt4ZzFXUXpCRks0MkVqSUVoV2txWjF6WVpDQ25iMg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670723311
-    },
-    {
-      "id": "news_HEALTH_NewYorkreportsfirstmeaslesdeathinmoretha",
-      "title": "New York reports first measles death in more than 30 years - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkZBTG12OHh5aTBCa0FKTTYxREhxZjlnSWxCRjBjcF9BYWk3OXJ6bFV4eFl4eE1jSGhOb2pHVlc0MGJTWTlnZUp3YVFFUHBrMEtPZnJ4Q0I1MFRyNC12dFc2MTdQMDBTTjdxTVRMQ1VGVEZINkxnQ2lWdVBPdy13VkhR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670719410
-    },
-    {
-      "id": "news_SCIENCE_Fossilisedredbloodcellsfoundin115myearol",
-      "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMzRodEl1MHIzQnNFclgxSTVMaWczcDloaHJBeEhXRkFGT3plQWR1ZHpnVDl4bmJrYW5oajNscVFGaUtpZ0JVUWZNcTJQU2JGMXp5eVR4cG1BWHB6c21Ob0pncFlWck9NU044T1d4bTFZbjQweE1JdHU3V2Z0OGc3d2xrQXpBX2JpREg0TlRJUlhDRXo2bEFCMTh1bnpUM0Qzclp3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670718735
-    },
-    {
-      "id": "news_SCIENCE_Collectivehumanmetabolismproduces2billio",
-      "title": "Collective human metabolism produces 2 billion metric tons of CO₂ a year, global study estimates - Phys.org",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4UEtXNUdpMzFyS2hwQWs5SWFjUF94cUZRNTNPOUN1alZtX01POHozRFFYU1pIRGQ3ODRoUDZIZE14akxUY2xSMHQ1blZHOGhLS0ktTWlXZnF2SkY4a0RSbkh6akVSU0g0eUFaRWhqaUF0SWRub2RlNTFSdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670718735
-    },
-    {
-      "id": "news_SPORTS_HometownRemixjerseysreceiveravereviewsfr",
-      "title": "Hometown Remix jerseys receive rave reviews from NHL players - NHL.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd2NxSGJWX2VVRU5QZUZCaTFsREtFWGFiVG5aQkJSSTE2MWNTeTlEYWZVS0V5SGJTXzEtN1RhNm1KdkRXLXVYNVpwem5SaWpMaUZja1R6dzFuajBUeUlRb3c4RWtaWG10T2RUNFJaWFF6MkJZWjN2MmRNVHpFUGx3VWlscjN3TUl5OVV2TVNn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670718061
-    },
-    {
-      "id": "news_SPORTS_BearsvsSeahawksoddspicksplayerpropsExper",
-      "title": "Bears vs. Seahawks odds, picks, player props: Expert's NFL Week 8 best bets for Monday Night Football - CBS Sports",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGpOcUlNSTI2dXpWTmoxakR3WnJ1Um1SUE0tOWtzY3o4M1prOThtMUM2Z09na2Y3RzZjekhYV0pvR2J2bWFLOC1JZXNtV2RnQzJJVnNtX3d5SGZVcklhbEVfVkprR0phSVlyUEtZN1pDdU90SlBqb1J5U2pqdGNxbTdGdmdIc3AzSVlISWNYQndUUDBjcEUxYmk2dFdvS0dRRkVrMkItYkF2YVIteHJ3WndRRThXRFFMNGMtMjlLZjZGWEtqNHpnQXUzVDQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670718061
-    },
-    {
-      "id": "news_ENTERTAINMENT_RussellBrandIsNotSomeKindofPsychopathDef",
-      "title": "Russell Brand Is Not 'Some Kind of Psychopath' Defense Lawyer Says - Variety",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHRCVHVrLTB5Ti00bXhla3g4WDJfSDlsdjRoY21RMXY0Tk5rYUxUc3RTRnZvTjg3OTFwMTAwUFE1OGRpejRZdFQ4aUxOWm9IdkR6R3JGOHJ3TkNqSnpjNGQwQXp3ckNwMFRfZkh3bzhaYXAydzcyUlE2MmdQeXh5LUdkam91TldfQ0loNXVtNlJ6dFZkOTlr?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670717237
-    },
-    {
-      "id": "news_BUSINESS_TheSP500TurnsRedItsonTrackforWorstIntrad",
-      "title": "The S&P 500 Turns Red. It's on Track for Worst Intraday Reversal in Nearly a Year. - Barron's",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPYlg1M25oMVhEMnhuMlpxekhZU0tZNVdRMEFZNzZGeHNvTXVraWlkOEVsbzFuWnBnLU5yenhXOXNaMElUYXBpd1BUaE44aWhHSS1iMzJrVDZuV0ZqdWkwdWRiekNGMnExOThRaFBPTFBvMmNwSnk5cDZjN3poaXduM1l0WmxHVjBPeEdGWkdIZmFpREZkdkRYUVFJVVBRSTdZdU4tbHZVVE1ySlZORTBYVGMxc3VPelNJNHJ4ZEUwVjJCOERSdklrbExjcVkzTHNSV21JRVJBWmZBbjRNekxSUUdjY0xVZGJNWmVoQkIzQXJVWVJ6XzdRLXFxQzRNSGxBamdmXzduYjNxNTNXaGg3dXloS2Q5TUVN?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670715791
-    },
-    {
-      "id": "news_NATION_VictimsofFloridaplanecrashincludea20year",
-      "title": "Victims of Florida plane crash include a 20-year-old copilot and tech entrepreneur and his family - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbThMQW1IZnBRT0dBUlZ6dmRaZTFMY1hkWE5nUlZhdzNZd2hvQmFhSTRpd1VIaThyTGVPUnVpbGplbDhjM1U5SE1peUt5SEQ0eEFnU0ViV1djMVF5V1J3SjJKcnBjRndRQ3pmdTV4dkpLZFVsRFhmTWpiNEh6SFh3WndlUm9qOTEtZzFSa0x5U3Y?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670715116
-    },
-    {
-      "id": "news_NATION_SupremeCourtrejectsTrumpadministrationsb",
-      "title": "Supreme Court rejects Trump administration’s bid to set aside 20,000 California ballots - Los Angeles Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS2RqdnF0UHFJRk9GQ0tGVjBVUU5tSEgxVG1qbGlRWDNYRjZudWJZQjBtZGc5QjlNZC1SNHdseHhVdGlrc2gyd09XWDlza01CeG1hRXNHclpoQ1NyOFlWbW1GNG9RYnA3YWtnWjJNWXlEWGZiMDRYNG1jaXczeXRFOFU3cVZuaVZKbFpOWVAzR00xYkc3cklQeHViNUk1cXhBaVE1MF9FWTFHMDI2Uy1zSGR0bEphYXUweWltdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793670715116
     }
   ]
 }

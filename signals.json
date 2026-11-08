@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T01:55:36.090171+00:00",
+  "updated_at": "2026-11-08T08:28:02.506532+00:00",
   "signals": [
     {
       "id": "news_TECHNOLOGY_GTA6PlayersinGermanyCanLegallyTakeTimeOf",
@@ -1738,6 +1738,127 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_tech ceo controversy_TrumpgoesscorchedearthonAIwarningsraging",
+      "title": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM01tVUxzRUtNUHM5YmNCSmlMcVZ0VmJrQU5nWmsySTJXZFNnWEhZajZxTmFOLW8ybTd0Z0lxVEZQSlJLVjV1djJROUFleXBmeHRLeDlpTkowNkZTbDZrSGJPVXBRZ2k1MUJZYlR4VThnSUhTNkl6eWhlTTBZS012UnV0a3kyaVlU0gGOAUFVX3lxTE54dzQxUXo4aFdlV2NKVnY1aHczRlZOTDRnaWVxTHFRUEhqUXhCS25Nd2hYYlY4bFh2WFlaTGRJbVdLTzNGajl5Y2FNSWVUSnBrbzJobTllT1M2Z1VxUTFweFZjVmNaNU9pMnRVZ3lsMkNiWmgwUHpYby1mNEI5TlNEdDliRUc0VUgxQnM4aWc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794126469020
+    },
+    {
+      "id": "news_HEALTH_HumansAreStillEvolvingRightBeforeOurEyes",
+      "title": "Humans Are Still Evolving Right Before Our Eyes. Here Are 5 Signs on Our Bodies - ScienceAlert",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ1lUc0dDYnBBUFYzV2tSX3BpV2wxNWxHMElMNkRsMjU2dmVPOTNLa0FoeFdBby05RUsxbTBlS0Z2dGRFODU5UW9UOUxmTU5jM3BvV29reTdqSUFpZ3JOTnFjT0otX1duN0JRdHc5YjZVNkVZX19ZOXFpLXNmN2had2F3el9CelZIQi10SDlNWEgyYUZla2xWWjBraEVXbnpodWg1QlJBdERnU2M?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794126455075
+    },
+    {
+      "id": "news_SCIENCE_EarthsRocksHaveaMissingLayerSpanningUpto",
+      "title": "Earth's Rocks Have a Missing Layer Spanning Up to a Billion Years - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEViV0ExZnlnVDRzSDRjeXUwc0JxUFNScW5xT3dObVhCV20zU1dUY2VpQ3ZxLW1ncVlaQ25KNU5sVGVnU1BEX01DVjktb0R5RW83SkhWVXF4Q3FmM3FCcXZhVEVIU0tsaWxnZHIxampjSXk2TTZvTWUzeG5IemFfeFdQbjJpZTBWd2hJb1RKUVB0WmFiNW9fTjJR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794126454301
+    },
+    {
+      "id": "news_BUSINESS_Afterthemidtermsthingsarelookingrockyfor",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers - TechCrunch",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYU1oZzdSaEhoRDBjNHpPaU90MTBiUjlaS29VWFVTX3c1ckFHa0laNTBYN2RHdmFwajFWaWU2c2hjMzRXQUdEUDU4a0s3QUhHWkZsOWNUOHNpcXNpa1JzTTFIQm11dmVXWUhtTmNPUzdrUkY1X3hZdWhvZlBrMW9sbzBWU09EdHFfcHV3WE0wSFJaNVF3Ri0zZEpuUmFtd1Z3S2xuV1BnRnJUallDREE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794126451216
+    },
+    {
+      "id": "news_NATION_TrumpsaysheofferedWhiteHousepresssecreta",
+      "title": "Trump says he offered White House press secretary role to UFC’s Dana White - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDk3dmNRMjFNZWFHWWtoOWFCeDVLXzB1WnlKVEljUk01NXhRX20zcllRMjJETzMzZElwYVE5ZXN5QVpfTWJELXlkMFk3SktkX1NmNjFqYkgxbFhNM2xzVVQtODAyaUstRGlGamNqbmtJOG42bU5WVFpVTC1Kd3FQV3VrVGRmQWlKVWR6UnJ4Y2ZCTDJTYzVpRDJLbElpVEVuQzlPUm9ndkp6RGxZNWlaTjlweTcyVm5odHc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794126450445
+    },
+    {
+      "id": "news_NATION_DOEemployeechargedwithmurderinstabbingof",
+      "title": "DOE employee charged with murder in stabbing of Brooklyn jogger Katie Suarez - ABC7 New York",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWXEwNlY2VkxFSWdNRnZsNTZGQzNxZVdyWGNfdGxnWE1RR2NuM0k5ZzFSeDFERHJRV1FKVHI0d2p5SkRyaWJ4X3BsbWpoU05pNzJlMnAxZ05JZnBaWnJnVFItYkI5cFRyYmdLX0JlY3MwX19OdHk1aU1TZEZYZ2YxUTMyVdIBiAFBVV95cUxQY3ByUnVNU2l0SEphS2pvTHJRRlBFaEVyMmRoU1RDOUg3ZWR1X09EVmRBSTB0aHFEX2tVZ2I3R0I4RnZxVFgxZGVkWUJRVG9wcWdOS1J0blJacnVib1BIZkRQbjFzN2R1Z01DcTJ0WC1SV0M5Rm9hQzdzWW9QUE9ES01NSGNDTFpO?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794126450445
+    },
+    {
+      "id": "news_NATION_TrumpdeclaresAlaskaSenateraceoverinfavor",
+      "title": "Trump declares Alaska Senate race ‘over’ in favor of GOP candidate following ‘Decoy Dan’ scandal - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: scandal.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVdtOTlRVEVDMzFCQUhHREt4UkF1UHF3VElMUExxa0Z3NDJVZE9NYlNVbmp1cXdLeGRzZGhJdEhXTXZzdjRacElfRU9Kc1E3OVpBVUJyUVB5R0VPYWYydlBUbnRKSG9xMFQxbDdTYjBhYy1QdmNDWFBrNEtWTmh5MGlWQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794126450445
+    },
+    {
+      "id": "news_NATION_Judgetapsexprosecutortoprobelawyerconduc",
+      "title": "Judge taps ex-prosecutor to probe lawyer conduct in Trump golf course fight - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXZ3RUQtVVByaU1ZMmVSb3UzZzJVbC1hZ0tvMDlmbnlKRE9QVWdHYkItb1llakhaUk5uV0ExTF9kUDVmZmRiS1BlaTdCZUJuTEdZa0VjaGRBVzZiN2Q0ck1UUm1ILVU3V1E3WmsyN1M1NDJ4b1EyT0FKX3MyT0dqZWU2QUJSOTNvaFIzTHJvVnRad1VtTEJ4Y2V0SnhmNUl1S1d3UGRPWEl1QjFXRzB2NmYtcWZha1NDUzhGbXNB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794126450445
+    },
+    {
+      "id": "news_NATION_TrumpthreatensDemocratsovertheirplanstoi",
+      "title": "Trump threatens Democrats over their plans to investigate his team - The Seattle Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcE9wSUJoYUp0emUxX2hDS2VJdUREb3F3elk0dmRxMkFjakExbmptTUVxZTBiOWxmc3Z6SFpZUW9FTnhOQjh0NmtiR2R3YkFudGNiSGpTSVRZcHNmdjU3NUlxTzFGZGt2a0E5QjJxX2RpS1M4c1VUaEdYLVlaUFY2ZFlCX1M0S3R0dnRyc2t3cTlFamQ4YS1ITktGVGdjQVQ5VXhsMVY5RHVWeERHWUhaWXRIVzNYdWQwOUE3ZEtiZzlVd3M?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794126450445
+    },
+    {
+      "id": "news_WORLD_Kenyandoomsdaysectleaderjailedfor200year",
+      "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRjFCU2tjUm10ZGhKVldPcDU0ZDh5Y2NQTnlzSXVOZEMwZi12TVVJdXhvNXQzSnRKTzM5QVliZVNPTWppWmNUTTlPWmNLSUM2OGdSR1dKV2J1YVR6ZldsMnpZSC1heTJLQXoySnVjdGlYWGdKU2ZPbDBEZDBJM1h1UTZrcy1oaEdDazA4RmlQTkcwSlphc2hva1NPR040WXM4VDBRbHd3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794126449672
+    },
+    {
+      "id": "news_WORLD_TrumpdiscussesMiddleEastdeescalationwith",
+      "title": "Trump discusses Middle East de-escalation with Qatar’s emir, and other Mideast news - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGNVdHVJTUFIS05acTREVHdzOENZdk1JVzNPZGlVY1VUb3dPSEF3dDVQelBRaHBXdFZzaU1sNWxXVmNYWXpmUUEwd2FoTmU1RGZsSU1fSTM3RzZSSFVQeWltUjNBdDNvMkVOSXprOU0tWjNWWUtUeVdpRUN4SWMyZXRGb0hqQlNKMVNSSEQ5SXRYdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794126449672
     },
     {
       "id": "news_HEALTH_OwnerspeaksonEcolioutbreakthatshutdownpo",
@@ -5379,127 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1793757400382
-    },
-    {
-      "id": "news_NATION_DemocraticattorneyandTrumpfoeMarcEliasis",
-      "title": "Democratic attorney and Trump foe Marc Elias is a target of DOJ's Alaska ballot investigation, sources say - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTERSNHk1T0xESW1Cak1NOHNYR2Zyd0xVRUp3WW9UdU9hRDJtZWpPelAyWlNHRm5BYzhRZHJtXzk4SC15Z1pqa09ENmVCak9VbkRaTFBBQk94TUhmOG9FSk9xZjNJV2xsVGxmQU9sNnlUa3N2MVpFMlZpc05YcEd2VmVVaVc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793757400382
-    },
-    {
-      "id": "news_WORLD_Spanishtransportministerresignsaftertwod",
-      "title": "Spanish transport minister resigns after two deadly train crashes in one year - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée; mots-clés viraux: resigns.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOVhPQ2ltU3N0bVhHeng4cVF6dnlGa0Q3cFFyeURMVU1kbzhnVFpHRV9nelZ3NlJyUnNUdG1ZZEFJRGV3SHQ2T0R1T0c2MThTUW5GRDgtQWh3TllSUzVBcGhyVHpJN2VpMVd4UUpZc2FVV19NODEzeHF1MmtDMXlGbEo3N1dsUWJMRXl3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793757399497
-    },
-    {
-      "id": "news_WORLD_Russiahitssubstationcriticalfornuclearpo",
-      "title": "Russia hits substation critical for nuclear power plant in biggest mass attack on Ukraine's energy this year - The Kyiv Independent",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWkhiNWhzd2JseVIzZXpaWWoyZ1U4eDNyc3JjS2h2THdfdGEya3A0R0xkc3E1Nnh0OUpGTzNXdi1GOTNaTXpCd09Ya1Bia0lKcmJLZVYyNjRleEFiTFRIWTg4NTllZ292OEo3cUlySG1uX2w5WVBTb3BNUHpCOHJVcUtRam5PMHdMMkt2ak1ibl84Q3kzcmd3OWk3NXQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793757399497
-    },
-    {
-      "id": "news_government shutdown_TrumpandaDemocraticCongresscanachievemor",
-      "title": "Trump and a Democratic Congress can achieve more than you think | Opinion - USA Today",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (government shutdown). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ2RwRHg0YmNQUG1ubGNuVkxOb0V1VDNIbkJjT3ItWUF2RzlMZkI2dEZVZmY0ZWwybDZ5NHc3UWl3S3N5di1KTDlkRUxEMVptS3JabHVOb0ZFOGFEX2U1a2tTdXM3OVR1ZTFkT1dfWGVqTDJTQms0MVU5M2tyWVphS180SldGTXlCRnQwWm1idUJ3UXVXR1AzTjBfMEVJaHJfS0J6VEVrV1B3eUZUNDJKOGpkaWpvUnJaOXhIMjFHSGttZzQ5cmU4ZGFB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743066803
-    },
-    {
-      "id": "news_viral scandal internet_DruskiTurnsViralComedySkitsIntoMultiYear",
-      "title": "Druski Turns Viral Comedy Skits Into Multi-Year Netflix Deal - Urban Hollywood 411",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (viral scandal internet). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55cVlRLUtSTldPR21vRDdHb1BXOV9tMC0wSjdKUkZRMTBYQ093ZWtBZDUtQUlkZXRoTHlyZGxvQUtVS2ZZUFNhR3RyOXhuMGdCT3pySldMV3ZwTnlIaFh4ZElFV1U2MWZ5M2hrWDlRLWFJNTNJU0E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743062340
-    },
-    {
-      "id": "news_own cryptocurrency launch_UndertheTrumpcryptoplaybookthefamilyalwa",
-      "title": "Under the Trump crypto playbook, the family always wins. Investors don’t - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUpmc096bllHcUstWFZXT0hnMnEzRTVvSFY4QURZcWwzcWpQV1dQWktHWC15SHNrSjBSOUZBYy1sUFZ2UmxwaHdEd2gybm90YWs2R19LdlFCRTB0Vzdua0UxSXJ5WjFGY0lydW0xcGtMU0ZXZzUtRFRid2FyTWptQmJmTU1mcEdVUEw2RkIzeXJIUFJ5dHlMUHIzRG51TWtWdVBoM1R2RHYwQ0xvRnR4cDRB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743060289
-    },
-    {
-      "id": "news_own cryptocurrency launch_Trumpmademoneyoffhismemecoindiditsinvest",
-      "title": "Trump made money off his meme coin, did its investors? - ABC News & Headlines – Australian Broadcasting Corporation",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ3NOT0hTUzlrSkU2bFFqcVZ1TThLc0RJTkFzN2pFczVJS3ZYWjliZjdFOVJGcEdrekJYOHV4WVJDM0Vzd3ZVYS1jTnplb3IzekpvLTVXQjVLSWJsWUk5elVuVjF2NXNIcVU2bWtnWngyVWI2V295MDc5VDN3M19uWVFUZ1V6cU4zSkFDNnNQQzhtMWlKUUF6RUVaTnVSdW1nSmNhSm1n?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743060289
-    },
-    {
-      "id": "news_celebrity crypto token_WhycelebritiesarelovingcryptoagaininTrum",
-      "title": "Why celebrities are loving crypto again in Trump’s second term - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (celebrity crypto token). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanpVNWxoSTU2N3Qzdjk3Vy1TZDFMRURCckpBZEFINkpaZk1aRWhXTFhtakk4LUhYUEs0UHVCU1ZhdUljam1TMDVOVUo0WWhoV2tVN1RadnZCNDNZQkZsU2FYQXR3QWhTaXY5ZHB6SjItM2p4aGNpY3RRY25QdzBrTFRMbXI?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743059123
-    },
-    {
-      "id": "news_leaked footage internet_UPDATEGTA6LeaksContinueIntoFourthDayWith",
-      "title": "[UPDATE] GTA 6 Leaks Continue Into Fourth Day With Yet Another Gameplay Video Amid Radio Silence From Rockstar - IGN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (leaked footage internet). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ2pPdVNfZlNRX3gxdmx6X0NGNzM2a3N6WGFfYzE3dVNIMjlsMTBOSEZsTXJKbElGQkc3U0pHc0xHblBTVDlUT1VxV2hYYnQzQ2FMMy1UTmxWQUpqMl9zSXBNTDQ5TmhIM1NGYWtvU0RkanE5aE00S09QZFc2bkQ2Q3lZeGxUV2YzU1BlTzFEX3JrMlVOTTRzY1VhcElrOC1sNUhCRjZWVDVJazRqQlVDeVBlZEh6RThSSkNMbEpCOWdOMHFvczFEelo4dzNFSVJsNDh2a2pFdUN0N0xjYXc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743058040
-    },
-    {
-      "id": "news_crypto coin viral_WhatIsGORPCryptoWhyThisViralMemeCoinCoul",
-      "title": "What Is GORP Crypto? Why This Viral Meme Coin Could Become a Serious Market Player - Bitcoin Foundation",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (crypto coin viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdGd3N2U3cmFnNjNtU1BhZWdESmNVaC1BcnNpUDRmYkhjc1UtVUFsYmVrN3lBOFJRWTY3Y25UcVI3cVZzU3pvTzk5LUpTV0dXM1h6WE9tZENFcW51TXFCZThwa3ZXNHVUSnlfVHB2Rm5ITi1lZ1Y2U1VycFp4aTdsb2FKekpZRXktSmtJVDNhQXdUc1lxclZpWVhVdVcyUmJXMDVNRzFQTlJ5ZEx1VjZRWjZ6YTk2T0o3ZnhaR2t3T0pLWGM1?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743057123
-    },
-    {
-      "id": "news_SCIENCE_Scientistssaytheyvefoundthestrongestevid",
-      "title": "Scientists say they’ve found the strongest evidence yet of red blood cells in a dinosaur bone - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWUVJhLU1lSjBjaTJPX2xhS3dPOHNMOEtTaURuN2sxaTVOeVlTckE5V21vUl9kak9YbnVtUzFCUS1Oc3U0RmRzN0YyQjFWRlpTN0dfcjlJOVRXTW9fb3BkU1lOUll2enF3U3Ixclk0NDhtcGRveUlB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743054503
     }
   ]
 }

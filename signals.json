@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T22:52:08.349846+00:00",
+  "updated_at": "2026-11-08T01:55:36.090171+00:00",
   "signals": [
     {
       "id": "news_TECHNOLOGY_GTA6PlayersinGermanyCanLegallyTakeTimeOf",
@@ -1738,6 +1738,149 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_HEALTH_OwnerspeaksonEcolioutbreakthatshutdownpo",
+      "title": "Owner speaks on E. coli outbreak that shut down popular California farm: ‘I’m destroyed’ - Sacramento Bee",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmWTRPT2lRS1ozTHZ6RFJCWmc0ZUNJSXFLdThtUHVKb1BWVkx4TFQwQ25TejV2RHJaLXRtR2QwckhzU1lJTGNXZ3laQ25uc3FGMm1uS2NZTVRxT1k4ZC02b1N2dWt5dmpHNEJvOdIBbEFVX3lxTE1vVlZ6OFVDRURfbmdKZnFDQkZ5VkVzUHFZdkU1a3B5WnZDT05YdjY0emtpbDh2dXZTUzNWSWY3dW9DLXgzaGRRLWYyQmRLWjB1d2MxOW1YSEh5dW1yRmRGQmIxeEk0Zm82cEdHMQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794102911212
+    },
+    {
+      "id": "news_SCIENCE_HumansAreStillEvolvingRightBeforeOurEyes",
+      "title": "Humans Are Still Evolving Right Before Our Eyes. Here Are 5 Signs on Our Bodies - ScienceAlert",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ1lUc0dDYnBBUFYzV2tSX3BpV2wxNWxHMElMNkRsMjU2dmVPOTNLa0FoeFdBby05RUsxbTBlS0Z2dGRFODU5UW9UOUxmTU5jM3BvV29reTdqSUFpZ3JOTnFjT0otX1duN0JRdHc5YjZVNkVZX19ZOXFpLXNmN2had2F3el9CelZIQi10SDlNWEgyYUZla2xWWjBraEVXbnpodWg1QlJBdERnU2M?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794102910506
+    },
+    {
+      "id": "news_SPORTS_PlayerPersonnelHandbookimpliesthattheNFL",
+      "title": "Player Personnel Handbook implies that the NFL can delay (or deny) Brandon Aiyuk's reinstatement - NBC Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS2tFU1JsTGFaVXk5UVBrbm1WWjAxYjl3REpibVZ1R2hSdXA2QXV5czJMSVhYYnNfUGpNeGZqeGtUeEhfa2VadTdEc2NNekdJMzJrdk1sY1AyRmt3ZXRFbUNBUHJQUnZYSHBaa0NJalladUFCUWFjOFJ2YXFyTDBkSmZMTFdwdzBhUXhUUFptTlppVWxFM3VVc2NSZGp5c1V3dkpsaVpjVVJxX3h4dWlUN2dwdExjaDlnOERRZjlmaWV5Q2wwVE1KamRIRm1hX2JrUDFmRUtVMnQ2VVJTT3VMZUVPOFhOSk9ON3U4?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794102909809
+    },
+    {
+      "id": "news_ENTERTAINMENT_1408SequelNataliaDyerElijahWoodSamuelLJa",
+      "title": "'1408' Sequel: Natalia Dyer, Elijah Wood, Samuel L. Jackson Join Cast - Variety",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeF9vSUFBbzFXX0hPNGtaSjdMa0FETXVVMTBiWDFjU2lmTExiaVFqRTVjSFJFSWViSldVVzBKZGxhaWEtb19sYTFDTEFXdzhUVkRlSGREcFFKVHBKMVREZHNYcWJIZThLRnFGd0JhOVZNeC1YNVNSVHl6UGJDNXBFOVlkRGxZTk1nc3ppdFZRMGw3RklkUVEzN3hxOFk5eUJKSHc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794102909101
+    },
+    {
+      "id": "news_TECHNOLOGY_GrandTheftAutosetforblockbusterreturnaft",
+      "title": "'Grand Theft Auto' set for blockbuster return after 13 years - Japan Today",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUZ2V1I0eTRCempBMTAyZjdIaktiR3hJTEZuVGVNTGpDMDZfdnZOdUxCLTcxUnE2QTNTMXhZQzNYZ0xkaXN1NEp4R1NoQ09rQW5YUkNjMWYxZjhJcDZQaFZ2NUdJaUpoUEJnZ09rd3NXbllmakVYRU5TUXhEV0t4ZE03aE1wdE44WEZxZ3ZBQ0liS3ZWcU9wMnBaN2tuWnM5c2hJNFFVdnZuQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794102908389
+    },
+    {
+      "id": "news_TECHNOLOGY_ThisYearsN7DaySpentFightingForMassEffect",
+      "title": "This Year’s N7 Day Spent Fighting For Mass Effect's Future - Kotaku",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVTRvdU5CQ3FYYktwQ2ROcS1VWTFPRlZRNGQza3pwSWFyRDJMdUVLV1Jhc2I0eDNSS2RsblYtM3hBLWJDYVRTMTBxdlBIaUJKMTUzZzktWmJoWW1nMDhJM2gwZmdadGpZZDREN2VQdHM4TEotOTJjTkJQaGVsVERQQU5rWVltUVBZcEgyVERlRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794102908389
+    },
+    {
+      "id": "news_TECHNOLOGY_CPUZstatisticsshow32GBand64GBRAMconfigur",
+      "title": "CPU-Z statistics show 32GB and 64GB RAM configurations declining year over year - VideoCardz.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOajZ4M0ZLMVp5dE5hd0FnMjFlMkxUSGh2alhZbVZ5dzhzQnZMdTdxXzJOdmt3OUwzd2I0aGxLRUp6NkdXUDJUSkRXTllxalgzMEU0dEtXVnpnY251SWUza3Y4OXJJVF9URWdreUVEYm9hMFFVWXhPUW42eGR1TXZKNnowZUlIWEpFM3dYQnQ4UjYyOGxNcjY1MnNiRDREYzgyUFhHNkZEU0w2X1k?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794102908389
+    },
+    {
+      "id": "news_TECHNOLOGY_MassEffect3sCoopMultiplayerIsRevivedwith",
+      "title": "Mass Effect 3’s Co-op Multiplayer Is Revived with Legendary Edition Multiplayer Mod on N7 Day, Even as BioWare’s Closure Hangs Over the Celebration - Wccftech",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMzlWOVVUQmd2aFZweS1wYWJzY0EteUtQYXdJeDBCLVhmRUs4Q2V6MkZ1X1BSQVBWUVA0X1BHeDdGX2VfMWU4TmJkenNVR0FwQnllQms3RnZBdnVaTmM1dUN4WUZVMzlSNzlTZEZkVlY2OUs3WERvOWppX3dNYnhpblc0U0ZVY3dKa09JM1l4UdIBlAFBVV95cUxPZVU2Zk9SNkVGNVl3NWVNWjlYZ2JfUVJ4Y0plMmx2QWU0ajE5MVo0M1hGU21wWmt3NHlTdnhXdTlNQlNtbzdOOEJaZk9QYnVCZkFZUGwxODkyNE9UU0FtaEI0N0hBWG9yTEpSZ1dsek9kUTZzSDVKT2ZvRE5sbU9ETFNTRFZkODNwZWRXbHAyVjVoUWxp?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794102908388
+    },
+    {
+      "id": "news_BUSINESS_DozenspartyoutsideElonMusksAustinhomeaft",
+      "title": "Dozens party outside Elon Musk's Austin home after campaign donations fell flat - Austin American-Statesman",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT3doV3ZscGZ3Zk9SNDlFOFI1TXByTHFWR04zcDZEUGxMT2RxRnU2UWZHay1IS1Z3cjAxTXpkeW1FUzlhQkVqWWtCQVVrcnFHTmFmMlJxb3dvM1pwTDRxcUlUa25RSVEwQ1h5ZWRIdVhTa1Z3U0FlSGpnaEFySVJYSlQyY2RkZ1ZEMExJR3pteS0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794102907686
+    },
+    {
+      "id": "news_NATION_MelaniaTrumpandLSUannounceascholarshippr",
+      "title": "Melania Trump and LSU announce a scholarship program for students who were in foster care - PBS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (melania) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNVY5Q21tNzFNaXZnZmg4b0VSTTJUNnc3MEZGWmhYc0R6QVczUXZWV1NyN1V3OXI1bnY5b0V2c1FCWHB5ZFZORW9sOFRYVms0dlVLYzg5VGxLalo5NVJYVEg2ZC1obEZoQS1qUWxTd3hvcjZpUXVfRkh0MXBTR1hfazNHQmg4WmJQbDBvMVVrMjlFeGxQMFdqN0s3Um1iZ3Ywd0c4VE9uRW5IbnRLQmJfRmZBa1praU5hallEcVFrYXVoQW4xYlHSAcsBQVVfeXFMTXVycEdUTDlWajYxWFpWcDlXNmhsbTlnMXRILTdCNGJ2d296cEw2Z2ttSlh1amI4NXUzZzhya2h6N2tWSllzNnFQT3plTHN3M0NlMGhyanhaYTV4REZlTTB4a1p4S0pLOVQ4NHJybDVyM1czWE9PajZVV3NDODlOMjFsRUhmMmFMazNyYWJMdGFxV2pFXzV0Tk11d3Z4U2NoSU5QVHFYY0owcmJaUGxXaFRUNmhRNk5XeGVibnR6b1NobzE0ZFJYeHJtNm8?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794102906985
+    },
+    {
+      "id": "news_NATION_JudgeTapsLawyertoInvestigateTrumpAdminis",
+      "title": "Judge Taps Lawyer to Investigate Trump Administration’s Conduct in Golf Course Case - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS0R5QkJXSHhPZDJRdzZYSEx2NFYwcHF6MG1STUp1ZEhMQnY2MF9Od2tiZUU1VlVkeXhyRzJBdkRPVDMwa0NRd2hnUjhMX1BHQ0hmY0lMNllYUXlVS09qZDZnT2tDVktPSEZXb1Nwc2FWcHk1VlZvMG8wWmlqV052b1VrVFdVT19vUk5zT2hPNWdHdDNPZU9jWXZR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794102906985
+    },
+    {
+      "id": "news_NATION_SouthCarolinamanarrestedafterleavingslee",
+      "title": "South Carolina man arrested after leaving sleeping 6-year-old daughter in line for Pokémon card release, police say - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée; mots-clés viraux: arrested.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcDMxR3BGTF9iQ1Q1Sl9velQwTmx2NzVLVHI0a2JvTGtiRmpFXzZTWGszdWZHTVlJUnVwMHRfUGhaZnZMYWFsMWxDODJzbjdrSEc2OWg1VlpfeUtyaHBkMWZCMGlnOVpGRDVRR1NuSkZDTHQ0RE9qNFJHV1VpbjBicHNBaFNnQU9ua2ZnOG04ckY4ZmNYdkZsRnRMSnpXRVpjUEZxRVlTZ3k?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794102906985
+    },
+    {
+      "id": "news_WORLD_Iranpreparesforwartoresumeeyeingnewtarge",
+      "title": "Iran prepares for war to resume, eyeing new targets and a shift in military tactics - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUpka2hLSkx5ODRTeUJaOGtYZ1RvNHNHR3ZsamxQTWhjaWU1RXgySkh3Q0lyWnBCMjRqMHRZeWlJOVVJVkJwa3JmM0s1N2Z5YXdGWlMtTTRzSVcwRUVoYXhPbXYwTEJXT3lHbnlmUDkyaXJUU3hRRHdyUjY5SV96Ym0zcUhMQ190MnJjS1Nra3pwbEV3NnVZbV9uam45N3JiRlowOTVUeW9GRm1mTjNfM1R3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794102906276
     },
     {
       "id": "news_HEALTH_TheCDChasrecordedmorethan5000measlescase",
@@ -5357,149 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1793743054503
-    },
-    {
-      "id": "news_SCIENCE_PhysicistsstepclosertotheZeptoverseafter",
-      "title": "Physicists step closer to the 'Zeptoverse' after 42-year particle search - Phys.org",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUTd4MEhZeDNfMkVpdkszR2RQdE4taWF6RGt2elFzcWZfb25NRW02N0tFWWlxSGE5THZwZzkta2xfYm9VSl9iRVAwMjZnNk9hMGhvTkpYTVBpN0o1SnpKNEQ0bEdhWHR1NjlIU1drOWlKbUdYbWw0OXZjcnUzY0ZKU1Ixdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743054503
-    },
-    {
-      "id": "news_SCIENCE_RockfoundinMaliholdsa41billionyearoldclu",
-      "title": "Rock found in Mali holds a 4.1 billion-year-old clue into how Mars contained a source of life and other igneous minerals - Business Insider Africa",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaFNFOE8zb3hFaG10eVhsOXpfRDMwa2Y5NEFtSkx0MzJvekNvOGY2NTFGTEJQTFdseWJFME0yQ2dpcmVaSUt5QTlHSWhzczgwSHJwcnNMS3JXU29PQ2lGNGxfRXpZaTBvbE5Hamo0emZ6TGVManB4Q0hEdkFxcUZ4ckFyMlRNU1NrQlVDcVZ4QXlMNFppajh1THh5emszVkx5eE5LT1hvQXpFRnhZa0hwZHVwWVhYMDlzV2lEbWp2Ym1SNzl1bFpmVFBWVHJMYmd4ampOZllUTTg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743054503
-    },
-    {
-      "id": "news_SCIENCE_HellofaYearNASACrewEmergesAfter378Dayson",
-      "title": "'Hell of a Year': NASA Crew Emerges After 378 Days on 'Mars' - Newser",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd19OeEZjeDEwdDl3Wl9uMUE1eXVSd3FjQUhLZWdnUGhZZmRkbFpZNGFTaTAxWWFnYld3LVdMYW5ZWHVHNjlfaVlrQUNHZUp4QnJjSFNYV3lUZXRZTlNsbUZ2RWh1emNDODVEWUtHdDctbUtiV3VSanJRRVBKVXEwYXlfRzhRWVk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743054503
-    },
-    {
-      "id": "news_SPORTS_NFLtradedeadline2026bigboard20Updatedlis",
-      "title": "NFL trade deadline 2026 big board 2.0: Updated list of 50 players potentially on the move - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMDl6VXdjc1I0ckhrRnlfSzd0UGNlZlI0Y1RsTzRobjJfTkV6X2ltVmdQZmljY3YwZTdON3lmUEx5V0VsVkhfdFROeWYwbXRSWXlXeGQwLWdVNm1kVExBY0R4dENvWF9jay1nMjIwc29fQzZrY0NWSHJHZkhhRk9aOFBFYVZLMGFoZ19OQnhUQUZ3Z21rZ3FWUGZNamFfVnR6T3pKMl81a0M?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743053830
-    },
-    {
-      "id": "news_ENTERTAINMENT_ParisJacksonsayssheandherbrothersarestil",
-      "title": "Paris Jackson says she and her brothers are still waiting on family trust money 17 years after their father’s death - The Independent",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE53NGZndF9qYmZTck1tRV82TVN2aVBXVVE2VWNiMXE1aEt3RFdfaEU2V1JUTkRlSllINzc3STl3dHdiREVBclJrRVZQTnMyNnJuQ0ZObDN6TmF3cE8yS09fYUVxT29RQVBPVkRaNXpNS004RS00THMwclNrckEtSXJiOXpBaWtXazRodFpZRnk2SWFxR1dxQ0pSQ09wQ2xZaGxjTjBHX04zRlRST3g5WDZfakdNQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743053067
-    },
-    {
-      "id": "news_TECHNOLOGY_ElderScrolls6SentinelRevealsItsLocationB",
-      "title": "‘Elder Scrolls 6: Sentinel’ Reveals Its Location—But Not Release Year - Forbes",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZGJoN29Udllla19Ic0VTZkVsOFI1NEU0bkh2MEQySkxUQWVhSDBTZG9tbHU0N05QaVR3WWdncUFKUEpqS2tIN0FYdkpsRGVnaWVjOHFiOXNVTzlNUUd3TDJWY1VPdmI3blZsQmJUQk0wZzJka2t5aU5VN1FsMmIxc2JjSTFXZ0hWdDluSVVQYTVFU1FlZDE0bUdpN0Q5NGNRb04zZGVJWGNhNXlqMk1KQnBhakZ6b2JSalNrWEpB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743052295
-    },
-    {
-      "id": "news_BUSINESS_JetBlueraisesbagfeesforthirdtimeinayeara",
-      "title": "JetBlue raises bag fees for third time in a year as fuel costs bite - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pMmFiSG1UcnV4cVJUV2FPcGozS25PTnlNaTY1NkJ3Zm52aEhrRnR4UEZfOEVNUHNsOXhxazRLZ1RDempLWFNQTHpsMXdUYVBPUF9OaWItUjJiUkF2Wk1kMTVGM3dQTkxpeTJZWNIBckFVX3lxTE9xQXdtTHk3NGVWRHZaakV1blBXTl8yNFVERU1nSktneTNGWm9ERGo5Z0ZKWGk0MWY4c0twYlF5dldoQV96ZV9HaTNtSjRQRGQwV2NsLUY4eXFhV1AyVjJfSmF6TEJZaF96Y0lqN1djbmJCZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743051618
-    },
-    {
-      "id": "news_BUSINESS_FormerWeilpartnerslawyerupoverfirmswindd",
-      "title": "Former Weil partners lawyer up over firm’s wind-down - Financial Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUdjX3REb3p0aXZUZEJtcE1jaTk0ZUZ3eV9aMFExeFp5TUZyZTgtekZLdDVGY1NRLUYyd0FoNi0xa3g2TEdWNUJfbHlKMi1GbnJVajlQQWoyREExRk5fb2ExYmRqOC1lTVpKWnM2RFp4dXlrcWN6ejJkRThseHhVNmZkWEg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743051618
-    },
-    {
-      "id": "news_NATION_TheunlikelyplayerincontentiousMichiganSe",
-      "title": "The unlikely player in contentious Michigan Senate race: Stevens’s fiancé - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzdmN0hFNnJXR08xMGFaZnhiNEFwMmRsV1dZZUV1RFJBdlRhTmdCbmpnU0xNMEtVNk9WVmhndVBaNWc1UzJuVWRSRjl6b3F3bkRuVWhwWGFHZ2ZpcGMtRG9EMDZvWWhyeS1kdlN4U2hpVGJQVTB2YW5BOVBDTzQ2WEE2Vy1TOVcySVl3LTZOblZwUU9pNUNfaG1EUTVFV2s5Y0E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743050866
-    },
-    {
-      "id": "news_NATION_AsAmericansvoteTrumpsaysUSwillstop4billi",
-      "title": "As Americans vote, Trump says US will stop $4 billion in aid to Israel - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743050866
-    },
-    {
-      "id": "news_NATION_1in1000yearextremerainstormHowsouthwestC",
-      "title": "'1-in-1,000-year' extreme rainstorm: How southwest Colorado flooding compares to historic state floods - 9News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbGhfSURpTUgxSnJ2NnZIaEt4ZVlrVnkzQjRXdVlxR3p0S0VMYlBYdUtSY2pMMUhjdmdNRXhqRGtBWm1LTU83SUF5YzV5T0p3emlGSVVJSmNuVFNJVWExRUNURzhsdmFtWW9TOW5IclhhWDFOTjJIUFpmb3JSXzU3YkN5LV90MnpST2ZNVHlMa1RObFh2dXhrbDlqLVZ0X0tHV05tcEpXLVpSNUdaMEdmUU5BU2NVZ3BuenhzVWZFS1hnMEV0WlZPdzNjbHk4UXVHVmc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743050866
-    },
-    {
-      "id": "news_NATION_TrumpDeploysElectionMonitorstoBattlegrou",
-      "title": "Trump Deploys Election Monitors to Battleground Polling Places - Rolling Stone",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbXBqOU9sZnFabTlRQXlndm5Ba3JTRmM2eXRXTU83eUI0NWVzZXZIcWFodDduMnVqRXI0THMwUllsQ0tOZXFXSWxjZE51ejZucVpUQ1JDRnNWZEp6SUtlUTdJRVhjRlJKSGN6Nkt5WHpZcnJXUVhXcUxoZ1NTcHVaOEVELU1UMUtsSUgxdFRGUlZNRVlwSFo3a2s1d0F5N1lsMnBuX2tkUEIzdkZPRnB4b1JlcS1zU28?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743050866
-    },
-    {
-      "id": "news_NATION_TheyllhavetolawyerupnowPolitico",
-      "title": "'They'll have to lawyer up now' - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLUd6b09TcGY4VkRaSG5hNUs5TEJwVER2X0FjX0VYYmlLRWJKSnhGem9zUUZFM0tncklfN0FZS1AyLTV6QVhYQzlOZmh2ZXBfczdSR0VNZ0JmMzI1R3FlRDBIdjZSWU9tQjBvZTBwaXQyNGl1TEk3LUItcWRYamlZdEhvTEI?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793743050866
     }
   ]
 }

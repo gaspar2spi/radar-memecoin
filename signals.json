@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T03:04:41.975456+00:00",
+  "updated_at": "2026-11-11T10:45:20.132080+00:00",
   "signals": [
     {
       "id": "news_gaming leak_LeakedGTA6releasedatebuildhintsonlinemul",
@@ -1771,6 +1771,94 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SCIENCE_Paleontologistsdiscoveroneinamillionfoss",
+      "title": "Paleontologists discover “one-in-a-million” fossil with 450-million-year-old soft tissue - Science Daily",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CemRuLS1nUVV5dmZabHpOa1JxRml1ODRZLXR1M3NuWEdSYkJqVmItY0lHMThIdTB3djFxcldXMGZzcEE3TWtVdGJBREQzQVphOEZHcG0wMzhCb09JQ2t3VVVPdDRxeTJMalFKMzRucw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794393895360
+    },
+    {
+      "id": "news_BUSINESS_FDAwarnsofrareeyeconditioncausingblindne",
+      "title": "FDA warns of rare eye condition causing blindness from GLP-1 weight loss medications - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc3B6dHJQa0tfRnFMY3BHeWZ4RFprSVY1N01Va1Y4NkxHQWNVN3RIZUJnMWx2TXU4czJXVFRXRmhSNGJOZ3hRMG1XLTUwYTQ5V0tVc01JRzlRWGEzaEx5Z0h5SHpCSENRZVFoTWhRRTU0U01WNTA0VXJMX2E2UGpuNG9vYUJISTVPUUZCOQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794393892459
+    },
+    {
+      "id": "news_NATION_KennedyfamilysuestostopTrumpsarchcitings",
+      "title": "Kennedy family sues to stop Trump’s arch, citing shadow on JFK’s grave - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObzVCd0d6RlIwWkUzOHhvZDZ5SnN3bXlfbXJ1NXBwWUVsQjZVa05zZkEyYnRkSGdjQ1lZd3hNRWM1MV9hZXVnZWltMkQxeHJRaXp0eTZIQ29jRHBqclFacnBadXpXam9NWjVIT3p3MklTdjNNQUlaQmJKbURmaGhJNmNYaFZ0cWhBa0YwamZtd3I3Z2pmQVBCdUJZeXRyM1dLNTBmdy1wc2tDYVlBdGxQNnBR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794393891630
+    },
+    {
+      "id": "news_NATION_FederaljudgeallowsTrumps10bndefamationla",
+      "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; mots-clés viraux: lawsuit.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVkxVTk5Smtnd2hEVXFhUkdaTFhGNEpRdWo4TjM0elREeExUblR4cElnVGRFUFR0Wkh1eTBIZ0xvT2ZZRzRLREdybmJkYk5wMVBHX0pfSDd5c0xXdHFQRnUzcWZaZFFJNTZmWXJYRDBUVU1jREMxUVcxV0VDZksxalhzZFpISmtPcmxIa01MRXBBSXM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794393891630
+    },
+    {
+      "id": "news_NATION_Trumpswungbetweenwaranddiplomacythenchos",
+      "title": "Trump swung between war and diplomacy — then chose a third way - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVAwSVNaUUFvdkZTVGc0dC1SMndYbUlSM3ZFMlpBb05lVXk5TkpwaVdPczc5ZGdJMmNrT0FCWElJR1k0Qk5BQ0xzSTR6NS1fM052MmY0WlJsdHhKNWRnT2FTS2JYS2VoaE1iMGhVWWE2MnM4VnloZXFyaHBQVnAyc29B?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794393891630
+    },
+    {
+      "id": "news_NATION_TechConsultantIsSentencedto16YearstoLife",
+      "title": "Tech Consultant Is Sentenced to 16 Years to Life in Cash App Founder’s Killing - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGxZRVluTkdkNXRDVWY3QVRTNXByTjdFRmJJczlIRUQ1ZWRYVTBXaEpmbVhiZS01U21uVWYxT2xjdkNnRGdMd1g4T054ckoxQlI4NGZuaHllYS0wRS1JOU90NTBUTml6aXRYdzJSOFRJS0pzRlRaMk5ra2FZcVozVS1raw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794393891630
+    },
+    {
+      "id": "news_WORLD_Spainsfirstgeneralstrikein14yearsbringsc",
+      "title": "Spain’s first general strike in 14 years brings clashing social and political desires to the fore - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlZ0c3o4SEdVYWN6SGE2YW45M0xMVUlhNUJlMlo0QnZxMVB1UEdWOVZBOU9qcG9SSUlFSmtOa2F5MFJoQ0hPVEp0SVJ3NzJDV2FfcWtKV040dzUxRExKd2Y0bzRXNUViQzRvaDJBbGdfeW9FaTJyRnkyX1V3SU40Zms3TzhrUDR3dFdzc0J4S3ZqWkJIVUNUZVlfX3FjUy1EV19Wd3dMZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794393890921
+    },
+    {
+      "id": "news_WORLD_400MawozoHeadquartersofHaitiangangdestro",
+      "title": "400 Mawozo: Headquarters of Haitian gang destroyed, El Salvador's president says - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBTnZvLWFoSzNoMmxia3drZVRiblZ0a1hMUzhGeUh4ZlZKOW1UUkFMUGdJSXN6WnU0bUZ5M2EtUzU3YzU3OEd6RFhUblJJSjdqYzhiek9GdzZ5MTQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794393890921
     },
     {
       "id": "news_SCIENCE_Uranushasaweirdmagneticfieldthatsstumped",
@@ -5412,94 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1793986132112
-    },
-    {
-      "id": "news_WORLD_SaudiLedForcesBombedYemeniHomeKillingNin",
-      "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUltTW8zc3dCR2ZIbnN5NVZsU3BUTFh4TGFBRnJvbU5iMGI3M2t3Q3RudnZZTEpqR2RJTXpaYzhmUk5pX3JXbFV2cFBPNWI3b2x0OTlubE80MWMtZ1dEbWNBZ3VqT3VJdTR4Vmt2ckt6RnNxekpOdjdNYngyb3JvZnJEemdIcUNUZXlkRWxqRUlrWGJ1MEZ4ZHdPeGdOaWlDdUxRZHl0OA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793986132112
-    },
-    {
-      "id": "news_WORLD_UNclimatetalksstartintheyearofdisasterse",
-      "title": "UN climate talks start in the year of disasters, energy price shocks and fast rising temperatures - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUZrSkdKLTY2TXFCSG9hYlJQRmtJQk9nMkVzS3FNcHhBNm91UVpid1B0dFctRS1ETzlRamJ2Z2ZPcm9CNmdJTnBQbGlWc29CZ2JDaTdaNTc2emNFaUNHcnZHZWZxQ3lZOUJHNXdqNkhCT2FwMWNwSE5zbTNZWW5yd0ZQcTh0QXZaMVZ1cXpIc3k2WDRCclZucDlYc3AxdmdpX1E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793986132112
-    },
-    {
-      "id": "news_WORLD_90yearoldHolocaustsurvivordiesalmostayea",
-      "title": "90-year-old Holocaust survivor dies almost a year after being shot in the Sydney Hanukkah massacre - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHBudktJNnVieEl5NVowRlIyanBoX0tjZV9PcFNpQUQ3RVNMd3dCRkhGU2ZLNXBvYTd0ellld0ROUFZ1VS1yUjdBMTJIa3A0b0lfZExsbmFnVng0Y2lseXNfMVN1Y2ZaQkE2SVE3VzYyUVpFdHB4dnl1b2Fwb3pHZE90MFZjU0d0cERSSFdCc3dZdm9MV1JHRE5temJwcFYyWklKNUtOMmVUWUx4WElBUXBNLW52cGliQmlB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793986132112
-    },
-    {
-      "id": "news_tech ceo controversy_Howatechbillionairephilanthropistgotcaug",
-      "title": "How a tech billionaire philanthropist got caught between Trump and San Francisco - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYlZOSFBwa1RXTXNMV3c0RVBPVWFXTTV1Q2JJMFNWVVlLSDlzVUtnNEd5RmptbHpacGRjZ2ZObTNXS3JFVFdFQUsxdmFGbkVKUFprZFNwejB1SDNBOE1nN1ZYenFoN3hMWk1ONmJGU0JlVlFQT2ttbnRybFkyem5IRGxSLXR0YUY5aUxJTDJQc21DenZPbzB3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793959844325
-    },
-    {
-      "id": "news_billionaire announcement_TomSteyeristhelatestDemocrattojoinCalifo",
-      "title": "Tom Steyer is the latest Democrat to join California’s crowded race for governor - CalMatters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOU5MU045cU1uSkpZcExZR25zVmhCNkp0SVRKUURrTFVvZmZiUTFJYm5sdEhxV3RJWjltU3ZiRHFEbFhBNmJ0dzFjZlQ5ZThfdUFoRkplNFJ5YjF3SFkweUM3QjhHN0RiMU15b25pLTRJaF92UXBMbDBlSktiY29xNkhsSQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793959843352
-    },
-    {
-      "id": "news_election crypto_ScaramucciSeesaSecondChanceasBitcoinEras",
-      "title": "Scaramucci Sees a 'Second Chance' as Bitcoin Erases Gains Since Trump's November 2024 Election Victory - Benzinga",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa2dnWTZkbWJlc002TTRsaDRMbElRclhnRDlFTTZ2djJseXRtT0NicTRleUVVc0RhRVZONXY3cXFxX0FuV0xfZkRpdzlHRkpYTEFKeG9oel80NU1aVnZkYlR4bHJ4WGlBSkhBWm5PLTNrczcwMzdQa3VlVXhIUWJJN3lKTGFuNmNrNDlhTGc0RlVnNE1xaFd6MkF6LXFyd3JpbmRGbUJqWmdyLURJXzVoYg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793959840284
-    },
-    {
-      "id": "news_internet drama trending_MajorInternetGiantsEyeNewTrendTransformi",
-      "title": "Major Internet Giants Eye New Trend: Transforming AI Short Dramas Into Immersive Gaming Experiences - 36氪",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (internet drama trending). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xaUoxT1A0ZHdMOVBsVUVmVXFoNnFvSGNxcnh3dFhXR3FzWW0xSVliOFhkMjg4MmJHc2ZIU0ZncjNfZlVDU1IyOHpJY2Rjdm5JeFNz?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793959839205
-    },
-    {
-      "id": "news_HEALTH_YourOldScarsCanJustOpenIWasTodayYearsOld",
-      "title": "\"Your Old Scars Can Just...Open\": I Was Today Years Old When I Learned These 49 Dark, Disturbing Facts On The Internet - BuzzFeed",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zek5QSG0xaFdMNmxQZ0xibHJ2QmpGUXZLX3p6WXFzSzFOQ3dLb2lfUDF4d1JwQjNreGlQLXZIbkhXdGFPQzNhZFQtYTJUbEVEd0pLTVFMN3o4b1Q3NFAySmlObkJrTmI4YWJZUzhhbHQ3dlk?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793959830915
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T23:43:00.314192+00:00",
+  "updated_at": "2026-11-11T03:04:41.975456+00:00",
   "signals": [
     {
       "id": "news_gaming leak_LeakedGTA6releasedatebuildhintsonlinemul",
@@ -1771,6 +1771,105 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_SCIENCE_Uranushasaweirdmagneticfieldthatsstumped",
+      "title": "Uranus has a weird magnetic field that's stumped scientists for 40 years — we may finally know why - Space",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMlJwUl9LWHFWdUkyVmJyTWxra01KVTZrYWxtUFhVZ2ZYa25LN2tvT21SWVFHcnJ3c2ROVDY0eWp5c2s2OGk3M1YwXzJzTkhxOHpBZjQ1Smp2MnN2N09aa3J5WlFVeGFkSmJoSHk4alR6Qmotb2lPeHpEOFcweFN5QW1YQVpzWE1ZcGZaZXBCWDFpUFd0OTlqSFpkZmdPS0p3S0tqa3E3S3FZU0Q5Qng3TzVhaWVLUDY4Rjl4Zg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794366255984
+    },
+    {
+      "id": "news_SCIENCE_324millionyearoldCaliforniafossilfoundst",
+      "title": "324-million-year old California fossil found stuffed in drawer changes everything we know about life on Earth - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2RsNlNTM0RmeHZkbHFXOWRJWkFpQU1feXU3c0wwSmRGSTFGaGtfaWN0WDN6cl9xOHRiYmtFN2RlT0hWTjIxRWNxNlU5QWsxRXh6bTJmYXZJdm50MldyLVVrQWZNY1ZNTzJxSzdHcWhGWnhkNUhObFVoWVNkTk5GZnA5ZE9ranNoUl9mNUlLNmpTbEVEc2xKWW1nb2VoQVU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794366255984
+    },
+    {
+      "id": "news_SPORTS_BrewersPatMurphymakeshistorywiththirdstr",
+      "title": "Brewers’ Pat Murphy makes history with third straight NL Manager of the Year award - BBWAA",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1DRnk3Y09KYlhKczhlWU9PR0NWeGpxV3NVeE9sYjZva01nMi0wVVNyS1RfNm9NSFNzbjBrRk81ZnNrZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794366255276
+    },
+    {
+      "id": "news_ENTERTAINMENT_MaybeitsanewtaglineMaybeitsmorepunctuati",
+      "title": "Maybe it’s a new tagline. Maybe it’s more punctuation. Maybelline’s 35-year-old slogan has an update - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSkt5b0E1TTRqWEV5aUYxRHE3bE9ZYUkweEFUbDUyNzNsbjN4X3ZVQ3lBRlR3dEpIa3JvdURWM0N0QVppZjRFSkY4elFneDFhZkJyLWVwXzlRbzA4bFZGaDhCejhueGZiWGVVUjhLbzhSUUgwVEFUeTNDZkk3SnI3c2cySEhaMnJCdUZ4U2NjQk9aQWhiV0JwcE50ak5EVmxJQ1E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794366254572
+    },
+    {
+      "id": "news_BUSINESS_MakersofGLP1drugsorderedtoaddwarningsabo",
+      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02N2prd0FUZWRGTWdTOGlOMTg3R1RmR0pOMllPSWt1bjJReXFaSm9ON0tsdzNLWXBhbk4xSnlDdGxjbTRSLTVjcVQ3azBsUGFkbDZwNjFrc0NwdGc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794366253109
+    },
+    {
+      "id": "news_BUSINESS_SkydanceplanstobundleHBOMaxandParamountn",
+      "title": "Skydance plans to bundle HBO Max and Paramount+ next year - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNlBTUW5KUUhtMnJub1FEN19CbXdIWWxHbUpqWkpHSlVnSW9aQ0tYVkI5WGQ1NWNCZ0ttXzE1NDQtalMydjdhQmd3TnlaVnRRa203NEtGTzY3eGg2UzB6V1NOUEF3YnVDY041aGFIWmR4RklFWXR0Vnp0dGN3NnA0LWVGY0pZUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794366253109
+    },
+    {
+      "id": "news_NATION_HouseRepublicanselectJimJordantoserveasm",
+      "title": "House Republicans elect Jim Jordan to serve as minority leader next year - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXRIeEYxWHlYVkJUdVFOZzc3aFdDNzZkWmMyOGhBTnFKamdyYW9xSWp3TkZ0NF94ZVdFeENyb3FWN2VXRzVycTA0cGZLVmxCSHQtaTg0VXhPVlYxeW9SbXppVzhNWkFDdkp6OE5BSG1yRnIyd0VVOXY0UnczcDU1dEt4T09kY3NRNzVMcmlpcmt4YTZtZlU5cG5IdHprZzZLc1gzYWJucmpYV3VyRnlYQlhXMjBkNUdYU2c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794366252382
+    },
+    {
+      "id": "news_NATION_KennedyfamilyseekstoblockconstructionofT",
+      "title": "Kennedy family seeks to block construction of Trump’s arch - Politico",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zeEJqQ0NHZGVEd0JFT2FhMnlia0JXOUk5Vks4ZWp5T1RpRUtBYXBXQ0dERkRvQ0xzMXQ3LU9ES0R0eEI0NmdITGg2UUlGbU5wVEFqeFhPazdpWl9VRUFUbTEtOXJMdURheURjSkR3NHlmV0E1?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794366252382
+    },
+    {
+      "id": "news_NATION_Democratsdemandanswerson8yearoldHaitianb",
+      "title": "Democrats demand answers on 8-year-old Haitian boy detained by ICE - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rMHNZc1loQ2MyV2FYcWdhaGJtdGkzb2Nub0Vub2wtRGlOZjZEY1JmaDdfSHFkZF82SlJraS1BU0hvZU13YW5FWTdRZExLR3dnRzJSR3BwUHNDSjRMcmFRTjFtSVRoMnZIU3F3Sk9mSmZ3dWtEQkEzSGJ3bnRDWE0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794366252382
     },
     {
       "id": "news_billionaire announcement_EvenifeveryCaliforniabillionaireleftover",
@@ -5401,105 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1793959830915
-    },
-    {
-      "id": "news_HEALTH_ChildinNewYorkdiesaftercontractingmeasle",
-      "title": "Child in New York dies after contracting measles, the state’s first such death in 30 years - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PQVo5eVZwaENLQXpldXB6YzUxQXhvVEFkUnhlckJQd3BPZHlZMzc5OXJDZWtrbUZTOVdFT2JVQXhtYVh2RzVHN1NOcEx2a0pFTTE4RDdLbFFzTzFLWm9veTRlOE5DMzUxMFMyYg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793959830914
-    },
-    {
-      "id": "news_SCIENCE_After42YearsofSearchingPhysicistsFindEvi",
-      "title": "After 42 Years of Searching, Physicists Find Evidence of a One-in-10-Billion Particle Decay - ScienceAlert",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLUcxLUdpNGRnVlc5QnhxcmthRk1mSTZjN1VuZ0ttY2Etc0NZc0VoREZucWgxendVZE9LNFlnWFIwOW9lbk9YLVh6UW5EQjZZVVU3RWE1TFh4QmRLc2RIdEtkQm1PNUFMcGl0aXdqWkVaSnpGa2ZMaURKSEdueWFEN1B4eGJuZVBzMEdUOHVBVXptdFJmM3FaWXNsejBKMGFFQnllTlJtSlFJdDAxOTY5aE9PRlNVY013eVVB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793959830145
-    },
-    {
-      "id": "news_SCIENCE_Earthsrockshaveamissinglayerspanningupto",
-      "title": "Earth’s rocks have a missing layer spanning up to a billion years. We finally know where it went - The Conversation",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWXZlTjhmMF8xVjRFenI4LWsxcDZid0FKLWlmZUF4MDVSYkpqTklwV000MEN4RW9kLURybEMwWDJzcHp2Znk5WWJqWm1mUWVoZktRNWxDa0NqckR0Ui1hNVVKMW5EZmFZT2lfVHZlS00zSnVpc1NnVzFudUpiQ0dGSjFkQWZtZmdxLU8zRkpXT0ViT25EN3hqLXg3eGpLZzdpb1dhVFB1dF9TTXV0ZXBwSTluMWc0Tk5keDU2ZWhCeWY3T2xMck9VQw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793959830145
-    },
-    {
-      "id": "news_ENTERTAINMENT_JimmyKimmelSethMeyersCallOutTrumpsIWasnt",
-      "title": "Jimmy Kimmel, Seth Meyers Call Out Trump’s “I Wasn’t on the Ballot” Excuse for Midterm Losses: “Shut Up” - The Hollywood Reporter",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZV9QS2FiM0pfM0VqZE1FMS1uV2dyd0M2M3NJbzhlaDl5WFFaTnNIVW1pYlVVTFAxMGpiQ0M3WTZtQTdoYXV1VjdZd2pwOWdTR0tGcFlEcHE5U1BqOFlXMDdHWVpGS2kzeTRzLUFleEVNN3d4X3RoaTJVSHBlQ0x2NkN4cVVrN3dScUpRRzNpUjJxSVdPelJTY0pFZ2VIcW9pRUtKVF85d3V4TlpQNUk2eHAtSWRFNFBFNnVNQTlR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793959828326
-    },
-    {
-      "id": "news_ENTERTAINMENT_KATSEYEPostponesTwoMoreShowsAfterDetroit",
-      "title": "KATSEYE Postpones Two More Shows After Detroit Uproar — Report - Yahoo",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcWRWd0JKSDJBdVpKalhLWERWZFhUcFY4amJJYXQwTHpPYWFhYlJBMkFJbV9QNDFhUV8zZkJKSWlzT2Rvams0d3JpZmxydXNmaHR1YWR2TGNZLWlJak1QNmZaZWZrdkhhU2lKY0ROU2NZaXZJV0hDRlZELUYzX3dXLXBObnYxZENybVFNWGVReE9BRm5xOTlIY21BNncyRmdNcGtFOW9GR2FrSjA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793959828326
-    },
-    {
-      "id": "news_ENTERTAINMENT_LaBolaNegraUpsPlannedTheaterCountHeading",
-      "title": "‘La Bola Negra’ Ups Planned Theater Count Heading Into Netflix Film’s Widest Weekend Yet (Exclusive) - The Hollywood Reporter",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTm1yZWVadlNtVHV3R1RFNHRsZTNCZm5aUE15SkhFWUNvSVlERE1ZVUVWbnItSzFGMGwtTlhBaEVqRkM2NUJFVmVPZ1EwZldrbjVybTI4RmFYQXRGZy1tTFpCb1BZdjg0ZF9sVzB3M2FVd2cySWQzeFhDMEQwUm1yWGpWTWM0d3ZzSmd6VWFicnNWNnVmQjRLWHFLbmIwVnI2V2F2YmNEV1c0SlBDS3NjajdBWDFPWkJMY3RJbWxub3Q?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793959828325
-    },
-    {
-      "id": "news_TECHNOLOGY_AppleSurveysiPhoneDuoBuyersAboutCreasean",
-      "title": "Apple Surveys iPhone Duo Buyers About Crease and Camera - MacRumors",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NN1F2NVRLUld0VDRBZzJJUWZ5NjNYUlh5SnFwQmlrLVhLOEJSdFdkcktFUFJISV9XV25zRnB0VVhOT2VFREJOVEpCcUdJSGdqWWdXeDhxeGF6UEZzaXdiLURPVTdNMmFpM01tUnp3?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793959827216
-    },
-    {
-      "id": "news_TECHNOLOGY_Thegiftsteensareactuallyaskingforthisyea",
-      "title": "The gifts teens are actually asking for this year, according to shopping editors and real teens - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYUp4M1hDOGVnWmRtZ0tFd01LaFMyaHZNZ0xOdEdlMlBqVVdYS015RGpmZWpGRC1zNjRydDdwdGRZZVRDRFZrZ3UzRktmWnExNTdRMFFGMGt1SzloT3dWTTM5azZEOXNEWWhWWEthalNRc1dfMEQ5NnNPTTRrMGV0YU5B?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793959827216
-    },
-    {
-      "id": "news_TECHNOLOGY_NextyearsiPhoneProredesigngetsnewupdatef",
-      "title": "Next year’s iPhone Pro redesign gets new update from leaker - 9to5Mac",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZGt1cVZ0dFAxM01jcElTanhLWGEyYWNLaU9TNVk5WG9aR25VQ3RPVEhPdVpOLWxIR2ZzUzVIdzZSYTNMSzF3Ymt2eVhaSC1pVS1ROFEtR1Z5bXozOC1ab19Ec0lzTWZYWEE2UUFYNTVleFhBQ0g1WVBiYkttUkVzTVZpUmxUY2p1MnR5bWc3VFVNUnhl?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1793959827216
     }
   ]
 }

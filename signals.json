@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T09:29:36.314543+00:00",
+  "updated_at": "2026-11-14T15:59:24.845439+00:00",
   "signals": [
     {
       "id": "news_memecoin launch_TrumpCoinDonaldTrumpLaunchesNewMemeCoinD",
@@ -1848,6 +1848,204 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_billionaire announcement_LandmarkDellGiftSuperchargesTrumpAccount",
+      "title": "Landmark Dell Gift Supercharges Trump Accounts for America’s Kids - The White House (.gov)",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVnhCaFdvWm5MbjFTV0ZycjJ4WHkxZnkzeG5vS3M3Z2haQ0pEX0F5N2JMVnBHUWp5djljLTk3VkdLakF1WF9DZU12NmhWbWlTa0c4Q0M4WWxENUdsOGd0X2xDRm9tVVY0YVktSW4yMlg0ZU5tVGN6UDJMcjNmR3dZbm4tc2s1UkdMeVJqZkZINmNjX0ExWF9zS1d1WTZPMElNMmFsQV9Ob3M3MFY4TGc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671951866
+    },
+    {
+      "id": "news_rug pull crypto_RossGerberSlamsTrumpsCryptoRugPullPoints",
+      "title": "Ross Gerber Slams Trump's Crypto 'Rug Pull,' Points to Report of 'Over 1 Million People' Losing Money While President Made a Fortune - Yahoo Finance",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (rug pull crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNVBCUVFTbTAzZFR4cFo1VnlxaWc0R2RoSEJDelVuX2JDVW1oWndXSFY2Y0pxQ1lnNmt2RF9kUG5fQy1xLTZQZUxyLUFRTnZYaGhPYVJkbDUwTDRSckZ2SllvaGF0cU1QVWdRNlZFLTF2dUpqendTUmxza1ZIRDJOdXA3U1FtenYtd3Fkd1pMLUttY1FOclRMUWVMSlF6N0xZLXdiV2FWeEViakdjM29JSXdIM2R1eXZBUlFGNWVaWE5HVHJQb25sMUUtcDRrQWlTQWxVT19QRjlUMlp6LS1Rb2hWZHJyMjZKZlBHWDdpdDRBeDdTT0Y1dWtSTnE4T2lZa2tmWmxpQlc1LVdvVzRwX2NlNF9DbUFiR0xR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671944749
+    },
+    {
+      "id": "news_rug pull crypto_HowTrumpmademorethan1Boncryptowhenmostof",
+      "title": "How Trump made more than $1B on crypto when most of his coin's investors lost money - ABC7 New York",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (rug pull crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmNRamtUY2NCSExkU0NTTU0ybHlURUlZb051OUFGRXp1dmEwWnl5ZU80UEhSQTBmODJKOGE3NXhya196aHl3TF90aGY1Wk1XYjgyY0F3LWJ0ZjlPbHdneG52cnNZMDZpMUhQYmd6bWxUU1RJNVNrcDhOcWVQcFBfTnlQX0luYTR0Z2J4SmZTTTFEZFFrenhIeFVfZGpFT0QzUXhkbm0zdlN4RVVO?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671944749
+    },
+    {
+      "id": "news_HEALTH_StanfordScientistsDiscoverRestingBrainAc",
+      "title": "Stanford Scientists Discover Resting Brain Activity May Predict Alzheimer's Years Before Memory Decline - ScienceAlert",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeTZmcWotSFlrWXUwU3RIT3hYRWJKRUxwSUQ3U0NkYW4xSW9rREFvMjNTdDR0aDNKZnZWLUg2SV9OX0VzRTJ5b3JiNG1xbWoxaFVqa0FydmdqZ0t1Zm1oMDM4Q0VWSjdROXg5eF9xQTEyQnpwS2cwUUMwZHdheXB6VjBVOUdYRDhtcnZjOEgtNS1uMXpMRWd0Sk1TNXBITDhwQXQ0amZIc2dyRVAzNThzNkduZmVVM0FOeHd6Z0FQaFR3VTJoN2ItYTVYbw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671939122
+    },
+    {
+      "id": "news_HEALTH_WorldDiabetesDay2026Diabetescandevelopsi",
+      "title": "World Diabetes Day 2026: Diabetes can develop silently for years: Why one simple health check could help detect the risk early and prevent future complications - The Times of India",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVjNqVWZVQXNHV2MwOW01S09jblhYOWczdXl0bEk3VGdETGVwWjRmX0lhNlptYkoybzdwRzBXVDMtSFoyMm5XY3daYnRVTEp2T29pTjlzb051STltVS1iYjBHdmR1VGxHVUNQRnpPendveFd4YUJuaDQtR0JsUGJQNEF4dVRINk9aLVpoMW1kOFpYX0NfYzZZLW8xajdQNnVUZlAzR1dPU0IwTHRlVFlMc3BxX0UyLVB0a20yZk40VEJVZzRvVkpRMHQzejBIbkRLaS1qaWxSNkJfNTdKQTZqX2lmVV9nUXFsaHNHV1N2d2dTdEwySTIwZEdUZjNUNzhibjZoY0tYSFcxdF83V1JDbDV0WlY3S0hFNGxTcWo2dUh1Y3ducGtFa9IBsAJBVV95cUxPZDVOdUMwc0JqWEdGYmoyN1EzaGpNOHZVSEZGVzNmcEhGVGdPcHVCTzFEem4zc3lBRWV2Z1NjVGJIUTVYU1E5cVhfY0w1aGZzZjBneThuQWFOV1NzTjhzWVY1MEJYOFc5Zlh1ZjVydHlETmNwMnVFT3FDUUVvQl9CWUpCMjFZMzB0S1pNNWtqTTNkSFdlYTRzdEpmYnN2Y2RJRjdVOVp6Nm56aDMxNzdNeUZKWDNEY1NZUlhNOVczcXdhWGtHeWowQ3BEeE55NTBReUlpYXN0ZzRRMk8yejVRUHJvempDcWhGakszdEctanAwdGsyZ2hTblJ3WTFJTFl2WlZKNWh2Q0JLelhVWTBtcmZfZUhpMTBVai1QTFlwdjY3RXhUR1V1YURmM3lPWTR6?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671939122
+    },
+    {
+      "id": "news_HEALTH_WomanSpentYearsBelievingSheHadMultipleSc",
+      "title": "Woman Spent Years Believing She Had Multiple Sclerosis Due to a Misdiagnosis. She Actually Had a Rare Autoimmune Disorder - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1U5ZTJ2SDNRLTI4Ull2RlB1VzhMNlVpaUsyQjBILS0xaXRVU1RPVExOa255SWRXUXVwNllpTnF1TFBjVzc0Um8wR0ZiejVRMS1NVXFTaXdON2ZacEJ1Vi1PZXZIcjNodXJzUEdCTnpIZTJJWU9FYlNzUld5MUw1MmFsQmlZTG1PXzdWSUdCbHZTUGlX?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671939122
+    },
+    {
+      "id": "news_SCIENCE_LinkswiththeBritishroyalfamilywouldevent",
+      "title": "'Links with the British royal family would eventually prove crucial': How DNA solved the 70-year mystery of what happened to the executed members of the last Russian imperial family - Live Science",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQTVQzNVc2d0R0aEFLdGkwVGxzWXdkbmhWTEd2S1Y1dVdjbkZIcXJFV3hTRUtvV21RUXlpTW52Rk9URU1HbDhnRWdFWVRqRXZlY3BOYkhMN1BSRnFGdzhYRjl0UlAxR0ViczhfUWt6QUx0Q2JwVG5aekVNYWRNSDV2aEZubkt5aVJjMTV1MXlRQ2JSQjE4QVVwTHdMbERzcl9tUDF2UzRPN0ZMQy1uQ3BZZTVIdFFueTltaHY4NEJHeGlnUm1KOGxJOElBWDNmRU95NEdqbDY1c2Q3SVlMekdMNlRHUUpFbWpLYlNRQ1VYemNsVXJHQUJsNGtIQTJpd3pjcVpURnM3b05NVGd5c1F2amxXOFkzLXVOYkZvRThsRTVEWkpBSzc0bFhhZ3hxWWJYLVFJYTNYVFprMndZX1hsR3VRYW4?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671938408
+    },
+    {
+      "id": "news_SCIENCE_ScientistsDiscovera98MillionYearOldManti",
+      "title": "Scientists Discover a 98-Million-Year-Old Mantis With 'Leaves' on Its Abdomen, Trapped in Amber - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnNkbGx1R21DSGVSVmxjbkpEMXJtZTBJVUV2WDd6ZXNVMXN6c2JNMG1KbDl4MmdjWEwtS0hUWmRMcXphczFOV25DV0FRLXhRRGpoS2pNdWFGSk9yamtjejVpanQtR2pBd1A4djhhVi02a1YtYXEwNVFIQXYzT1FKd3FiZU80emE2X1dUZHFVYlZyOHJSbjl5Ug?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671938408
+    },
+    {
+      "id": "news_SPORTS_WhatImhearingaboutChargersBroncostradebi",
+      "title": "What I’m hearing about Chargers-Broncos trade bitterness, why Jonathan Taylor stayed - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSS1oaTVxb2pMUnpRNldkSlBJd0xMRGhpbkhMdVdzUldpMXJia3cxaGcxcFNHa3dFZDF2dWxSRERWVmpFU0Q2V29MVFB0MXdxV3N0LU1FSm9YdXpVX1hnYnd1VWRxVGh5UzRiQ1U0Rm0zWUttVXJveGE0anFtNmc0b2lqVDZrZkEtdjFnYWd3ak5oVThOY3lZblRWRmJXXzg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671937656
+    },
+    {
+      "id": "news_ENTERTAINMENT_YesDearstarAnthonyClarkscauseofdeathrepo",
+      "title": "‘Yes, Dear’ star Anthony Clark’s cause of death reportedly revealed - Entertainment Weekly",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiSUdCVTNfeFlRdlJ1QV9kbENLN2owU0dvZGFMMmtMOGp5MDI3eUg0LWVlSnhZR3FhV2pvZ1QwcVJpX2xkalQ3X0Y5Z0NjLV90Z3RLVlNnUUx3SlVnNWVWVGtXT29IN0RkdkpCQ3d3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671936947
+    },
+    {
+      "id": "news_TECHNOLOGY_SamsungmighthaveaccidentallyshownoffGala",
+      "title": "Samsung might have accidentally shown off Galaxy S27's most eye-catching feature - Android Police",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMHlWRXN1Y1dpYkZQTFNPM3NtdDdUWjFjeTBicmJyWXVGTDZsT185eEpwNWVuUXR0bzJ3NnJOb0dyMjZYaU1zeEE0OUFNaEVvazhIUjNoSXptSTRWTnJTVW5Qb2xkMG5QVlNzWWlzaFVLTnl2RVBEZ0RXZkRZNGdrbHNOLUwtdG43UXBTZXJGUmhjVnJGRk5uYjM3WQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671936245
+    },
+    {
+      "id": "news_BUSINESS_EricTrumpbackedrobotsoldierstartupcantpa",
+      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5YW05b2ptbVhhVkdHSnNqN2wwU1RaN1pHMGh3UUU3SlpWcUl0MVNINloxLVFmbVV4N0dWaU90RDBGb3p4MktjTDVVeUtIR25PVnNjLWhQeURhdkthcUJ2cUVmMkJ2OXUzVUNFZXF5UnBoQdIBd0FVX3lxTE9DQVVfcVVUOVhwbko1ME5GeG16NmR6Q2lWVnNNdU1mTjdYS3RmVVh2WDQyY2hqZWM4UGNvcWVnX3hhdkZFby1hVjRTVHFWUmg4TjNxSE93aDFPejc4SWFIM1RGOGVzR0xhdXAxbU5kUmtiLWxoZzFF?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671935542
+    },
+    {
+      "id": "news_BUSINESS_TrumpistakingElonMuskonhisAsiatripbuthep",
+      "title": "Trump is taking Elon Musk on his Asia trip, but he plans to avoid talking about Nvidia scandal - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée; figure tier-10 (elon musk) mentionnée; mots-clés viraux: scandal.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHhpU25yMzdNQmNyZHptWlZDSEs2QWpJdTlhN2hMUEh2TUpMbWFZcVlvQ21hY0pmYjlLTFNobWdkZl9JSGNpQ0NoNHZ4eDczdkhkckQ0SGR6Zk8ydmc0TF9sTUNtNmhPSzBPQ2RHOGtWVzZ1emV0S3dUUElGcXRUaXhSZjBIMjluU2tUSjVxMmpiRTR1dzhVeHJMMVg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671935542
+    },
+    {
+      "id": "news_NATION_InsideStephenMillersaggressivefirstweeka",
+      "title": "Inside Stephen Miller’s aggressive first week as Trump’s chief of staff - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVHFMOGVOUDhOREtMQjBGcXRVemE3dkw5N2ViVU9Gd09XOW00NjZqX3ctOHhqTVoxaS11OGNHRjAycjZ4RlZub05USmZDb1RFTkplUk54Y0hEc2stU0ZhWU1aakxJcGtMWGZtcmJldjhQbWE5cTVmbWdoal8tMHNsYg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671934837
+    },
+    {
+      "id": "news_NATION_CanadasCarneyreportsprogressintradetalks",
+      "title": "Canada’s Carney reports progress in trade talks with Trump as he expands ties with Asia - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX3VWTFFKXzZkZzJUZThSc0Y4cE5pWUF2TG1pR1A1UlY5N21QVUF6VjVmTjY0SzlVSUdXUjRoOVBtakhMMlVvazRqaVpwdGd6LWszcUtpcnp6emxFTDdoNGJKVTYzTXpJM1VWWUJDTDlXWGxpamhQb2NFeGIzSlQ2S25LVC11RUVBdHpjYk15RzJqdGNRQTVZSmM1MDFxYTNld1N4LTFRcWM?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671934837
+    },
+    {
+      "id": "news_WORLD_GermanysMerzasksTrumpfornosurprisesfromP",
+      "title": "Germany's Merz asks Trump for 'no surprises' from Putin talks - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUUZ3SHdRVnJZNF9xMFJzWDhoQ3RRQnB1c0RIYlpJVEktemJNcEVEVl9FUU9LaE9HYXduMTNCWGpEd2hGUHRpZWdyNjNXT1ZpRUJ6NFFFcVM3N0RfOWJhd3VDUUFmRll5VTBRbkJrSWdEYU83S1hlR1lCSk1jRDlLLTJDMmdUTjVibXFXOUU1OEZnb0otdU5TdTJzVWQtZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671934126
+    },
+    {
+      "id": "news_WORLD_1800yearoldbronzefootfoundinbogwascarefu",
+      "title": "1,800-year-old bronze foot found in bog was carefully taken from a giant Roman emperor statue in Scotland - Live Science",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU2FkS3U5cnNXUlJJM211SEdDTHVyRVAzbXBvWHM5T1U2QmcyR0V0ZzdkUjdvWHZQLUE1bGlmMUJyUkZVaE1Fa01PNGE5LVMtZDZJajNramdQV0lwVU5rbWpHOEpFQUo0TnpPUVBVMmRzVVNCVzRXbFRHb0ZwdjNQUm1TZkw2YTBvSjZRazFVMHJwTHlyX1dPeWtNSkcwcTY1LVVwOXhXZ2E1VmczTmhnQnBxaHJRZFJFM01FNHZDa1dPM1BscDd2Y0lfNVhZUnFxeDJyR1BFbTJvXzZDaUNTeVE5ZTFXZWF4ZWxiYzBKcFZEUGJZaUprdjB6TlJSS0k?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671934126
+    },
+    {
+      "id": "news_WORLD_TrumpXiPutintrilateralmeetingatAPECWhatt",
+      "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794671934125
     },
     {
       "id": "news_government shutdown_Trumpadministrationblamesoverloadedsyste",
@@ -5302,204 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1794219907054
-    },
-    {
-      "id": "news_viral scandal internet_TheTrumpCardReactionsandviralmemestoFIFA",
-      "title": "'The Trump Card': Reactions and viral memes to FIFA’s controversial US red card reversal - Euronews.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (viral scandal internet). figure tier-10 (trump) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSG02cmhONVA3TXEyWVVwcGloYnJ4NTBmaVBmV3VieWsxR2lEemVaeW9wMkdUVmU4WmtZQVZhQ2lhR1NIT1NyMWN4V0dKb204M2NjWmRla0lreWlLZUlJRENsVW5ZN2t4Um51VnhUVTYybDFXbXRVZTlDNEhlT0Z2MkxTU2t6S2MzMnA1WjJuRlFlOUNob0dCY3gzSXUtX05Bc2FzWDd6X2NtVURkb1pjVVRpYVgyclA4YU5tOQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794192346387
-    },
-    {
-      "id": "news_SPORTS_PlayersripatrociousSIStadiumpitchinGotha",
-      "title": "Players rip 'atrocious' SI Stadium pitch in Gotham win over Seattle - ESPN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUtmaVk0TEgyT0E3U1FscmVldFI5WGhhbl9jQ20ybHY2QkUxZVJibDRkbHlVMXZBbG1IbHV5bFU0QkF1RDhmZkFlOXFBa3lpeC1pbDRFNjlhR29UZkJhWDFqOWgzSGZUaHdqM2hlVzdsTjlVN0VNa3pxRFJqZUcwclpZMXRUOGVMVGc4WDdFTFhxOHF3Mnh5Yg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794192337596
-    },
-    {
-      "id": "news_ENTERTAINMENT_OfCourseDruskiPlayedElizabethHolmesonSNL",
-      "title": "Of Course Druski Played Elizabeth Holmes on SNL - Vulture",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzR5ak1vcERIbERVZ29XVnQ5WlVkaUZPblpYeTlobEZKYWtOMTBxakdlSUpYM3JxSVlVNDd6SS0tQ0g0cEpHTTRCczdiSkFvd3RiVDVXNlZadGZZLVNWSTdlcmczbDYtcnBCOU5pYnJ3bFBRNGlScGxKU255eUItcWsyZzhXMTltNkVzcA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794192336657
-    },
-    {
-      "id": "news_ENTERTAINMENT_NoTimetoDyeJacobElordiGoesBlondeVogue",
-      "title": "No Time to Dye: Jacob Elordi Goes Blonde - Vogue",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0U1JFbTV2OTA4QjMwSDZkR2MzWEJiNDFZYWxqUHR5dzJkMF9aY1ZxNi1kQU9vN2tOeVRkYko1NU5oRzhCbWxWcWlUYzEzbXJDeXFjNjhNSXJjWjV0a3F1VDJJNjU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794192336657
-    },
-    {
-      "id": "news_BUSINESS_Cruiseshipemployeefoundbyfishermentreadi",
-      "title": "Cruise ship employee found by fishermen treading water 20 miles off the California coast - The Independent",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWlhCd1pjRGNBdVphRmZydGVMZGVJSFZVZXFyZmp4SThHRmVuNl82emY2OU55YS1yT0xZUU85Y3plcTZIS3o3OVNjV2FLeVI3SzZGdmY4TjhDbkxxTWk0cWVYMU1qc0YtaV9aVzd4R1RGZTN0dHBrOXBRbzZ6QVhwWFM0ODVVdVZDYXgwZFRNSU5Mb1Z5VUVpT1NSaGV6cW0xdFFKWVdQZU9YX0xSN3ZOV2g4R1Z6WDJUaGhhOQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794192334615
-    },
-    {
-      "id": "news_BUSINESS_OilfallsonopenasTrumpsaysfreshIranattack",
-      "title": "Oil falls on open as Trump says fresh Iran attacks 'unlikely' - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794192334615
-    },
-    {
-      "id": "news_NATION_TrumpsayshewasonlykiddingaboutmakingUFCh",
-      "title": "Trump says he was ‘only kidding’ about making UFC head Dana White his press secretary - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWTNiUl8xU2lhaDVvMVhMV1JVbmJweEtIR1VGX0JnamVoNHpVYlN5S1ZZdzNPU09rTEtRYVlhcmpVOTNOS0FrX3N1dEtmTE9wemxsc3F2ZUdRb2NJLWo2WVNnNm9CTlozWC1SV2xlRDFsT01PTXdySmhiMURrM2Z0dVhtQTVRWXEzWmUwOFAzVC1FbGxFRUd0NVIyV2VwZS1samYwT0l6OXBONEU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794192333701
-    },
-    {
-      "id": "news_NATION_TopHouseDemocratsayshesahardyesonPeteHeg",
-      "title": "Top House Democrat says he’s a ‘hard yes’ on Pete Hegseth impeachment - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzZRYWpCNTlaNXhydFFiT0tRbFlOVEhfRE0tRF9GRU01b1B3M2lqckxteGl6QXlQaHJRR0ZaSWoybUR0UUt5V1FadEJtSm1zYmI1Qzk2U243ZkJqbDVoUGFuVFFiT0lPbTZ2ZzlPekNsay1TX21KUXlKYTdjYnBLZHJnNzZxU25ZbFZJajhScVZiRUY1ejIzNGRaOHZlSnRJaTM3MHNYVjRiYXBaaW5R?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794192333701
-    },
-    {
-      "id": "news_NATION_FormerRFKJradviseraccusesSusieWilesother",
-      "title": "Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWFg1bXdpci03eldOQ21waU42a3hTNjhsWktIM2xSeTF2RmFlWFFIYjEwNXEwZG1ONnRHd3NHWnZWUW4za1ZiT3oyX292RDZmNjNlS1BBWnRSeGFMa2VpQlJRMXczQmF1di1UUkgzd0tJMFJXZHNYc3doU2k5R1FMQV8xSkxzZldoWnY5S0wyS0Y?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794192333701
-    },
-    {
-      "id": "news_NATION_ElSayedblastedkillingofAlQaedaterroristU",
-      "title": "El-Sayed blasted killing of Al-Qaeda terrorist US citizen in resurfaced article - New York Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0tEeFhYdF9hYkoyOWdTMlJocDU3WXZnbFZ3YTFmaWlTSjE3UGM0WF8tN1YyWWEwXzh3U1p0endzdGljTWtfekNwNWFFbkFGMlNpUng4OXlJeTB0c3pVSGNVVWdIbTB5ZThEV3Fab05HOEtYUEh0aWtxZ2pOZ2FsTEhEUzB2SExJN3NfT0lpcHV6WFcwMktYaHhFU0dKZktmX3REb2RyTENtaTVPOXBQc2ZLSFY2Q2pOY1E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794192333701
-    },
-    {
-      "id": "news_NATION_TrumpsaysrenewedIranstrikeshighlyunlikel",
-      "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0l6UllaNWstdHV3YXVHY3FsaTV6blctcjJ2aDl5dnNwZF9OOFdrRXM5RlN6bUYzU2ZnTGU1bndLek5kTDFTWG1LZUFuamZLbFUwUmJiMDF1a21pOFNhcjI2SzdLVHRtWWYzOHVJVl9qMk9CY3E3Y2lEY1VOZ2txYTRHOA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794192333701
-    },
-    {
-      "id": "news_NATION_19yearoldkilledwomaninjuredinfirstWinsto",
-      "title": "19-year-old killed, woman injured in first Winston-Salem State University campus shooting; 2 men charged - WXII",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUpXWUtMQWF0dzdxa2tTeWVfNFNGTWdIa19yMXB5am1hbWNGZUpkMnRoTWd6VmVvdUoyRDJ1UzNVd3EtcGdubEpBZjZlU0E4ME1vMjVPMkx4OUl0OHNZNXF4YTFmTkF5LUg3VXRpbEJMQXR1d09MTGZaNURDVkxJNmdvZG5JN1JYZUxGb1NxSmFxbXVHYnFrU2NHNGNHd0s1Q1U4M1V6YzA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794192333701
-    },
-    {
-      "id": "news_NATION_NewportBeachfishermenfindRoyalCaribbeanc",
-      "title": "Newport Beach fishermen find Royal Caribbean cruise ship employee treading water 20 miles off coast - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZE5YVXhVSmtQWGhrZ05Cd01kckhIRWZma05yck9aMzc3ZmRBQlBvbm9mUExwTXF5Z0pTUTljY0VxQ0h6RGZDX01waXR0aFdzdHlDZHJJZWYtTTBQR1pqY0JzYkN3UE9wQ2d6Z1JzcEpZYmF6SlFHd1N0OU9pMnd1enkxeXliVTVnWkVhUEZHVFN1OEFoMnlxTm5JZ2pYTHVsUXVDY28tZDZoZS1DUFU4clVidVZ2clB5bVVHYXkxdmVZX3c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794192333701
-    },
-    {
-      "id": "news_WORLD_TrumpsproposedRussiadealraisesNATOalarma",
-      "title": "Trump’s proposed Russia deal raises NATO alarm as ex-commander warns Putin seeks influence over Europe - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1VnaWFTRENkVThTNzhzdnFaVWV3ZnZMSDhPbzBwdTlvamZKTXJLdFhRS3g0UUpzSHE1ZExZU3RTd0I2SmpaTW1yN0JHTGtPUnBtWFUwbmIweHpqdzczbzhZN1dfRzJ4UmNVZFo4M3piMnVOUXM0ekl2UEpoaHVGSnZQbk9hRU5SbXB1c0s0WVpXYjhTUzRpOUFoQTk2djZFNDV1Mk02UTZtMndtREZUQWsxeHRHOXpIWWlRbUh0TmlUeGNIX1pv0gHMAUFVX3lxTE5GUHBjYXlZLWtJYzgyVUlmdDIyVk1KRWdQX1hmazVoNXJvMHg3Q21lZXlXVExtNUZDeUMyV0liMXN5TGxFa3Zka0ZneHdhRS1hdlJKUTNocWs3ZnV2bW94aHl1cDNLMDVjQnhIWVJneFM3akRlMU1RQ08wZkdnTG5ZSDNQLTFOSzMzNWpfRUk4c1lxdGRhLVhSVFNSVDNrZHhwbTIzMTZTb2UtQllhUEdNcDRVVXlUTElqcXhrOE1FVkpldmpxM2xGbzNNTA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794192332781
-    },
-    {
-      "id": "news_memecoin launch_EXCLUSIVETrumpsmemecoinmadenearly100mill",
-      "title": "EXCLUSIVE: Trump's meme coin made nearly $100 million in trading fees, as small traders lost money - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (memecoin launch). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZUV2YnVpQmdsQ2Vpd3FWeWJ5OGo0SkRqMmpxa2RuQ2FJbU9vM1dXdWRPMW51dHlxS1NIUFJwdGxIXzFaLVVQS09Qd0VNVHBlSURfa21zLTBQUXRLMjg0dkJxdDIwakp4aW0yUWNkcHFLZXZYTFd5cThFZXdfZWsxYlNLWTFCV0EycGpCRXphLUFpNzEtbTBOT2NaS09zcDZxbW52bkpfRUlqSWtXYllCcmViNlFKTmhnUXBvc0h6NW80M0t1WkxoeFZ2ajBmZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794179952369
-    },
-    {
-      "id": "news_SCIENCE_NASAsdestroyedSwiftObservatorytookoneoft",
-      "title": "NASA's destroyed Swift Observatory took one of the best-ever photos of bright Andromeda — Space photo of the week - Live Science",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaGhjS0s0SHlCaC1VYlBHWmJKQjRVaTZiTUNzLWZBMXN3VTBiVWJrYVhCOFRjUGhuUmlhVW1QLUdSV3RncDM2d2xPMk1IWC1WTXBiaWlCOHpPYWRCdUYtMktvM0Y0V0hnY1NYVHRzaWtsckJ1c2VpWEFlOUE0Tk02aUdSQVdkaGlUanVUdDlqYzZobUwzSzJUaFhRSmFBMzJTbjFCN0U4ZERKRVNPTkRQZ2hoVkI3Zk54ZFRuYmJLNnJNT2pXYjVTbGVOd0tmVS13MzI1d2RER1RyTS1TQl90YUtXM1FCaXdmalE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794179950681
-    },
-    {
-      "id": "news_SPORTS_GeorgiabackatNo1inAPTop25aheadofUtahIris",
-      "title": "Georgia back at No. 1 in AP Top 25 ahead of Utah, Irish; Buckeyes drop to 21st - ESPN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlBjUTM4Nm5jMXlPeUQxTUxwWjFoQXJjRDNwSTV6TmlnRmVWdXVnc3QwaWQxZDNlT0hqemZsVXVtZkJ3VlNoaW5RRWxCY0JmODdjcl9aM1E5SWUyMFR5Sk01Zm8yXy03d2tHbVJseVoxRTAwU0dMQnBiNE1vNWFwdFpGaXhKR2NNei1EbXM1Tkt2Y2o5dTd6ZUJKSlFQRkRGZXc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794179949906
-    },
-    {
-      "id": "news_SPORTS_FormerOhioStateplayerssoundoffonprogramR",
-      "title": "Former Ohio State players sound off on program, Ryan Day after humiliating loss to Oregon: 'Clean house' - CBS Sports",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa1lOWUJzb3JLSnlJMU9PY0htOGpBWjd0ajU1MktIZTV2bFM1SldrMHF6Sk9aWWJxc1dYZzBhQzY0Q1ZUeldTdHV5cGhvRFhacmxMRU84eHB5SmFzWUJBOTlOVXg2a3FpMHZ3dGNlVFZQQkVUSU12ZGtLX2dWVllScE9kNDJycXhqdEFicmNvdjMzQmRNbFRKT1g0UDJvRnE1WnBSRExDLWUtOFBxQzN1bTZzRnJzMlhSeEE0MnJ5MEVjRmdGUjNDT0VOYXdSU3loQ1Y5X1F3ZlZ4ejd2NTBadmRIdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794179949906
     }
   ]
 }

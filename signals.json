@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T15:59:24.845439+00:00",
+  "updated_at": "2026-11-14T20:31:25.986495+00:00",
   "signals": [
     {
       "id": "news_memecoin launch_TrumpCoinDonaldTrumpLaunchesNewMemeCoinD",
@@ -1848,6 +1848,127 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_election crypto_TrumpinDangerasDemocraticMajorityTakesAi",
+      "title": "Trump in Danger as Democratic Majority Takes Aim at His Crypto Empire - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDBsSkkwMGsxYnUwNVNmMUkyZFpvQXFnaHFIckNNUUFKc2VENUhlaWljdkdwTThiMVAyV1dvSXlTYUtZTFcyUXY1aTBETkhUS1B3dklyZnNTT2k4cDVfYlhmLVd4ZEE3aDBDYURNYXJwUFAyWGdwTENBUUg0STRONE82VTZrWkJ6al9XS3pxbVJ5VktEZWVTMnhweGJSeFE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794688272314
+    },
+    {
+      "id": "news_memecoin launch_EXCLUSIVETrumpsmemecoinmadenearly100mill",
+      "title": "EXCLUSIVE: Trump's meme coin made nearly $100 million in trading fees, as small traders lost money - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (memecoin launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZUV2YnVpQmdsQ2Vpd3FWeWJ5OGo0SkRqMmpxa2RuQ2FJbU9vM1dXdWRPMW51dHlxS1NIUFJwdGxIXzFaLVVQS09Qd0VNVHBlSURfa21zLTBQUXRLMjg0dkJxdDIwakp4aW0yUWNkcHFLZXZYTFd5cThFZXdfZWsxYlNLWTFCV0EycGpCRXphLUFpNzEtbTBOT2NaS09zcDZxbW52bkpfRUlqSWtXYllCcmViNlFKTmhnUXBvc0h6NW80M0t1WkxoeFZ2ajBmZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794688263677
+    },
+    {
+      "id": "news_HEALTH_YearsAfterOurDivorceIHelpedMyExHusbandDi",
+      "title": "Years After Our Divorce, I Helped My Ex-Husband Die. Here's What I Learned About Love. - HuffPost",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRDI2LUYyUFZSek1OdXhtd0pVR1dWTWJ3UUJRQ0Q0N3RpelJnY2ZsNm15bWpCMGNvZW1kN1ZRNkVZT3l0T3lRUmJQcnE2SDVYSTlIeXFzQVd3RXNReGhXdFdNMlAxa1JXRlplUnd0R0lCc2Fnc3JETWREc1BvWVhzNi1ZNm5fZ2JXOW1QVWZrdUlOQkpYTzNwUlZLaVJWZGdwSlJ1VmoxaWphMWVQVFh1MFdmSEJVTUYwT1N0WmhVONIBxAFBVV95cUxOaDR0Y3dCSDUxbENIdGpPQ1NYaFVfMnNta3NWbHJnZXEzT2RkVTJDZ2RrR3NPWU9vY0hVcWlYNzZSaC1XbHZMeXVoUEpuVEZPOXJLZTJYS2RKUUJTME9vWUJCM0l3MkpUNnN6ZzhBZkV4ekVEdG5fTTVjYmJvMi1fT3ZkYkZETjFKNVZ2cmd1aEE4R01Rb3hxcFdJSEphUllibHp3NlByblVLMHhpc0Y2U2ZLT2xMWWpwdjJoMF8zRGpWclhL?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794688262724
+    },
+    {
+      "id": "news_SPORTS_BlueJaysPlayerSaysSorryforSharingAntiMus",
+      "title": "Blue Jays Player Says Sorry for Sharing Anti- Muslim Posts - Newser",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS01SaXpsYmVKOU9oQUtTQ2FreVoxcjN6YzFKN2hlb1FtNkE4YnMzQ2d3X1d4MVhxQ0syeWVqLTZMNlp6eGRVdlRJaFA3dGo5NkxkbzAyWEREWkx2STJlVnlYcUthM0t0b25sZ244WkRQd0hUelppYzdidEtxajRZT3NpaWhqSGpleEpfaEpQUDYtZ0c2cXV0R3NHMkFBNzA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794688261199
+    },
+    {
+      "id": "news_SPORTS_UFCstarand21yearoldfriendreportedlyclear",
+      "title": "UFC star and 21-year-old friend reportedly cleared to wrestle at RAF days after fending off hotel lobby ambush - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVJ6bmI2NWtjeDNlM1lLMXg3ZEZucTlSc0hucS0zRGxrZkRCVDNyTWpaekxSckhZajlzSmNZNUZFcHRYMlZFbXptcUhLcDBHWF9MeG4yZmtQUXBYWTJlMUF2NmNYT1Vvc19JWUlhUUFmMkdkcnM4VEM5RXFnR0pBeDdReFhYQ3h1RGhuOGNZWEJlQnZXeDZoeEpZMEFwY0pONTUzbGpOTGYxWERSNzJZSUlocVJJUmsxNHV5M04xeTZXZjUyM3o4akg3SUwzQmctX0RJV0pn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794688261198
+    },
+    {
+      "id": "news_ENTERTAINMENT_MikeMyersSaysHeMightBeinShrekSpinoffDonk",
+      "title": "Mike Myers Says He “Might” Be in ‘Shrek’ Spinoff ‘Donkey,’ Calls Film “Long Overdue” - The Hollywood Reporter",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmZGMTBnYm9ZbjQ5bTR6R3lZUWtNdnpzQlZHOWlWcXpOVUR5by1BbXdqVlYyc2dyMEw2cHlaTEJuSGNiN0U5X0FjRTZWRDZXMGV4OHdSa2NoeC12NjUtWFl3ZUZNbFhtNmhlTkhtYmphUUg1NlQyNlE0VHprUGRQcFR1cWZ3QlZ5ckMtdW5OQ1JQTEE3Mk44OWl6X0VxbnMxYVE5WThtT2VYS0E3SENCTQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794688260437
+    },
+    {
+      "id": "news_NATION_DemocratwinsAlaskagovernorsseatforfirstt",
+      "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHpOelhJaHVyV3hfZ1Qwa1FJM0w2aE45emVoZFZnOFdVb0xuMTdCN2VXSkYtRTV2VlN3QWhXQUpwaHh2YUs3ZUxWazd6eXJOV0p1QUhPSVJMdlBuTWNlalZKQllwazZiTDhOOTZhVDBLeFMzcmlTTmxDM29fbUstSHpUSWxyNkVzVXhmcTNyVUM0aVVWa05QazZCUFJ5ZUdxcHBR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794688258274
+    },
+    {
+      "id": "news_NATION_HowICEraidsinKansasmeatpackingcountryspa",
+      "title": "How ICE raids in Kansas meatpacking country sparked fury – and turned voters against Trump - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUpKd3dpdkNxbWlsZlB2VzBwR2tMNkdpbG44Rko4ZXprZzhXOG5EU19fT0FZS0pRUzEzWkUtRDkzclR4NUx1Q25JTHc5WjVZRGJNdkQxRXR2aEZRbTVBLVZjUzRxU2w3Q3hKRTVCSnhHZThXU2RtNjNvQzN1ajMwdDlSem10NTdINXdIZ3V1RnBGWGFFWXc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794688258274
+    },
+    {
+      "id": "news_NATION_JudgeingolfcoursecasesaysinquiryintoDOJl",
+      "title": "Judge in golf course case says inquiry into DOJ lawyers will proceed - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGZQOHRpa0RST211RkVqQzV1dUppSE9DbGZtRk5Fc2oweXQ3UHp1a1owX3EyeThWTkhNUmViRmhnbDVyY0ZGamlORVpQeEpjX194T2RvOFBZMVNQRzRORVRwWGYzOGpOTU9zeVVyUTJmUExNekV0V1RqMFBaemxnQ1ZIVGJXRUZOYTZiQnFqbjZESVFaRUItaVcyRHhnUkFCbDdxaXI4VUJPV2VOcm9zQlF2NGQ0R18t?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794688258274
+    },
+    {
+      "id": "news_NATION_DidDemocratswinordidDonaldTrumpjustloseM",
+      "title": "Did Democrats win, or did Donald Trump just lose? - MS NOW",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBITWdrcHBzREMtYURPSnRhYTZvQ2xURjJKZWh2allVSlZlWlRzc1lLM0RWLUZEeWRvNW1TNEN5V2tMamJfaTEzeEhYSkdVYnpwQnZPRldFVWxMUnNuMmlqQmFDX2IwckFP?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794688258274
+    },
+    {
+      "id": "news_WORLD_TrumpXiandPutinplanunprecedentedjointmee",
+      "title": "Trump, Xi and Putin plan unprecedented joint meeting on APEC sidelines, White House and Kremlin say - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794688257485
     },
     {
       "id": "news_billionaire announcement_LandmarkDellGiftSuperchargesTrumpAccount",
@@ -5379,127 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1794219908681
-    },
-    {
-      "id": "news_NATION_OregonmanchargedwithtakingUtahteenhadbee",
-      "title": "Oregon man charged with taking Utah teen had been accused of sexually abusing 6-year-old - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd3E5dzFJdFlNZFFGZDNhNU0tTW9SUUZVYWhMQkRJR1Q4aDdpWlBLN0hIV1JEWmx3Tzl1RlJnNGNmTjlLWFdCWUtNbk1LQl9Rd1pUaXozczhrdWNDQWlNT1FjQ1p6SHNUVWpIODN2dXl4RWpHenBaVXhZREdhVmdxazF0aldjcVJERE14cDJZMGxIQW14aU9SRExnUWhLazBoODl5cF9vNnA4Q29zOU5kVUIwcTg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794219907917
-    },
-    {
-      "id": "news_NATION_TrumpsayshewaskiddingaboutDanaWhiteforpr",
-      "title": "Trump says he was ‘kidding’ about Dana White for press secretary - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRGgyLTRaNWYxdjdqNVJQbkwzQ0t1TnBuUXJBQlFiZXktY1IyeFVBR2NmeW41UUlJTkZaRTNWREx1NFFJYWZPOC1YUFk5cENwMTJyWVBSUWtUUlFmejJLMTZtZzhPdkRuRFRBUjdocmlQbmdtd1loMTE3SFUyUmZGNtIBhgFBVV95cUxNZnZHZ3p4ejBqNHlPaGZpUzU5SkpCRVF1RWhGUk10M2hMUEtxY2hWLXF5VmxwWDZtdGZtT0JwNk1zcWpOenpBOXZTMEVjTEREU2tSWEd2eDBGWUxlYjFERkozamtmTEVGdGo1ZnZJdUtnZEhZTGhlbGRKaHFVejgtMUxVMC1PZw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794219907917
-    },
-    {
-      "id": "news_NATION_InrareGOPrebukecongressmansaysTrumpmustf",
-      "title": "In rare GOP rebuke, congressman says Trump must ‘fire people’ — including Miller - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb2VoRUJibzQ0WkVKODU3VDlSLU8yTnpDMlF1V21DR0Nmam1sM3gzLWFFbTJBYUdMZUZqXzZkUm9xS3lUNzBCOHZqVWtGb0JfYzVpMzZhdHU1TzJVSGtZZFJFT3Z0M2xnZG54ZkFJRC1ERlM4REpnSDVsWFdWb3ZLWHB2VjZzX1BPU3Q1em42Z1h4aVJyS1NjeDdobTdfOFJUVGhjU2FJUzB1V2paQmpYR2ZJT0JHR3B4c1RTYkxzVGV0dw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794219907917
-    },
-    {
-      "id": "news_NATION_USSenRonJohnsonaccusestheTrumpadministra",
-      "title": "US Sen. Ron Johnson accuses the Trump administration of corruption - Milwaukee Journal Sentinel",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTDhwQjBlN0ltNTNCeldUY0RrMlgyT1NGc2xRY0hLSTdYQWlNLXl3cmdRTXpYd1BtREhFSFBXMUFsZ05lX1VWaWV4OC1JRUlrVHJveTNRWHN6N2tOWHBMd0k3Q3ZVRm05WGdRZTcyOVpsd0stVlJfY3BKaU4wVnFaQ25BN081bDJhQVcxVmM4UVpSc1p1NF84RFBYeHA4T0VsQ2F6bDg4emJlcjBiVWk0MkJ1RFZHSzVTSl81cXJGY2RyQkNZMUlBbUZieE5iOTQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794219907917
-    },
-    {
-      "id": "news_NATION_JeffriessaidhehasyettohearfromTrumpPolit",
-      "title": "Jeffries said he has yet to hear from Trump - Politico",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1VUYklvZlM2eVFTRExabERZTFBWVVdQT0FRYUw3d3dxN19OZVdtQWN0d3JYNld5aFQ5ektUVjRiblprMHRxMWh0c0F4QmlsM2tybTlJZzZrOVZ4Z3RKRGgxZGNyR3d5NTlpTDBZOERUVEtyR0JWdzMwTWdva255a0ZqZ1g?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794219907917
-    },
-    {
-      "id": "news_NATION_8yearoldHaitianboyplacedinfederalcustody",
-      "title": "8-year-old Haitian boy placed in federal custody alone after ICE check-in - Yahoo",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0ctTTNXUDczOC14T1dVSTAyaVZ3Ml9SMW9IaEMxVVJOQUdOVVR3ZDJVZ0tCZWN6YVA4WHNPekk1MmdlRWxfdUtoNFdjV2E2dHlDZk01aFRIS2wzSjBCdTVnb3VsY2JVT1h1N3lmVWxYbW1zUm5HZm9ULTg1M0J2d2pOQVg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794219907917
-    },
-    {
-      "id": "news_NATION_TrumpsaysrenewedattacksonIranhighlyunlik",
-      "title": "Trump says renewed attacks on Iran “highly unlikely” if talks show progress - CNN",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRcFFDS2FTak9Bd3ZyWUJkVUh4NDdfamp4bDNDd1A1NXpleGxxeFFTRmhsV3IyZE56R19qLVVRYmhNSFZISXpjaEhwYmJHeE1YTzlJVFRDdmJYbHczRnozVjUyYWttNkxyMThCMGJrNW0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794219907917
-    },
-    {
-      "id": "news_WORLD_TrumpswaragainstIrannotnecessarilypopula",
-      "title": "Trump’s war against Iran not 'necessarily popular' but needed to stop a nuclear threat, Rubio says - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMERvcmZhZjQ1LXNKMjVUZG42cmxpMUJ5ci1xOEdYVzZ6QjdiRVdiNVpnSGVmdnRZQ3ZKNFNNV3ZnMENHeFY4TnZsLUZmNVozMlRyb25BcEN0YUI0NnFkcjNLMzVaSVpEMHZIMEtLMklNXzZkRDNRNVBKeVR3R2NTamdja09VeG1TZXNFYndua1p1Wk5Hb3RzVkFXeGV1VDd1SURKSURB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794219907054
-    },
-    {
-      "id": "news_WORLD_TrumpthinkshewillmeetXiandPutinatChinaAP",
-      "title": "Trump thinks he will meet Xi and Putin at China APEC summit - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY0h5RWRYOHBsak5MVm5FQy1UV09NSk1odWFia1BUV1VJeVE5Z01CU0NqLVc1ckZ0V1FGSndBMUVMSlRyOVpnNktxVmNoZm13Y1FwTUw3QWxGYk5YR0VHX0k5VFlFZDJXWTJBYi03dWJ6c1MxLXZQdDVCWVBDOUJDOW5rLUdFYkZjaVZzRkNzTVd1YnpvV0tHV0p1YlNQbTRzVUE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794219907054
-    },
-    {
-      "id": "news_WORLD_TrumptomeetQatariprimeministeraboutmedia",
-      "title": "Trump to meet Qatari prime minister about mediation efforts with Iran - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWlDY3R3QlVMOE8ydE15X3lId2x2aFNSMnhWd2w2UXI0MmxHVUk4M1lTV3JGSDc2aTZpcTZlTm9nOVlUOXRpOHlRSDBEc0VUQnZLS2xaeWlxREJGVWhuMHViblprZVNXYWRVVzVDYXd0UUVXZ3pXWTJINXFsTXNRTHZFa3c?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794219907054
-    },
-    {
-      "id": "news_WORLD_Houthirunhealthministrysaysairstrikeskil",
-      "title": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794219907054
     }
   ]
 }

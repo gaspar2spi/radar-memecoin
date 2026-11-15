@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T06:25:02.234614+00:00",
+  "updated_at": "2026-11-15T14:08:55.798882+00:00",
   "signals": [
     {
       "id": "news_memecoin launch_TrumpCoinDonaldTrumpLaunchesNewMemeCoinD",
@@ -1848,6 +1848,149 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_election crypto_WorthlessTrumpscryptoempirecrashesHerald",
+      "title": "‘Worthless’: Trump’s crypto empire crashes - Herald Sun",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZVVJbmlmTDh4cW9ac3BqbjAxbmhacHVtSFpIdUYtTWUyaXZUYk1aU2RZbnBnNTNZY1hLVjZoSWtWZkxpcW1SaENub243eWxNYzRwckxCcmd1Nk5KTHJyTkpQNXVtNGpWNmJXeDhxdjRJaUFXalkzX1N4TmtLN1ZwcnVfekxFOUotTldJOG0yQS1RY3lOb1FDY0xTcVpHQ0g3by11UnJIWC1UV1NpdmFrM1VteTFBZHg0bGJ1akU1SmE1NTZ1bU5rbWE3Uk54RGhhWTI5ZkZ1TnhONzJ3d0V3bmlmbTFoMThxMldvRHhiU2JPSGlCUGNySEJaRWtZWXRV?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794751718138
+    },
+    {
+      "id": "news_HEALTH_Womenwithautoimmunediseasesoftenmisdiagn",
+      "title": "Women with autoimmune diseases often misdiagnosed for 4 years or more - NBC News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzNZaGxkQUVYUjhhalJlWGdpLU9ib0xQeUlOS3AtR1ktcFRrMnhvbl9WLWpyZzBJc3F0MWlmRnhjWEZYeFMwZWRYdndlWkNLUGFYNjlmQXcwRDJZLUpLcDZ6LTBkdXAwbk1idVdOMnNaT0ZaaXFCc1F1MlBYbDVERGFCVTNQdndlOXExWDd5Y2ExZklwbmFMUjAxQ05hMlpYdGVLZmQySmxxMEtHaWhjRnFnZHE4Y1E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794751708901
+    },
+    {
+      "id": "news_SCIENCE_Acosmicmagnifyingglasscouldrevealthesame",
+      "title": "A cosmic magnifying glass could reveal the same supernova two more times in roughly 70 years - Phys.org",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU21DbHJHdEpYUndXWUFtemVKMThwVmVXM3phREtBdmFEeTlwZDhoWlZNakZYRm1paVJpZzFTek51VkJMYml5UmJFd21SVEtabjgwYTBkNW43NnJzYVNqUGVMMFZGNm9QbHB5LWhLekJ4alQ1aGVpTVNfUFJvdG5pMw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794751708151
+    },
+    {
+      "id": "news_SPORTS_AsMauricioPochettinopreparestoleaveforMa",
+      "title": "As Mauricio Pochettino prepares to leave for Manchester United, USMNT players are giving him a fitting farewell - Yahoo Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORkptclVYQnQtRm1Gek9MLVpvVnRMa2lYcG9KWkR2Mk04SWhjNEhRUTFuS1hUM0pOdkZINnZUb1RWcDNJb201dG41MTZzSXhZdDM5cF9jWWlWU1pwTjQyUVZFNi1SUTlPSEpxUzRiUXRtNm9uQnVBczhCZGlkbnQyM0RDUVdYRkhvaXpQeUNVaG8teGNlSFNYSHBhcGJWMHNnVmZaUXdENG44X0tHSlpncmlKTGlabk54ZkloUFcycjBDRU55SktfS0tvVXljX1RjcXpHTWw5TVlPMURZUGlBSlhkcW1lWHloYnZFRjFLbXpHYTgtRFVTRg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794751707448
+    },
+    {
+      "id": "news_SPORTS_NFLWeek10inactivesinjurytrackerLatestnew",
+      "title": "NFL Week 10 inactives, injury tracker: Latest news, updates on availability of key players - CBS Sports",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2R6d2t4MEVIcnA1SUxDaGJvYVZIMHlhbUluRHdWd0tNVURBUVdueEdUZHhEelBPRTh1UnBYeXlHWDZ1al9Yc2luT0Q0TzJMWEU4Z1lFYWlUMEFVbmlReUJ3eVJldVVfZjc4SUpNenNkNHRKbzdsR3dMaFE0VjViRVROZW9FWFVvU01aRmtaY3pPSE5TaDdyWkFPdmFCdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794751707448
+    },
+    {
+      "id": "news_BUSINESS_JensenHuangCarriedaSecretforMoreThanaYea",
+      "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUm9IdVZ5VzluRUU1a05WdV83eWFQZVJOWXJCaVV4amVCWmk0VU9BYlJYc3NpejdJWUJPWm9sUVkwQTVnekQ4RHQyVGNyVWNHVVVrMkhBLVVaSmJnbXVZUmtMZEdpVW1yTEtjQjVPVTZJMWdVNGo3RzBuNURVN1JiZHpB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794751705256
+    },
+    {
+      "id": "news_NATION_CarneysayshesmakingprogresswithTrumponpo",
+      "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794751704513
+    },
+    {
+      "id": "news_NATION_TrumpsHannibalLecterFixationTakesaBizarr",
+      "title": "Trump’s Hannibal Lecter Fixation Takes a Bizarre New Turn - The Daily Beast",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY3lTMWZ0NVdPeDNtc0JKQTA5VzFMeFdoRXFJMEVVdWI5dlV3anlKeGJlODRUX0gtdUw4cy1lQTZRVkEwcFptMFBmZlB2aElkRV9sWmNnUWxNdWdiTkhQZzUwMEIwRG5WRzlYRWlCR2VuNk5RYkxsS1ZFT3k4cVZIb1NpTlhyb3dWTnl5c1JMWHd1cGRvYUNRdU54LUJzX1huLXc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794751704513
+    },
+    {
+      "id": "news_NATION_JudgetemporarilyblocksTrumpfrommovingahe",
+      "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment - NPR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN0tfbHhPaGJZVW5XeHo1RUFLb0hycEtSSlhmRXF2Zmo3SF9mbFB0Y3pkX3VSX3RVT2VOb2p0elVSY1hhQ25Pb2szV1ZLYVJHOHlGM0xYTnIyS3hUV2p3eHVUWEExbm5ETFplQ2lHbDVfM2xNanFUclR1ek4yZUdLdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794751704512
+    },
+    {
+      "id": "news_WORLD_BeijingfacesRussiabindamidtalkofXiTrumpP",
+      "title": "Beijing faces Russia bind amid talk of Xi-Trump-Putin summit - DW.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVh6RE80dFdsSFVoNlp1X0tuNE9RRWhmWGNFMXpnWHdDTzJhX193UDhhN1VMcTJNWjB3ODllTUQyTFU2VXcyOHBMcEk5RFNzV1paNG45S0tDVTdvSFljSHZFY0RkTm04VHd2WmNGa0R4MGxNRWxmVUZEUEE3MWJ5OXBILWg3M3ZRUlkxOVpZMWd5UFkzUHgtMEo5WEFGLVhqX0HSAaIBQVVfeXFMTXhHYWZpekRHVmpWZ2FBRW5DSGpEbnZiVzFidnd0Z3drSVdqek1uS3cyUVk5SS1DNmVZR21sX2JvQkxkTEdhcEl4Q0NWZGs0Q1FMZWdXZ25neVIzMjhTMV9zUEpJVXR6cWF1bE5FM1RBOEgxN0NnYlczZ0QyZ3gtcTZHTnpyOWYxLUVDeTJLangxU2pWTzBEdEU3OHRiTElOM2l3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794751703764
+    },
+    {
+      "id": "news_WORLD_Turkishhusbandwhopushedpregnantwifeoffcl",
+      "title": "Turkish husband, who pushed pregnant wife off cliff, released from prison 6 years into life sentence - New York Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaEhJZGhabnlRRUxGYVh5Mk9pSXM5VGI1SXJiWVJ2Y01ITFY4aXFxemdwV2U2aEVKTXZRMXBlbFBFYUIwangyc19wcHgydHlhV0hpX3o5TjhhQjFhTmlJc3l0cE1mMk05YW1EdHA3QkNhN1ItYnRaRERtamN1NzhCYk45RUl3TUFWU1RMdDFRQ2xYZlM2RnhXS3JKNlcwNHVyZDZBS0FqbGJCeENzOVF3VG1OVVBDeGFPNHcyY0lrTW5raWZhdnpVa1ZKOXpGZUxPbTNhNzhDRHdvMmpxY2c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794751703764
+    },
+    {
+      "id": "news_WORLD_Robotdogsmountedwithriflesdeployedinanti",
+      "title": "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdTRHYjVtWnZfU25scEp4ODU3Mk42UW1EMENKOTNxMVNsSWE5cW5zaFlseXNtZ25ibEExNEFhckVrVmxuQklfb1EyN2V6YjZ4OFh4Sm5qNjZfczVpNk9mNnp2VmdsaEpGWjd2UVlxUUNRbC16RkJGLUtESWp2LWlRNjJGM0JPcm1qaGNKa05ma2UxNHNsY2FOaDN6Ul9jZGvSAaQBQVVfeXFMUGZ3QVd2bUkwYmxfZ3VZaXp0RjZ5QVNqQVFQZVU3TzhneFpibEs0SHBMYnV5MlFrWENkc1NyRzNXNXNqdHJGMGhnUGdIZHJlWVRnbDNKR0NlT0EtbmlZamsweExIUkU1MnlaYWk3UkNRZWtNLWZmR20zUHgteUdMWWpobi1IMm93ekVYSGhiTHpLYm8xalRiTFA3dDhLdWNUcEpvS2c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794751703764
+    },
+    {
+      "id": "news_WORLD_Yemengovernmentforceswithdrawfromareanea",
+      "title": "Yemen government forces withdraw from area near Bab el-Mandeb Strait, Houthis in control - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794751703764
     },
     {
       "id": "news_tech ceo controversy_CanNvidiaCEOsmistakesbeforgivenWhydo1600",
@@ -5357,149 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1794257713767
-    },
-    {
-      "id": "news_TECHNOLOGY_AppleReportedlyWantsSiriAItoBeMoreAgenti",
-      "title": "Apple Reportedly Wants Siri AI to Be More Agentic Next Year - PCMag",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1pxYUVCRG9rZ3JKOElvdXA2d2NkcWdFeUZScmdFSTdrbXJfRk41TmRscDBzTmtiUlNQZ2otS0o3dVItaWVaeWEteWtWOFh5bmRGdGRWRldXcFBzNmRjWEw3enpiU1BBS0hZUXZ6NEJObnVUZUNXX3RwbVRreDZPMlpGQ2p4WS1vUU9zb2xvQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794257713069
-    },
-    {
-      "id": "news_TECHNOLOGY_YesitrunsDoomSatelliteplaysiconicgameinw",
-      "title": "Yes, it runs 'Doom': Satellite plays iconic game in world's 1st demonstration of orbital voice control - Space",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMnd2RjIwZmFoaTd5eWhiY2N5enhmcnBjZUcyWEhkdDhjaDN0dXZUSjJRMXZ1MnI2ZFd5SmZZcE9lM1VQSVdCaVo2aGlZLXk2RXJWTTRFZndNQVFhLUl2TmExZU11OVBKNWIyYVd2aFRaYnJWZXZFdnNrcDdRczFILVY5QUo4VEhhMERxTlRpbWVxU0k4Yk5EMzF0V1FkRjRfcjJtS0VwQ1dJbnRkRERtM3FIY3pWUUZrdkNyLVRHM3k0X2F5bEtXS0NJMUdlVUVORlljNDhxUmRxN0FOa3YxRzRB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794257713069
-    },
-    {
-      "id": "news_BUSINESS_FDAordersnewwarningonGLP1soverrareeyecon",
-      "title": "FDA orders new warning on GLP-1s over rare eye condition linked to sudden blindness - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ3ZUMElNbTF0X2gwYmxkNE5kNWx0Y3dHbWJrVHB6dlRMOFRSd1VhMmNtWFZpT29QcDRNdVZlUnBRMWh4cG9XcUM1SjF2RDNvSFA3dElGOUZEZm5YYTlIY0o4WEFRb0tMZGpZdHlKQ3JzcEtTVHQxWlRLRHlEWHdHV3hING40NVdXa3VaYXJSbWlEaVJtMnFJRWZaN3ZRdWNjNXJJa2lTWHp4blZYZ0NKS2RURUlZaGk0ZWFvNlFMd1N5Zw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794257712363
-    },
-    {
-      "id": "news_BUSINESS_GoodyearCEOMarkStewartStepsDownRogerWood",
-      "title": "Goodyear CEO Mark Stewart Steps Down, Roger Wood Named Interim Chief - WSJ",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TYks1V3I1R01NM0dGOUJCMzhTWGZ3TTRfRy00cU0xREE0NGVTdVgxamEtVmh4Smx3c2ctd3RpNVdWT3RPaHQxV1dGVU9ReGtfWmhjWF9PVXZ5UnloM0tyMVRIemlneEJlcEN2MFJPaktFZ09BVXpZcDVaLXI5dHc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794257712363
-    },
-    {
-      "id": "news_NATION_SupremeCourtpaveswayforTrumptobuildasect",
-      "title": "Supreme Court paves way for Trump to build a section of his border wall in the Big Bend area of Texas - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcnk2bHNkaTJLbFNVcWZtcVZlbUtfcnFCZktRbHFoNFZGamhYaHVycG5DOVUtakRSRFhBWENqZ3drc3UtRGoxOFB1TW13LTJtOFJ5M0xfT1g5MDdCdFVGYjlrNVlhUUh3Qml0Y0tUWVpQS3llbkNxc3NDZ3FFNDZVQXpaMDdDMV9ER0w1eVZkX09yQWMxVjhtanp2V1BMeWkzOWt2LTdRbw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794257711648
-    },
-    {
-      "id": "news_NATION_WhiteHousestafftreatedTrumplikeababyCall",
-      "title": "White House staff treated Trump like a ‘baby’: Calley Means - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRG5ZdS1tcWJibFMzR2JvVnFxNWxfNWQ0NWMwOWhzZWNvekVXNWcyN0ItQlhYXzBWY2ZXaGNVM3lJTmNYbTE1QnJaeEd1YXB0eWk5cVllUFBrLXVnc2JjVWVTbHdNV1gxMEFDRjlzUm42bHJGY3I3WldQcWlKWFJrUU5B0gGHAUFVX3lxTE8xTFcyUW9TMldVT1huZHRHVnR4TVk4SnZpQ1JkR0FLLURvR2ZsOHZhUm1iMGZyUDBKYnJZRXBJQjlQR1Vvb2JMcUNGLXo2TzFRdmJlSUR0M0Q3ajZOUDF1cE5KTzlrbk9jV0x6QmdEUEFyWF83cm10b0lZZWxDekpKTU1xaU8waw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794257711648
-    },
-    {
-      "id": "news_NATION_TrumpsayshewaskiddingaboutDanaWhitepress",
-      "title": "Trump says he was 'kidding' about Dana White press secretary offer - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tSy1FTndkUzFBVGVtVG1fd3A4ZG5sYVZyWk9TMllaM3FlQjloY0pTUEJCY2otQi1GMHNLY0JaYlJ3UTY2VXJuQmNQay1HeURVMTd3NWwwdUw4b1E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794257711648
-    },
-    {
-      "id": "news_NATION_LiveUpdatesTrumpsaysheseesnoreasontoesca",
-      "title": "Live Updates: Trump says he sees no reason to escalate war with Iran, touts his long-term goals in the conflict - CBS News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN0FDMkRwcDVyZGFpV0dvRnhidUVyU1hrc2pKQzJZMmlLZDF1bHZ0dzBtMDJLOXc5T0xNYmRuS2Q4eU1QQmFqaHJ1cVg0VGkxcWN3dEZLVlo1UlQ0ckZCaW52b0lHQzVZN2N6UElySjhIWDdXWVh5T24xcmh4Zw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794257711648
-    },
-    {
-      "id": "news_NATION_TrumpVeersBackIntoClaimsofRiggedElection",
-      "title": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTzhkZC1lQXN1VGt3RjlJRmV1RGNrVGw0andnVWxpS0lPV3otWmJra0ptNXZRMENfaS1SMEZCc0FiekVrUDNHclhub1U5R29uWklBd2p5ZHJRY1o3Y3JuUVptRHZFVlRfTFl0RWJPUkFuQW9MSVZrLXdTcFJaREJsWlRmTTBrdG1pamczNjgtelNrWjg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794257711648
-    },
-    {
-      "id": "news_NATION_AGBlancheclasheswithanchoraskingwhetheri",
-      "title": "AG Blanche clashes with anchor asking whether it's his 'job' to defend the Trump administration - Fox News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLXB4eFYwR0xxYmFiSHNwUmJseHpfMDR2VzZ0S1p1eTZzclUyRkdxaFpOMEUyQ0hFN1J0STRXMm1rUXIxeWlCU2xPMElRSEFNWldQdHNZTnZVLUdMbENFMXNXZkdiN0tKLVlqRWhOc2lQeVhaRWVhLXFhcUFySGtYWjRMTllDRVBIaldoTTV2SDRFaUZNcVlmcHNhdkt4emNkVHNDdE9qbjFIUXNUaUFr0gG0AUFVX3lxTE9oNV9qQUZWOTdzUDVDcE10VVZLbnVTd0tvXzdfYmRZUk5yXzZ2U3pkaGdGbGhLdC1ZcnRWR3JCQkVYYWFqdUdmczY4R0hZRE5WbS1TZnJ3c090U0tiZmxncWR6ek1qZTVWV1o4OXQyaVJzR3pvY3J5RllSWnRpYTRBQ252ZFUwTlNweVBJX1NFTHBiRlRvQVFUUHZ1WWRwdDhSNEQweXpIVFVaMXNhV0YtZjhKcA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794257711648
-    },
-    {
-      "id": "news_NATION_WhattheDemocratscanandcannotdotoreverseT",
-      "title": "What the Democrats can (and cannot) do to reverse Trump’s education upheaval - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWRUbmhGMXdaMGctU2hoYl9lN2dvTzBacFlSNUpNbXNxWUxBSXpzVnlpMHRrejdCd3lMbUFGdF8zYTlhd1oxSkZTcENJR2w2eV9tZFQtVUtnVW1QSV9uNk93Nmw5aHlMNEZXbUNpVjBONlJCMHE0cXRWcTdGbExlWE5jajl5bXVpNlhNdzc4eVdYdzJLcGRVeHY3SldEekF3b2c0N0dNcGZ4VVhJWWFpMUEtb2pCUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794257711648
-    },
-    {
-      "id": "news_WORLD_RussellBrandSentencedto10andaHalfYearsin",
-      "title": "Russell Brand Sentenced to 10 and a Half Years in Prison for Rape - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS2djUWtOcm9mSjdzSDJvS09aSUs1a0pRZ3JoazdubHdQZEYtVzJpems4UE5ZY3FhZlAxWXRRX1JuMG5WcmEtUnh2OEc4dGJ6SUtHcDdrQXZaNUd0bDdJVlVNNWVmYUdzNkxNZTdycUZzNmliSnJzUkwzWGZibGdrLVF2cVNQQQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794257710485
-    },
-    {
-      "id": "news_WORLD_TrumptomeetRussiasPutinandChinasXinextwe",
-      "title": "Trump to meet Russia's Putin and China's Xi next week - Euronews.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORFl6TVJwbnphRjMxUTFpcEItalRGeTlhelE4QmpQMm1lV2hZb0tLYXdmeE12dVVrSVNmNW9HalJFSFhRaEpuWjBEZUFUSDhoM05EdFNkbTRZM19fN0N2dmVOQ2NBeGowN0FyaUttTnRSNzBRMzAxb2pDYzAtcXg4RmhvQlllNEJyTzZHNGw4OTE0RHNCcnZ4cmMwX3JURlVkbEg3NTBjTWx1MHpVYnZUbGFyUHRkbWtVakE3YmdULVpkLXhz?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794257710485
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T23:33:17.954669+00:00",
+  "updated_at": "2026-11-16T03:00:38.391518+00:00",
   "signals": [
     {
       "id": "news_memecoin launch_TrumpCoinDonaldTrumpLaunchesNewMemeCoinD",
@@ -1848,6 +1848,171 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_election crypto_USCryptoLegislationUnlikelytoAdvanceThis",
+      "title": "U.S. Crypto Legislation Unlikely to Advance This Year as Industry Turns to Next Congress - TradingView",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZkhNN2dGTXpfMmI5U3BuV3ZHLThJamlfQm1YemFVbl83Z085eE9QbTZTTm9PcHNOLUJQOXpPUWVfOV83N1RhYzVKWWFCNXZMTWI1NnVfRFhHMDJPenhsODRfVndDR2pwc2N4dGR4QjViQ0l1OFh2SkQ0TnVVcXNmUmEtVFlsanR3Zjg5TjJWZF8zQjFVVVcwMjJycFVUVVV4RE5jZFl6Rnl2WXhybDU5bE12RGdQVS1Fc0ZWa213aDc3ZnJvaUl3X1FJcWZYbjd6OEN3UkVHdDFPNEk5TXlLTmVDdlU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794798024566
+    },
+    {
+      "id": "news_election crypto_DemocratsMidtermGainsThreatenTrumpsCrypt",
+      "title": "Democrats’ Midterm Gains Threaten Trump’s Crypto Empire and the Future of US Crypto Regulation - Tekedia",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS0tmd0lRN2pYNVprRHVoRGpiVUhJMjZZbG1rVUdOV01VVFVyTlZRTFlnWkxSMFNGaVVwYUtoM2JxQzloRGVzMkZ0S29DSzRBcm1jcF90TURBOGdQZ1kwd1RYS09UNkZ6TDdPNTRuUUlHTzVHd3ZEdThYRzdRZmJIQ05xYjVKZk1adC1fUHFHdDFUQ1h6ZzdPajdVUVBySW5IZWpKMjN0MGZBRFA5RXNWREpzamNIbTgt?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794798024566
+    },
+    {
+      "id": "news_SPORTS_KirkCousinsemotionalafterwininVikingsret",
+      "title": "Kirk Cousins emotional after win in Vikings return, reflects on 'tough 3 years' - ESPN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUFdFUFpsVEM2eWpGc1R0clhUdEZMdTFNNV9CVWRDSU5XSnZUdUhTZ1dBUkd6enBFUF90dUZDNTQyWVdZMW9LNnZjTy1nSVRlRlUwUWVXbmlNZVE2Z2M2Z1psamExNXJEd0tWQ1JVY1V3czJ0M3A1NUd4R2Nva3l3aUlpei1WekJaYWQzRmJGNWJ0elpnMVVYaWxB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794798013510
+    },
+    {
+      "id": "news_SPORTS_SpainvsEnglandplayerratingsJudeBellingha",
+      "title": "Spain vs England player ratings: Jude Bellingham stars in Three Lions' victory - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uM01yY2huc04tUVRVbmd2eDZZbG5NWFdNRzE1cEhlaHYwMEUwNmNhb1FKaVdrNUFPRjRQdElOZG1SZ0pkeVZUeEdaMXNZRl9PaUZ3WndRYktJMnhuaTBKTmxKWlE0MTdY?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794798013510
+    },
+    {
+      "id": "news_ENTERTAINMENT_PhilippineswinsinauguralEurovisionAsiaas",
+      "title": "Philippines wins inaugural Eurovision Asia as 19-year-old makes history - The Independent",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUHdhd2FPbVdaSDZjV0VWbTYzdUNac19wSGl0aUFqTFVZbXY0RW9pU1JUaTU3ajhPeUVzSmpGWk0wYVlCVjNwYk1vUmtvWXBEX3FsN0tfdWx5UFh2YlB0bDdJNnB1MHI3ZWxWZmRTTlhBMU1MQVJqU3dfWWJIbDh0V2JGQzFvMC11ck1OR3l3TExvcFlQQlNzU1JjRWF4WXoxUFdTSUY5azlvbXQ2eC04QXJ6NW0tZFZ0eXpVTnJxcXhlOU0?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794798012845
+    },
+    {
+      "id": "news_ENTERTAINMENT_KevinFeigeFeltBringingXMenIntoAvengersFr",
+      "title": "Kevin Feige Felt Bringing X-Men Into ‘Avengers’ Franchise Was “Fun Way” To Celebrate 25 Years - Deadline",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVc1NzlKdmszMFZ2NzJSc3pCT094YTN4LWJnMFFjeF9HZEZ4YUE0Vm5GOVcwbVFyMzhUZEx1bWRWZ09tbGtFWDg1b09aTW9aVkhkZkxTOG1oN3BPbkVFLWM2V0txeDZQY1hJMHY3ekFjR2cxNUw4S3IyMmY3QnQ3ZHpzOGR3bzQwVm9mSlpNMGkySDB2ZTJhU0RxVQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794798012845
+    },
+    {
+      "id": "news_BUSINESS_ThousandsofUSflightscancelledordelayedtw",
+      "title": "Thousands of US flights cancelled or delayed two days after grounding of planes nationwide - BBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVZnZOVmtTbGt0SFlQd0txVDlHaEhyNF95UGNTSlUtTjN0N3V3c1R3NFJLSHdpMTkxdEhFRHhJNFY5QUJYMDdISHVMUG5SNTJUS1J2X2pudGpfOWc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794798011493
+    },
+    {
+      "id": "news_BUSINESS_ElonMuskjoins158000otherscallingforNvidi",
+      "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (elon musk) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGVtNVJwRV8wTl9BUEQ4ZXBIT0V6aHVHdEt2NHk3ZWhHVzZkek5RX0pZN1lnSmN4cVNvOEtvVmttTXpLbkVGU0JmNXRVd3N1T1B4dlg4YWNEbjE4UjAwckdqREthS3BrQy1rSFdydzlNMlB0cTk5Z2NuZnhTZ0IzV2EzOTRObkJUQUdwcnViZ2dUTk5QaVVlbDFYQXVySVp4cWNTVlNGN1BXXzBQOVIzVjhiMWc?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794798011493
+    },
+    {
+      "id": "news_BUSINESS_NvidiaFalloutLoomsOverTrumpXiMeetingTheN",
+      "title": "Nvidia Fallout Looms Over Trump-Xi Meeting - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUnBicm1Jcmo3Ukx0dXNldVp4TmRXbkpvN0JIV2NaWE9VaFB5RGxqLTU1WFV2MGpSTXlzZ3A0ZHlZdG5pcHVjaWxJQl9idVJfSUZFVUp1RWJzTGphUzNDc0Z0S0xrNkFwdlZqbWl3dFRPM2MwYmdIVGpKVVhTR2wxT1AzVWlSUQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794798011493
+    },
+    {
+      "id": "news_NATION_Trumpadministrationasksforbillionstoover",
+      "title": "Trump administration asks for billions to overhaul FAA. Democrats question how money was spent - AP News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjU5a3ljR1FocjlKQnRVS21kY1kwR3R4bEZvdUc4VExhbnc2NjZrU0ZfRS1iMkoxcGthaUV4a19MTlNsR2JFMlFqZDN0Y1JiejlNWUFUWjAyWTl3RFNXX0ZvbkNmX0l1elhVZndMd3pQSlQtbk1RYzBMT2tmOTJuaTlwUm5FQmdRODFJQTk4OWV5MlpScVhhc1BEWWotS1E?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794798010807
+    },
+    {
+      "id": "news_NATION_TrumpsaysInteriorwillappealrulingdelayin",
+      "title": "Trump says Interior will appeal ruling delaying golf course renovations - The Hill",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzRxMUVTQkhURnhFQnNwa0h1X2d6ZEhPWjhXeGM4TlVXVWh5V3lTZlppWVluSVJvbmRmZjhJV3RzcjhMb3UtZXdZOGtfTDFmc3JCMWNNcXd5YUZQZFNhNVJNRGpTMjR3RG9LUVZHcjdqcS1veEh0aWV1cXhxRC1vWE1JS2NMVkdablZZ0gGQAUFVX3lxTE0yZXBMRnBlNW54ZHRrRGU2aFMyb05XOHdZblR5Q190bjZkX2lYd2RBSFVXaUpYWk84cmVyaUxrSEZoUVNWM01vNi10SVlVQWhrRklHY0lXS3kwOGNWSjY5ajdPUXgxMjRCQm14MTV5NHBXal9aRDhodkhhM0UwZ19fdm1RN1NiQUFtdnBCVmJxcg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794798010807
+    },
+    {
+      "id": "news_NATION_LutnickunderfireHowTrumpscommercesecreta",
+      "title": "Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped - CNN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFRZSHdlc3JTOWRKaE83aXNqbWVPZU13Tjdsc0JMRGZYLUJSWWxqN3VBemJ6U0hLYWNpRTNEMl9TUlRNZGhPSHFpcVgzUUl1RVg5c3lLUG05T1JnbDJab1hWNkhoNFBKRmNOcUlaSjJZald1M2JBaVhTSzJpMEZhMEN3d3hEZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794798010807
+    },
+    {
+      "id": "news_NATION_Trumpshandpickedpartychairfacesarebellio",
+      "title": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP - PBS",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb2pLSGVXQ1pZUGxCcTNXbjRWUVZEOER6WHVsSER0ekwwOUpWQkNub0lyZjdjYk5fQklxeU1DWE9xaUV2V3N6cjRaOEhPbnpabjBoSjNFc1o4YU4xX0NqOGFaM1lyZTVKWWF5cDBLNF90ck1mTVhGaE9Ucm5INmRyUXJ0SU1zN1NrMGV4QlBHSVhsdWJMQ0JyOGdvM2FzR3gySzJNS20zc2pMX0ZpYUNsd2VHWEh0NHNXY1dUUW1fSVUwNHVndkhQSmhyVy1aMHdOUUHSAdcBQVVfeXFMTnM3WjFjLUhZZ25CSW8tTnliYkgzSUFrUGtId0pVd09uak5fN1Z5TkMzREdoWE1BNTItZEVONVpyTEVyb1h3VVJsQWhYUVpYbmNPdWpEdjNiOVk4Mm1MdmxyWndrRHlZY0VhZ0ZkcHpyY1VkS2JDU2dQdmpaeGxVZ2d2ZDRiQnVXaVpsWG9STWFGWUVlcld1NW9TVmFHYmJRWVYwdmhLaVFQSEhTZzFJdF92dHZveWpZeGdCM0NRWXVVR19UVTNmM0llczYxeWd4aGZGa25hcUU?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794798010807
+    },
+    {
+      "id": "news_WORLD_YemensHouthisadvanceonAdenasgovernmentfo",
+      "title": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital - France 24",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMlplQ1FWeGJOU2JaMy1ydHJrTS1BTXljaWlzQmFqYzBqMUFERXVtczkxWEVGUUd4QktrSU5JMUt1TzlLeDNtM0FHaDROMWVkVm5GQXJLXzRzd05NWmcxNG43X3h4Ny1EZGZfNG45TjQ5M2p6OEtCWWRacnpLamZUbF93NEFJT0lUVnlPLXIyUFJFaWVYcm1QNmZYeEM2N1h2NVJBek52cVNnTW13SnhJck9QS3FDWkhjOFc0SVQyRkI?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794798010138
+    },
+    {
+      "id": "news_WORLD_TrumpXiandPutintomeetinChinaWhiteHousesa",
+      "title": "Trump, Xi and Putin to meet in China, White House says - Euronews",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHprMDZOSFVJbjlUVk9oYVl0czEzcHk0eHFpR3NBUGhRMWpDU1BvdTlQLVFTdE9EOXdYRVpWT1hfVzg4dkljS2NLYmVOUm9vcWs0QVRiRTVQdkttOFZXT0xPUFZwazJmQzhVWEpzZzdrX2kydUF4T2owbDIyU0trMnlmV1EzbXJJY21HSWdKS3Vhdw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1794798010138
     },
     {
       "id": "news_billionaire announcement_JBSBillionaireMetWithTrumpAheadofTariffF",
@@ -5335,171 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1794308529364
-    },
-    {
-      "id": "news_WORLD_EvenafterthemidtermroutofTrumpismtheworl",
-      "title": "Even after the midterm rout of Trumpism, the world struggles to trust America - PBS",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWVFNmcxUjJrZE5OUFRCbGhxVXVfWUN2dWlVVUFmaEJOLXZWNlpVdGRpWTJMaG5KVUVpSXA1V1g5MUVhTVVIQUd1bVV2bkxZS3VKb1p0XzYwV3ZNSUhESEMxaGFfRGhYRDlpYVpkRExQUFVuU1UxTF84aTMzVXZETzlROXU4RVFCcnVVdnZPd3lJSjlRZ2RBenZHOWctenRfdm1wZ3FPbVBFSjhlaGRtY3YyY1TSAboBQVVfeXFMT2JqQXZyZWpfaEU0aGE3Qk1NSHZHb0pjVVkzdldvS0FCWHhweEpKVzdyREZtZTdJQ285LUZDUmViRTBfbVlEdEs4aXZHS1BQbHNpWkpHdG1ST2dMQWt6V3FsaXphNFhtOEJWVEVkaEFDTXZWVVVXNG1JLVp0WlZRaE84XzR0cnVjdUdaTV9ZaWRrY1lTYmItTUFWZ2xuMmpSeXVadEUycDFrV0l4bFdjS1ltdWxpNEV2aHBR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794308529364
-    },
-    {
-      "id": "news_tech ceo controversy_InsidetheTechCompanyPoweringTrumpsMostCo",
-      "title": "Inside the Tech Company Powering Trump’s Most Controversial Policies - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjJXY3hTSTFTa0YzOFpvVXpIWFdnU25iT250aDNILUZHREtBM0d2UEdUMzZVWFJDd2FFeGVNekx2NlhhY0J5cEYxbFoxR1Y4S0VSdUltSUNSeC1HQVNjTVJpemdPa2ZWWTAwTnhWbURaeFBNNURULVlYLThVVFVqV2c1V0hhV29LQWVJajJLZmo?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794279997985
-    },
-    {
-      "id": "news_tech ceo controversy_TrumpsaysFBIprobingNvidiaCEOHuangasChina",
-      "title": "Trump says FBI probing Nvidia CEO Huang as China controversy deepens - Reuters",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (trump) mentionnée; mots-clés viraux: controversy.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUVlREFfdFVvdmk1OXFEamNOcFVZTGJFX1gxZkhjYjhXNTFnZkJqUmpLLTliVmRCZUNtRGdHSDZ2cVBvRXlLdldZSG1rVmFfMFk5M1dKNnBnVnNnUzZ1NmVSNkRWakkyNktBZmhGbzJwYkh5YTZBekVPY3pyUU9lTXY1WGt4TkhLcHVPTldJb1k3MGVPdzBLcTIyVzNuRUpyRGt5cDJpMV91QzdjcWFtQy1MekMwU3lkRlNXUFNn?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794279997985
-    },
-    {
-      "id": "news_billionaire announcement_IvankaTrumpjustmadeabigannouncementabout",
-      "title": "Ivanka Trump just made a big announcement about relative in Billionaire Bunker - Miami Herald",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjT2FGQldkNE1sUzFSWU9BU19ERnlvdXNqQy1aMnlHY2U4NEl4bWVCdTczM0FHTk9Ob3VSb3MwWmJYYXVTYURKamtlZFg4Uk1KcEJNd0FnVW5CQUtodXBIc3gtcWl1UE9xQmIteNIBbEFVX3lxTE5jUnJoblp0c0hoeEt0eEh4SXFSNGpuMWRJZnl6em95YjZuUEE3d1JRWENZNWxRaWxMQllDdkdWLVRhUHZyanRfLVZUSjJrcnVPcVRLNjVkdTFZY1JGSTN2a1FIaTFEbGdkajhheQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794279997044
-    },
-    {
-      "id": "news_billionaire announcement_ClimateactivistandbillionaireTomSteyerto",
-      "title": "Climate activist and billionaire Tom Steyer to run for California governor - NBC News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (billionaire announcement). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaVRwVHdkdHROYnI5RUhLd3k5ZGFyX1cyYm1LU3NWa2YxTE9oenZ0TmxqN0pxOF9ZczVEVlJ5M1BKOUNlSXlwMmhlU0wwSC1uaEdXUS1UcGZPOFFDSzZaODdkWmd1VmN1UXVkQXdBbFdZejdhcWRqbGo5eHRjYU96aHhhNE1hYkVzbjFtb0hCSnR4NlVDNHVOME1yeHJfeDJONzJRSHpFM1FjeTNhY3pucjNoRU0tLTJHVmlxcW13?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794279997044
-    },
-    {
-      "id": "news_election crypto_OneCornerofCryptoMissedthePostElectionRa",
-      "title": "One Corner of Crypto Missed the Post-Election Rally, and It Carries Trump’s Name - Yahoo Finance",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGloR1hQMU40aFNVYm9sQlcyV2xBdWxsM1p3X2RRdTJtNW9pdmM2YVVkbXRVRU5mcVV1Q09IcTNqbTEySnp1QVBvMDl0Qjc5SmJrQnVBanNVaEFVcGE3Zkd6bFJqQXhhNHRZcmh4WDRhbWd3QU1mc0cwUWg2bmlPUFhLN2NlSWtzYTV5dkFtM3dSY191QzV5Q2tB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794279994138
-    },
-    {
-      "id": "news_memecoin launch_Trumppromotesnewmemecoinbeforetakingoffi",
-      "title": "Trump promotes new meme coin before taking office on pro-crypto agenda - AP News",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (memecoin launch). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRGR4b0ROWkUyQVdHeTRFMXpqdXp0WDlzYkdxbWUxZG9xNlJyVFY4dnltUWJHcFptZkU3OHFBTXZZYnpqeWdHR3hhcFBHbWlvNDB6MHh4RTFDbmU2NHBIYVk4MFZFa3F4MkU1Z1F5NkZPZk1XUFYxRGsyQUNORW5wZ1RTdGVFT1FrMzM1RW10SmxQUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794279985586
-    },
-    {
-      "id": "news_memecoin launch_HowTrumpmademorethan1Boncryptowhenmostof",
-      "title": "How Trump made more than $1B on crypto when most of his coin's investors lost money - ABC7 New York",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (memecoin launch). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmNRamtUY2NCSExkU0NTTU0ybHlURUlZb051OUFGRXp1dmEwWnl5ZU80UEhSQTBmODJKOGE3NXhya196aHl3TF90aGY1Wk1XYjgyY0F3LWJ0ZjlPbHdneG52cnNZMDZpMUhQYmd6bWxUU1RJNVNrcDhOcWVQcFBfTnlQX0luYTR0Z2J4SmZTTTFEZFFrenhIeFVfZGpFT0QzUXhkbm0zdlN4RVVO?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794279985585
-    },
-    {
-      "id": "news_HEALTH_ThisNBCcorrespondenthidherboweldiseasefo",
-      "title": "This NBC correspondent hid her bowel disease for years. Now she's sharing her story - USA Today",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2dTcGI2SFVReFNoODFESk1DRWpfUjNhQW8tSS0zaU95NzVORUwzcUtRZjFUb3hSNjFhaktkMjAwem95ZEx1NVRCWlVkSVZFQ2dvMzNreFozRVAtRDI0U0hrQTM2UnRUWEF2SkxpaHZTMU85ZC1BclhENVBZNi1ndTNYUkU1cGViblFGVml6aS1YWkVQenktYUlHY2xHR0dCZG4wSmF2Z0k?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794279984605
-    },
-    {
-      "id": "news_SCIENCE_HespentayearonMarsNASAscienceofficeremer",
-      "title": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission - Nature",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kQ1ZYVUZFcXE5UXBxX3pQVW9ydERnZGtieGVTR1lrQ2VQUDl0RERyWVVodFVpRWFQZnlNY1Z6MWdLSkR5X01DWDR6ekZRbUw3UjZZd1FKUUpnSHdVS0dB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794279983828
-    },
-    {
-      "id": "news_SPORTS_TigersinfielderKevinMcGoniglewinsALJacki",
-      "title": "Tigers’ infielder Kevin McGonigle wins AL Jackie Robinson Rookie of the Year - BBWAA",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE13MDRqWEV6LXhTVml1dWV3TFZrWTdfNkNZbmtvSkpPZUVMb0JhQ0hPQ0x6YW9OLVh0UjZ1QmpNTTd6Zw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794279983050
-    },
-    {
-      "id": "news_SPORTS_SalStewartWinsNLRookieOfTheYearEarnsPPIP",
-      "title": "Sal Stewart Wins NL Rookie Of The Year, Earns PPI Pick For Reds - MLB Trade Rumors",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0ZEVmlwMTc1S0RHN3AyRHJBaVhkNl8yR3QxYUlaQ3ZvLUVEZVk0Q1A2WEs3THM5WlllUmtjQ2t2TlpZRWJjMlRwX1o4aTFyaDNlTGk1WElvSW9oaHNNYnhsUnNhQ3k4eHRPU0s5WEZOOHRpdF9kb19EcFlhWWRqU3pQdHp3bXFfalF6UEF5WXQ0SHR3MkFsTTQ3X0t2dTA3WldyY1Iya1ZEUQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794279983050
-    },
-    {
-      "id": "news_ENTERTAINMENT_MegynKellyElonMuskdecryRussellBrandconvi",
-      "title": "Megyn Kelly, Elon Musk decry Russell Brand conviction and sentence - Chicago Tribune",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWtWYWhpU2JIQWt6WGpPM3EzdFZRN0lXZld0WS1JLWlqdVdHVkdhUGpnYS05elBTOHdrM3hYeWJOQ1NGS0FsZi1CdXlrMzVETk1sRTNiOXdMN2ZrM0hMY05jQ2x0dHVMcTdwNGZ1TUFmUWpsRHlSZGhYejN2ZU9MQmFENDY?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794279981887
-    },
-    {
-      "id": "news_ENTERTAINMENT_ArianaGrandeAppearsonTonightShowAfterMon",
-      "title": "Ariana Grande Appears on ‘Tonight Show’ After Months Away From Public Eye - Variety",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjhBWnBCYUw2TWxOTmlyMGhUS3pzT0pmaTFhNkdmcm5QUEQ0U25NV3N1OG1iZ1ZCbWh5Q3F2dVpzdUVHZkZnLVNzeFFoSGNPOWR6dWhMR0Y4Ukd4U0Y3dEZaSlFtYkNnMGwzYjBEYVhoYTEzSlVtMmF3MmwyMG9ZMnFScXRMOEhPMWdDaFp4c1NaQ2ZCUnZj?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794279981887
-    },
-    {
-      "id": "news_BUSINESS_TrumpsaysFBIinvestigatingNvidiabosssaffa",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VYUxyVHdHSk13YlNwc0JfajNMejBiRVAwYzJPbGl1cG9fZUlsUFZOSHNhWVJodHBFYTR3dFBraWlUbVd2cTl5Vl81cjhlS21RR1hoM0x4dWI4bk0?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794279980355
     }
   ]
 }

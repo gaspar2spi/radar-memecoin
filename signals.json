@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:17:00.583179+00:00",
+  "updated_at": "2026-11-22T02:18:50.788970+00:00",
   "signals": [
     {
       "id": "news_own cryptocurrency launch_CryptoRadarCoinbaseAimstoLaunchItsOwnPre",
@@ -1947,6 +1947,116 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_gaming leak_BethesdaConfirmsFalloutCatGameAfterAustr",
+      "title": "Bethesda Confirms Fallout Cat Game After Australian Ratings Board Leak - WellPlayed",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (gaming leak). figure tier-10 (ye) mentionnée; mots-clés viraux: leak.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFpxR3dxa09IREJPQ0dWWW9ZVlBKNWNvSjh5a09EeXBNcEQxYlpfZ0syY1EwTFJPTXJ1RTFQMHAwZmEzcUlteGtraXQ5bGpjZElaekZtXzM3cXZjSlJQNEstcENQcHdkbWlLQm5GSHpjNF8yYXB1OUw4djZHVTFQS1FudndqR0tZRVBrZHVYc2xsdjZZMVpPcmZiSHRxSE14b3kzMw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795313922441
+    },
+    {
+      "id": "news_election crypto_AdamKobeissiSaysBitcoinHasErasedAllGains",
+      "title": "Adam Kobeissi Says Bitcoin Has Erased All Gains Since Trump's Election - TradingView",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (election crypto). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN0hKYVlrNkhTaEM4ZFlLR1AwU3hZR3BkYjdjY1VmbE8xQjVjaHI4ejc1UzFDbnE4N1ZNVkdJVlg3RFlfd2FLS0hBdE5MODZ0S0tlRm9WVm5pTVdjSUpFaWloWVY5T1Q1TC1fWFZWR21ndEtVSGxibzd4ZE05emNBemtnUVF3b29TcWQzS0dGZWI4SFc3VlpSWXhlLXQ3NjJtbHdVUmdnX29XenBkTWREWnNCdHdnV2ltTURsZ0ZWVDRPU1kzUGFDM0tZQW9jQQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795313917460
+    },
+    {
+      "id": "news_own cryptocurrency launch_UndertheTrumpcryptoplaybookthefamilyalwa",
+      "title": "Under the Trump crypto playbook, the family always wins. Investors don’t - Reuters",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (own cryptocurrency launch). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUpmc096bllHcUstWFZXT0hnMnEzRTVvSFY4QURZcWwzcWpQV1dQWktHWC15SHNrSjBSOUZBYy1sUFZ2UmxwaHdEd2gybm90YWs2R19LdlFCRTB0Vzdua0UxSXJ5WjFGY0lydW0xcGtMU0ZXZzUtRFRid2FyTWptQmJmTU1mcEdVUEw2RkIzeXJIUFJ5dHlMUHIzRG51TWtWdVBoM1R2RHYwQ0xvRnR4cDRB?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795313912733
+    },
+    {
+      "id": "news_HEALTH_A3YearOldsMetastaticCancerVanishedAfterT",
+      "title": "A 3-Year-Old's Metastatic Cancer Vanished After Two Doses of Experimental Therapy - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb253SC1BcmVRLW9XVlVHcUhMSlR0dVdSaTUtdkktSzlIZzI5Y1FXazc1NUVJTXJGNWNZWWhjMTFJV2xCUTc2QU5OZms4YUxlRWxpcXRnc3JjZ3NXTEZqMjNVMlZCNFZKTUkxeW1nRG9SQlRBbW9meTdUX3AtWm40dEgxSk5sSHRIRUxQanJFclE1b2lMN2x3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795313907336
+    },
+    {
+      "id": "news_SPORTS_CardinalsruleoutrookieCarsonBeckturnto40",
+      "title": "Cardinals rule out rookie Carson Beck, turn to 40-year-old Josh Johnson vs. Chiefs - ESPN",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNXZTQ0lEdjhSa3hZVWNEazFsSkp5UWdIbDIyOGJqNkhpOUNCQzB1dzZhQ2RETlpJSDBHaHJUQk5peXdFS0Z5dXJFZU1hQk9pU0c4cHJyV0J1UHJPNklob3hpaWlraFVVWVExaGU4VDhfeHhKc0VuaUpDbmFtcWc1TnctUTAwSWpYYlRKc0lSMm1laFpCRmFRR0p2OUNwazg2eVRxeg?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795313905885
+    },
+    {
+      "id": "news_ENTERTAINMENT_BoDerekstandsbyfallingformarriedJohnDere",
+      "title": "Bo Derek stands by falling for married John Derek at 16 despite 30-year age gap: 'It all worked out' - Fox News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZmpobURGLU1JdWd0SndLVDhSR0RTX3VWcGhnVmVtMkVmRGJJMWhYVXJ0SXVSZF9aV29EVlJFRjhOSC1NZFFVNW1pYlFReWVfQk50enZabklPZDZPUFdMd2VhUDhnbmRnUmtaZU1jRFdMd01TUDM2N2F5RnhwdGhQOEpuQjZNd2VZcm9xcjlVSkFZQU04WC14enA2bHhmTjRWY1NrNEY2TGREdy1WdDE1ZUNwVlBNejA2T2c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795313905130
+    },
+    {
+      "id": "news_ENTERTAINMENT_HeartbrokenHarryReportedlyinAgonyasSourc",
+      "title": "'Heartbroken' Harry Reportedly in 'Agony' as Source Reveals the Real Reason He Feels 'Betrayed' - StyleCaster",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMXN2cGJ5eGxJVEdmUVB2SENQU1FfV0ZvazNWSHFmLUdvaDIyb3o4cmVCeEdSeUY2QWxOWjVRck83ZDlkcU9EM0lEVm9kQmtoS2ZuWklXWk00cVlTRUNLTHoxazJSQ2wxaE96bWJ6YVlSYlBOdl92aVJOcW5BSDBNVEp3dlVaTk00dVZEY3JkRQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795313905130
+    },
+    {
+      "id": "news_TECHNOLOGY_TeenageEngineeringsfirstCDplayerspinsout",
+      "title": "Teenage Engineering’s first CD player spins out in the open - Darko.Audio",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVUdwdXVZeGdaNXJJRjFRc3lfQmYtNUtlZ0I4ZVFUd19wdF9LWmRwRnMzWGFEWFRjdUdtOXo2cGt0T3dPRXJrQ2gtMk4tMFB5NWNGWFFUUXNSZmZRWHl4dnVtWE5ueFdia2JhM2pGMzNveWZjSWhIaFExVEZ1UGZydE5YZ2ZGbEg5d19kdUpjVQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795313904396
+    },
+    {
+      "id": "news_NATION_HakeemJeffriesonTrumpStephenMillerAIPACa",
+      "title": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead - The New York Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0bUFOQVZ6OHYzbGhHbUJ6YzFHaEtIZi1fMm5ESmFiRE42SW0yOE40MmsyaTlXUnNEN19UMmQzM21QQzJxOEZ2cW8tdjJUNURTUHZxR0lYMWhNdzlJclpQaWNVNDRfbXJIM1BsSk52eHI2LTdKTEh0ZlZuemRRTEk?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795313902966
+    },
+    {
+      "id": "news_NATION_TrumpsaysCornynblockedjudicialpickbecaus",
+      "title": "Trump says Cornyn blocked judicial pick because his ‘feelings were hurt’ - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFhSR29UOE9YYlhmdlNIaXVaaHcxR0V0LUJYUTJ2eWxZYm02NV9ISWx5VjFua3BpVi02WEpVX3JIX29XLTdZaDYyWWpmbWU2U2JDaTE0R0NnRUViRVBGa3Z6Qno4VFRtb1Jnc2dsSVBJazhDc1JnNWdZcmx4U0VxVnFFVzFRemRfcnRXNlZyZ3pUdlNaRDFuZW1yVHBEMzlkQVk4SDZKTUYyZGtTVkJiX3dWRlp0dGRmNGxLUi1xZw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795313902966
     },
     {
       "id": "news_billionaire announcement_IvankaTrumpjustmadeabigannouncementabout",
@@ -5390,116 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1794947240314
-    },
-    {
-      "id": "news_AI controversy viral_Mexicosflyingmonstermysterytakesbizarret",
-      "title": "Mexico's 'flying monster' mystery takes bizarre turn as viral pterodactyl video is linked to AI - EasternEye",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (AI controversy viral). figure tier-10 (ye) mentionnée; mots-clés viraux: viral.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QYnRHMWFCUGpkaFpFdUVmVTBPQTB3b2FwN3Fvb3AydF92S2ZlYldrR0FmSk1lR1dQMmVyWllWdGw1YnNJWF9oVld6azFQdkdxc0U3WXhYRU9Na1NsQmxzZS1CVkEwbGFtTzlQSUFQZHowZGtVUEc2ZVpR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794947237478
-    },
-    {
-      "id": "news_SPORTS_Week11FantasyFootballWaiverWirePickupsKa",
-      "title": "Week 11 Fantasy Football Waiver Wire Pickups: Kaelon Black among top adds with 6 teams on bye, rash of injuries - Yahoo Sports",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLV9MUGFQSkNmc0hjS0xXdXd4M3F1VG93RjBCMXY1RmhmM05jMG9ld1NEQlVORnlNdVVhN29sWnNFOUdkampKV1VuUVd3S1YybTlzNV84SXhEZGpEX2cza3NINVVpTnBlNVEyV3JJZ1k1X090OXJkWjhuRWxVM0lxT01lUEdnQ3VkRFFMWGttZVJUc08wTGI4S2IzTkt5Vl9FMUJOZ0JtaE1sWWRyZVVBMG9QV3p0VTZRZml6bDA1TkxEX0xVaGNnNUNqQVRjbGJHa3JwUUVueUNJb09tYmZSbUlRM0kzSWJNYnE4LWh1M0w1WGF3dHpCYw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794947224606
-    },
-    {
-      "id": "news_SPORTS_DanCampbellImnottellingplayerstostopcele",
-      "title": "Dan Campbell: I'm not telling players to stop celebrating because of Aidan Hutchinson's injury - NBC Sports",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSkNhbUJESzdaeXRxSzFncWh2U2gzNjdZVkdkQzFHbm4zcUNTREwwZi1fajdsQWpiU0I5VmVwSC1JSlBPZFNRWTVBOGZYMTZ6cEJHLTlwbXI1MmxsWWwwSTRtbmNpd1U3ZjBVdXB1YTBiUUNVTmJCV0NCYWJ2eWYya01kTVl1QlBrZVNqWmFSS3dnMTlFMXBkVi1XdWFEdm1WUWUtMG9nVGpzX1U4WjlfbnlvNG1kSElmQm8yc21tMGFaaGRMRUFjcl9fYVlxVVQ3VFRQVkxSWkhjUlEwTDRXdTA1UFl4Q1Bp?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794947224605
-    },
-    {
-      "id": "news_ENTERTAINMENT_InsideCardiBsextravagantspacethemedbirth",
-      "title": "Inside Cardi B’s extravagant space-themed birthday party for son Grey after finally revealing 1-year-old’s name - Page Six",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzliQzJrMDNXRHI3dXBaY2NqeUFkbkZDazdXS3dGN1draWxqa0h6eklOTW9fbUdOT3pDTnZnemQ5QmlIT0l2VDBpc0dMQTdvSTZpUjdJZlR3U0tuYXQ4WWg5dms3VU1sdDVTX3pUSTRKZ2d0Q0l2MncyNjhadHBfWF9VSDgyc0JvQkpqWVJLUTdDa0s3cHlEX29XVGk5bmVQWEdNU0kzYW9PQjBp?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794947223910
-    },
-    {
-      "id": "news_TECHNOLOGY_TheGameAwardsNominations2026GTA6LandsGam",
-      "title": "The Game Awards Nominations 2026: ‘GTA 6’ Lands Game of the Year Nom Ahead of Thursday Release - Variety",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT0JTUFlEMy1QZ3FfekNuQWFlTW5Uc2lLMXVYOWU2dnVtTTlvX2dsZnlVZl9sQ3pCelhZcUkyYmhIUnIwVmNVTVF2MEhmbERJSGVDRzFXSUZ6YWlPczRNLU91cW9YVG1xZjZCTHN5WFE4RGxveThFY2E1cXRFU1BSMnNBQ2VzX0JWRHc?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794947223144
-    },
-    {
-      "id": "news_TECHNOLOGY_GTALuciaactorfinallyrevealedandyesitswho",
-      "title": "GTA Lucia actor finally revealed and yes, it's who we thought it was - Eurogamer.net",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YNWR5c1BLZ2otVjRPVTJGQmFnbUFuOG0tRFhYdTYyMjhKdTJtdi16UnhqOUFVMGdPRF8zZGZtcEFhUG9FQ3RmNUpoUzFNTERwZmtjaDdjWVNrelY3UG9iRHZDVHhReXRrbWhPMGFsVlF2TV9mS3Jjcg?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794947223144
-    },
-    {
-      "id": "news_BUSINESS_Nikelaysoutfinancialgoalsaheadoffirstinv",
-      "title": "Nike lays out financial goals ahead of first investor day in 9 years - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SS3JxeW90T240aEQ1WW5aWFk3M1NDeWhfb0tfTmNraGwwNE1rOExjOXByREE5cjBLS3ptWDZkRXRjbjNXVnR2ZUppRTRiaXhqTVpZbFRzRnhjQzI3NHlyUUo4VjJJamFDZ2RpU2dCTzE3MldfWmfSAXtBVV95cUxObjVfOW9nalRJSExPdmJEb2szZFJydVRpQ0ozVkwwbG9YNHNiUzhJbWhDUFpRUi13YzhGaGRZYmRpQ0duM0RWZ1RneWpYUzNxREQ2RUZLb2dLMmUzZlFOYmJzektMMFZzRV9VaU9vSG1DSVIzV3JYdGViUWs?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794947222438
-    },
-    {
-      "id": "news_BUSINESS_TrumpsNewAIChipRulesRattleSoutheastAsiaT",
-      "title": "Trump’s New A.I. Chip Rules Rattle Southeast Asia - The New York Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdm1wQ21sa3dTMllldzJUazl0dVVzN1pLd0p6UUk3cFJJT08tU29jalgxSFJpbmVnQ1ZLLW9Kcnd1cFI5SVNoSlRPdkZFMzM1T1hORzc5VVVPUDdTLWsyeUxZUTdLanAwMlNZRUFEdUQyWnVaaUNueUMtR0MtU2NHUmYwQ2E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794947222438
-    },
-    {
-      "id": "news_BUSINESS_KalshitakesdowncontroversialTrumpmention",
-      "title": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request - CNBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNzlabGl0UTl6T0hGcF8xMHQ5ZmRlaWpPUk1KV3AyeC1OZS1Bdm9MTC1XQk9aWHgwOWQtTTBqMjgxejhPU0JsOFZOMVVDQU0zMGxfZUNrWEprdGJHbkNscGhhOXl2U1UySVJucFBVNUZmVnRYNDZPcFR3N2hFWFZIWF930gGHAUFVX3lxTFBBbHA1dTZFeHJ5MFdOUVJQRWdzM0hEVU1rMjZMMzNFc2JSWWRmNEJlT1lHdC1iZmJKZEpYNjRQRzh1dDk1OGFRUExQZjUwNkM1ZUlVWnh5NFpnd09IWjdTSXdrdjZKdmZ2WmdtZW9SN2xaekRlTDJRel94U1BkWEx1M3lNUkRGYw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794947222438
-    },
-    {
-      "id": "news_NATION_TrumpsaysUStakingveryseriouslyanyIranian",
-      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51MFBvRkdVUGJFOWFoSTlkbk5WV29OOTc1X09HVFhYYlVxQ1o5LXlMem8zdHJNTDFqYjd3NDUteUtvUWZTT3BNMTFqcnE4dEkwMGFyVVhLS3liN2s?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1794947221747
     }
   ]
 }

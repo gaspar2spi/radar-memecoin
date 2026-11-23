@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T03:12:13.158468+00:00",
+  "updated_at": "2026-11-23T12:37:35.018267+00:00",
   "signals": [
     {
       "id": "news_gaming leak_GTAVILeakvsLaunch99MetacriticAfter4Years",
@@ -1487,6 +1487,17 @@
       "ts": 1788339079251
     },
     {
+      "id": "news_memecoin launch_TrumpHostsFullyPackedGalaDinnerforTopMem",
+      "title": "Trump Hosts ‘Fully Packed’ Gala Dinner for Top Memecoin Holders, Kevin O’Leary Joins — TRUMP Sinks 98% Si - Benzinga",
+      "cat": "macro",
+      "heat": 9,
+      "desc": "Actu détectée (memecoin launch). figure tier-10 (trump) mentionnée; référence directe à un token/ticker.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaXQwaEdrSHNrUC1uRkJwQ2FCNUdOS250LUd4QUt4eHlyLW9IVVFuaWtLU3Y0cE8wb0pBUEpKZWZ5RXlsVmprendFUTZ4a0U2eHVtRi11QmxQbUpHaXEwUGlFc3dqTml4VmhzTDNTSGM0N3IzSktwNDRMSmRXVFROQ25RRFhIQTJicHFxOGc3R1dSUzk5Y292MS0zMDVUZDJTTlpQakpOakl3VGVtMVc5Sw?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437424446
+    },
+    {
       "id": "news_memecoin launch_WatchdogOfficialsConsideredInvestigating",
       "title": "Watchdog Officials Considered Investigating Trump’s Memecoin, Then Punted - The New York Times",
       "cat": "macro",
@@ -1980,6 +1991,204 @@
       "ticker": "",
       "source": "news",
       "ts": 1788339084123
+    },
+    {
+      "id": "news_tech ceo controversy_Howatechbillionairephilanthropistgotcaug",
+      "title": "How a tech billionaire philanthropist got caught between Trump and San Francisco - The Washington Post",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (tech ceo controversy). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYlZOSFBwa1RXTXNMV3c0RVBPVWFXTTV1Q2JJMFNWVVlLSDlzVUtnNEd5RmptbHpacGRjZ2ZObTNXS3JFVFdFQUsxdmFGbkVKUFprZFNwejB1SDNBOE1nN1ZYenFoN3hMWk1ONmJGU0JlVlFQT2ttbnRybFkyem5IRGxSLXR0YUY5aUxJTDJQc21DenZPbzB3?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437436625
+    },
+    {
+      "id": "news_viral scandal internet_TheTrumpCardReactionsandviralmemestoFIFA",
+      "title": "'The Trump Card': Reactions and viral memes to FIFA’s controversial US red card reversal - Euronews.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (viral scandal internet). figure tier-10 (trump) mentionnée; mots-clés viraux: viral.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSG02cmhONVA3TXEyWVVwcGloYnJ4NTBmaVBmV3VieWsxR2lEemVaeW9wMkdUVmU4WmtZQVZhQ2lhR1NIT1NyMWN4V0dKb204M2NjWmRla0lreWlLZUlJRENsVW5ZN2t4Um51VnhUVTYybDFXbXRVZTlDNEhlT0Z2MkxTU2t6S2MzMnA1WjJuRlFlOUNob0dCY3gzSXUtX05Bc2FzWDd6X2NtVURkb1pjVVRpYVgyclA4YU5tOQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437430023
+    },
+    {
+      "id": "news_HEALTH_Commonmedicationsmaysecretlyrewireyourgu",
+      "title": "Common medications may secretly rewire your gut, with effects lasting for years - ScienceDaily",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UUXBFeXRFWDdlM0VENVEyV3gzSGVCRzRnZVZOU29HalNtX2ZFWmZZTkR6R0JqbkNndTJhNm5lTHNFZVNHUE5wdFI2SzVLcDV5TVlONVYzNzJsYmVHRUhKZW0zNFJVOUFRbXVsUGZxWQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437423466
+    },
+    {
+      "id": "news_HEALTH_IwaswillingtotryanythingNHmothersetsreco",
+      "title": "'I was willing to try anything': NH mother sets record for living year with pig kidney transplant - WMUR",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (HEALTH). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeF83Wmx1RzFPTXcwZkx3cDRjTUt0NG5fX01wWE5JVkZQWEdjQzJtR2RERW5NWWxOSHhnTXBTYk5uNXY0NlVWbUN1YTZqOUR6ZGxuZlBHUkFvemtmazZhMUhjRU9rbXpIejBaa1BfbENqeUdIR2lHTHZ6RDNnZmNyd3hWWUZRc3hNNHFWUGc4WTJQc2xZZkE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437423466
+    },
+    {
+      "id": "news_SCIENCE_Hiddenfor100millionyearsXraysrevealananc",
+      "title": "Hidden for 100 million years: X-rays reveal an ancient flower from the age of dinosaurs - Phys.org",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yVTk5ZWRZTWs0eENlamF0bE54TnlJTG5VUlRUWWp2NVNBaEp0ZURoNVV2SWw0bkZvdzUwNU82Y0xubjhIM0FWYjQ0LXpRclRiRlNQeDJnVl9zdFRBVzlRVElwQWtpYVZGdzhWbFJYbEVLWFhkalE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437422770
+    },
+    {
+      "id": "news_SCIENCE_6millionyearoldwhalemayhavehadthemostasy",
+      "title": "6-million-year-old whale may have had the most asymmetrical face ever seen in mammals - Yahoo",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN014UWV5QjV5SDFRVUczQW5PTGVfdDVLZmtCOWJpTVNfbVhzSVQwZnhMSUh6UHFVRjdacjBtM3hCN1Vmb2xjZ0VnN0p4TVZQTXBnRnBTRGtINGN1UEVjYVpLemRMZDVBbm5fbzJGbjRhMkdHc3FLLTM1ZFNHOTBrTTBuT1dFQWVuQUE?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437422770
+    },
+    {
+      "id": "news_SPORTS_YestheBucsarebackinlastplaceAndeventhepl",
+      "title": "Yes, the Bucs are back in last place. And even the players are annoyed - Tampa Bay Times",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbG01TnhFelhJMU1JYlY3MXJGMUFtckJwQzZGYkFpN2xCNGpuc1MzbjhfSEZ4dXAwVUZUUDYwMlZIdUFTdmlCaGJPZTR6UGJvNXhWQ0NpamZ2eEpJVHB0cjdXd3BvUXh5YUxSMGM3eWJYaW5saS16Zklya1Ytc2dtYk1lOFJyZGZxVXBzUmJWSWxPUFVQdHk4UzZsbUFDNmN2dEFkYQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437421989
+    },
+    {
+      "id": "news_TECHNOLOGY_GalaxyS27Ultrabuyersreportedlyneedthe512",
+      "title": "Galaxy S27 Ultra buyers reportedly need the 512 GB model or higher for faster RAM and storage - Notebookcheck",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée; mots-clés viraux: rage.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWNaYXNRUmZibXNOS2ZTci15V0ZldW9qVXpCbFBNV3BtRElJekNGNnFZbEpJLThEb1BGN1hlRzdCNXNhNWJzUmZZVk5NV094NHdYeWI5dnp3bkJnTmNZTklvWno3NWs3ZmdSVUVUUmtGVDN5WWNRNF9fX0lfWXdjLWtZX1AwN1lYTkhTZldSUG9nMnphVm1YUGlBLTE2bGVzRlJSN2ZodEd4QUQ2TWFTWmQtcW0xaG9qNmZLbEFOclNGMVZRMEg1bko5QjIwRlp0bFE3QQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437420593
+    },
+    {
+      "id": "news_TECHNOLOGY_NonewGalaxyWatchin2027asSamsungeyesatwoy",
+      "title": "No new Galaxy Watch in 2027 as Samsung eyes a two-year cycle for smartwatches - Digital Trends",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (TECHNOLOGY). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYlE3VVJFVmwxM1h4RldlUmV2VFV6TUd1ekR2U20xcVVCVU8zdmFpaGZRbHQ2UHNXeHRCcC1ReUhPaHFFSkhWekl0RUFydEpGY2FfdUNRSUFRVmpudmUxWE1mcTE4SDE1amE2UDNhbWM5eXlpSDFmTjhVM1I2bU1wSEY5THJQZzMwb05GdHZFdGVTTWg5MkpDYzl0Q2hsQTNpdkgtR1IwcUw2Mzhad2phZnk1cmVaYkNicjlveDhrSHVZYmVZc3c?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437420593
+    },
+    {
+      "id": "news_BUSINESS_Trumphostsprivatedinnerforlargestownerso",
+      "title": "Trump hosts private dinner for largest owners of his meme coin - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXVidE4wWjBSODFQSG5weXZmek5Nb3c2YnNHZEUzb21yMjhNZkhKeFJqeDBHVzNJd2VFTDJnNHJZZndYeFhnRXo1dGYwRHBlZlBCUmg5a1Buc0kzQnVlVEQwVk1rS3hIOHZKZ0dFTG84VXBIV29qQ0hBSFpOWTl5MWRxQ0pKdk9qbnFDbzdLaXkyMV9FTi1SYmJzZnkwcndpZ2dFeGJ3WXA2d9IBrwFBVV95cUxOY0NnVnZEaGVETUk3NEJPT0NSU0w2bUpseXF0ZVpwR1NDYW5BZ2NYN19YLWxPdkt3U190VTBMR3VOSWJNSXFVQkhjRjBpMm1iUEc2ZkxwWWJrb0puMzhxVV9OZlpHZUR0bjlyNGJmRVI3bFI5U2tGTkdpNk9oSnBlSC1sZ19LY2Y4d0h6WDJueTVBVzh5VFZrWHZYcTlzNWlFN0hVZFJldkI4NmVlSjFF?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437419896
+    },
+    {
+      "id": "news_BUSINESS_TrumpdoublesdownoncallforNvidiatorehireJ",
+      "title": "Trump doubles down on call for Nvidia to rehire Jensen Huang amid alleged Chinese spy scandal - Fox Business",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (BUSINESS). figure tier-10 (trump) mentionnée; mots-clés viraux: scandal.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONFJrVGN5d3FSZlNoRDBkX29hc0tMNG5EaHAzenpHMnJ0QnVpemQwY3ZHRkJTU2NoU0Vzd2tpR0ZndU9QcWw3cDd1aV9GZ3R3djQ4c0hYbkduSWNDdG1ZTklzRlJHUTh4RkR2Y1hicUZHUXVCcGJZbURSLW9BVUVCTXVocEFxWUdxWWNZUmUxV3p0eWlGTlNlZlpJcW1iOXNDTXRFaEZhaUtWblJjS0t3NXhkMGJaeWJqZ1hFeNIBwgFBVV95cUxNYlZiaHhyS1Vqbnk5YlZVZWNxUm1UaFNCc0FYTXE4dTJqMktQZVN0UjBHYnlabXFRd0ZTSWwwenV1YmdVU1BGYzVvLTJpd2lWQ3Y1MmtKMDNtQWl3VEUxb2F3T24wY2tfYmVHZjNXQlF4N0JrQmJWTXVFMnlZRVJFQTBDcnJlZjI0ZVg3V2t3NnNaSEJGdzVPN1NxdnhFXzY2b3VVbWlxOHJDTXNVa1JWQks5LWFoWW5zZ2ozbVFEWl93QQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437419896
+    },
+    {
+      "id": "news_NATION_USintelligencechiefdefendsTrumpscomments",
+      "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’ - Al Jazeera",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOWJmUFZCYnNmSkFJV1oydnQ0LWpoTGN0TnpRUU1mTnVIWjNvc0dBM2JjeV9oNEcyQlZjNEdVNU5xalozblNheWJVOEdZRmg0amdySG1VNmRkVF9CNDlqTnJKZlViTFo5ekdkUWJzRWs1bnl0MG1uWkpZbEFpZDBfUWw1dk5JRWQ4VkRKMzRfS3BidjlxX2g4Uk9pWmlTY2ZtM1pvWDlGNnHSAa4BQVVfeXFMTTNCT3BmMFJCbnB6NXh1ZkZfY1ZkVjNLMmlkWUh4bGdySTZ2bUJzT2FXQlVFM2t6anVQYlNOMzkzSDdCZGpad0FQMWVTbFB6U1Qxb2lqV0lIeVVSRk9lLXVRSkFZQnc2ZzEydDAzaEZkM1h5Z3hVMld1UG05bGVNaFhRXy1ZUm5uMDZvQXpVbzJ0X1JOMjJPZGpINTVObTl4SW42UGpYbHRFTGxxQWNn?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437419206
+    },
+    {
+      "id": "news_NATION_LiveUpdatesIransaysitwilluseallmeanstoen",
+      "title": "Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks - CBS News",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUlsRWg2Szd1Z3JjWkRCcFVMdTh1cDhrT0lxUEZ0UXRHVjZ5QWJaSWRFVmxfT2Nlcnp5UjZPOG9MaFE0SmZ5UndIejdacWRYT3hGVHZiNVQ1a1lOa0tUZVdjRm1rVDZkMWRPTWd2R0JLamZfYm1lcEREbE12ajRCNTZSdERlMFpObDVFSkowV2h3THRkdlFoMUxR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437419206
+    },
+    {
+      "id": "news_NATION_AbdulElSayeddoublesdownonTrumpCarehealth",
+      "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’ - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUlAxVTVQRk5HQXVjWTBXcHdSYlQteFkzWjlkYWY1SUg3ZDZySW12ZHdpblE2REFmZWZnbndINlFuWElzODlpcVNqcFd6Q29vWkxaR2ROV0RvejRPZ21xaTNBNFVZbHFDQTJkWWJOWTVPcXB5VjhSc0hiZ2xpNVluTkJwQ0o4UWF2TDJqODRqRjg5bVRkMzNMM1VR?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437419206
+    },
+    {
+      "id": "news_NATION_Amtraktrainderailsaftercollidingwith18wh",
+      "title": "Amtrak train derails after colliding with 18-wheeler in Lafayette - KLFY.com",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjRjU1dKbkdISGc4blZVT0ZpbDhtS052bE9VV3pnOHI1RlMxcWprR0xVd2YweXF2Ukl1czVpbUxEV05PNkRuM2dsTkpNbi1rNkZkb2pFazdhTzdnM2RiMmtrbjJOU2Zsc0xwaDdsNDJCWVllODdmdDlJbi13NUwtSDFTONIBiAFBVV95cUxOa3NwdXczZDFOeklSUGJtNXl1YlFDRkFMU3BDSXlZSVh5RERXT3lBZGxEOEVfNVU0ZFViamJkaHBFWVJHOC1uT18ycDk5b0RIbmJ6ZzdSQ1BxYTRWNldHc2JyRDhVV0RVbUNwS2pDd3ZfY3ZJUmU2ZUpsRkh1YzV2UmZnZWl5dnFW?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437419206
+    },
+    {
+      "id": "news_NATION_Trumpstopintelligenceofficialisalsotakin",
+      "title": "Trump's top intelligence official is also taking charge of cyber policy - Axios",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0RRd3NmeHVWMUg2Rjd5UVlYcE1rbEREUVlzcWRqQ01JZFNibGRkUkdacm5Ea1lPNDhzUXZWRUdSWkxIZzU2QjVQV2tab3VkSTNIV2YzLXVwYV9oQWFDN25DYV9aTEI0YmpfV3VYRFVXZVNWOVFGNXVwb1JoRDRCNQ?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437419206
+    },
+    {
+      "id": "news_NATION_TrumpadministrationdeportedUScitizentoMe",
+      "title": "Trump administration deported US citizen to Mexico, DoJ admits in court - The Guardian",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3BSN3dxZkVHUm5oWTVBYk9taGNRcGFFT1l5OExsWkxiWXNuc0prSG96VFo5dUpVZGx4eWRmNEszMHJWSlFCYmFHSFlTU3VGb0F2ZWZ4c0Y1ejNyOHRpSkNJRkxEdm1JNXNqWU92SFJ3QkVwMEtoQmM0R2ZfejRQTE1sN1pHelE1c3FtdFN0TUlFSHN4R2pV?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437419206
+    },
+    {
+      "id": "news_WORLD_YemensHouthisclaimattacksonSaudioilrefin",
+      "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year - CNBC",
+      "cat": "macro",
+      "heat": 8,
+      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée; figure tier-10 (ye) mentionnée.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YeVVuSzlMa1Vza0JNYXpXbGw2emp5RndTVHplTzB1QllobEw0SW5Dc3VyTFhwMFJnMkpRSEJEZnhPOFFZYWZhckZXaUlKdTZPRzNyOGNzLWp0YUZDOHM4N0xZQWZHVm9zOHRPbXp1a040YUHSAXhBVV95cUxNcG02RV9VeGk3SG90SjhQdWEyTGd3RVdNRmw4YkZreEZmY2JHUU5nVGNBQklaSmFES0ppelA3UmZFVFVUdVF0RzlzdVBtWWF1emF1U3o1N0x4T25VRDVTMS1Od3BWZnhTVERFN0hJd1Bud1hHdkk3MnA?oc=5",
+      "ticker": "",
+      "source": "news",
+      "ts": 1795437418230
     },
     {
       "id": "news_election crypto_TrumpBlamesMidtermsforFallingStocksThenT",
@@ -5291,215 +5500,6 @@
       "ticker": "",
       "source": "news",
       "ts": 1795077706748
-    },
-    {
-      "id": "news_NATION_ElonMusksayshefeelsfoolishfordonatingnea",
-      "title": "Elon Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans - Financial Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (elon musk) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRklYSC12UEhQUHpzZG1uNHNUaHNpSkhJbU9TaVlGUGp2cUlaR3dmOTFjaVRiYXJpbncxamtQQ0ZGSnhBTDdDS1VjSG11Y1FBTHM3MEZaZEQyRXMzOHFvVTJQSGxZbHhWZnpGb3Uwa2ZtQThtYXpLN09qRGotVTEwN0M2OUU?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795077706747
-    },
-    {
-      "id": "news_NATION_Democratsflipped9USSenateseatsthemostina",
-      "title": "Democrats flipped 9 U.S. Senate seats — the most in almost 70 years - PBS",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmV2SmVvV1YzVTZpQW5ZbHNhZjQ1blUwWUJQamJsRDVFcmh4aDkxd1RIVmtnZ2FvNzZHdXpqMGFTX09fcTExcVg4LU1KckNvaUJsWGZWLW9ybnJEUzI0ejZCYzlNbVdJaXcwOERoRDRoNUFSdHpMeDQ4Wkl1WURzUk9wRlJkQ09jQm9KSVRSQURYMkVFYUpWY1FUMFBsbUNkM0VN0gGoAUFVX3lxTFB3VURjSDZpYzlUZ2JUUldDb1ZFQWV1MzJtUkM3YkdKRDFhTy1yUDg2RjBhUWR6bU96Z3ZzZFFKT3RLdDVpRW84RGtaeEJWclE3b19LVE9kUUpveENNMHk2VGxUdkF1a0lXUWJEeUhUN0dMUXJ5al8tTnpnTTNVTVpIVGlKaVpJMV8zNXN5Yk5rTDV2SGtKT19QNFhyNVdtU1FSbEJqWHV5eA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795077706747
-    },
-    {
-      "id": "news_NATION_CornynblocksTrumpsnominationtofederaldis",
-      "title": "Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5raTJreThiUkNqVXNrSTM5WE4zVE9SX2llZG4wbDJicmJEMUdvWDkxbDBUYkZyTDF6QUM3d3RJanEzR3N2V1hiYnVhUVlfLTNGcWhweHhXRk95QTNrellreG54RHgzVjB4T2pJcG1DdUFuNDhDdTB4eTFrMjZrX2PSAYQBQVVfeXFMTnV2ajlQcm9ac3hGQzZ5aDFEb2hJa0tFWDNpS1dGbTlQdmRzVWhqU0I4WHhFOEozZkZBX3hXUGxYNlk2SmxXQ2FqNVdyZU8tbG5BOEgweGRVTG0tZkltcUUwdnl1b1hiamRmNlpZNndwMmVKanh4VnF3cjhvUENKOVh0T3JR?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795077706747
-    },
-    {
-      "id": "news_NATION_TrumpsayswellwipethemoutifIrandirtybombs",
-      "title": "Trump says ‘we’ll wipe them out’ if Iran dirty bombs US - The Hill",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbGlSVUlUMzhEWmk2ZGtXc04xNmlEdGlXY0VDQjBjVmVWa0o0NUpKdFBhZWVOeDg0S0tqcU1LZ0RjeF9vNjRMVFBXcEZYLUdXSS1oaUZKalRCOXI2XzI0SWs4MjN4QUZBTTFRdFBkaW9uSWZCZV9XYnRzcmYxWUx4azVXUExfWWFhUXpjbFFZaWJRV1lnaXdHa0l1UXVEX3JTSlBCMG5GajPSAa4BQVVfeXFMTldPa0xNWUVEd3Q2MzZ5cTBtVnJybXlXODZNdktqamw1aWVCOWFuazdMRlJUSXFNZXk1ZnBrVzFJMVlOamRRWmZNZHNaaUJ2MWVNcVNnOVZhV3RacXhQVC0wRHFRcV9yci0ycHBZX2FKX0lQREx2dTNTamJTdzlmQktYc0xFRFFaZTRCdlAycWc0c1pHbFJzV3hyUVBrem04Y2VQc01TdXN6SUZWTmhB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795077706747
-    },
-    {
-      "id": "news_NATION_LeadingHouseDemocrattargetsTrumpsinnerci",
-      "title": "Leading House Democrat targets Trump’s inner circle for first investigations - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (NATION). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX0ozZTJwRFgzZXh0bjNoUHdyNFZGOXE4TFJ0aU9yOE9HZ0hfSnpHaE1oaW8zcE1qeE81UWZaYjVCX0ZOX1UzaXZXTkpOQmljSHE1NExfdDRqTFZYUWZUTDluRU1xcGtLT3NZRzk0U19kTUhKcTlzT3dkaG8tRjVxMnpoakRYaWxZVUhZdEpTU0JHY2Z6Y1JEdVJqR1ZDRTJsTEZIQ25VaWI0SVY0SjFBN1U2X3VDYW0wNWZVdkNFVko?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795077706747
-    },
-    {
-      "id": "news_WORLD_TrumpcallsPutinhisfriendastheybeginhisto",
-      "title": "Trump calls Putin his 'friend' as they begin historic talks with Xi in China - BBC",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JaDV1Q0dGNjZ3bW8xZEFsR3hsRzFlb1dFUGFoUFlxejBDaUNyeHZqRnpyZkRTTkhHSWFNU2IxeWhoV0M0c1p5ZEcyMmRFMmpJb2R2TmxB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795077705560
-    },
-    {
-      "id": "news_WORLD_IsraelitankscrossyellowlineboundaryintoH",
-      "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT3dEX09BWVR0NUZGYTNZNXNvYl85V1JfbDdYZzk5SDZ1OUVpTDN5SS1RaXZRMWNmNTNsM0VzeHFsMUtORTlyZ2xIVE1pS0RDVE9yQVVTMVhrTUJmNFFHcllVRk5ucTVfci1hV3FHakFhWlVZUm14MXctelI3aTdHVTg4TXpjcWZteHl0WkFiQzR4Zmg1eTRYcTE4YWN2UHJmZVp4cVYza2U4dlpsNW84N0JkQlVFMzNwRklnLXJB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795077705560
-    },
-    {
-      "id": "news_WORLD_TrumparrivesinShenzhenChinawhereXiJinpin",
-      "title": "Trump arrives in Shenzhen, China, where Xi Jinping’s family history runs deep - The Washington Post",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée; figure tier-10 (xi jinping) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHhIQXJqQW5hSDdiaHBPQWpvR1NTeUU5aXQ0TTlmR09DMVpCU01VMTl4R3ZxREFYNGpPTDNfYjczMFlKb1MxVVdjRTVaM1NzMjBnWW9wcDFQamY0TkJtTEFLdHdIRGp5emtHWUVIelZONzRoMHZHN0ZRZDdNTXpqTEgtWGxmbUNlOU5rQlh0WDNtd0JIV1dHc01kQmFXRlBaWlBqMjJpNHRrWFV2aUdzMGtHcVExRFFnMC1MNA?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795077705560
-    },
-    {
-      "id": "news_WORLD_TrumpweighsstrikesonIranasIsraelwarnsofc",
-      "title": "Trump weighs strikes on Iran as Israel warns of chemical weapons - Axios",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (WORLD). figure tier-10 (trump) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVhsMGFnUEhueFlmbkpjTEdvbU1LVkxiUk8wVzhQMUZ2QlNfYUo2Nmh4N3dVSzI5ZXByTHpmdU9FNE9HaTloeTBGQU51cHNEbkZ0VEZJZFgxVWdoMFJKdDJkQk00a0Q0VXJlRmQ0RlJKX2RBalV4cy1ZaVVkeFE3bQ?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795077705560
-    },
-    {
-      "id": "news_SCIENCE_Voyager1reachesamilestonenearly50yearsin",
-      "title": "Voyager 1 reaches a milestone nearly 50 years in the making: One light-day from Earth - WRAL",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ub1c3YzdLRHItTVVjQnNPSDNxZmV4M09hemJodjFNcTJZRlNsTzJvYWZ6UGhLU1BEWncwM3drWXk2d21RbThxX2tLT1BIWG53ZG5ELVRFU3RaUldKeEZZQmFoMkEyT0U?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795050293422
-    },
-    {
-      "id": "news_SCIENCE_Earthismissingoverabillionyearsofgeologi",
-      "title": "Earth is missing over a billion years of geological history. Scientists may have discovered why - Space",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMDlwRVBSYUZvNDlOd1NLamh0Z3lHXzM5NmJYOHQ3aHdTbGhrdkdJc1BOYm5VWUZrXzBBVkt3VUNybm1TRXI2RDBoQlpBaGJockFzTkVXdU1vY0NxWFdPa1pvd1VBTmpKdDd0TWZkRlhnMHRQNU5nZE9lR2FQdnRkZ3hQMmx4ZGREb0loMnMzd3E0OXp5VEVnQWVtMEdqZWVVSWFrWlhuWVFtdDVSRjg5Y2xMSmlsUWh6SzF6cnVCRTg5MmJEeG81MXYybXE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795050293422
-    },
-    {
-      "id": "news_SCIENCE_125000yearoldstonepointsdiscoveredinSaud",
-      "title": "125,000-year-old stone points discovered in Saudi Arabia may be world’s oldest poisoned weapons - Yahoo",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SCIENCE). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0NJbHBocnFMRnRQUC1fSVpoNWNEbVlETnBNeGI5eUFmQUtQd2xncVBWWVZqeWZFcTAtc0VoY2RuMEtHeUlMa2xkWlhFR1RTTU5DS2E4c0RRdW1KNmw2djBMZE5DSFNORjRwVXAxQmczSWFSNElvc2J1Q0pLcEZ3MFJXbTM1TVF4VmRB?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795050293422
-    },
-    {
-      "id": "news_SPORTS_HoustonknocksofftoprankedFloridatoreachP",
-      "title": "Houston knocks off top-ranked Florida to reach Players Era 8 championship, avenge 2025 title loss - Yahoo Sports",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNZDNBRlpTdEd2SDVXQkNrYnRscGI1LTdVc2tFQU1QNEdCbGZZa2kxQ1lTUXpTREQySlE1Q2xudDRuNWVwRzhLTTh6emRXU0JHVHFyZkdVaHluRlJtc0dLUWJRUE1YS0ZxWVhha1dkbkM3TTdyXzNPbVpNVEtoRmt1RkIxZDUzc3F5bEpHa1dDbDZtUEpkNk9zWlBha2trQU9HYXlFY3R6S0VYbFhZOXludVdOalJsSjU1ZlhsYVdUeEwzNXdWbF9SY2FSMURCTGx5Y3IxSmRrS2FPTXlHc21sRmdqNkRvOVBId1BwOXppbHNBblh6dTI0WnhqOHg1dnZSV1RRZ004R2htaUp5bmFj?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795050292660
-    },
-    {
-      "id": "news_SPORTS_BengalsJoeBurrowLionsJahmyrGibbshighligh",
-      "title": "Bengals' Joe Burrow, Lions' Jahmyr Gibbs highlight Players of the Week - NFL.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZzBDWUowYmxYa0tFZUhsbUphSF9mYm4wdXkwMzZDczdKOF9fNU12dnF3YktieVdhMV9Kc0paRlBhTWNQbHNjR1h4MkNDSDF2bUdYb1lpZG5meUtYa016c2t6UjRCOTdxOFlIcEpNY0FnaUpXRW9sc05Eek5EakxXRkw3QkhkOGpP?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795050292660
-    },
-    {
-      "id": "news_SPORTS_USWNTsquadEmmaHayesnamesveterangroupforC",
-      "title": "USWNT squad: Emma Hayes names veteran group for Concacaf championship and World Cup qualifier - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZG5KVzk5czljWTNoeWVRYUdobHA0a0VYV3lxUGpSR0N0RUlKQ19GYm54cVZuSDRIQ0ZzVUt0ZHlnYlhtdllLMnpZbUdpWXRsXzhseXd4M1pKSTUyZ1Uxa3lJdzItZFJscnlqSnJFdTV6cUVhWkZPT0lORDN2SUp2eUJUVUphOEx6dDNkNURQSGZ0YVpTYVI1S0pvTV9nV3VKc2JuSDN1bw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795050292660
-    },
-    {
-      "id": "news_SPORTS_EmmaHayestoassistinUSSoccerhiringprocess",
-      "title": "Emma Hayes to assist in US Soccer hiring process for next USMNT coach - The Guardian",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjg0bThGbzBXSFNLLU5YbENLbHdzUHBrMklPRUF5VTNmNnFaTVJYbGpfVHhtQ1RhTnE3Y2RvYldZX2lKdUEwUy1wTzZ5ampjUVRQZlg5UnhJSlpKdG9sTFdSRG9taVUweE1jSUxkY19fZEp4bjVzOHBDVDAtRkR6cnZfZXJWSWtzZG0zcDJvUE5zbC1wc1E?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795050292660
-    },
-    {
-      "id": "news_SPORTS_FederaljudgeblastsLSUlawyersformaligning",
-      "title": "Federal judge blasts LSU lawyers for ‘maligning’ SEC: ‘Put your press releases down’ - AL.com",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (SPORTS). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVzM4WFVHQV9tVXBCdmhfcXAtLUpRaHJ2VDBDWEZWQ1F6SVZydk4xMmJuUTJCaDdRdExiTGtXUXROajVIRmhrdmtLQ19Tc2VIekd1b0s3YnZwMGl3Y2xvV1dSMnlRZmpPYjUxM21kN0d0UFpSQjFpTGlJU3NIWkU4dm9VYVZHb1ZpX1V5T1lualJ3a0xqMWFicGUtMUVabWdGZ3ZkY2diSlQwLVBqX3E0NUVMcE5hdw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795050292660
-    },
-    {
-      "id": "news_ENTERTAINMENT_RyanAdams52isengagedto22yearoldgirlfrien",
-      "title": "Ryan Adams, 52, is engaged to 22-year-old girlfriend after six months of dating - Los Angeles Times",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMFc4UVYxYVo2LUVNRy04MW1NSk91VEs3dnlCYTBuMmY3dUNOenF3YjNQLXY4bmxyOVVhWkdCMGg0SkZkYXBkUXV5UEpFRXBxSXNUbTMwY0huTm9mZDEtc0p5em9kMkpFazZsd2NuYm9xbXU1dXRnVzhSZnlCSXF2cWRCSVVEY0lJZDlaaVFRNmM3cHEzNk13RzF2SUIxZ05FLTBVSjhzMng1N2FwU3BaVw?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795050291946
-    },
-    {
-      "id": "news_ENTERTAINMENT_ExclusiveBackstreetBoysAJMcLeanreconcile",
-      "title": "Exclusive | Backstreet Boys' AJ McLean reconciles with estranged wife nearly 2 years after divorce announcement - Page Six",
-      "cat": "macro",
-      "heat": 8,
-      "desc": "Actu détectée (ENTERTAINMENT). figure tier-10 (ye) mentionnée.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZVpfQjV5RDJEZDVybmFhWFVFcENfVHpQcE5UUUdyaEh5aDA1R0szVk1wRHNNM1JEbF94SzN0cG11cXFxNDBjR1BiQ2lMOGpUQm9KR0tZVnZYMnJObE96YXBacGw4MUI2YnJYS3RyQk5pNGo3WWE0bmJ0bG81SGVnTFRkX01heWhRcGFtVFRTSUZ2V1J0TGM1WkRVZl9WNG1MZ0xwY2ZZOWdhVDFNVjIwbVgwQUpxd09hSW4xX1hENzE3OEQzSXFYN2JoMGZjd1J2SUUzVWNGZ2duNkdaUVE?oc=5",
-      "ticker": "",
-      "source": "news",
-      "ts": 1795050291946
     }
   ]
 }
